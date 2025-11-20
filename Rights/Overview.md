@@ -2,7 +2,7 @@
 title: Disability Rights Overview
 description: 
 published: true
-date: 2025-11-20T17:40:47.562Z
+date: 2025-11-20T17:43:23.074Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-17T01:21:36.947Z

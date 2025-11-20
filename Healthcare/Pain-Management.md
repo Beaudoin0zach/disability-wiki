@@ -2,7 +2,7 @@
 title: Pain Management
 description: 
 published: true
-date: 2025-11-20T17:40:12.231Z
+date: 2025-11-20T17:42:47.864Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-19T00:48:17.628Z
