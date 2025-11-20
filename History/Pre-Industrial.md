@@ -2,7 +2,7 @@
 title: Pre-Industrial Disability
 description: 
 published: true
-date: 2025-11-18T17:31:02.925Z
+date: 2025-11-20T17:40:32.621Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T17:30:57.332Z

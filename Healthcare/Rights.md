@@ -2,7 +2,7 @@
 title: Patient Rights
 description: 
 published: true
-date: 2025-11-19T00:45:29.166Z
+date: 2025-11-20T17:40:17.315Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-19T00:45:24.732Z

@@ -2,7 +2,7 @@
 title: Hosting Accessible Events
 description: 
 published: true
-date: 2025-11-17T00:22:18.668Z
+date: 2025-11-20T17:39:25.274Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-17T00:22:14.389Z
