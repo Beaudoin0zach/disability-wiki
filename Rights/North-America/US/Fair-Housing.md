@@ -2,7 +2,7 @@
 title: Fair Housing Act
 description: 
 published: true
-date: 2025-11-17T01:24:43.176Z
+date: 2025-11-20T17:46:41.806Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-17T01:24:39.224Z

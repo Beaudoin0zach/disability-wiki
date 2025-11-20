@@ -2,7 +2,7 @@
 title: Americans with Disabilties Act (ADA)
 description: 
 published: true
-date: 2025-11-17T01:22:58.554Z
+date: 2025-11-20T17:46:37.577Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-17T01:22:54.384Z
