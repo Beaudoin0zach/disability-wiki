@@ -1,5 +1,11 @@
 ---
 title: uiunudueux
+description: 
+published: true
+date: 2025-11-20T18:45:59.789Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-20T18:45:52.163Z
 ---
 
 # uiunudueux

@@ -2,6 +2,16 @@
 title: Assistive Tech Funding: Paying for Equipment and Devices
 description: 
 published: true
+date: 2025-11-20T18:22:17.859Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-19T00:47:49.222Z
+---
+
+---
+title: Assistive Tech Funding: Paying for Equipment and Devices
+description: 
+published: true
 date: 2025-11-20T17:45:25.703Z
 tags: 
 editor: markdown

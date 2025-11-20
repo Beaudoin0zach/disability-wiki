@@ -2,7 +2,7 @@
 title: Language and Terminology
 description: 
 published: true
-date: 2025-11-20T17:43:54.713Z
+date: 2025-11-20T18:45:12.767Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-16T20:15:42.071Z

@@ -2,7 +2,7 @@
 title: For Allies
 description: 
 published: true
-date: 2025-11-20T17:43:46.093Z
+date: 2025-11-20T18:44:54.030Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-16T20:25:20.847Z
