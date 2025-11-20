@@ -2,10 +2,10 @@
 title: Disability Wiki
 description: 
 published: true
-date: 2025-11-20T13:10:08.322Z
+date: 2025-11-16T20:01:07.692Z
 tags: 
 editor: markdown
-dateCreated: 2025-11-20T13:10:00.897Z
+dateCreated: 2025-11-16T19:40:51.556Z
 ---
 
 # DisabilityWiki: A Community-Built Disability Resource
