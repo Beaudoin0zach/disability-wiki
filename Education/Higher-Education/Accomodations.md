@@ -2,7 +2,7 @@
 title: Higher Education Accommodations
 description: 
 published: true
-date: 2025-11-20T18:22:07.751Z
+date: 2025-11-20T18:47:49.369Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-19T00:55:16.811Z
