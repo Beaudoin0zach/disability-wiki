@@ -1,7 +1,71 @@
 ---
-title: ueuduiutuouruiuaulu uguuuiudueuluiunueus
+title: Editorial & Style Guidelines
+description: 
+published: true
+date: 2025-11-21T18:12:55.996Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-20T19:01:15.781Z
 ---
 
-# ueuduiutuouruiuaulu uguuuiudueuluiunueus
+# Editorial & Style Guidelines
 
-_Stub page. This topic will be expanded with community contributions._
+This page outlines the editorial standards for content in this wiki. Following these guidelines helps us maintain a consistent, high-quality, inclusive resource.
+
+## Tone and Voice
+
+- Use **person-centred language** when referring to people with disabilities (unless the community prefers identity-first; check context).  
+- Write in **plain, clear language** — assume the reader may be new to the topic.  
+- Use **active voice** and **inclusive pronouns** (“they/them” acceptable) rather than assuming “he/she”.  
+- Avoid inspiration-porn tropes, stereotypes, pity or sensationalism.
+
+## Structure and Formatting
+
+- Each page should start with front-matter (`--- title: … ---`) and a main heading.  
+- Use headings (`#`, `##`, `###`) to structure content.  
+- Keep paragraphs short (2-5 sentences) for readability.  
+- Use bullet lists for key points, numbered lists for steps or processes.  
+- Where visuals are included, ensure alt text is provided.  
+- Internal links should reference other wiki pages using relative paths; external links should open in new tab/annotate when appropriate.
+
+## Accessibility & Inclusive Design
+
+- Ensure color contrast is sufficient for readability.  
+- Avoid relying on colour alone to convey meaning.  
+- Provide text alternatives for images, video captions, transcripts where applicable.  
+- Use meaningful link text (“Learn more about IEPs”) rather than “click here”.  
+- Avoid jargon or acronyms without explanation (link to [Acronyms](/glossary/acronyms) where relevant).  
+- Acknowledge that disabled users may use multiple assistive technologies — test where possible.
+
+## Citation & Sources
+
+- When referencing data or policy, cite the source using the [Citation Guide](/glossary/citation-guide).  
+- Prefer primary sources when available (e.g., government legislation, peer-reviewed studies).  
+- Provide date and region context for any policy or data (laws differ by country).  
+- When using images/graphics, verify licensing and provide credit.
+
+## Review & Updates
+
+- Content should be reviewed at least every **12 months** for accuracy (especially policy/legal content).  
+- When major laws, tech platforms, or guidelines change, update related pages and note the revision date.  
+- Use changelog comments in pull requests to note what was changed and why.
+
+## Collaboration Norms
+
+- Create branches for substantial edits and peer-review before merging.  
+- Encourage diverse voices and lived experience—especially from communities often under-represented.  
+- Be respectful of feedback and open to revisions.  
+- Flag content that might be controversial, regionally specific, or needing expert review.
+
+---
+
+### Key Terms for Editors
+
+| Term                 | Definition                                                                 |
+|----------------------|---------------------------------------------------------------------------|
+| Draft                 | A page that is visible but marked as needing review or expansion.          |
+| Stub                 | A minimal placeholder page aiming to be expanded later.                    |
+| Contributor           | Someone who submits content to the wiki, whether text, images or links.   |
+| Editor                | Someone who reviews, merges, and maintains wiki content.                   |
+
+Thank you for maintaining the quality and integrity of this space.
