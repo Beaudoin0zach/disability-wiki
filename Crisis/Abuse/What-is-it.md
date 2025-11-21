@@ -2,37 +2,7 @@
 title: Recognizing Abuse: A Guide for Disabled People
 description: 
 published: true
-date: 2025-11-20T18:47:21.994Z
-tags: 
-editor: markdown
-dateCreated: 2025-11-16T23:12:32.910Z
----
-
----
-title: Recognizing Abuse: A Guide for Disabled People
-description: 
-published: true
-date: 2025-11-20T18:21:52.435Z
-tags: 
-editor: markdown
-dateCreated: 2025-11-16T23:12:32.910Z
----
-
----
-title: Recognizing Abuse: A Guide for Disabled People
-description: 
-published: true
-date: 2025-11-20T17:45:00.535Z
-tags: 
-editor: markdown
-dateCreated: 2025-11-16T23:12:32.910Z
----
-
----
-title: Recognizing Abuse: A Guide for Disabled People
-description: 
-published: true
-date: 2025-11-16T23:12:37.774Z
+date: 2025-11-21T23:39:49.263Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-16T23:12:32.910Z
