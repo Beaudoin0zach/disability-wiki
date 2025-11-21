@@ -1,8 +1,8 @@
 ---
-title: Supplemental Security Income
+title: SSI – Supplemental Security Income (U.S.)
 description: 
 published: true
-date: 2025-11-20T18:45:58.455Z
+date: 2025-11-21T17:43:16.538Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-19T00:37:57.543Z
