@@ -1,7 +1,7 @@
 ---
-title: uruuuruaulu uduiusuaubuiuluiutuy
+title: Rural Disability
 ---
 
-# uruuuruaulu uduiusuaubuiuluiutuy
+# Rural Disability
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

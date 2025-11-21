@@ -1,7 +1,7 @@
 ---
-title: uaurucuhuiutueucutusu uaunudu udueusuiugunueurus
+title: Architects And Designers
 ---
 
-# uaurucuhuiutueucutusu uaunudu udueusuiugunueurus
+# Architects And Designers
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

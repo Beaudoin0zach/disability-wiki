@@ -1,7 +1,7 @@
 ---
-title: usutuuuduiueusu uaurucuhuiuvue
+title: Studies Archive
 ---
 
-# usutuuuduiueusu uaurucuhuiuvue
+# Studies Archive
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

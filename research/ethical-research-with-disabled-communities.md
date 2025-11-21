@@ -1,7 +1,7 @@
 ---
-title: ueutuhuiucuaulu urueusueuaurucuhu uwuiutuhu uduiusuaubulueudu ucuoumumuuunuiutuiueus
+title: Ethical Research With Disabled Communities
 ---
 
-# ueutuhuiucuaulu urueusueuaurucuhu uwuiutuhu uduiusuaubulueudu ucuoumumuuunuiutuiueus
+# Ethical Research With Disabled Communities
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

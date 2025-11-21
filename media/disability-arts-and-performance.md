@@ -1,7 +1,7 @@
 ---
-title: uduiusuaubuiuluiutuyu uaurutusu uaunudu upueurufuourumuaunucue
+title: Disability Arts And Performance
 ---
 
-# uduiusuaubuiuluiutuyu uaurutusu uaunudu upueurufuourumuaunucue
+# Disability Arts And Performance
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

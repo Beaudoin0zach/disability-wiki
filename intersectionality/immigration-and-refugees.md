@@ -1,7 +1,7 @@
 ---
-title: uiumumuiuguruautuiuounu uaunudu urueufuuugueueus
+title: Immigration And Refugees
 ---
 
-# uiumumuiuguruautuiuounu uaunudu urueufuuugueueus
+# Immigration And Refugees
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

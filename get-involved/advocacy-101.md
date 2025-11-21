@@ -1,7 +1,7 @@
 ---
-title: uauduvuoucuaucuyu u1u0u1
+title: Advocacy 101
 ---
 
-# uauduvuoucuaucuyu u1u0u1
+# Advocacy 101
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

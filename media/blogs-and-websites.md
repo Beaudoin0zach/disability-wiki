@@ -1,7 +1,7 @@
 ---
-title: ubuluougusu uaunudu uwueubusuiutueus
+title: Blogs And Websites
 ---
 
-# ubuluougusu uaunudu uwueubusuiutueus
+# Blogs And Websites
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

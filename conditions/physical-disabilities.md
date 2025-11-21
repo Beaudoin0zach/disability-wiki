@@ -1,7 +1,7 @@
 ---
-title: upuhuyusuiucuaulu uduiusuaubuiuluiutuiueus
+title: Physical Disabilities
 ---
 
-# upuhuyusuiucuaulu uduiusuaubuiuluiutuiueus
+# Physical Disabilities
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

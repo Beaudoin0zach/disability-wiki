@@ -1,7 +1,7 @@
 ---
-title: upuouvueurutuyu uaunudu uculuausus
+title: Poverty And Class
 ---
 
-# upuouvueurutuyu uaunudu uculuausus
+# Poverty And Class
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

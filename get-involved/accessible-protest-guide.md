@@ -1,7 +1,7 @@
 ---
-title: uaucucueususuiubulueu upuruoutueusutu uguuuiudue
+title: Accessible Protest Guide
 ---
 
-# uaucucueususuiubulueu upuruoutueusutu uguuuiudue
+# Accessible Protest Guide
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

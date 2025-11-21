@@ -1,7 +1,7 @@
 ---
-title: uaucuaudueumuiucu upuruouguruaumus
+title: Academic Programs
 ---
 
-# uaucuaudueumuiucu upuruouguruaumus
+# Academic Programs
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

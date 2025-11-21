@@ -1,7 +1,7 @@
 ---
-title: ueumueurugueunucuyu upuluaununueurus
+title: Emergency Planners
 ---
 
-# ueumueurugueunucuyu upuluaununueurus
+# Emergency Planners
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

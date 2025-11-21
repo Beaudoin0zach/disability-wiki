@@ -1,7 +1,7 @@
 ---
-title: ulugubutuqu uaunudu uduiusuaubuiuluiutuy
+title: Lgbtq And Disability
 ---
 
-# ulugubutuqu uaunudu uduiusuaubuiuluiutuy
+# Lgbtq And Disability
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

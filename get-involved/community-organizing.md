@@ -1,7 +1,7 @@
 ---
-title: ucuoumumuuunuiutuyu uouruguaunuiuzuiunug
+title: Community Organizing
 ---
 
-# ucuoumumuuunuiutuyu uouruguaunuiuzuiunug
+# Community Organizing
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

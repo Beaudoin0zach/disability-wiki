@@ -1,7 +1,7 @@
 ---
-title: usutuaurutuiunugu uouruguaunuiuzuautuiuounus
+title: Starting Organizations
 ---
 
-# usutuaurutuiunugu uouruguaunuiuzuautuiuounus
+# Starting Organizations
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

@@ -1,7 +1,7 @@
 ---
-title: upusuyucuhuiuauturuiucu uaunudu upusuyucuhuousuoucuiuaulu uduiusuaubuiuluiutuy
+title: Psychiatric And Psychosocial Disability
 ---
 
-# upusuyucuhuiuauturuiucu uaunudu upusuyucuhuousuoucuiuaulu uduiusuaubuiuluiutuy
+# Psychiatric And Psychosocial Disability
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

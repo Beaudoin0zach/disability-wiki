@@ -1,7 +1,7 @@
 ---
-title: uduiusuaubulueudu ucurueuautuourusu uduiurueucutuouruy
+title: Disabled Creators Directory
 ---
 
-# uduiusuaubulueudu ucurueuautuourusu uduiurueucutuouruy
+# Disabled Creators Directory
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

@@ -1,7 +1,7 @@
 ---
-title: umuuulutuiupulueu uduiusuaubuiuluiutuiueus
+title: Multiple Disabilities
 ---
 
-# umuuulutuiupulueu uduiusuaubuiuluiutuiueus
+# Multiple Disabilities
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

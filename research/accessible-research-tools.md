@@ -1,7 +1,7 @@
 ---
-title: uaucucueususuiubulueu urueusueuaurucuhu utuououlus
+title: Accessible Research Tools
 ---
 
-# uaucucueususuiubulueu urueusueuaurucuhu utuououlus
+# Accessible Research Tools
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

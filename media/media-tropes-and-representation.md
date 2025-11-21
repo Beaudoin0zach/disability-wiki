@@ -1,7 +1,7 @@
 ---
-title: umueuduiuau uturuoupueusu uaunudu urueupurueusueunutuautuiuoun
+title: Media Tropes And Representation
 ---
 
-# umueuduiuau uturuoupueusu uaunudu urueupurueusueunutuautuiuoun
+# Media Tropes And Representation
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._

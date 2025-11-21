@@ -1,7 +1,7 @@
 ---
-title: uiunudueux
+title: Index
 ---
 
-# uiunudueux
+# Index
 
-_Stub page. This topic will be expanded with community contributions._
+_Stub page. Content coming soon._
