@@ -2,37 +2,7 @@
 title: What Does Violence Look Like: A Visual & Practical Guide
 description: 
 published: true
-date: 2025-11-20T18:47:11.398Z
-tags: 
-editor: markdown
-dateCreated: 2025-11-16T23:14:30.514Z
----
-
----
-title: What Does Violence Look Like: A Visual & Practical Guide
-description: 
-published: true
-date: 2025-11-20T18:21:47.042Z
-tags: 
-editor: markdown
-dateCreated: 2025-11-16T23:14:30.514Z
----
-
----
-title: What Does Violence Look Like: A Visual & Practical Guide
-description: 
-published: true
-date: 2025-11-20T17:44:55.184Z
-tags: 
-editor: markdown
-dateCreated: 2025-11-16T23:14:30.514Z
----
-
----
-title: What Does Violence Look Like: A Visual & Practical Guide
-description: 
-published: true
-date: 2025-11-16T23:14:36.399Z
+date: 2025-11-21T23:41:28.913Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-16T23:14:30.514Z
