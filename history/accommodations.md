@@ -2,32 +2,31 @@
 title: History of Accommodations
 description: 
 published: true
-date: 2025-11-22T15:53:49.061Z
+date: 2025-11-22T16:05:48.935Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T17:24:44.852Z
 ---
 
-# ACCOMMODATIONS THROUGHOUT HISTORY: SPECIFIC EXAMPLES
+# Accommodations Throughout History
 
 This page documents specific, concrete accommodations disabled people have used and communities have provided across history. It directly addresses: disability accommodation is not new; we've been doing this forever.
 
----
-
-## QUICK START
+## Quick Start
 
 **I want to see examples of:**
-- **Physical accessibility modifications** → [[Physical Accommodations Across History]]
-- **Communication accommodations** → [[Communication Accommodations]]
-- **Work & economic accommodations** → [[Economic Accommodations]]
-- **Community support systems** → [[Community-Based Accommodations]]
-- **Technology & tools** → [[Assistive Devices Throughout History]]
-- **Specific stories** → [[Detailed Historical Examples]]
-- **Practices we've lost** → [[Reclaiming Lost Accommodations]]
+
+- [Physical accessibility modifications](#physical-accommodations-across-history) — Ramps, housing, tools
+- [Communication accommodations](#communication-accommodations) — Sign language, writing, signals
+- [Work & economic accommodations](#work--economic-accommodations) — Employment, trades, roles
+- [Community support systems](#community-based-accommodations) — Shared labor, mentorship
+- [Technology & tools](#assistive-devices-throughout-history) — Prosthetics, devices, aids
+- [Specific stories](#detailed-historical-examples) — Real historical examples
+- [Practices we've lost](#what-we-can-reclaim) — Reclaiming lost accommodations
 
 ---
 
-## INTRODUCTION
+## Introduction
 
 The message "accommodations are modern invention" is false. Disabled people have been figuring out how to do things—and communities have been supporting this—for all of human history.
 
@@ -41,7 +40,7 @@ This page shows what people actually did.
 
 ---
 
-## PHYSICAL ACCOMMODATIONS ACROSS HISTORY
+## Physical Accommodations Across History
 
 ### Ramps & Accessible Entrances
 
@@ -140,7 +139,7 @@ This page shows what people actually did.
 
 ---
 
-## COMMUNICATION ACCOMMODATIONS
+## Communication Accommodations
 
 ### Sign Language Systems
 
@@ -216,9 +215,9 @@ This page shows what people actually did.
 
 ---
 
-## WORK & ECONOMIC ACCOMMODATIONS
+## Work & Economic Accommodations
 
-### The Pirate Example (Your Reference!)
+### The Pirate Example
 
 **Historically, pirates had:**
 - Flexible roles based on ability
@@ -291,7 +290,7 @@ This page shows what people actually did.
 
 ---
 
-## COMMUNITY-BASED ACCOMMODATIONS
+## Community-Based Accommodations
 
 ### Shared Labor & Support Systems
 
@@ -352,7 +351,7 @@ This page shows what people actually did.
 
 ---
 
-## ASSISTIVE DEVICES THROUGHOUT HISTORY
+## Assistive Devices Throughout History
 
 ### Mobility Devices
 
@@ -436,7 +435,7 @@ This page shows what people actually did.
 
 ---
 
-## DETAILED HISTORICAL EXAMPLES
+## Detailed Historical Examples
 
 ### Example 1: Medieval Blind Weavers
 
@@ -534,7 +533,7 @@ This page shows what people actually did.
 
 ---
 
-## COMMUNICATION ACROSS DIFFERENCE: CREATIVE SOLUTIONS
+## Communication Across Difference: Creative Solutions
 
 ### Multiple Languages/Modes
 
@@ -567,7 +566,7 @@ This page shows what people actually did.
 
 ---
 
-## WHEN ACCOMMODATIONS FAILED OR DIDN'T EXIST
+## When Accommodations Failed or Didn't Exist
 
 Important honesty: Not all pre-industrial societies were inclusive.
 
@@ -583,7 +582,7 @@ Important honesty: Not all pre-industrial societies were inclusive.
 
 ---
 
-## WHAT INDUSTRIAL REVOLUTION DESTROYED
+## What Industrial Revolution Destroyed
 
 When industrialization happened:
 - Flexibility gone (clock-based, timed work)
@@ -597,7 +596,7 @@ When industrialization happened:
 
 ---
 
-## WHAT WE CAN RECLAIM
+## What We Can Reclaim
 
 From these historical practices, we can reclaim:
 
@@ -611,7 +610,7 @@ From these historical practices, we can reclaim:
 
 ---
 
-## CONTEMPORARY EXAMPLES USING HISTORICAL PRINCIPLES
+## Contemporary Examples Using Historical Principles
 
 Some communities today reclaim these principles:
 
@@ -641,7 +640,16 @@ Some communities today reclaim these principles:
 
 ---
 
-## CONTRIBUTING TO THIS PAGE
+## Related Pages on DisabilityWiki
+
+- [Pre-Industrial Disability →](/history/pre-industrial-disability)
+- [Disability History →](/foundations/disability-culture)
+- [Deaf History & Culture →](/history/deaf-history-culture)
+- [Disability Rights Movement →](/rights/history-of-disability-rights)
+
+---
+
+## Contributing to This Page
 
 **We need:**
 - Specific historical examples and sources
@@ -652,17 +660,10 @@ Some communities today reclaim these principles:
 - Corrections and additions
 - Non-Western examples especially needed
 
----
-
-## SOURCES
-
-- Academic disability history books listed in bibliography
-- Archaeological records
-- Primary historical documents
-- Community history records
-- Oral history from communities
-- Museum collections
+[Share your historical knowledge →](https://forms.gle/YJFxFGrK3cZs1VKi8)
 
 ---
 
-*Last updated: November 2025*
+**Last updated**: [Date]  
+**Maintained by**: DisabilityWiki History Team  
+**Questions or feedback?** [Contact us →](/about/contact)
