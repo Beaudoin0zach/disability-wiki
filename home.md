@@ -2,7 +2,7 @@
 title: Disability Wiki
 description: 
 published: true
-date: 2025-11-20T18:43:05.683Z
+date: 2025-11-22T00:14:06.775Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T13:10:00.897Z
@@ -35,7 +35,7 @@ The Disability Pride Flag was designed by Ann Magill and revised in 2021. Each c
 
 DisabilityWiki exists to centralize disability resources, promote accessibility and disability justice, and empower disabled people to lead their own lives and communities. This project centers the principle: **"Nothing About Us Without Us."**
 
-**Current scope:** This wiki currently emphasizes US and Western resources (Canada, UK, Australia, EU) while actively expanding to include Global South perspectives, Indigenous frameworks, and international resources. We recognize that disability rights look different in different places, and we're committed to authentic, community-led representation.
+**Current scope:** This wiki currently emphasizes US and Western resources (Canada, UK, Australia, EU) while actively expanding to include Global South perspectives, Indigenous frameworks, and international resources.
 
 **How it works:** Pages are written by disabled people and community experts. You can suggest edits on any page, and verified pages have been reviewed by moderators and community members.
 
@@ -43,111 +43,119 @@ DisabilityWiki exists to centralize disability resources, promote accessibility 
 
 ## Get Started (First Time Here?)
 
-**New to this wiki?** Start here: [[What This Wiki Is]] and [[How to Use This Wiki]]
+**New to this wiki? Start here:**
+- [[foundations/index]]
+- [[foundations/how-to-use-this-wiki]]
 
-Want foundational concepts? Try:
-- [[What Is Disability?]] — Understanding disability beyond the medical model
-- [[Disability Models]] — Social, medical, human rights, and disability justice frameworks
-- [[Language & Terminology]] — Plain-language guide to disability language
-- [[For Allies]] — How to support disabled people respectfully
+**Want foundational concepts? Try:**
+- [[foundations/what-is-disability]] — Understanding disability beyond the medical model
+- [[foundations/disability-models]] — Social, medical, human rights, and disability justice frameworks
+- [[foundations/language-terminology-identity]] — Plain-language guide to disability language
+- [[foundations/for-allies]] — How to support disabled people respectfully
 
 ---
 
 ## Browse by Topic
 
-### 🆘 Immediate Help
-**[[Crisis Resources]]** — Hotlines, emergency support, and safety resources by country
+### Immediate Help
 
-### ⚖️ Legal Rights & Advocacy
-**[[Your Rights & Laws]]** — Disability laws, protections, and how to file complaints
-- [[Americans with Disabilities Act (ADA)]]
-- [[Section 504]]
-- [[Fair Housing Act]]
-- [[UN Convention on the Rights of Persons with Disabilities (CRPD)]]
+[[crisis/index]] — Hotlines, emergency support, and safety resources
 
-### 💰 Money & Benefits
-**[[Benefits & Financial Support]]** — Navigating assistance programs
-- [[SSDI]] — Social Security Disability Insurance
-- [[SSI]] — Supplemental Security Income
-- [[Medicaid]]
-- [[Housing Vouchers / Section 8]]
-- [[SNAP / Food Assistance]]
+### Legal Rights & Advocacy
 
-### 🏠 Housing & Independent Living
-**[[Housing & Independent Living]]** — Finding accessible homes and services
-- [[Finding Accessible Housing]]
-- [[Accessibility Checklist]]
-- [[Home Modifications]]
-- [[Independent Living Centers]]
+[[rights/index]] — Disability laws, protections, and how to file complaints
+- [[rights/us/ada]]
+- [[rights/us/section-504]]
+- [[rights/us/fair-housing-act]]
+- [[rights/international-rights]]
 
-### 🏥 Health & Medical Care
-**[[Health & Medical Access]]** — Healthcare navigation and patient rights
-- [[Finding Accessible Healthcare]]
-- [[Insurance Navigation]]
-- [[Patient Rights]]
-- [[Mental Health Resources]]
-- [[Assistive Technology Funding]]
+### Money & Benefits
 
-### 📚 Education
-**[[Education & Learning]]** — School, college, and lifelong learning accommodations
-- [[K-12 Education Rights (IEPs, 504 Plans)]]
-- [[Higher Education Accommodations]]
-- [[Vocational Rehabilitation]]
+[[benefits/index]] — Navigating assistance programs
+- [[benefits/us-ssdi]]
+- [[benefits/us-ssi]]
+- [[benefits/us-medicaid]]
+- [[benefits/us-state-benefits]]
+- [[benefits/us-snap]]
 
-### 💼 Work & Employment
-**[[Work & Employment]]** — Job accommodations, disclosure, and finding disability-friendly employers
-- [[Accommodations at Work]]
-- [[Self-Employment & Small Business]]
-- [[Vocational Rehabilitation]]
+### Housing & Independent Living
 
-### 🚗 Mobility & Transportation
-**[[Transportation]]** — Getting around, mobility aids, and travel rights
-- [[Public Transit Access]]
-- [[Air Travel Rights]]
-- [[Wheelchairs & Mobility Devices]]
+[[housing/index]] — Finding accessible homes and services
+- [[housing/accessible-housing-search-guide]]
+- [[housing/home-modifications]]
+- [[housing/independent-living-philosophy-and-centers]]
 
-### 💻 Assistive Technology
-**[[Assistive Technology]]** — Tools and devices that support independence
-- [[Screen Readers & Accessibility Software]]
-- [[AAC (Augmentative and Alternative Communication)]]
-- [[Smart Home Technology]]
+### Health & Medical Care
 
-### 👥 Relationships, Parenting & Daily Living
-**[[Relationships & Family]]** — Dating, sexuality, parenting with disability
-**[[Daily Living]]** — Adaptive tools, clothing, cooking, hobbies
+[[healthcare/index]] — Healthcare navigation and patient rights
+- [[healthcare/accessible-healthcare]]
+- [[healthcare/insurance-navigation]]
+- [[healthcare/mental-health]]
+- [[healthcare/medical-equipment-and-at]]
 
-### 🏥 Specific Disabilities
-**[[Specific Disabilities]]** — Condition-specific guidance and resources
-- [[Physical Disabilities]]
-- [[Deaf & Hard of Hearing]]
-- [[Blind & Low Vision]]
-- [[Neurodivergence]] (ADHD, autism, learning disabilities)
-- [[Mental Health & Psychosocial Disabilities]]
-- [[Chronic Illness]]
-- [[Hidden & Invisible Disabilities]]
+### Education
 
-### 🌍 Intersectionality
-**[[Intersectionality]]** — Disability combined with other identities
-- [[Race & Disability]]
-- [[LGBTQ+ & Disability]]
-- [[Immigration & Disability]]
-- [[Gender & Disability]]
-- [[Poverty & Disability]]
-- [[Indigenous Disability]]
+[[education/index]] — School, college, and lifelong learning
+- [[education/k12-education]]
+- [[education/higher-education]]
+- [[education/transition-to-adulthood]]
 
-### 🤝 Community & Activism
-**[[Community & Advocacy]]** — Finding support, organizing, and amplifying your voice
-- [[Online Communities & Forums]]
-- [[Local Support Groups]]
-- [[Disability Organizations]]
-- [[How to Become an Advocate]]
+### Work & Employment
 
-### 📖 Library
-**[[Library]]** — Books, media, research, and disabled creators
-- [[Disability Books]]
-- [[Documentaries, Films & Podcasts]]
-- [[Academic Research]]
-- [[Disabled Creators Directory]]
+[[employment/index]] — Job accommodations, disclosure, and disability-friendly employers
+- [[employment/job-searching-with-a-disability]]
+- [[employment/workplace-accommodations]]
+- [[employment/supported-employment-and-voc-rehab]]
+
+### Mobility & Transportation
+
+[[transport/index]] — Getting around & mobility rights
+- [[transport/public-transit-rights]]
+- [[transport/air-travel-rights]]
+- [[transport/mobility-aids]]
+
+### Assistive Technology
+
+[[tech/index]] — Accessibility tools and devices
+- [[tech/web-accessibility]]
+- [[tech/mobile-and-os-accessibility]]
+- [[tech/communication-access-and-aac]]
+
+### Relationships, Parenting & Daily Living
+
+- [[relationships/index]]
+- [[daily-living/index]]
+
+### Specific Disabilities
+
+[[conditions/index]] — Condition-specific insights
+- [[conditions/physical-disabilities]]
+- [[conditions/sensory-disabilities]]
+- [[conditions/chronic-illness]]
+- [[conditions/neurodivergence]]
+- [[conditions/psychiatric-and-psychosocial-disability]]
+- [[conditions/invisible-disabilities]]
+
+### Intersectionality
+
+[[intersectionality/index]] — Disability across identities
+- [[intersectionality/race-and-disability]]
+- [[intersectionality/gender-and-disability]]
+- [[intersectionality/lgbtq-and-disability]]
+- [[intersectionality/poverty-and-class]]
+- [[intersectionality/indigenous-disability-perspectives]]
+
+### Community & Activism
+
+[[community/index]] — Support networks & advocacy
+- [[get-involved/index]]
+
+### Library
+
+[[media/index]] — Books, films, creators
+- [[media/books]]
+- [[media/documentaries-and-films]]
+- [[media/disabled-creators-directory]]
 
 ---
 
@@ -155,14 +163,14 @@ Want foundational concepts? Try:
 
 DisabilityWiki exists to:
 
-- **Centralize disability resources** where disabled people can find answers quickly
-- **Promote accessibility and disability justice** by centering the most marginalized
-- **Connect people, organizations, and allies** across borders and communities
-- **Empower disabled people** to self-determine and lead their own lives
-- **Preserve disability culture and history** and amplify community knowledge
-- **Make reliable information accessible, free, and open** to everyone, everywhere
-- **Challenge ableism** by sharing accurate, community-informed guidance
-- **Support collective power, mutual aid, and community care**
+- Centralize disability resources
+- Promote accessibility and disability justice
+- Connect disabled people and allies
+- Amplify marginalized voices
+- Preserve disability culture & history
+- Make reliable information accessible & free
+- Challenge ableism through community-led knowledge
+- Support mutual aid and collective power
 
 ---
 
@@ -170,129 +178,58 @@ DisabilityWiki exists to:
 
 ### Finding Information
 
-- **Use the left sidebar** to browse sections by topic
-- **Use the search bar** to find specific laws, programs, or resources
-- **Use related links** at the bottom of pages to navigate between connected topics
-- **Check the last updated date** to see if information is current
+- Use the left sidebar
+- Use the search bar
+- Follow related links at bottom of pages
+- Check last updated timestamps
 
 ### For Screen Reader Users
 
-This wiki is designed for accessibility:
-- Pages use semantic headings (use your screen reader's heading navigation)
-- All links have descriptive text (not "click here")
-- Images have alternative text descriptions
-- Content is organized in logical sections
+This wiki aims for WCAG 2.1 AA:
+- Semantic headings
+- Descriptive links
+- Alt text
+- Keyboard-friendly navigation
 
-**Report accessibility issues:** [[Report an Accessibility Problem]]
-
-### Understanding "Verified" Tags
-
-Some pages have a **[VERIFIED]** tag, meaning the content has been reviewed by:
-- Moderators and community members
-- People with lived experience of the topic
-- Legal experts or organizational representatives (where applicable)
-
-Pages without verification tags are still valuable but may benefit from community feedback.
+**Report issues:** [[glossary/editorial-guidelines]]
 
 ---
 
 ## Get Involved
 
-**This wiki is only as good as our community.** We need disability experts, organizers, researchers, and lived experience from around the world.
+We welcome contributors from everywhere.
 
-### Ways to Contribute
+- Suggest edits
+- Share knowledge
+- Report errors
+- Help with accessibility
+- Join community discussions
 
-- **Suggest edits** on any page (use the suggestion button at the bottom)
-- **Share your expertise** — Do you know something about disability in your country/region? [[How to Contribute]]
-- **Report errors or outdated info** — Help us stay accurate
-- **Translate content** — Help us reach more languages
-- **Join community discussions** — Share ideas and feedback
-
-### Our Community Spaces (Coming Soon)
-
-- Discord server for real-time peer support and discussion
-- Reddit communities for organizing and resource-sharing
-- Monthly community calls to discuss wiki direction
-
-[[How to Contribute | Read our contributor guidelines]]
+[[get-involved/index]]
 
 ---
 
 ## Accessibility Statement
 
-**We're committed to making DisabilityWiki accessible to everyone.** This means:
+- WCAG 2.1 AA
+- Mobile accessible
+- Screen reader compatible
+- Keyboard navigable
+- Plain language emphasis
 
-- ✓ Pages meet WCAG 2.1 AA accessibility standards
-- ✓ Mobile-friendly design (works on phones, tablets, desktops)
-- ✓ Screen reader compatible
-- ✓ Keyboard navigable
-- ✓ Plain language where possible
-- ✓ No content is color-only
-- ✓ Videos have captions and transcripts
-
-**Found an accessibility issue?** [[Report an Accessibility Problem]] — We want to know so we can fix it.
-
----
-
-## About This Project
-
-**Who runs this?** DisabilityWiki is volunteer-run and community-maintained. We have no corporate funders and don't make money from your data.
-
-**License:** All content is under Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0). You can use, modify, and share content as long as you credit the original authors and use the same license.
-
-**Funding:** Currently volunteer-powered. We're exploring sustainable funding models that don't compromise our independence. If you want to support this work, [[Support DisabilityWiki]].
-
-**Read more:** [[About This Wiki]] | [[Our Values & Philosophy]] | [[Meet Our Contributors]] | [[Accessibility Statement]]
-
----
-
-## What's New
-
-*Updated November 16, 2025*
-
-**Recent additions:**
-- Expanded housing resources with Global South examples
-- New content on informal economy and disability
-- Started Indigenous disability frameworks section
-- Added employment law overview
-
-**Coming soon:**
-- Healthcare systems in Global South countries
-- LGBTQ+ disability content expansion
-- Crisis resources in 10+ languages
-- Community Discord server launch
-
----
-
-## Search (Placeholder)
-
-*[Search bar will appear here in wiki.js interface]*
-
----
-
-## Questions?
-
-- **How do I find [specific topic]?** Use the search bar or browse by topic above
-- **Is information in my country available?** Check the regional sections in each topic area; we're expanding constantly
-- **How do I report an error?** [[Contact Us]] or suggest an edit on the page
-- **Can I volunteer?** Yes! [[How to Contribute]]
-- **I need help right now** — [[Crisis Resources]]
+**Report issues:** [[glossary/editorial-guidelines]]
 
 ---
 
 ## Footer
 
-**DisabilityWiki** is a community-driven resource built by and for disabled people.
-
-- [[About Us]]
-- [[How to Contribute]]
+- [[Start]]
+- [[foundations/how-to-use-this-wiki]]
+- [[get-involved/index]]
 - [[Accessibility Statement]]
-- [[Contact Us]]
-- License: CC BY-SA 4.0
+- [[glossary/index]]
 
-*"Nothing About Us Without Us"* — Disability activist principle
+**"Nothing About Us Without Us."**
 
----
-
-*Last updated: November 16, 2025*  
+*Last updated: November 21, 2025*  
 *Maintained by: DisabilityWiki Community*
