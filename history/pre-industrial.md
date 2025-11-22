@@ -2,32 +2,31 @@
 title: Pre-Industrial Disability
 description: 
 published: true
-date: 2025-11-22T15:54:21.702Z
+date: 2025-11-22T16:06:06.149Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T17:30:57.332Z
 ---
 
-# PRE-INDUSTRIAL DISABILITY: HOW SOCIETIES SUPPORTED DISABLED PEOPLE
+# Pre-Industrial Disability: How Societies Supported Disabled People
 
 For most of human history, disabled people were integrated into their communities. Different societies had different approaches, but the general pattern was inclusion, accommodation, and valuing disabled people's contributions.
 
----
-
-## QUICK START
+## Quick Start
 
 **I want to learn about:**
-- **General patterns across pre-industrial societies** → [[General Patterns]]
-- **Specific ancient civilizations** → [[Disabled People in Ancient Civilizations]]
-- **Medieval/feudal approaches** → [[Medieval & Feudal Societies]]
-- **Indigenous approaches** → [[Indigenous Societies & Disability]]
-- **What changed and why** → [[What Industrial Revolution Changed]]
-- **Specific examples** → [[Historical Examples of Inclusion]]
-- **How we know this** → [[Historical Evidence & Sources]]
+
+- [General patterns across pre-industrial societies](#general-patterns-how-pre-industrial-societies-worked) — Overview
+- [Specific ancient civilizations](#ancient-civilizations) — Egypt, Greece, Rome, China, more
+- [Medieval/feudal approaches](#medieval--feudal-societies) — Feudalism and disability
+- [Indigenous approaches](#indigenous-american-societies) — Pre-contact Americas
+- [What changed and why](#what-happened-the-shift) — Industrialization
+- [Specific examples](#detailed-historical-examples) — Real examples
+- [How we know this](#gaps--limitations-in-this-knowledge) — Sources and evidence
 
 ---
 
-## GENERAL PATTERNS: HOW PRE-INDUSTRIAL SOCIETIES WORKED
+## General Patterns: How Pre-Industrial Societies Worked
 
 ### Key Differences from Industrial Societies
 
@@ -65,7 +64,7 @@ For most of human history, disabled people were integrated into their communitie
 
 ---
 
-## HUNTER-GATHERER SOCIETIES
+## Hunter-Gatherer Societies
 
 ### How They Organized Around Disability
 
@@ -96,13 +95,13 @@ For most of human history, disabled people were integrated into their communitie
 ### Examples of Inclusion
 
 **Archaeological sites show:**
-- Shanidar Cave (Iraq): Neanderthal skeleton shows individual survived with severe disability, lived to ~40 years old, received community care
-- Multiple European sites: evidence of disabled individuals cared for, included in burials (indicating valued community members)
-- Pacific Islander evidence: disabled people integrated, specific roles documented
+- **Shanidar Cave (Iraq)**: Neanderthal skeleton shows individual survived with severe disability, lived to ~40 years old, received community care
+- **Multiple European sites**: Evidence of disabled individuals cared for, included in burials (indicating valued community members)
+- **Pacific Islander evidence**: Disabled people integrated, specific roles documented
 
 ---
 
-## AGRICULTURAL SOCIETIES (8000 BCE - Industrial Revolution)
+## Agricultural Societies (8000 BCE - Industrial Revolution)
 
 ### Why Agriculture Allowed More Disabled Integration
 
@@ -130,7 +129,7 @@ When societies settled and farmed:
 
 ---
 
-## ANCIENT CIVILIZATIONS
+## Ancient Civilizations
 
 ### Egypt (3000 BCE - 30 BCE)
 
@@ -306,7 +305,7 @@ Reality: Gladiators were mostly enslaved/poor, not primarily disabled; entertain
 
 ---
 
-## MEDIEVAL & FEUDAL SOCIETIES
+## Medieval & Feudal Societies
 
 ### How Feudalism Accommodated Disability
 
@@ -351,7 +350,7 @@ Reality: Gladiators were mostly enslaved/poor, not primarily disabled; entertain
 
 ---
 
-## HOW DISABILITY WAS UNDERSTOOD
+## How Disability Was Understood
 
 ### Frameworks Different from Modern Medical Model
 
@@ -398,7 +397,7 @@ Reality: Gladiators were mostly enslaved/poor, not primarily disabled; entertain
 
 ---
 
-## ACCOMMODATIONS IN PRE-INDUSTRIAL SOCIETIES
+## Accommodations in Pre-Industrial Societies
 
 ### Physical Accommodations
 
@@ -453,7 +452,7 @@ Reality: Gladiators were mostly enslaved/poor, not primarily disabled; entertain
 
 ---
 
-## WHAT WE LEARNED ABOUT DISABILITY SUPPORT
+## What We Learned About Disability Support
 
 From pre-industrial societies, we can see:
 
@@ -468,7 +467,7 @@ From pre-industrial societies, we can see:
 
 ---
 
-## WHAT THEY TELL US ABOUT MODERN DISABILITY
+## What They Tell Us About Modern Disability
 
 These historical patterns show:
 - **Disability segregation is choice, not necessity** (societies included disabled people)
@@ -479,7 +478,7 @@ These historical patterns show:
 
 ---
 
-## GAPS & LIMITATIONS IN THIS KNOWLEDGE
+## Gaps & Limitations in This Knowledge
 
 ### What We Don't Know
 
@@ -510,15 +509,15 @@ These historical patterns show:
 
 ---
 
-## WHAT HAPPENED: THE SHIFT
+## What Happened: The Shift
 
-This integration didn't disappear naturally. It was **created as problem and "solved" through segregation** during industrialization.
+This integration didn't disappear naturally. It was created as problem and "solved" through segregation during industrialization.
 
-[[Disability in Industrial & Colonial Times]] explains what changed and why.
+[See Accommodations Throughout History →](/history/accommodations-history) for specific examples of how this worked.
 
 ---
 
-## INDIGENOUS KNOWLEDGE WE'RE RECLAIMING
+## Indigenous Knowledge We're Reclaiming
 
 Many Indigenous communities are reclaiming disability practices:
 - Understanding disability within community frameworks
@@ -530,7 +529,16 @@ This is not romanticizing the past, but learning from what worked.
 
 ---
 
-## CONTRIBUTING TO THIS PAGE
+## Related Pages on DisabilityWiki
+
+- [Accommodations Throughout History →](/history/accommodations-history)
+- [Deaf History & Culture →](/history/deaf-history-culture)
+- [Disability Rights Movement →](/rights/history-of-disability-rights)
+- [Disability Culture →](/foundations/disability-culture)
+
+---
+
+## Contributing to This Page
 
 **We need:**
 - Historians with documentation of specific cultures/periods
@@ -541,9 +549,11 @@ This is not romanticizing the past, but learning from what worked.
 - Documentation of accommodations you know about
 - Global perspective (not just Western examples)
 
+[Share your historical knowledge →](https://forms.gle/YJFxFGrK3cZs1VKi8)
+
 ---
 
-## SOURCES & FURTHER READING
+## Sources & Further Reading
 
 **Academic disability history:**
 - Janice Braddock & Susan Braddock: *Strangers in the Land: People with Disabilities and Historical Contexts*
@@ -559,4 +569,6 @@ This is not romanticizing the past, but learning from what worked.
 
 ---
 
-*Last updated: November 2025*
+**Last updated**: [Date]  
+**Maintained by**: DisabilityWiki History Team  
+**Questions or feedback?** [Contact us →](/about/contact)
