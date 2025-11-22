@@ -2,7 +2,7 @@
 title: Disability Benefits – European Union (Overview)
 description: 
 published: true
-date: 2025-11-21T17:55:28.680Z
+date: 2025-11-22T15:30:52.296Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:45:40.014Z
