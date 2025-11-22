@@ -2,32 +2,31 @@
 title: Deaf History & Culture
 description: 
 published: true
-date: 2025-11-22T15:53:08.720Z
+date: 2025-11-22T16:05:28.264Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T17:37:14.664Z
 ---
 
-# DEAF HISTORY & CULTURE: DETAILED DEEP DIVE
+# Deaf History & Culture
 
 Deaf history is disability community history. The Deaf community is the oldest, most visible, most culturally developed disability community. Understanding Deaf history teaches us about disability pride, community organization, and what happens when disabled people build their own culture.
 
+## Quick Start
+
+**I want to learn about:**
+
+- [What is Deaf culture?](#deaf-culture-overview) — Values, communication, identity
+- [How did Deaf community form?](#early-deaf-community-formation) — Schools and gathering
+- [What is sign language history?](#sign-language-development) — Languages across cultures
+- [What happened with oralism?](#oralism--forced-assimilation) — Suppression and resistance
+- [Modern Deaf pride and activism](#deaf-pride--contemporary-movement) — Contemporary movement
+- [Deaf people's contributions](#deaf-peoples-contributions) — History of achievement
+- [Deaf Deaf-Blind people](#deafblind--blind-deaf-experiences) — Unique perspectives
+
 ---
 
-## QUICK START
-
-**I want to know:**
-- **What is Deaf culture?** → [[Deaf Culture Overview]]
-- **How did Deaf community form?** → [[Early Deaf Community Formation]]
-- **What is sign language history?** → [[Sign Language Development]]
-- **What happened with oralism?** → [[Oralism & Forced Assimilation]]
-- **Modern Deaf pride and activism** → [[Deaf Pride & Contemporary Movement]]
-- **Deaf people's contributions** → [[Deaf Achievements & Leadership]]
-- **Deaf Deaf-Blind people** → [[Deafblind & Blind-Deaf Perspectives]]
-
----
-
-## WHAT IS DEAF CULTURE?
+## What is Deaf Culture?
 
 ### Not the Same as Hearing Impairment or Deafness (Audiological)
 
@@ -73,7 +72,7 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## PRE-SIGN LANGUAGE HISTORY
+## Early Deaf Community Formation
 
 ### Before Organized Deaf Community
 
@@ -106,7 +105,7 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## SIGN LANGUAGE DEVELOPMENT
+## Sign Language Development
 
 ### Early Sign Languages
 
@@ -164,7 +163,7 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## DEAF SCHOOLS & COMMUNITY FORMATION
+## Deaf Schools & Community Formation
 
 ### School as Community Hub
 
@@ -214,7 +213,7 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## ORALISM & FORCED ASSIMILATION
+## Oralism & Forced Assimilation
 
 ### What Was Oralism?
 
@@ -275,7 +274,7 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## SIGN LANGUAGE AS CULTURE & RIGHTS
+## Sign Language as Culture & Rights
 
 ### Sign Language is Not English
 
@@ -316,7 +315,7 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## DEAF PRIDE & CONTEMPORARY MOVEMENT
+## Deaf Pride & Contemporary Movement
 
 ### Deaf Pride Identity
 
@@ -355,7 +354,7 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## DEAF CULTURE CHARACTERISTICS
+## Deaf Culture Characteristics
 
 ### Values & Worldview
 
@@ -416,7 +415,7 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## DEAF PEOPLE'S CONTRIBUTIONS
+## Deaf People's Contributions
 
 ### Language & Linguistics
 
@@ -454,7 +453,7 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## CONTEMPORARY CHALLENGES
+## Contemporary Challenges
 
 ### Threats to Deaf Culture
 
@@ -495,9 +494,9 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## DEAF LIVES ARE NOT TRAGEDY
+## Deaf Lives Are Not Tragedy
 
-### The Deaf narrative:**
+### The Deaf narrative:
 - Hear perfectly fine (through sign language)
 - Have full, rich language
 - Have vibrant culture and community
@@ -513,7 +512,7 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## DEAFBLIND & BLIND-DEAF EXPERIENCES
+## Deafblind & Blind-Deaf Experiences
 
 ### Deafblind People
 
@@ -537,7 +536,7 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## DEAF GLOBAL COMMUNITY
+## Deaf Global Community
 
 ### International Deaf Movement
 
@@ -558,7 +557,17 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 
 ---
 
-## CONTRIBUTING TO THIS PAGE
+## Related Pages on DisabilityWiki
+
+- [Sensory Disabilities →](/conditions/sensory-disabilities)
+- [Communication Access & AAC →](/tech/communication-access-and-aac)
+- [Deaf-Blind →](/conditions/sensory-disabilities) (in sensory disabilities)
+- [Accessibility in Relationships →](/relationships)
+- [Disability Culture Overview →](/foundations/disability-culture)
+
+---
+
+## Contributing to This Page
 
 **We need:**
 - Deaf people's perspectives and experiences
@@ -570,6 +579,10 @@ Deaf history is disability community history. The Deaf community is the oldest, 
 - Global Deaf perspectives
 - CODA (children of Deaf adults) perspectives
 
+[Share your knowledge →](https://forms.gle/YJFxFGrK3cZs1VKi8)
+
 ---
 
-*Last updated: November 2025*
+**Last updated**: [Date]  
+**Maintained by**: DisabilityWiki Deaf Culture Team  
+**Questions or feedback?** [Contact us →](/about/contact)
