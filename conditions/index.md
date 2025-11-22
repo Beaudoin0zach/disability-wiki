@@ -1,8 +1,8 @@
 ---
-title: Index
+title: Conditions Index
 description: 
 published: true
-date: 2025-11-22T13:37:53.957Z
+date: 2025-11-22T13:38:12.469Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:50:36.789Z
