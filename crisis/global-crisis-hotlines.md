@@ -2,7 +2,7 @@
 title: Global Crisis Hotlines and Helplines
 description: 
 published: true
-date: 2025-11-21T23:24:24.541Z
+date: 2025-11-22T15:39:03.365Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:53:22.597Z
