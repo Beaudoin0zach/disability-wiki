@@ -2,7 +2,7 @@
 title: TANF – Cash Assistance for Families (U.S.)
 description: 
 published: true
-date: 2025-11-21T17:48:58.546Z
+date: 2025-11-22T15:36:03.122Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:48:26.145Z
