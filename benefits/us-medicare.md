@@ -1,340 +1,354 @@
 ---
-title: SSI (Supplemental Security Income)
+title: Medicare
 description: 
 published: true
-date: 2025-11-22T16:02:36.377Z
+date: 2025-11-22T16:03:17.905Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:47:28.803Z
 ---
 
-# SSI (Supplemental Security Income)
+# Medicare
 
-SSI is a federal income-support program for people with limited income and resources who are disabled, blind, or age 65+. It's needs-based, meaning eligibility depends on how much money and assets you have, not on work history. This page explains SSI in plain language and provides practical guidance.
+Medicare is federal health insurance primarily for people age 65+, but also available to some younger disabled people. This page explains Medicare in plain language and provides guidance for disabled people navigating it.
 
-## About SSI
+## About Medicare
 
-**SSI is NOT Social Security Disability Insurance (SSDI).** They're different programs with different rules. Many people confuse them or think they're the same—they're not.
+Medicare is:
+- **Health insurance**: Covers doctor visits, hospital care, prescription drugs, and other medical services
+- **Federal program**: Run by Centers for Medicare & Medicaid Services (CMS)
+- **Mandatory payroll tax**: Funded by FICA taxes (Social Security and Medicare tax)
+- **Age-based and disability-based**: Available at 65+ or earlier if disabled
 
-SSI is:
-- **Needs-based**: You qualify based on income and resources (assets)
-- **Monthly cash benefit**: Provides money for basic needs
-- **Federal + State**: Federal program, but some states add extra money
-- **Automatic Medicaid**: Qualifying for SSI usually means you get Medicaid
-- **For any age**: Available to children, working-age adults, and seniors
+**Medicare is not Medicaid.** They're completely different programs.
 
-## Who Qualifies for SSI
+## Who Qualifies for Medicare
 
-You can get SSI if you meet ALL of these requirements:
+You can get Medicare if you:
 
-**Disability/Age requirement**:
-- You're disabled (defined as unable to work due to medical condition lasting 12+ months or expected to result in death)
-- You're blind
-- You're age 65 or older
+**Age requirement**:
+- You're 65 or older, OR
+- You're under 65 and:
+  - You've received SSDI (Social Security Disability Insurance) for 24 months, OR
+  - You have End-Stage Renal Disease (ESRD), OR
+  - You have ALS (Lou Gehrig's disease)
 
-**Income limit**:
-- Your monthly income is below the federal limit ($943/month in 2024, but varies by state)
-- Some income doesn't count toward this limit
+**Work history**:
+- You or your spouse worked and paid Medicare taxes for at least 10 years (40 quarters)
 
-**Resource limit**:
-- Your countable resources are under $2,000 (for individuals; $3,000 for couples)
-- Some resources don't count (see below)
+**Citizenship**:
+- U.S. citizen or permanent resident (5+ years)
 
-**Citizenship/residency**:
-- U.S. citizen OR legal resident (some restrictions apply)
-- Live in the U.S. (not outside the country more than 30 consecutive days)
+## Medicare Parts: What They Cover
 
-**Work**:
-- You're not working above substantial gainful activity level ($1,550/month in 2024)
-- Work incentives allow you to work and earn some money without losing SSI
+Medicare has different "parts." You don't have to take all of them, but understanding what each covers helps you choose.
 
-## What SSI Pays
+### Part A: Hospital Insurance
 
-**Monthly benefit amount**: Federal base rate is $943/month (2024), but varies by state. Some states pay more.
+**Covers**:
+- Hospital inpatient care
+- Skilled nursing facility (short-term, after hospitalization)
+- Hospice care
+- Home health care (in some situations)
 
-**Your actual payment** depends on:
-- How much other income you have (SSI counts some income)
-- Whether you have a spouse and their income
-- Where you live (some states supplement)
-- Living situation (living with family can reduce benefits)
+**Cost**:
+- No monthly premium (most people)
+- Deductible: $1,660 per hospital stay (2024)
+- Copayments/coinsurance for longer stays
 
-**Important**: SSI is taxed as federal income assistance, so the amount you receive is what you get—no additional tax benefit.
+**When you need it**: If you're hospitalized, admitted to nursing home, or need hospice
 
-## Resources That DON'T Count (Can Have Unlimited Amount)
+### Part B: Medical Insurance
 
-- Primary home (house you live in, any value)
-- One car (up to certain value, used for transportation)
-- Assistive technology and medical equipment
-- Burial plots (yours and spouse's)
-- Life insurance (face value under $1,500)
-- Needed medical equipment for disability
-- Essential items for self-sufficiency
-
-## Resources That DO Count (Limited to $2,000)
-
-- Bank accounts (savings, checking)
-- Stocks and bonds
-- Property you don't live in
-- Extra vehicles
-- Money (cash)
-- Most valuable personal property
-
-## Income That Counts
-
-**Earned income** (from work):
-- First $65/month doesn't count
-- 50% of remaining earnings don't count
-- So you can earn ~$1,200 and still get some SSI
-
-**Unearned income** (not from work):
-- Social Security benefits
-- SSDI
-- Pensions
-- Unemployment insurance
-- Most other benefits
-- Gifts over $20/month
-- Child support
-
-**Income that doesn't count**:
-- First $20 of any income each month
-- Food stamps
-- Housing assistance
-- Some scholarships
-- Some home energy assistance
-- In-kind support (someone gives you food/shelter, not cash)
-
-## Work and SSI
-
-**Plan to Achieve Self-Support (PASS)**:
-- Set aside income and resources for a specific work goal
-- That money doesn't count against your limit
-- Allows you to save for education, equipment, business, etc.
-- Must have clear work goal and timeline
-
-**Impairment Related Work Expenses (IRWE)**:
-- Deduct costs of work-related disability expenses
-- Examples: medical equipment for work, transportation, medication needed for work, assistance at work
-- Reduces your countable earnings
-
-**Student Earned Income Exclusion**:
-- If you're under 22 and a student, some earnings don't count
-- Up to $2,050/month (2024) or $8,200/year for school year
-
-**Work Incentives Planning Assistance (WIPA)**:
-- Free counseling on how work affects benefits
-- Available in every state
-- Can help you understand PASS, IRWE, other incentives
-
-## Applying for SSI
-
-**Step 1: Gather documents**
-- Proof of citizenship/residency (birth certificate, passport, etc.)
-- Social Security number
-- Proof of age
-- Medical records showing disability
-- Proof of income (pay stubs, tax returns, etc.)
-- Proof of resources (bank statements, etc.)
-- Proof of living situation
-
-**Step 2: Apply**
-- Online: www.ssa.gov
-- By phone: 1-800-772-1213 (TTY 1-800-325-0778)
-- In person: Local Social Security office
-
-**Step 3: Wait**
-- Initial decision takes 3-5 months (can be faster or slower)
-- You'll get letter with decision
-
-**Step 4: If approved**
-- Benefits start after 1 month waiting period
-- You get Medicaid
-- Ongoing reporting requirements (changes in income, resources, living situation, etc.)
-
-## Medical Evidence Needed
-
-Social Security wants evidence that your disability:
-- Started before age 22 (if claiming disability)
-- Will last at least 12 months or result in death
-- Prevents substantial work
-
-Evidence includes:
-- Medical records from doctors
-- Hospital records
-- Lab results
-- Mental health records
-- Functional limitations (what you can't do)
-- How disability affects your daily life
-
-Better evidence:
-- Recent medical records (within last 3 months)
-- Consistent treatment
-- Multiple sources (doctors, therapists, specialists)
-- Specific functional limitations
-- How it affects work
-
-## Medicaid Through SSI
-
-If you're eligible for SSI, you automatically get Medicaid in most states. Medicaid provides:
+**Covers**:
 - Doctor visits
-- Hospital care
-- Prescription drugs
+- Outpatient care
+- Diagnostic tests and imaging
 - Mental health services
-- Dental (limited, varies by state)
-- Vision (limited, varies by state)
-- Assistive devices
-- Other services
+- Physical and occupational therapy
+- Durable medical equipment
+- Ambulance
+- Many preventive services
 
-Medicaid continues even if you start working (in most states).
+**Cost**:
+- Monthly premium: $164.90-$560.50 depending on income (2024)
+- Annual deductible: $240 (2024)
+- Copay or coinsurance (20% of approved amount after deductible)
 
-## Continuing Disability Review (CDR)
+**When you need it**: Regular doctor appointments, preventive care, testing
 
-Social Security periodically reviews whether you still qualify:
+### Part D: Prescription Drug Coverage
 
-**How often they review**:
-- Medical improvement likely: Every 6-18 months
-- Medical improvement possible: Every 3 years
-- Medical improvement unlikely: Every 7 years
+**Covers**:
+- Prescription medications
+- Coverage varies by plan
+- Some drugs cost more than others (tiers)
 
-**What they look for**:
-- Has your condition improved?
-- Can you work now?
-- Have your circumstances changed?
+**Cost**:
+- Monthly premium: Varies by plan ($7-$100+)
+- Annual deductible: Up to $505 (2024)
+- Copay for each prescription: $0-$15 for generic, $0-$100+ for brand name
+- "Donut hole" (coverage gap): After you and plan spend $4,150, you pay more until catastrophic coverage kicks in at $7,050 in total drug costs
 
-**If they say you're not disabled anymore**:
-- You can appeal
-- You get a trial work period if they think you can work
-- Medicaid continues during appeal
+**When you need it**: If you take prescription medications
 
-## If You're Denied
+### Part C: Medicare Advantage
 
-**Levels of appeal**:
-1. **Reconsideration**: Social Security looks at claim again
-2. **Hearing**: Administrative Law Judge hears your case
-3. **Appeals Council**: Final appeal to Social Security
-4. **Federal Court**: Can file lawsuit
+**What it is**: Private insurance alternative to Original Medicare
+- Covers Part A and B services
+- Usually includes Part D (drugs)
+- Often includes dental, vision, hearing (varies)
+- HMO or PPO model (network doctors)
 
-**Time limits**:
-- Request reconsideration within 60 days of denial
-- Request hearing within 60 days of reconsideration denial
-- Request appeals council within 60 days of hearing decision
-- File federal court case within 60 days of appeals council decision
+**Cost**:
+- Lower or $0 monthly premium
+- BUT: Higher out-of-pocket costs when you use services
+- Often network-based (must use certain doctors)
+
+**Pros**:
+- Might have drug coverage included
+- Sometimes dental/vision included
+- Lower premiums
+
+**Cons**:
+- Limited provider networks
+- Higher copays/coinsurance when you use services
+- Must get referrals for specialists
+- Coverage varies by plan
+- Can be hard to switch plans
+
+## Enrollment
+
+**Initial Enrollment Period**:
+- 7 months around your 65th birthday (3 before, month of, 3 after)
+- Missing this deadline = permanent penalty (1% extra per month delayed)
+
+**Automatic enrollment**:
+- If you get SSDI, you're automatically enrolled in Parts A & B 24 months after SSDI starts
+
+**Late enrollment penalties**:
+- Missing enrollment deadlines = permanent cost increases
+- Only exceptions: qualifying life events, creditable coverage from employer
+
+**Changing plans**:
+- Annual Enrollment Period: October 15 - December 7
+- Can switch between Original Medicare and Medicare Advantage
+- Can change Part D plans
+
+## Paying for Medicare
+
+Medicare costs vary based on:
+
+**Your income**:
+- Higher income = higher premiums
+- Income thresholds determined by CMS
+
+**Your coverage choice**:
+- Original Medicare + Supplement insurance: Higher monthly cost
+- Medicare Advantage: Often lower monthly premium
+
+**Prescription drugs**:
+- Part D premium varies
+- Donut hole coverage gap affects costs
+
+**Low-income help**:
+- Qualified Medicare Beneficiary (QMB): Covers Part B premium
+- Specified Low-Income Medicare Beneficiary (SLMB): Covers Part B premium
+- Medicaid (in some states) covers cost-sharing
+- Extra Help program for Part D: Reduced drug costs
+
+## Medicare Advantage vs. Original Medicare
+
+| Feature | Original Medicare | Medicare Advantage |
+|---------|-------------------|-------------------|
+| **Provider choice** | Go to any doctor | Network doctors only |
+| **Referrals** | Don't need referrals | Often need referrals |
+| **Out-of-pocket maximum** | None (can be unlimited) | Usually has maximum |
+| **Prescription drugs** | Part D separate | Often included |
+| **Extra benefits** | No | Sometimes (dental, vision) |
+| **Switching** | Can switch any time | Limited to enrollment periods |
+| **Cost predictability** | Varies by service | More predictable |
+
+## Supplemental Insurance (Medigap)
+
+Supplemental insurance helps pay costs Medicare doesn't cover.
+
+**Who should get it**:
+- If on Original Medicare
+- Have predictable healthcare costs
+- Want coverage predictability
+
+**Plans A-N**: Different levels of coverage
+
+**Cost**: $100-$300+ per month depending on plan
+
+**Where to buy**: Private insurance companies (Medicare.gov has tool)
+
+## Medicaid and Medicare
+
+**Medicare + Medicaid (Dual Eligible)**:
+- If you qualify for both, you get benefits from both
+- Medicare is primary
+- Medicaid covers cost-sharing and fills gaps
+- States run Medicaid, so coverage varies
+
+**Interactions**:
+- Eligibility for each determined separately
+- Income and resource limits different
+- Both can cover same service (usually Medicare pays first)
+
+## Working While on Medicare
+
+If you work before 65 and become disabled:
+
+**Before 24 months of SSDI**:
+- Work incentives let you earn without losing SSDI
+- Trial Work Period: 9 months of unlimited earnings
+- Medicaid continuation possible
+- Extended eligibility period
+
+**After 24 months (when Medicare starts)**:
+- Medicare continues even if you work and earn above SSDI limit
+- Healthcare covered even if SSDI stops due to work
+
+## Disability-Specific Medicare Considerations
+
+**Disabled people on Medicare often**:
+- Need more healthcare than general population
+- Have complicated medical needs
+- May need assistive technology and equipment
+- May need mental health and behavioral health services
+- May need home health care
+
+**Things to understand**:
+- Medicare has specific rules for medical equipment
+- Prior authorization often required
+- Coverage can be complex
+- Appeals possible if coverage denied
+
+## Appealing Medicare Denial
+
+If Medicare denies a service or medication:
+
+**Process**:
+1. **Reconsideration**: Request within 180 days
+2. **Hearing**: Administrative Law Judge hears case
+3. **Appeals Council**: Medicare's appeals council reviews
+4. **Federal Court**: Can file lawsuit in federal court
 
 **Getting help**:
-- Free from legal aid organizations
-- Free from disability advocates
-- Can hire lawyer (can charge percentage of past-due benefits)
-- Some organizations do pro bono work
+- Medicare.gov has appeal forms
+- Patient advocates available
+- Legal aid organizations
+- Medicare beneficiary counseling (free, in every state)
 
-## Living Situation and SSI
+**What helps**:
+- Medical documentation
+- Doctor's statement about medical necessity
+- Evidence policy decision was wrong
+- Patient advocate assistance
 
-Where you live affects your SSI payment:
+## Finding Doctors and Services
 
-**If you live with parents or other family**:
-- Benefit may be reduced (in-kind support and maintenance)
-- Amount depends on situation
-- Varies by circumstance
+**Medicare.gov search tool**: Find doctors accepting Medicare
 
-**If you live independently**:
-- Full SSI payment (minus other income)
+**Questions to ask**:
+- Do you accept Medicare?
+- What's your copay/coinsurance?
+- Do you take Medicare Advantage plans (if you're on MA)?
+- How do I get a referral if needed?
 
-**If you're homeless**:
-- Still eligible for SSI
-- Payment goes to representative payee (trusted person)
-- Medicaid continues
+**Mental health**: Mental health professionals may be limited
+- Find providers at Medicare.gov
+- May have copays or coinsurance
+- Different rates for individual vs. group therapy
 
-**If you live in group home**:
-- Depends on home type
-- Some group homes run by nonprofits (payment isn't reduced)
-- Some private arrangements (may be reduced)
+## Medication Coverage
 
-## Combined Benefits
+**Part D (prescription drugs)**:
+- Compare plans at Medicare.gov
+- Different plans cover different drugs
+- Copays vary by "tier"
+- Check if your medications covered before enrolling
 
-You can receive SSI and:
-- SSDI (if both eligible)
-- VA benefits (no limit)
-- SSI + one counts toward the other's limits
-- Workers' compensation (can affect SSI)
-- Other assistance programs (usually allowed)
+**Costs during coverage gap** ("donut hole"):
+- You pay negotiated price for drugs
+- After spending $4,150 total on drugs (2024)
+- Coverage resumes after $7,050 total out-of-pocket
+- Manufacturer discounts help some people
 
-**Overpayment issue**: If you're overpaid, Social Security may recover it. Understanding how benefits combine helps avoid this.
+**Low-income help**:
+- Extra Help program: Reduced Part D costs
+- Medicaid (in dual-eligible states)
+- Manufacturer patient assistance programs
 
-## Reporting Changes
+## Assistive Technology and Medical Equipment
 
-You must report changes within 10 days:
-- Change in income
-- Change in resources
-- Change in living situation
-- Marriage or divorce
-- Death of someone in household
-- Work changes
-- Medical improvement
+Medicare covers assistive technology and medical equipment when:
+- Doctor orders it as medically necessary
+- Specific requirements met (varies by item)
+- Usually Part B (20% coinsurance after deductible)
 
-**Failure to report** can result in:
-- Overpayment you have to repay
-- Loss of benefits
-- Fraud investigation
+**Examples**:
+- Wheelchairs and scooters
+- CPAP machines
+- Oxygen
+- Walkers and canes
+- Bathroom safety equipment
+- Speech-generating devices (sometimes)
 
-Many people report online through my Social Security account.
+**Requirements**:
+- Prescription from doctor
+- Often prior authorization needed
+- Specific supplier requirements
+- May have rental vs. purchase rules
 
 ## Advocacy and Support
 
-**Getting help navigating SSI**:
+**Getting help**:
+- State Health Insurance Assistance Program (SHIP): Free counseling (1-800-MEDICARE)
+- Medicare.gov: Comprehensive information
 - Disability Rights organizations
-- Legal aid (free legal help for low-income)
-- Accredited representatives (Social Security approved)
-- Pro bono lawyers
-- Disability advocates
-- WIPA programs (free benefits planning)
+- Patient advocates
 
-**Organizations**:
-- [National Disability Rights Network →](https://www.ndrn.org)
-- [Legal Aid Society →](https://www.legal-aid.org)
-- [Disability Rights Education & Defense Fund (DREDF) →](https://dredf.org)
-- Find local disability advocacy: Search "[your state] disability rights"
+**Dispute coverage**:
+- Medicare beneficiary ombudsman
+- Legal aid organizations
+- Disability advocacy groups
+- Patient advocates
 
-## SSI vs. SSDI: Key Differences
+## Common Medicare Myths
 
-| Feature | SSI | SSDI |
-|---------|-----|------|
-| **Based on** | Need (income/resources) | Work history |
-| **Requires** | Income below limit | Work history/quarters |
-| **Amount** | Fixed federal + state | Based on earnings record |
-| **Medicaid** | Automatic | In most states, must qualify separately |
-| **Work** | Limited earnings allowed | More generous work incentives |
-| **Family help** | "In-kind support" reduces benefit | Doesn't affect benefit |
+**Myth**: "Medicare covers everything"
+**Truth**: Medicare has gaps; coinsurance, deductibles, and uncovered services mean costs
 
-## Common SSI Myths
+**Myth**: "You can only get Medicare at 65"
+**Truth**: Disabled people can get it earlier if they meet requirements
 
-**Myth**: "I can't work at all on SSI"
-**Truth**: You can work and earn ~$1,200/month and still get some SSI
+**Myth**: "I lose Medicare if I work"
+**Truth**: Medicare continues; working may stop SSDI but Medicare continues
 
-**Myth**: "SSI is permanent once you get it"
-**Truth**: Social Security periodically reviews; if you improve, benefits can end
+**Myth**: "Original Medicare is always better"
+**Truth**: Medicare Advantage works better for some people; depends on needs and budget
 
-**Myth**: "If I get married, I lose SSI"
-**Truth**: You don't lose SSI, but spouse's income counts toward your limit
-
-**Myth**: "Gifts count as income"
-**Truth**: Most gifts don't count; only $20/month of gifts count
-
-**Myth**: "I can't save money on SSI"
-**Truth**: You can save up to $2,000; also PASS plan lets you save for work goal
+**Myth**: "I can change Medicare plans anytime"
+**Truth**: Generally limited to annual enrollment periods; exceptions for life events
 
 ## Next Steps
 
-1. **Check if you qualify**: Use SSA.gov tool or call 1-800-772-1213
-2. **Gather documents**: Get medical records, proof of income/resources
-3. **Apply**: Online, by phone, or in person
-4. **Follow up**: Check status, provide additional information if requested
-5. **Get help**: Contact disability advocates if denied or need support
+1. **Check eligibility**: Call 1-800-MEDICARE or visit Medicare.gov
+2. **Understand your options**: Compare Original Medicare vs. Medicare Advantage
+3. **Enroll during correct period**: Don't miss deadlines (permanent penalties)
+4. **Choose prescription drug plan**: Part D required if taking medications
+5. **Get help**: Call for free counseling if confused
 
 ---
 
-## Contributing SSI Resources
+## Contributing Medicare Resources
 
-Have you navigated SSI? Know about resources that should be included? Have lived experience?
+Have you navigated Medicare as a disabled person? Know about resources that should be included? Have coverage tips?
 
-We welcome contributions from SSI recipients, disability advocates, legal professionals, and others helping disabled people access benefits.
+We welcome contributions from disabled Medicare beneficiaries, healthcare advocates, and Medicare specialists.
 
 [Contribute →](https://forms.gle/YJFxFGrK3cZs1VKi8)
 
@@ -343,4 +357,4 @@ We welcome contributions from SSI recipients, disability advocates, legal profes
 **Last updated**: [Date]  
 **Maintained by**: DisabilityWiki Benefits Team  
 **Questions or feedback?** [Contact us →](/about/contact)  
-**Need immediate help?** Call Social Security: 1-800-772-1213 (TTY: 1-800-325-0778)
+**Need immediate help?** Call Medicare: 1-800-MEDICARE (1-800-633-4227) | TTY: 1-877-486-2048
