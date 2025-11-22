@@ -2,7 +2,7 @@
 title: Disability Wiki
 description: 
 published: true
-date: 2025-11-22T00:14:06.775Z
+date: 2025-11-22T00:18:36.871Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T13:10:00.897Z
@@ -44,14 +44,14 @@ DisabilityWiki exists to centralize disability resources, promote accessibility 
 ## Get Started (First Time Here?)
 
 **New to this wiki? Start here:**
-- [[foundations/index]]
-- [[foundations/how-to-use-this-wiki]]
+- [Foundations Overview](/foundations/index)
+- [How to Use This Wiki](/foundations/how-to-use-this-wiki)
 
 **Want foundational concepts? Try:**
-- [[foundations/what-is-disability]] — Understanding disability beyond the medical model
-- [[foundations/disability-models]] — Social, medical, human rights, and disability justice frameworks
-- [[foundations/language-terminology-identity]] — Plain-language guide to disability language
-- [[foundations/for-allies]] — How to support disabled people respectfully
+- [What Is Disability?](/foundations/what-is-disability) — Understanding disability beyond the medical model
+- [Disability Models](/foundations/disability-models) — Social, medical, human rights, and disability justice frameworks
+- [Language & Terminology](/foundations/language-terminology-identity) — Plain-language guide to disability language
+- [For Allies](/foundations/for-allies) — How to support disabled people respectfully
 
 ---
 
@@ -59,103 +59,103 @@ DisabilityWiki exists to centralize disability resources, promote accessibility 
 
 ### Immediate Help
 
-[[crisis/index]] — Hotlines, emergency support, and safety resources
+[Crisis Resources](/crisis/index) — Hotlines, emergency support, and safety resources
 
 ### Legal Rights & Advocacy
 
-[[rights/index]] — Disability laws, protections, and how to file complaints
-- [[rights/us/ada]]
-- [[rights/us/section-504]]
-- [[rights/us/fair-housing-act]]
-- [[rights/international-rights]]
+[Your Rights & Laws](/rights/index) — Disability laws, protections, and how to file complaints
+- [Americans with Disabilities Act (ADA)](/rights/us/ada)
+- [Section 504](/rights/us/section-504)
+- [Fair Housing Act](/rights/us/fair-housing-act)
+- [International Rights](/rights/international-rights)
 
 ### Money & Benefits
 
-[[benefits/index]] — Navigating assistance programs
-- [[benefits/us-ssdi]]
-- [[benefits/us-ssi]]
-- [[benefits/us-medicaid]]
-- [[benefits/us-state-benefits]]
-- [[benefits/us-snap]]
+[Benefits & Financial Support](/benefits/index) — Navigating assistance programs
+- [SSDI](/benefits/us-ssdi)
+- [SSI](/benefits/us-ssi)
+- [Medicaid](/benefits/us-medicaid)
+- [State Benefits](/benefits/us-state-benefits)
+- [SNAP / Food Assistance](/benefits/us-snap)
 
 ### Housing & Independent Living
 
-[[housing/index]] — Finding accessible homes and services
-- [[housing/accessible-housing-search-guide]]
-- [[housing/home-modifications]]
-- [[housing/independent-living-philosophy-and-centers]]
+[Housing & Independent Living](/housing/index) — Finding accessible homes and services
+- [Accessible Housing Search Guide](/housing/accessible-housing-search-guide)
+- [Home Modifications](/housing/home-modifications)
+- [Independent Living Philosophy & Centers](/housing/independent-living-philosophy-and-centers)
 
 ### Health & Medical Care
 
-[[healthcare/index]] — Healthcare navigation and patient rights
-- [[healthcare/accessible-healthcare]]
-- [[healthcare/insurance-navigation]]
-- [[healthcare/mental-health]]
-- [[healthcare/medical-equipment-and-at]]
+[Health & Medical Access](/healthcare/index) — Healthcare navigation and patient rights
+- [Finding Accessible Healthcare](/healthcare/accessible-healthcare)
+- [Insurance Navigation](/healthcare/insurance-navigation)
+- [Mental Health Resources](/healthcare/mental-health)
+- [Medical Equipment & Assistive Tech](/healthcare/medical-equipment-and-at)
 
 ### Education
 
-[[education/index]] — School, college, and lifelong learning
-- [[education/k12-education]]
-- [[education/higher-education]]
-- [[education/transition-to-adulthood]]
+[Education & Learning](/education/index) — School, college, and lifelong learning
+- [K-12 Education Rights](/education/k12-education)
+- [Higher Education](/education/higher-education)
+- [Transition to Adulthood](/education/transition-to-adulthood)
 
 ### Work & Employment
 
-[[employment/index]] — Job accommodations, disclosure, and disability-friendly employers
-- [[employment/job-searching-with-a-disability]]
-- [[employment/workplace-accommodations]]
-- [[employment/supported-employment-and-voc-rehab]]
+[Work & Employment](/employment/index) — Job accommodations, disclosure, and disability-friendly employers
+- [Job Searching with a Disability](/employment/job-searching-with-a-disability)
+- [Workplace Accommodations](/employment/workplace-accommodations)
+- [Supported Employment & Vocational Rehab](/employment/supported-employment-and-voc-rehab)
 
 ### Mobility & Transportation
 
-[[transport/index]] — Getting around & mobility rights
-- [[transport/public-transit-rights]]
-- [[transport/air-travel-rights]]
-- [[transport/mobility-aids]]
+[Mobility & Transportation](/transport/index) — Getting around & mobility rights
+- [Public Transit Rights](/transport/public-transit-rights)
+- [Air Travel Rights](/transport/air-travel-rights)
+- [Mobility Aids](/transport/mobility-aids)
 
 ### Assistive Technology
 
-[[tech/index]] — Accessibility tools and devices
-- [[tech/web-accessibility]]
-- [[tech/mobile-and-os-accessibility]]
-- [[tech/communication-access-and-aac]]
+[Assistive Technology](/tech/index) — Accessibility tools and devices
+- [Web Accessibility](/tech/web-accessibility)
+- [Mobile & OS Accessibility](/tech/mobile-and-os-accessibility)
+- [Communication Access & AAC](/tech/communication-access-and-aac)
 
 ### Relationships, Parenting & Daily Living
 
-- [[relationships/index]]
-- [[daily-living/index]]
+- [Relationships & Family](/relationships/index)
+- [Daily Living](/daily-living/index)
 
 ### Specific Disabilities
 
-[[conditions/index]] — Condition-specific insights
-- [[conditions/physical-disabilities]]
-- [[conditions/sensory-disabilities]]
-- [[conditions/chronic-illness]]
-- [[conditions/neurodivergence]]
-- [[conditions/psychiatric-and-psychosocial-disability]]
-- [[conditions/invisible-disabilities]]
+[Specific Disabilities](/conditions/index) — Condition-specific insights
+- [Physical Disabilities](/conditions/physical-disabilities)
+- [Sensory Disabilities](/conditions/sensory-disabilities)
+- [Chronic Illness](/conditions/chronic-illness)
+- [Neurodivergence](/conditions/neurodivergence)
+- [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability)
+- [Invisible Disabilities](/conditions/invisible-disabilities)
 
 ### Intersectionality
 
-[[intersectionality/index]] — Disability across identities
-- [[intersectionality/race-and-disability]]
-- [[intersectionality/gender-and-disability]]
-- [[intersectionality/lgbtq-and-disability]]
-- [[intersectionality/poverty-and-class]]
-- [[intersectionality/indigenous-disability-perspectives]]
+[Intersectionality](/intersectionality/index) — Disability across identities
+- [Race & Disability](/intersectionality/race-and-disability)
+- [Gender & Disability](/intersectionality/gender-and-disability)
+- [LGBTQ+ & Disability](/intersectionality/lgbtq-and-disability)
+- [Poverty & Class](/intersectionality/poverty-and-class)
+- [Indigenous Disability Perspectives](/intersectionality/indigenous-disability-perspectives)
 
 ### Community & Activism
 
-[[community/index]] — Support networks & advocacy
-- [[get-involved/index]]
+[Community & Activism](/community/index) — Support networks & advocacy
+- [Get Involved](/get-involved/index)
 
 ### Library
 
-[[media/index]] — Books, films, creators
-- [[media/books]]
-- [[media/documentaries-and-films]]
-- [[media/disabled-creators-directory]]
+[Library](/media/index) — Books, films, creators
+- [Books](/media/books)
+- [Documentaries & Films](/media/documentaries-and-films)
+- [Disabled Creators Directory](/media/disabled-creators-directory)
 
 ---
 
@@ -191,7 +191,7 @@ This wiki aims for WCAG 2.1 AA:
 - Alt text
 - Keyboard-friendly navigation
 
-**Report issues:** [[glossary/editorial-guidelines]]
+**Report issues:** [Editorial Guidelines](/glossary/editorial-guidelines)
 
 ---
 
@@ -205,7 +205,7 @@ We welcome contributors from everywhere.
 - Help with accessibility
 - Join community discussions
 
-[[get-involved/index]]
+[How to Get Involved](/get-involved/index)
 
 ---
 
@@ -217,17 +217,17 @@ We welcome contributors from everywhere.
 - Keyboard navigable
 - Plain language emphasis
 
-**Report issues:** [[glossary/editorial-guidelines]]
+**Report issues:** [Editorial Guidelines](/glossary/editorial-guidelines)
 
 ---
 
 ## Footer
 
-- [[Start]]
-- [[foundations/how-to-use-this-wiki]]
-- [[get-involved/index]]
-- [[Accessibility Statement]]
-- [[glossary/index]]
+- [Start](/index)
+- [How to Use This Wiki](/foundations/how-to-use-this-wiki)
+- [Get Involved](/get-involved/index)
+- [Accessibility Statement](/accessibility-statement)
+- [Glossary](/glossary/index)
 
 **"Nothing About Us Without Us."**
 
