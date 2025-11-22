@@ -2,7 +2,7 @@
 title: Disability Models
 description: 
 published: true
-date: 2025-11-20T18:44:43.884Z
+date: 2025-11-22T15:57:57.252Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-16T20:19:54.035Z
