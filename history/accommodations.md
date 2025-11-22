@@ -2,7 +2,7 @@
 title: History of Accommodations
 description: 
 published: true
-date: 2025-11-22T16:05:48.935Z
+date: 2025-11-22T16:05:53.287Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-18T17:24:44.852Z

@@ -2,7 +2,7 @@
 title:  Glossary & Contribution
 description: 
 published: true
-date: 2025-11-22T13:43:33.900Z
+date: 2025-11-22T13:43:38.294Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:01:38.241Z

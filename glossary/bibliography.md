@@ -2,7 +2,7 @@
 title: Bibliography
 description: 
 published: true
-date: 2025-11-21T18:10:44.285Z
+date: 2025-11-21T18:10:48.450Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:00:52.702Z

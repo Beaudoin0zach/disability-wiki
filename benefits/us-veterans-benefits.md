@@ -2,7 +2,7 @@
 title: Veterans’ Disability Benefits (U.S.)
 description: 
 published: true
-date: 2025-11-22T16:04:10.887Z
+date: 2025-11-22T16:04:15.031Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:48:37.803Z

@@ -2,7 +2,7 @@
 title: Accessibility Statement
 description: 
 published: true
-date: 2025-11-22T15:56:58.720Z
+date: 2025-11-22T15:57:03.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-16T20:38:42.600Z

@@ -2,7 +2,7 @@
 title: What Is Disability?
 description: Different ways disability is defined by people, movements, and laws. 
 published: true
-date: 2025-11-21T20:07:29.326Z
+date: 2025-11-21T20:07:33.621Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:59:05.284Z

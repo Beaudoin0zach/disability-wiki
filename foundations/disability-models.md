@@ -2,7 +2,7 @@
 title: Disability Models
 description: Medical, social, biopsychosocial, charity, moral, and disability justice models explained.
 published: true
-date: 2025-11-21T20:08:30.564Z
+date: 2025-11-21T20:08:34.692Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:57:57.640Z

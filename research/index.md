@@ -2,7 +2,7 @@
 title: Research Index
 description: 
 published: true
-date: 2025-11-22T13:40:36.662Z
+date: 2025-11-22T13:40:40.795Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:13:21.602Z

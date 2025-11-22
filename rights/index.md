@@ -2,7 +2,7 @@
 title: Rights & Laws
 description: 
 published: true
-date: 2025-11-22T13:31:14.668Z
+date: 2025-11-22T13:31:19.301Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:14:17.352Z

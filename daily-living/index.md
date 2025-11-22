@@ -2,7 +2,7 @@
 title: Daily Living
 description: Practical life, from personal care and cooking to travel, sports, and pets.
 published: true
-date: 2025-11-22T13:35:04.229Z
+date: 2025-11-22T13:35:10.016Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:54:45.693Z

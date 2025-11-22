@@ -2,7 +2,7 @@
 title: Digital Disability Justice
 description: 
 published: true
-date: 2025-11-21T18:06:01.397Z
+date: 2025-11-21T18:06:05.015Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:15:34.134Z

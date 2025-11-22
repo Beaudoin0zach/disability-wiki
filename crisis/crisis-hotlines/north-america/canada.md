@@ -2,7 +2,7 @@
 title: Crisis Hotlines in Canada
 description: 
 published: true
-date: 2025-11-22T15:46:36.757Z
+date: 2025-11-22T15:46:41.431Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-16T22:06:37.732Z

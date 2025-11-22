@@ -2,7 +2,7 @@
 title: Emergency and Disaster Preparedness
 description: Planning for emergencies and climate disasters when you or your community members are disabled.
 published: true
-date: 2025-11-21T23:26:46.687Z
+date: 2025-11-21T23:26:50.664Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:53:10.296Z

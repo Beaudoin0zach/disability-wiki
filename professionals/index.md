@@ -2,7 +2,7 @@
 title: Professionals Index
 description: 
 published: true
-date: 2025-11-22T13:42:56.779Z
+date: 2025-11-22T13:43:00.910Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:10:19.365Z

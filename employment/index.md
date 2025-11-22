@@ -2,7 +2,7 @@
 title: Employment & Work
 description: Job searching, workplace accommodations, supported employment, and self-employment for disabled people.
 published: true
-date: 2025-11-22T13:33:57.338Z
+date: 2025-11-22T13:34:02.406Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:57:01.739Z

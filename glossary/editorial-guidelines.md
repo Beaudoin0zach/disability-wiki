@@ -2,7 +2,7 @@
 title: Editorial & Style Guidelines
 description: 
 published: true
-date: 2025-11-21T18:12:55.996Z
+date: 2025-11-21T18:12:59.833Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:01:15.781Z

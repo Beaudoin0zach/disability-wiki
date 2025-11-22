@@ -2,7 +2,7 @@
 title: What is Disability
 description: 
 published: true
-date: 2025-11-22T16:01:21.046Z
+date: 2025-11-22T16:01:25.471Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-16T20:18:11.804Z

@@ -2,7 +2,7 @@
 title: Technology & Digital Access
 description: 
 published: true
-date: 2025-11-22T13:35:32.785Z
+date: 2025-11-22T13:35:37.720Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:15:56.968Z

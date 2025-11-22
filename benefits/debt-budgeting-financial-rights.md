@@ -2,7 +2,7 @@
 title: Debt, Budgeting & Financial Rights
 description: 
 published: true
-date: 2025-11-21T17:57:23.550Z
+date: 2025-11-21T17:57:27.459Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:45:28.342Z

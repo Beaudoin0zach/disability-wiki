@@ -2,7 +2,7 @@
 title: Education
 description: Disability and education from early intervention through adult and continuing education.
 published: true
-date: 2025-11-22T13:33:34.437Z
+date: 2025-11-22T13:33:39.326Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:56:04.157Z

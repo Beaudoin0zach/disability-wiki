@@ -2,7 +2,7 @@
 title: Crisis Hotlines in the United Kingdom
 description: 
 published: true
-date: 2025-11-22T15:44:05.706Z
+date: 2025-11-22T15:44:10.484Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-16T22:07:55.637Z

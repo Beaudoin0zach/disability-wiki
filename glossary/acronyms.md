@@ -2,7 +2,7 @@
 title: Acronyms
 description: 
 published: true
-date: 2025-11-21T18:09:56.701Z
+date: 2025-11-21T18:10:00.440Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:00:41.150Z

@@ -2,7 +2,7 @@
 title: Citation Guide
 description: 
 published: true
-date: 2025-11-21T18:11:25.824Z
+date: 2025-11-21T18:11:29.552Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:01:04.313Z

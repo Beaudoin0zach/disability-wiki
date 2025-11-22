@@ -2,7 +2,7 @@
 title:  Regions & Country Guides
 description: Disability resources and systems by country and region.
 published: true
-date: 2025-11-21T23:35:40.122Z
+date: 2025-11-21T23:35:42.921Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:10:53.594Z

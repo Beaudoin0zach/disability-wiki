@@ -2,7 +2,7 @@
 title:  Language, Terminology, and Identity
 description: Person-first vs. identity-first language, reclaimed terms, and why wording matters. 
 published: true
-date: 2025-11-21T20:10:36.705Z
+date: 2025-11-21T20:10:40.804Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:58:43.024Z

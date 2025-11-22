@@ -2,7 +2,7 @@
 title: Mobile & Operating System Accessibility
 description: 
 published: true
-date: 2025-11-21T18:03:02.730Z
+date: 2025-11-21T18:03:06.848Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:16:08.439Z

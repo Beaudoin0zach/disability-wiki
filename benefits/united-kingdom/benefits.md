@@ -2,7 +2,7 @@
 title: Disability Benefits – United Kingdom
 description: 
 published: true
-date: 2025-11-22T15:32:09.529Z
+date: 2025-11-22T15:32:13.369Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:46:28.414Z

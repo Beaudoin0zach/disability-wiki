@@ -2,7 +2,7 @@
 title: Media, Arts & Culture Index
 description: 
 published: true
-date: 2025-11-22T13:39:54.619Z
+date: 2025-11-22T13:39:58.896Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:08:11.394Z

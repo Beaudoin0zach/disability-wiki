@@ -2,7 +2,7 @@
 title: Web Accessibility
 description: 
 published: true
-date: 2025-11-21T18:02:25.684Z
+date: 2025-11-21T18:02:29.340Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:16:29.785Z

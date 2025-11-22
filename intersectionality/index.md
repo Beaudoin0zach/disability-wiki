@@ -2,7 +2,7 @@
 title: Intersectionality Index
 description: 
 published: true
-date: 2025-11-22T13:39:08.040Z
+date: 2025-11-22T13:39:13.081Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:05:54.605Z

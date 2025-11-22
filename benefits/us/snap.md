@@ -2,7 +2,7 @@
 title: SNAP – Food Assistance (U.S.)
 description: 
 published: true
-date: 2025-11-22T15:34:41.145Z
+date: 2025-11-22T15:34:44.860Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:47:40.640Z

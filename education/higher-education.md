@@ -1,5 +1,11 @@
 ---
 title: uhuiuguhueuru ueuduuucuautuiuoun
+description: 
+published: true
+date: 2025-11-20T23:05:55.364Z
+tags: 
+editor: markdown
+dateCreated: 2025-11-20T18:55:52.801Z
 ---
 
 # uhuiuguhueuru ueuduuucuautuiuoun

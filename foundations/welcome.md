@@ -2,7 +2,7 @@
 title: Welcome to DisabilityWiki
 description: An introduction to what this project is, who it’s for, and how it’s built.
 published: true
-date: 2025-11-21T20:05:25.410Z
+date: 2025-11-21T20:05:29.364Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:58:54.081Z

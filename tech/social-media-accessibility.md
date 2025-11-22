@@ -2,7 +2,7 @@
 title: Social Media Accessibility
 description: 
 published: true
-date: 2025-11-21T18:05:20.296Z
+date: 2025-11-21T18:05:23.849Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:16:18.915Z
