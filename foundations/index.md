@@ -2,7 +2,7 @@
 title: Foundations
 description: description: Core concepts, language, and frameworks for understanding disability and disability justice. 
 published: true
-date: 2025-11-21T20:04:21.644Z
+date: 2025-11-22T00:41:31.844Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:58:31.530Z
@@ -10,42 +10,79 @@ dateCreated: 2025-11-20T18:58:31.530Z
 
 # Foundations
 
-This section introduces the core ideas behind DisabilityWiki.  
-It’s meant to be readable for people who are:
+Welcome to the Disability Wiki's foundational section. These pages help you understand the core concepts, language, and frameworks that shape this entire resource. Start here to learn disability terminology, different models of disability, and how to navigate this community-centered space.
 
-- Newly disabled or newly identifying as disabled
-- Family, friends, or partners of disabled people
-- Professionals who want to unlearn ableist assumptions
-- Long-time community members who want a quick reference or teaching resource
+## About This Section
 
-If you only read one part of the wiki before exploring deeper, let it be this section.
+This section provides orientation and essential background for understanding disability from a rights-based, justice-centered perspective. Whether you're newly disabled, supporting someone who is, or just learning, these pages build a shared vocabulary and help you understand why language and frameworks matter.
+
+All pages in this section are written in plain language and are accessible to people with different learning styles, sensory needs, and attention capacities.
+
+## Pages in This Section
+
+### [Welcome to the Disability Wiki](/foundations/welcome)
+
+Your starting point. Learn how to navigate this resource, what accessibility features are available, and community guidelines for this space.
+
+### [How to Use This Wiki](/foundations/how-to-use-this-wiki)
+
+Practical guidance on navigating the wiki, using search, finding information in your language or region, and accessibility options including screen reader mode and high contrast viewing.
+
+### [What Is Disability?](/foundations/what-is-disability)
+
+Explore different definitions of disability across cultures, legal systems, and communities. Disability as identity, lived experience, social position, and collective culture.
+
+### [Disability Models](/foundations/disability-models)
+
+Understand the major frameworks for thinking about disability: Medical Model, Social Model, Biopsychosocial Model, Human Rights Model, Disability Justice, Neurodiversity Paradigm, and Independent Living Philosophy.
+
+### [Language, Terminology & Identity](/foundations/language-terminology-identity)
+
+Learn why language matters. Covers identity-first vs. person-first language, terms to avoid, culturally specific language from Deaf, Autistic, AAC-using, and Mad communities, and how language reflects power and autonomy.
+
+### [Disability Culture](/foundations/disability-culture)
+
+Disability is not just a medical condition—it's a culture. Explore disability arts, community traditions, online and offline cultures, collective history, symbols, and what disability pride means.
+
+### [For Allies](/foundations/for-allies)
+
+If you're supporting disabled people, learn how to listen, advocate, and avoid common mistakes. Covers etiquette, microaggressions, how to intervene against ableism, and supporting autonomy over pity.
 
 ---
 
-## What you’ll find here
+## Quick Links by Need
 
-- **Welcome** – Why this wiki exists and how we hope it will be used.
-- **How to Use This Wiki** – Practical tips for searching, navigating, and contributing.
-- **What Is Disability?** – Multiple ways people, movements, and laws define disability.
-- **Disability Models** – Medical, social, biopsychosocial, disability justice, and more.
-- **Language, Terminology, and Identity** – Person-first, identity-first, reclaimed slurs, and why language debates matter.
-- **Disability Culture** – Community, art, humor, history, and shared ways of surviving.
-- **For Allies** – How to show up without taking over.
+**I'm newly disabled and overwhelmed**
+Start with [What Is Disability?](/foundations/what-is-disability) and [Language, Terminology & Identity](/foundations/language-terminology-identity)
 
-Each page is written to:
+**I want to support a disabled person**
+Read [For Allies](/foundations/for-allies) and [Disability Culture](/foundations/disability-culture)
 
-1. Avoid medicalizing disability as a personal tragedy.
-2. Acknowledge that many people live at the intersections of disability, race, class, gender, migration status, and more.
-3. Make space for disagreement inside disability communities. There is no single “correct” way to be disabled.
+**I need to understand different frameworks**
+Go to [Disability Models](/foundations/disability-models)
+
+**I'm not sure what language to use**
+Check [Language, Terminology & Identity](/foundations/language-terminology-identity)
 
 ---
 
-## How to read this section
+## How This Section Uses Different Accessibility Approaches
 
-You can:
+- **Screen reader friendly**: Clear heading hierarchy, descriptive link text, no reliance on visual layout
+- **Neurodivergent-friendly**: Sections broken into chunks, plain language, bullet points for quick scanning
+- **Plain language**: Complex concepts explained without jargon; where jargon is necessary, it's defined
+- **Low-sensory options**: High contrast mode available; pages avoid flashing, auto-playing content, or sudden sounds
 
-- **Read straight through** if you want a mini-orientation.
-- **Dip into the topics you need** (for example, going straight to “For Allies” or “Language”).
-- **Use it as a teaching tool** – print or share individual pages for family, classmates, or coworkers.
+---
 
-If something here doesn’t match your experience, you are invited to add nuance, examples, and critiques. This is a living project.
+## Contributing to Foundations
+
+Have lived experience or expertise that could strengthen these pages? We welcome contributions from disabled people, especially from communities underrepresented in mainstream disability discourse.
+
+[Learn how to contribute →](/glossary/how-to-contribute)
+
+---
+
+**Last updated**: [Date]  
+**Maintained by**: DisabilityWiki Community  
+**Questions or feedback?** [Contact us →](/about/contact)
