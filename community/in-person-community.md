@@ -2,7 +2,7 @@
 title: In-Person Community
 description: 
 published: true
-date: 2025-11-22T23:16:30.574Z
+date: 2025-11-22T23:16:35.225Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:49:07.689Z

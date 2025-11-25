@@ -2,7 +2,7 @@
 title: Exercise and Adaptive Sports
 description: 
 published: true
-date: 2025-11-22T23:09:25.604Z
+date: 2025-11-22T23:09:30.069Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:54:22.707Z

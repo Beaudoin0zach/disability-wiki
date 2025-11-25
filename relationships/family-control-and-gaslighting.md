@@ -2,7 +2,7 @@
 title: Family Control and Gaslighting
 description: 
 published: true
-date: 2025-11-22T23:22:35.682Z
+date: 2025-11-22T23:22:40.187Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-22T23:22:35.682Z

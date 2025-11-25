@@ -2,7 +2,7 @@
 title: Medical Gaslighting and Healthcare Trauma
 description: 
 published: true
-date: 2025-11-22T23:20:22.587Z
+date: 2025-11-22T23:20:27.048Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-22T23:20:22.587Z

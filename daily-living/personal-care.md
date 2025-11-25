@@ -2,7 +2,7 @@
 title: Personal Care
 description: 
 published: true
-date: 2025-11-22T16:18:45.043Z
+date: 2025-11-22T16:18:50.238Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:54:57.234Z

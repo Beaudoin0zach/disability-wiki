@@ -2,7 +2,7 @@
 title: Adult and Continuing Education
 description: 
 published: true
-date: 2025-11-22T16:14:40.428Z
+date: 2025-11-22T16:14:45.067Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:55:31.241Z

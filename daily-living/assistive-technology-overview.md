@@ -2,7 +2,7 @@
 title: Assistive Technology Overview
 description: 
 published: true
-date: 2025-11-22T23:11:25.439Z
+date: 2025-11-22T23:11:29.417Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:53:59.274Z
