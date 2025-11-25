@@ -2,13 +2,13 @@
 title: Disability Culture & Pride
 description: 
 published: true
-date: 2025-11-25T21:40:16.014Z
+date: 2025-11-25T21:47:46.368Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-16T20:22:21.324Z
 ---
 
-# Disability Culture & Pride
+# Disability Culture and Pride
 
 Disability is not just a medical condition or social barrier. It's an identity and culture.
 
