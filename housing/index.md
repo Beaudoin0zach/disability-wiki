@@ -2,322 +2,82 @@
 title: Housing & Living Arrangements
 description: 
 published: true
-date: 2025-11-22T13:33:11.436Z
+date: 2025-11-27T19:53:23.425Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:04:42.469Z
 ---
 
-# Housing & Independent Living
+# Housing and Independent Living
 
-Housing is a right. Yet many disabled people face barriers to accessible housing: discrimination from landlords, inaccessible buildings, unaffordable costs, and lack of accessible options. This section helps you find accessible housing, understand your rights, and access support for independent living.
+For disabled people, housing is about much more than a roof overhead. It's about freedom, dignity, safety, and the ability to participate in community life. Yet housing remains one of the most fundamental barriers disabled people face—from finding accessible units to fighting discrimination to accessing the support needed to live independently.
 
-## About This Section
+This section provides practical guidance on every aspect of housing for disabled people: searching for accessible housing, understanding your legal rights, modifying homes to meet your needs, knowing what landlords must do, addressing homelessness, understanding alternative residential models, and building the independent living that disabled people deserve.
 
-Housing impacts everything: health, employment, education, independence, and safety. Disabled people are overrepresented in homelessness. Many live in segregated group homes or institutions when they could live independently with support.
+## Where are you? Find information for your location
 
-This section centers the principle of Independent Living: disabled people have the right to make decisions about where and with whom we live, to live in the most integrated setting possible, and to receive support that enables independence—not dependence.
+Choose your country or region to find specific housing rights, programs, and resources:
 
-We cover finding accessible housing, accessibility modifications, housing rights, alternatives to institutionalization, and how to get support for independent living.
+- **United States** → See [Housing Rights](/housing/housing-rights.md#united-states), [Home Modifications](/housing/home-modifications.md#united-states), [Accessible Housing Search Guide](/housing/accessible-housing-search-guide.md)
+- **Canada** → See [Housing Rights](/housing/housing-rights.md#canada), [Home Modifications](/housing/home-modifications.md#canada)
+- **European Union & Member States** → See [Housing Rights](/housing/housing-rights.md#european-union), [Home Modifications](/housing/home-modifications.md#european-union)
+- **United Kingdom** → See [Housing Rights](/housing/housing-rights.md#united-kingdom), [Home Modifications](/housing/home-modifications.md#united-kingdom)
+- **Australia** → See [Housing Rights](/housing/housing-rights.md#australia), [Home Modifications](/housing/home-modifications.md#australia)
+- **Other countries** → See [Housing Rights](/housing/housing-rights.md#other-countries), [Home Modifications](/housing/home-modifications.md#other-countries)
 
-## Pages in This Section
-
-### [Accessible Housing Search Guide](/housing/accessible-housing-search-guide)
-
-How to find accessible housing. Covers what "accessible" means, what questions to ask, red flags, accessibility features checklist, housing search platforms, and working with housing agencies.
-
-### [Housing Rights](/housing/housing-rights)
-
-Your rights as a disabled renter or homeowner. Covers the Fair Housing Act, reasonable accommodations (modifications landlord pays for), reasonable modifications (modifications tenant may pay for), discrimination, accessibility standards, and filing complaints.
-
-### [Home Modifications](/housing/home-modifications)
-
-Making your home accessible. Covers common modifications, funding sources (grants, loans, insurance, government programs), working with contractors, universal design principles, and DIY adaptations.
-
-### [Tenants' Rights with Disabilities](/housing/tenants-rights-with-disabilities)
-
-Rights specific to disabled renters. Covers lease negotiations, requesting accommodations, security deposit disputes, retaliation, eviction, and breaking leases for accessibility reasons.
-
-### [Homelessness & Disability](/housing/homelessness-and-disability)
-
-Disability and housing instability. Covers why disabled people experience homelessness, accessing shelter, getting housed, support services, and disability-specific needs in homeless services.
-
-### [Group Homes & Institutions](/housing/group-homes-and-institutions)
-
-Living situations that are not independent. Covers resident rights, recognizing abuse, deinstitutionalization history, alternatives to group homes, and transitioning out of institutions.
-
-### [Independent Living Philosophy & Centers](/housing/independent-living-philosophy-and-centers)
-
-What independent living means and what Independent Living Centers provide. Covers IL philosophy, finding an ILC, IL services, and peer support in housing.
+**New to disability rights and housing?** Start with [International Housing Rights](/housing/international-housing-rights.md) to understand the global frameworks protecting disabled people's right to housing, then navigate to your country/region above.
 
 ---
 
-## Quick Start: Finding Housing
+## Global Framework
 
-### I'm searching for accessible housing
-[Accessible Housing Search Guide →](/housing/accessible-housing-search-guide)
+All disabled people worldwide have the right to live independently in the community with support. This is established by the UN Convention on Rights of Persons with Disabilities (CRPD) Article 19, ratified by 186 countries. See [International Housing Rights](/housing/international-housing-rights.md) for how this translates across different legal systems.
 
-### I need to modify my current home
-[Home Modifications →](/housing/home-modifications)
+## Pages in this section
 
-### My landlord won't provide accessibility
-[Housing Rights →](/housing/housing-rights) and [Tenants' Rights →](/housing/tenants-rights-with-disabilities)
+**[Accessible Housing Search Guide](/housing/accessible-housing-search-guide.md)**
+How to find accessible housing, evaluate accessibility features, use databases and search tools, and navigate the rental process with confidence. See also: [Housing Rights](/housing/housing-rights.md) for discrimination protection.
 
-### I'm experiencing homelessness
-[Homelessness & Disability →](/housing/homelessness-and-disability)
+**[Housing Rights](/housing/housing-rights.md)**
+Your legal protections—starting with international frameworks (CRPD Article 19) that apply globally, then organized by country/region (US, Canada, EU, UK, Australia, other). Find your location and learn what rights exist, how to enforce them, and where to get help. See also: [International Housing Rights](/housing/international-housing-rights.md) for deep dive on global frameworks.
 
-### I'm in a group home or institution
-[Group Homes & Institutions →](/housing/group-homes-and-institutions)
+**[Home Modifications](/housing/home-modifications.md)**
+How to fund modifications, which programs cover costs (including [Medicaid](/benefits/us-medicaid.md) and [VA benefits](/benefits/us-veterans-benefits.md)), tax benefits, finding qualified contractors, and how to request modifications as a tenant.
 
-### I want to understand my housing rights
-[Housing Rights →](/housing/housing-rights)
+**[Tenants' Rights with Disabilities](/housing/tenants-rights-with-disabilities.md)**
+Requesting reasonable accommodations, service animals and support animals (see also [Service Animals](/transport/service-animals.md)), dealing with violations, and protecting yourself from eviction. References [Housing Rights](/housing/housing-rights.md).
 
-### I'm looking for support services
-[Independent Living Centers →](/housing/independent-living-philosophy-and-centers)
+**[Homelessness and Disability](/housing/homelessness-and-disability.md)**
+Understanding housing insecurity, Housing First models, available services, and how disability and homelessness intersect—particularly for marginalized communities. See [Intersectionality: Disability and Homelessness](/intersectionality/disability-and-homelessness.md) for deeper analysis. Related [Crisis Resources](/crisis/index.md).
 
----
+**[Group Homes and Institutions](/housing/group-homes-and-institutions.md)**
+Understanding congregate settings, disability justice critique of institutions, deinstitutionalization frameworks, and community-based alternatives. See [Independent Living Philosophy](/housing/independent-living-philosophy-and-centers.md) for community-based approaches.
 
-## What "Accessible" Means
+**[Independent Living Philosophy and Centers](/housing/independent-living-philosophy-and-centers.md)**
+The history and principles of the independent living movement, what CILs offer, peer support models, and how disability justice evolved this framework. Alternative to [Group Homes and Institutions](/housing/group-homes-and-institutions.md).
 
-Accessibility in housing includes:
+## Start here if you...
 
-**Physical accessibility**:
-- No stairs or stairs with ramp option
-- Door widths for wheelchairs (32" minimum)
-- Accessible parking (accessible route from parking to entrance)
-- Lever handles (not knobs)
-- Accessible bathrooms (roll-in shower or accessible tub, grab bars, accessible sink)
-- Accessible kitchen (counters at different heights, lower cabinets reachable)
-- Elevator or first-floor access
-- No thresholds or minimal thresholds
+**Need to find accessible housing now:** Go to [Accessible Housing Search Guide](/housing/accessible-housing-search-guide.md) for databases, tools, and step-by-step guidance through the search and rental process.
 
-**Sensory accessibility**:
-- Good lighting (for blind/low vision)
-- Low noise (for people sensitive to sound)
-- Fragrance-free (chemical sensitivities)
-- Closed captions if video/TV in common areas
+**Are facing housing discrimination:** Go to [Housing Rights](/housing/housing-rights.md) to understand what's illegal, how to document violations, and how to file complaints.
 
-**Cognitive accessibility**:
-- Clear signage
-- Simple layout
-- Quiet spaces available
-- Safe neighborhood (for people with executive function disabilities)
+**Want to modify your home:** Go to [Home Modifications](/housing/home-modifications.md) for funding sources, government programs, and contractor guidance.
 
-**Affordability**:
-- Accessible doesn't matter if you can't afford it
-- Many disabled people need housing subsidies
+**Are renting and need accommodations:** Go to [Tenants' Rights with Disabilities](/housing/tenants-rights-with-disabilities.md) for how to request accommodations, service animal protections, and eviction defense.
 
-What's accessible varies by individual. Your needs are valid.
+**Are experiencing homelessness:** Go to [Homelessness and Disability](/housing/homelessness-and-disability.md) for services, Housing First approaches, and resources specific to disabled people.
+
+**Are considering or in institutional housing:** Go to [Group Homes and Institutions](/housing/group-homes-and-institutions.md) for disability justice perspectives and community-based alternatives.
+
+**Want to understand the independent living movement:** Go to [Independent Living Philosophy and Centers](/housing/independent-living-philosophy-and-centers.md) for history, CIL services, and disability justice framework.
+
+## Key principle
+
+Housing is a human right and fundamental to disabled people's freedom. This means accessible, affordable housing in integrated community settings—not segregated institutions, not warehousing, not conditional on treatment compliance. The pages here center disabled people as experts on what we need, acknowledge that intersecting identities create compounded housing barriers, and provide practical tools alongside the political frameworks that guide disability justice work.
 
 ---
 
-## Questions to Ask When Searching for Housing
+**Have information to add or a story to share?** [Contribute to DisabilityWiki](https://forms.gle/DisabilityWikiContribution)
 
-**Physical accessibility**:
-- How many steps to entrance?
-- Are there ramps or level entrance?
-- Can you describe the layout?
-- Is there a first-floor bedroom and bathroom?
-- Are doorways wide enough for wheelchairs?
-- Can you describe the kitchen and bathroom layouts?
-- Is parking accessible? What's the walking distance?
-
-**Building rules**:
-- Do you allow service animals?
-- What's your policy on accessibility modifications?
-- Who pays for modifications (tenant or landlord)?
-- Do you have experience with disabled tenants?
-
-**Sensory and cognitive needs**:
-- How quiet is the location?
-- Is there lighting control?
-- Is there internet?
-- Are utilities included?
-
-**Financial**:
-- What's the rent?
-- What utilities are included?
-- Do you accept Section 8 or other subsidies?
-- What are security deposit terms?
-
----
-
-## Housing Rights: The Fair Housing Act
-
-The Fair Housing Act protects disabled people from discrimination in housing. It requires:
-
-**Reasonable accommodations**: Changes to rules, policies, or practices needed because of disability. Examples:
-- Allowing a service animal (even in "no pets" buildings)
-- Allowing an ESA even without other pets
-- Parking in accessible space
-- Flexible lease terms for medical reasons
-- Modified application process
-
-**Reasonable modifications**: Physical changes to make housing accessible. Examples:
-- Installing grab bars
-- Widening doorways
-- Installing a ramp
-- Renovating bathroom for accessibility
-
-Landlords must allow modifications, though they may require you to restore to original condition when you move.
-
----
-
-## If You Can't Find Accessible Housing
-
-Options:
-- Work with housing agencies to find accessible units
-- Request modifications on current housing
-- Use CDBG funds (Community Development Block Grants) for modifications
-- Apply for housing vouchers to expand options
-- Join housing advocacy to demand more accessible housing
-- Consider relocating to more accessible areas (if possible)
-
-Many areas have severe lack of accessible housing. This is a systemic access issue.
-
----
-
-## Home Modifications: Funding
-
-Ways to fund home modifications:
-
-**Government programs**:
-- CDBG (Community Development Block Grants)
-- HUD programs
-- State/local programs
-- Tax deductions (capital improvements)
-
-**Nonprofits**:
-- Local disability organizations
-- Habitat for Humanity Accessibility Programs
-- AARPs home modification programs
-- State vocational rehabilitation
-
-**Insurance**:
-- Some health insurance covers medical equipment modifications
-- Some homeowner's insurance may cover modifications
-
-**Out-of-pocket**:
-- DIY when possible
-- Request quotes and compare
-- Phased approach (do most critical first)
-
----
-
-## Common Home Modifications
-
-- Ramps (exterior)
-- Grab bars (bathroom, stairs)
-- Walk-in shower or tub with grab bars
-- Accessible sink (adjustable height)
-- Accessible kitchen counter and cabinets
-- Stair lift or chair lift
-- Widened doorways and hallways
-- Lever handles
-- Accessible thermostat and light switches
-- Flooring (ramp transitions, no-slip)
-- Automatic door openers
-- Accessible parking pad
-
----
-
-## Group Homes and Institutions
-
-Some disabled people live in group homes or institutions. Important things to know:
-
-**Your rights as a resident**:
-- Dignity and respect
-- Decision-making about your life
-- Confidentiality
-- Reporting abuse without retaliation
-- Visitation
-- Communication with family and friends
-- Medical autonomy
-
-**Recognizing abuse**:
-- Physical abuse
-- Emotional abuse or isolation
-- Neglect or withholding care
-- Financial exploitation
-- Sexual abuse
-- Over-medication
-- Unnecessary restraint/seclusion
-
-**Deinstitutionalization**:
-- Many people have been moved from institutions to community settings
-- This is a right: people with disabilities have the right to live in the community
-- Olmstead decision requires integration in the most integrated setting
-
-If you're in a group home or institution, you have options.
-
----
-
-## Transitioning Out of Institutions
-
-If you're in a group home or institution and want to live independently:
-
-- Contact your state's disability rights organization
-- Work with Independent Living Centers
-- Explore funding for support services
-- Connect with other people making transitions
-- Understand your legal rights to integrated living
-
-[Find resources in your area →](/community/in-person-community)
-
----
-
-## Homelessness and Disability
-
-Disabled people are overrepresented in homeless populations because:
-- Lack of accessible housing
-- Discrimination from landlords
-- Inability to work traditional jobs
-- Inadequate benefits
-- Medical debt
-- Family rejection
-- Criminalization
-
-If you're experiencing homelessness:
-- Find shelter accommodating disabilities
-- Access services for housing
-- Connect with disability-specific services
-- Know your rights in shelter
-
-[Learn more →](/housing/homelessness-and-disability)
-
----
-
-## Housing Subsidies
-
-**Section 8 (Housing Choice Voucher)**:
-- Pay portion of rent, government pays rest
-- Long waitlists in many areas
-- Can be used at any accessible property
-- Limited to certain income levels
-
-**Public Housing**:
-- Government-owned housing
-- Long waitlists
-- Must meet income requirements
-- Typically more affordable than Section 8
-
-**Other subsidies**:
-- State programs vary
-- Project-based housing (subsidized rent at specific properties)
-- Tenant-based assistance (use subsidy anywhere)
-
----
-
-## Contributing Housing Resources
-
-Have you found accessible housing? Know about programs that should be highlighted? Have experience with housing discrimination?
-
-We welcome contributions, especially from disabled people of color, low-income disabled people, and people with experience navigating homelessness or group living situations.
-
-[Contribute →](/glossary/how-to-contribute)
-
----
-
-**Last updated**: [Date]  
-**Maintained by**: DisabilityWiki Housing & Independent Living Team  
-**Questions or feedback?** [Contact us →](/about/contact)
+Last updated: November 2025
