@@ -2,7 +2,7 @@
 title: Foundations
 description: description: Core concepts, language, and frameworks for understanding disability and disability justice. 
 published: true
-date: 2025-11-22T00:41:36.922Z
+date: 2025-11-30T17:38:43.329Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:58:31.530Z
@@ -10,23 +10,27 @@ dateCreated: 2025-11-20T18:58:31.530Z
 
 # Foundations
 
-Welcome to the Disability Wiki's foundational section. These pages help you understand the core concepts, language, and frameworks that shape this entire resource. Start here to learn disability terminology, different models of disability, and how to navigate this community-centered space.
+All people deserve access to clear, accurate information about disability—framed by disabled people's expertise and grounded in rights-based frameworks. This section provides the essential concepts, language, and models that shape the entire wiki.
 
-## About This Section
+---
 
-This section provides orientation and essential background for understanding disability from a rights-based, justice-centered perspective. Whether you're newly disabled, supporting someone who is, or just learning, these pages build a shared vocabulary and help you understand why language and frameworks matter.
+## Why This Matters
 
-All pages in this section are written in plain language and are accessible to people with different learning styles, sensory needs, and attention capacities.
+How we understand disability shapes everything: policy, healthcare, education, employment, relationships, and self-perception. Many disabled people encounter conflicting definitions, outdated terminology, and frameworks that treat disability as tragedy or burden. This section offers alternatives grounded in disabled people's own knowledge and organizing.
+
+Whether you're newly disabled, supporting someone who is, researching for professional work, or deepening your understanding, these pages build shared vocabulary and explain why frameworks matter.
+
+---
 
 ## Pages in This Section
 
-### [Welcome to the Disability Wiki](/foundations/welcome)
+### [Welcome to DisabilityWiki](/foundations/welcome)
 
 Your starting point. Learn how to navigate this resource, what accessibility features are available, and community guidelines for this space.
 
 ### [How to Use This Wiki](/foundations/how-to-use-this-wiki)
 
-Practical guidance on navigating the wiki, using search, finding information in your language or region, and accessibility options including screen reader mode and high contrast viewing.
+Practical guidance on navigating the wiki, using search, finding information for your region, and accessibility options including screen reader mode and high contrast viewing.
 
 ### [What Is Disability?](/foundations/what-is-disability)
 
@@ -52,7 +56,7 @@ If you're supporting disabled people, learn how to listen, advocate, and avoid c
 
 ## Quick Links by Need
 
-**I'm newly disabled and overwhelmed**
+**I'm newly disabled and feeling overwhelmed**
 Start with [What Is Disability?](/foundations/what-is-disability) and [Language, Terminology & Identity](/foundations/language-terminology-identity)
 
 **I want to support a disabled person**
@@ -66,23 +70,35 @@ Check [Language, Terminology & Identity](/foundations/language-terminology-ident
 
 ---
 
-## How This Section Uses Different Accessibility Approaches
+## How This Section Approaches Accessibility
 
-- **Screen reader friendly**: Clear heading hierarchy, descriptive link text, no reliance on visual layout
-- **Neurodivergent-friendly**: Sections broken into chunks, plain language, bullet points for quick scanning
-- **Plain language**: Complex concepts explained without jargon; where jargon is necessary, it's defined
-- **Low-sensory options**: High contrast mode available; pages avoid flashing, auto-playing content, or sudden sounds
+**Screen reader friendly**: Clear heading hierarchy, descriptive link text, no reliance on visual layout alone.
+
+**Neurodivergent-friendly**: Sections broken into manageable chunks, plain language throughout, bullet points for quick scanning where appropriate.
+
+**Plain language**: Complex concepts explained without jargon. Where technical terms are necessary, they're defined on first use.
+
+**Low-sensory options**: High contrast mode available. Pages avoid flashing content, auto-playing media, or sudden sounds.
 
 ---
 
-## Contributing to Foundations
+## Related Sections
+
+- [Crisis Resources](/crisis) — If you need immediate help
+- [Rights & Advocacy](/rights) — Legal frameworks and protections
+- [Community & Peer Support](/community) — Finding your people
+- [Glossary & Terminology](/glossary/terminology) — Quick reference for terms
+
+---
+
+## Contribute to This Section
 
 Have lived experience or expertise that could strengthen these pages? We welcome contributions from disabled people, especially from communities underrepresented in mainstream disability discourse.
 
-[Learn how to contribute →](/glossary/how-to-contribute)
+[Suggest an edit or addition](https://docs.google.com/forms/d/e/1FAIpQLSfVmedRxQZ1tmu63I0OZSZXuinbzNQ7WYyBFHMp6NbsHb0F0g/viewform?usp=sharing&ouid=110839947117265692657)
 
 ---
 
-**Last updated**: [Date]  
-**Maintained by**: DisabilityWiki Community  
-**Questions or feedback?** [Contact us →](/about/contact)
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+
+**Last updated**: November 2025
