@@ -2,7 +2,7 @@
 title: Professionals Index
 description: 
 published: true
-date: 2025-11-22T13:43:00.910Z
+date: 2025-11-30T01:06:12.780Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:10:19.365Z
@@ -10,279 +10,136 @@ dateCreated: 2025-11-20T19:10:19.365Z
 
 # Professional Toolkits
 
-This section is for professionals working with disabled people: educators, healthcare providers, employers, HR professionals, social workers, architects, designers, public safety officers, emergency planners, and others. These resources help you understand disability from a rights and justice perspective and provide practical guidance for inclusive practice.
+All disabled people have the right to access services, employment, education, healthcare, housing, and community participation on an equal basis with others. This section centers disabled people's expertise to help professionals provide genuinely respectful, effective, person-centered service that goes beyond minimum legal compliance.
 
-## About This Section
+---
 
-Professionals often have limited training in disability and accessibility. Many work from outdated medical models or charity frameworks. This section provides modern, disability-informed approaches based on principles of autonomy, inclusion, and justice.
+## Why This Section Exists
 
-These resources are not written "for" disabled people; they're written for professionals to understand how to work better with disabled people. The guides acknowledge that disabled people are experts on their own needs and that professional respect for disabled people's autonomy and perspectives is essential.
+Disabled people face systemic barriers across every sector of society—barriers perpetuated not by malice but by lack of training, deficit-based thinking, and systems designed without disabled input. These toolkits synthesize guidance from disability-led organizations, international human rights frameworks, and professional standards to help you do better.
 
-## Pages in This Section
+The foundational principle threading through every page: **"Nothing About Us Without Us."**
+
+---
+
+## Choose Your Profession
 
 ### [Educators](/professionals/educators)
-
-Resources for teachers, administrators, and school staff. Covers inclusive teaching, accommodation requests, understanding IEPs and 504s, supporting disabled students, and addressing discrimination.
+Creating genuinely inclusive learning environments through Universal Design for Learning, trauma-informed teaching, presuming competence, and supporting multiply-marginalized students.
 
 ### [Healthcare Providers](/professionals/healthcare-providers)
-
-Resources for doctors, nurses, therapists, and healthcare staff. Covers disability-informed care, addressing implicit bias, communication access, patient autonomy, and partnering with disabled patients.
+Centering patient autonomy and access through avoiding diagnostic overshadowing, accessible examination practices, communication across disability types, and respecting self-determination.
 
 ### [Employers & HR](/professionals/employers-and-hr)
-
-Resources for business leaders, HR professionals, and managers. Covers reasonable accommodations, hiring disabled people, accessible workplaces, and building inclusive culture.
+Building genuinely inclusive workplaces through collaborative accommodation processes, inclusive hiring, disclosure-friendly environments, and career advancement equity.
 
 ### [Social Workers](/professionals/social-workers)
-
-Resources for social workers, case managers, and community support staff. Covers disability-centered practice, respecting autonomy, addressing systemic barriers, and recognizing expertise of disabled people.
+Supporting self-determination through person-centered planning, supported decision-making over guardianship, fighting institutionalization, and navigating benefits systems.
 
 ### [Architects & Designers](/professionals/architects-and-designers)
-
-Resources for architects, interior designers, web designers, and product designers. Covers universal design, accessibility standards, and designing for diversity of disability.
-
-### [Public Safety Officers](/professionals/public-safety-officers)
-
-Resources for police, firefighters, security, and other public safety professionals. Covers de-escalation with disabled people, understanding disability emergencies, and preventing harm.
+Creating genuinely inclusive spaces through universal design philosophy, sensory-friendly environments, cognitive accessibility, and participatory design with disabled people.
 
 ### [Emergency Planners](/professionals/emergency-planners)
+Whole community emergency planning that includes disabled people as planners, accessible communications, shelter accessibility, and medical equipment considerations.
 
-Resources for emergency management, disaster preparedness, and crisis planning professionals. Covers including disabled people in planning, accessible emergency services, and preparedness.
-
----
-
-## Quick Start: Professional Resources
-
-### I'm an educator
-[Educators →](/professionals/educators)
-
-### I'm a healthcare provider
-[Healthcare Providers →](/professionals/healthcare-providers)
-
-### I'm an employer or HR professional
-[Employers & HR →](/professionals/employers-and-hr)
-
-### I'm a social worker or case manager
-[Social Workers →](/professionals/social-workers)
-
-### I'm an architect or designer
-[Architects & Designers →](/professionals/architects-and-designers)
-
-### I'm in public safety
-[Public Safety Officers →](/professionals/public-safety-officers)
-
-### I plan for emergencies
-[Emergency Planners →](/professionals/emergency-planners)
+### [Public Safety Officers](/professionals/public-safety-officers)
+De-escalation, communication strategies, recognizing disability versus intoxication, avoiding use of force, and alternatives to police response for mental health crises.
 
 ---
 
-## Core Principles for All Professionals
+## Cross-Cutting Principles for All Professionals
 
-**Nothing about us without us**: Disabled people must be included in decisions affecting us. Respect disabled people's expertise about their own lives.
+Before diving into profession-specific guidance, seven core principles apply universally:
 
-**Autonomy**: Disabled people have the right to make decisions about our lives, even if you disagree. Your role is to support autonomy, not override it.
+### Presume Competence
 
-**Accessibility is not optional**: Providing accessibility isn't "accommodating" disabled people. It's doing your job professionally.
+Assume disabled people can understand, communicate, make decisions, and participate until proven otherwise—and recognize that "proving otherwise" often reflects your failure to provide appropriate supports, not their incapacity.
 
-**Disability is normal**: Disability is a normal part of human diversity. Avoid "inspiration" narratives or pity.
+Anne Donnellan's "least dangerous assumption" framework holds that when uncertain about someone's abilities, assume competence: the consequences of underestimating someone are far more harmful than overestimating them.
 
-**Intersectionality**: Understand disability doesn't exist alone. Consider race, gender, class, immigration status, and other identities.
+### Center Disabled Expertise
 
-**Structural barriers matter**: Barriers are often structural (systems, policies, physical environment), not inherent to disability. Your role includes addressing barriers.
+Disabled people are experts on their own bodies, lives, and needs. They have developed sophisticated knowledge through lived experience that no credential can replicate. Defer to self-advocates and disability-led organizations over professionals speaking "about" disabled people.
 
-**Respect for dignity**: Treat disabled people with same respect as anyone else. No one wants to be treated as inspiring for doing ordinary things.
+### Distinguish Impairment from Disability
 
----
+The social model of disability, developed by UK activists in the 1970s, recognizes that "disability" results from societal barriers—inaccessible buildings, discriminatory policies, communication failures—while "impairment" refers to physical or cognitive differences. Your role is removing barriers, not "fixing" people.
 
-## Educators
+### Recognize Intersectionality
 
-As an educator, you significantly impact disabled students. Responsibilities include:
+Disabled people hold multiple identities simultaneously—race, gender, sexuality, immigration status, class. Disability justice emerged because mainstream disability rights movements often invisibilized people living at intersecting junctures of oppression. Black disabled students face both racism and ableism; LGBTQ+ disabled people experience compounded discrimination in healthcare.
 
-**Understanding disability**:
-- Disability is not deficit
-- Disabled students can achieve academically
-- Different doesn't mean deficient
-- Recognize your own disability bias
+### Embrace the Dignity of Risk
 
-**Creating inclusive classroom**:
-- Physical accessibility
-- Communication accessible
-- Materials accessible (multiple formats)
-- Curriculum reflects disability
+Robert Perske wrote in 1972: "Overprotection may appear on the surface to be kind, but it can be really evil. An oversupply can smother people emotionally, squeeze the life out of their hopes and expectations."
 
-**Supporting disabled students**:
-- Provide requested accommodations
-- Don't make student "prove" disability
-- Believe student about their needs
-- Adjust expectations based on capacity, not disability assumptions
+The right to make choices—including choices you consider unwise—is fundamental to human dignity.
 
-**Addressing discrimination**:
-- Intervene against bullying
-- Address teacher bias
-- Report discrimination
-- Support disabled student leadership
+### Apply Interdependence Over Independence
+
+Rather than measuring success by how much someone can do alone, disability justice recognizes that all humans depend on each other. The goal is not maximum independence but meaningful interdependence—appropriate supports enabling full participation.
+
+### Know the UN Convention on the Rights of Persons with Disabilities
+
+Ratified by 186 countries, the CRPD establishes disability rights as human rights. Key articles include:
+
+- **Article 9**: Accessibility
+- **Article 12**: Equal recognition before the law (legal capacity)
+- **Article 19**: Living independently and being included in the community
+- **Article 24**: Education
+- **Article 25**: Health
+- **Article 27**: Work and employment
+- **Article 11**: Situations of risk and humanitarian emergencies
 
 ---
 
-## Healthcare Providers
+## Essential Organizations
 
-As healthcare provider, you have power over disabled people's lives. Use it responsibly:
+### Disability-Led Advocacy
 
-**Assume competence**: Disabled patients can make decisions about their care. Ask before assuming you need to contact family.
+- **Autistic Self Advocacy Network (ASAN)**: autisticadvocacy.org
+- **ADAPT**: adapt.org
+- **National Council on Independent Living (NCIL)**: ncil.org
+- **Self Advocates Becoming Empowered (SABE)**: sabeusa.org
+- **Partnership for Inclusive Disaster Strategies**: disasterstrategies.org
+- **HEARD**: behearddc.org
+- **CommunicationFIRST**: communicationfirst.org
 
-**Take pain seriously**: Believe patients about pain; don't assume disability causes all symptoms.
+### Professional Resources
 
-**Communicate clearly**: Use plain language, confirm understanding, ask patient for preferences.
+- **Job Accommodation Network (JAN)**: askjan.org
+- **EARN**: askearn.org
+- **ADA National Network**: adata.org
+- **US Access Board**: access-board.gov
 
-**Provide communication access**: Interpreters for Deaf/deaf-blind patients, AAC compatibility, written communication options.
+### International Frameworks
 
-**Address your bias**: Unconscious bias affects healthcare decisions. Recognize bias toward "fixing" disability or deprioritizing disabled patients.
-
-**Partner with patients**: Disabled people are experts on their disabilities. Respect their knowledge.
-
----
-
-## Employers & HR
-
-Employing disabled people benefits your business:
-
-**Inclusive hiring**: Recruit disabled candidates, provide accommodations in hiring process, don't discriminate.
-
-**Reasonable accommodations**: Provide what's needed for disabled people to do their jobs. Accommodation is legal requirement.
-
-**Accessible workplace**: Build in accessibility from start, not as afterthought.
-
-**Inclusive culture**: Don't make disabled employees feel like tokens; include them in community.
-
-**Address discrimination**: Have clear process for complaints; take them seriously; don't retaliate.
+- **UN Enable**: un.org/development/desa/disabilities
+- **UN CRPD Text**: ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities
 
 ---
 
-## Social Workers
+## How to Use These Toolkits
 
-As social worker, balance authority and partnership:
+Each toolkit is designed to help you:
 
-**Recognize power**: You have power in relationships. Use responsibly and transparently.
+1. **Understand the barriers** disabled people face in your professional context
+2. **Learn concrete strategies** that go beyond minimum compliance
+3. **Find resources** for ongoing professional development
+4. **Connect with disability-led organizations** doing this work
 
-**Respect autonomy**: Support disabled people's decisions even if they seem risky. Your role is support, not control.
-
-**Address systemic barriers**: Many "problems" are actually systemic barriers. Advocacy and system change matter.
-
-**Recognize expertise**: Disabled people are experts on their lives. Include their perspective in planning.
-
-**Practice trauma-informed care**: Many disabled people have experienced harm from systems. Approach with sensitivity.
+These pages are not exhaustive—they're starting points. The most important step is building ongoing relationships with disabled people and disability-led organizations in your community.
 
 ---
 
-## Architects & Designers
+## Related Pages
 
-Design thinking impacts accessibility for all:
-
-**Universal design**: Design for diversity from start. Accessibility for disabled people often benefits everyone (ramps help parents with strollers, captions help in loud environments, etc.).
-
-**Physical accessibility**: Comply with ADA and accessibility standards. Go beyond minimum; anticipate diverse needs.
-
-**Accessible communication**: Signage, instructions, wayfinding should be clear and accessible.
-
-**Engage disabled people**: Include disabled people in design process. They identify barriers and opportunities.
-
-**Remember intersectionality**: Different disabilities need different accommodations. One-size doesn't fit all.
+- [Foundations: What Is Disability?](/foundations/what-is-disability)
+- [Foundations: Disability Models](/foundations/disability-models)
+- [Foundations: For Allies](/foundations/for-allies)
+- [Rights & Advocacy](/rights)
+- [Advocacy 101](/get-involved/advocacy-101)
 
 ---
 
-## Public Safety Officers
-
-Your interactions with disabled people can be life-changing or life-ending:
-
-**De-escalation**: Many police killings of disabled people could be prevented with de-escalation training.
-
-**Understanding disability**: Recognize disability; understand seizures, psychiatric episodes, developmental disabilities differently.
-
-**Communication**: Give clear instructions, allow time for response, don't demand quick compliance from people who need more time.
-
-**Calling appropriate responders**: Mental health crisis doesn't always need police; sometimes peer crisis counselor more appropriate.
-
-**Prevent harm**: Your goal should be safety, not control. Respect disabled people's dignity and safety.
-
-**Accountability**: If harm occurs, take responsibility and work to prevent recurrence.
-
----
-
-## Emergency Planners
-
-Planning emergencies requires centering disabled people:
-
-**Include disabled people**: Involve disabled people in emergency planning. They know what they need.
-
-**Plan for medication and equipment**: Disabled people need access to medications and equipment during emergencies. Plan for this.
-
-**Accessible evacuation**: How will people with mobility disabilities evacuate? How will Deaf people receive emergency alerts?
-
-**Communication**: Emergency alerts should be accessible (audio, visual, captions, plain language).
-
-**Transportation**: Some disabled people can't drive or use transit. Plan for accessible transportation in evacuations.
-
-**Shelters**: Emergency shelters must be physically accessible and serve accessible food/medicine.
-
-**Service animals**: Include service animals in evacuation and shelter plans.
-
----
-
-## Language Matters
-
-**"Special needs"**: Usually means disability; just say disability. "Special" suggests otherness.
-
-**"Inspiration"**: Disabled people doing ordinary things aren't inspiring. This is patronizing.
-
-**"Confined to wheelchair"**: No. People "use" wheelchairs. Wheelchairs are freedom, not confinement.
-
-**"Suffers from disability"**: Some disabled people "suffer" from barriers and discrimination, not disability itself. Be specific.
-
-**"Handicapped"**: Outdated term; use "disabled."
-
-**Proper terminology**: Ask disabled people what language they prefer. Different communities use different terms (Deaf vs deaf, Autistic vs autistic, Mad, crazy, etc.).
-
----
-
-## Professional Biases to Examine
-
-**Tragedy narrative**: "Poor disabled person" — challenges your assumptions
-
-**Inspiration porn**: Disabled person doing ordinary thing — recognize as patronizing
-
-**"They're doing so well despite disability"**: Implies disability makes excellence surprising. It doesn't.
-
-**Pity**: Disable people don't want pity. We want respect and inclusion.
-
-**Assuming disability limits possibilities**: Question this. Many things you think disabled people "can't" do, they can, with accommodation.
-
-**Seeing disability as failure**: Disability is not failure; barriers are.
-
----
-
-## Continuing Education
-
-Professional development in disability:
-
-- Take classes on disability rights and justice
-- Read books by disabled scholars and activists
-- Listen to disabled people
-- Join professional organizations focused on disability
-- Attend disability conferences
-- Get feedback from disabled people on your practice
-- Be willing to learn and change
-
----
-
-## Contributing Professional Resources
-
-Are you a professional working with disabled people? Know about resources that help professionals? Have feedback on how professionals can improve?
-
-We welcome contributions from professionals committed to disability justice and from disabled people with suggestions for professional training.
-
-[Contribute →](/glossary/how-to-contribute)
-
----
-
-**Last updated**: [Date]  
-**Maintained by**: DisabilityWiki Professional Toolkit Team  
-**Questions or feedback?** [Contact us →](/about/contact)
+*This section centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
