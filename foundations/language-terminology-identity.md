@@ -2,7 +2,7 @@
 title:  Language, Terminology, and Identity
 description: Person-first vs. identity-first language, reclaimed terms, and why wording matters. 
 published: true
-date: 2025-11-21T20:10:40.804Z
+date: 2025-11-30T17:40:18.055Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:58:43.024Z
@@ -10,104 +10,144 @@ dateCreated: 2025-11-20T18:58:43.024Z
 
 # Language, Terminology, and Identity
 
-Language around disability is constantly shifting.  
-What feels respectful to one person may feel erasing or pathologizing to another.
-
-This page doesn’t give a single rule.  
-Instead, it offers tools for **listening, asking, and adjusting.**
+All disabled people have the right to define themselves and choose their own language. This page centers disabled people's expertise on terminology—offering tools for listening, asking, and adjusting rather than rigid rules.
 
 ---
 
-## Person-first vs. identity-first language
+## Why This Matters
 
-- **Person-first:** “person with a disability,” “person with autism”
-- **Identity-first:** “disabled person,” “autistic person”
+Language around disability is constantly shifting. What feels respectful to one person may feel erasing or pathologizing to another. Medical terminology, legal definitions, community language, and personal preferences often conflict.
 
-Many disabled people prefer identity-first language because:
+Language matters because it shapes policy (who counts as disabled), guides research (what questions are asked), influences self-worth and internalized ableism, and signals who is centered in a space. Arguments about language are not just semantics—they're about power, history, and who gets to define reality.
 
-- Disability is part of who we are, not an object we “have.”
-- It resists the idea that disability must be mentally separated from personhood to be respected.
-- It connects us to a political community (“disabled people”) rather than isolating individuals.
-
-Others prefer person-first because:
-
-- They were taught it as respectful or professional
-- They see disability as one trait among many
-- Their cultural or family context favors that wording
-
-**Best practice:**  
-Use the language a person uses for themselves. When speaking generally on this wiki, we usually say **“disabled people.”**
+At the same time, this wiki tries not to get stuck in perfectionism. Clear information and access to resources matter alongside respectful language.
 
 ---
 
-## Outdated and harmful terms
+## Person-First vs. Identity-First Language
 
-Avoid terms like:
+**Person-first language** places the person before the disability: "person with a disability," "person with autism," "individual who has epilepsy."
 
-- “Handicapped” (except in specific legal/historical quotes)
-- “Differently abled,” “special needs,” “invalid”
-- “Crazy,” “psycho,” “lunatic,” when used to insult or dehumanize
-- “Wheelchair-bound” (use “wheelchair user” instead)
+**Identity-first language** places the disability as a descriptor: "disabled person," "autistic person," "epileptic."
 
-These words have histories tied to segregation, institutionalization, and eugenics.
+### Why Many Disabled People Prefer Identity-First
+
+Many disabled people prefer identity-first language because disability is part of who we are, not an object we "have." This framing resists the idea that disability must be mentally separated from personhood to be respected. It connects us to a political community ("disabled people") rather than isolating individuals as separate cases.
+
+### Why Some People Prefer Person-First
+
+Others prefer person-first language because they were taught it as respectful or professional, they see disability as one trait among many, or their cultural or family context favors that wording. Some people feel strongly that their disability doesn't define them and want language that reflects this.
+
+### What This Wiki Does
+
+When speaking generally, this wiki says "disabled people" following the preference of many disability rights and justice organizations. We also respect specific community preferences—for example, using "autistic person" rather than "person with autism" because most autistic self-advocates prefer identity-first language.
+
+**Best practice**: Use the language a person uses for themselves. When you don't know, identity-first is generally a reasonable default, but being willing to adjust matters more than getting it right the first time.
 
 ---
 
-## Reclaimed slurs and in-community language
+## Community-Specific Language Preferences
+
+Different disability communities have developed their own language conventions:
+
+**Deaf community**: "Deaf" (capital D) refers to cultural and linguistic identity within Deaf community. "deaf" (lowercase) typically refers to audiological status. Many Deaf people do not consider themselves disabled. "Hard of hearing" is preferred by some people with partial hearing loss.
+
+**Autistic community**: Most autistic self-advocates prefer "autistic person" over "person with autism." Terms like "high-functioning" and "low-functioning" are widely rejected as inaccurate and harmful.
+
+**Blind community**: Both "blind person" and "person who is blind" are used. Some people with partial vision prefer "low vision" or "visually impaired."
+
+**Mad community**: Some people with psychiatric disabilities reclaim "mad" as a political identity, rejecting medicalized language entirely. Others prefer clinical terms or "person with mental illness." "Psychiatric survivor" or "psych survivor" indicates experience with and often criticism of psychiatric systems.
+
+**Chronic illness community**: Terms like "spoonie" (from Spoon Theory), "chronically ill person," and specific condition names are common. Some people don't identify as disabled at all.
+
+**Intellectual and developmental disability communities**: Person-first language ("person with intellectual disability") is more common here than in other disability communities. Self-advocates should be asked their preference.
+
+---
+
+## Terms to Avoid
+
+Some terms have histories tied to segregation, institutionalization, and eugenics, or are commonly used to dehumanize:
+
+**Outdated institutional terms**: "Handicapped" (except in specific legal/historical quotes), "invalid," "crippled" (when used by non-disabled people), "retarded," "mentally retarded," "feeble-minded," "idiot," "moron," "imbecile" (these last were once clinical terms but are now slurs).
+
+**Euphemisms that erase disability**: "Differently abled," "special needs," "handi-capable," "challenged." These terms attempt to soften disability but often feel patronizing and can obscure the realities disabled people navigate.
+
+**Terms that suggest tragedy or limitation**: "Wheelchair-bound" or "confined to a wheelchair" (use "wheelchair user"—wheelchairs provide mobility, not confinement), "suffering from [condition]," "afflicted with."
+
+**Psychiatric slurs used casually**: "Crazy," "psycho," "lunatic," "insane" when used to mean bad, chaotic, or unreasonable. These words harm people with psychiatric disabilities by equating mental illness with danger or irrationality.
+
+---
+
+## Reclaimed Language and In-Community Terms
 
 Some disabled people reclaim terms like:
 
-- **crip / crippling / crip time**
-- **mad**
-- **lame** (in some contexts)
-- Other language specific to Deaf, autistic, or neurodivergent communities
+- **Crip / cripple / crip time**: Reclaimed from "cripple," used within disability community and disability justice organizing
+- **Mad**: Reclaimed by people with psychiatric disabilities, connected to Mad Pride movement
+- **Gimp**: Reclaimed by some people with physical disabilities
+- **Sick**: Reclaimed by people with chronic illness
+- **Lame**: Sometimes reclaimed, though this remains controversial
 
-These words can be powerful when used **by and among** community members, and harmful when used against us.
+These words can be powerful when used by and among community members—expressions of identity, solidarity, and political resistance. The same words can be harmful when used against us or by people outside the community.
 
-General guideline:
-
-- If you’re not part of the group, be cautious about using reclaimed slurs yourself.
-- Don’t police how disabled people describe our own experiences.
+**General guideline**: If you're not part of the group, be cautious about using reclaimed slurs yourself. Don't police how disabled people describe our own experiences.
 
 ---
 
-## Diagnostic labels vs. self-descriptions
+## Diagnostic Labels vs. Self-Descriptions
 
-Medical systems use terms like:
+Medical systems use clinical terms: "major depressive disorder," "generalized anxiety disorder," "schizophrenia," "autism spectrum disorder," "intellectual disability."
 
-- “Major depressive disorder”
-- “Generalized anxiety”
-- “Schizophrenia”
-- “Intellectual disability”
+People may use different language for themselves: "mad," "neurodivergent," "psych survivor," "ADHD'er," "autistic," "chronically ill," "spoonie," "learning disabled," or specific condition names.
 
-People may use:
+Both kinds of language can be useful in different contexts. Diagnostic language may be necessary for benefits applications, medical appointments, or legal protections. Self-description language may feel more accurate in community spaces or personal life.
 
-- “Mad,” “neurodivergent,” “psych survivor”
-- “ADHD’er,” “autistic,” “chronically ill,” “spoonie”
-- “Learning disabled,” “intellectually disabled,” or other specific labels
-
-Both kinds of language can be useful in different contexts (for example, diagnosis for benefits vs. self-description in community). What matters is **respecting people’s choices**.
+What matters is respecting people's choices about how they describe their own experiences.
 
 ---
 
-## When you’re not sure what to say
+## When You're Not Sure What to Say
 
-1. **Listen first.** Notice the words people use about themselves.
-2. **Ask if it’s relevant.** “Is there any language you prefer I use about your disability or access needs?”
-3. **Apologize briefly if you mess up.** Correct yourself, don’t over-explain, and move on.
-4. **Avoid making disability unspeakable.** Saying “disabled” out loud is not rude; pretending it isn’t there often is.
+**Listen first**. Notice the words people use about themselves before assuming what's appropriate.
+
+**Ask if it's relevant**. "Is there language you prefer I use about your disability or access needs?" is a reasonable question in contexts where disability is being discussed.
+
+**Apologize briefly if you mess up**. Correct yourself, don't over-explain or center your discomfort, and move on. "Sorry—autistic, not 'person with autism'" is sufficient.
+
+**Don't make disability unspeakable**. Saying "disabled" out loud is not rude. Pretending disability doesn't exist, talking around it awkwardly, or treating it as shameful often is.
+
+**Recognize context matters**. Language that's appropriate in an activist space may differ from what works in a medical appointment or workplace. Disabled people code-switch too.
 
 ---
 
-## Why language debates matter
+## A Note on This Wiki's Approach
 
-Language:
+This wiki generally uses identity-first language ("disabled people") and follows the language preferences of disability communities where those are clear (e.g., "autistic person," "Deaf community").
 
-- Shapes **policy** (who counts as disabled)
-- Guides **research** (what questions are asked)
-- Influences **self-worth** and internalized ableism
-- Signals **who is centered** in a space
+We prioritize clarity and accessibility. Where technical or clinical terms appear, they're defined on first use. We try to avoid both jargon that excludes newcomers and euphemisms that erase disability.
 
-Arguments about language are not just “semantics.” They’re about power, history, and who gets to define reality.
+We recognize language is always evolving and welcome feedback on how to improve.
 
-At the same time, this wiki tries not to get stuck in perfectionism. Clear information and access to resources matter too.
+---
+
+## Related Pages
+
+- [What Is Disability?](/foundations/what-is-disability) — Different definitions and frameworks
+- [Disability Models](/foundations/disability-models) — How frameworks shape language
+- [Disability Culture](/foundations/disability-culture) — How community language develops
+- [Glossary: Terminology](/glossary/terminology) — Quick reference for specific terms
+- [Glossary: Acronyms](/glossary/acronyms) — Common disability-related acronyms
+
+---
+
+## Contribute to This Page
+
+Have lived experience or expertise that could strengthen this page? We especially welcome input from communities whose language preferences aren't well represented here.
+
+[Suggest an edit or addition](https://docs.google.com/forms/d/e/1FAIpQLSfVmedRxQZ1tmu63I0OZSZXuinbzNQ7WYyBFHMp6NbsHb0F0g/viewform?usp=sharing&ouid=110839947117265692657)
+
+---
+
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+
+**Last updated**: November 2025
