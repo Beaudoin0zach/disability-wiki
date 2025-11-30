@@ -2,7 +2,7 @@
 title: Crisis & Safety
 description: 
 published: true
-date: 2025-11-30T00:51:35.577Z
+date: 2025-11-30T00:53:26.644Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:53:34.253Z
@@ -56,12 +56,12 @@ Create a disability-specific emergency plan. Covers evacuation with mobility dev
 - **US**: [National Suicide Prevention Lifeline](tel:988) (call/text 988)
 - **Canada**: [National Suicide Prevention Service](tel:1-833-456-4566) (1-833-456-4566)
 - **UK**: [Samaritans](tel:116-123) (call 116 123)
-- [More options →](/crisis/crisis-hotlines/global-crisis-hotlines)
+- [More options →](/crisis/global-crisis-hotlines)
 
 ### I'm being abused or harmed
 - [Abuse, Neglect & Exploitation Resources →](/crisis/abuse-neglect-exploitation)
 - **US**: [National Domestic Violence Hotline](tel:1-800-799-7233) (1-800-799-7233, also text START to 88788)
-- **International**: [See regional options →](/crisis/global-crisis-hotlines)
+- **International**: [See regional options →](/crisis/crisis-hotlines/global-crisis-hotlines)
 
 ### I'm Deaf or hard-of-hearing and need crisis support
 - **US**: [Video Relay Services (VRS)](https://www.fcc.gov/consumers/guides/video-relay-services-vrs)
