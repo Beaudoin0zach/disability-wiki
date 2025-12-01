@@ -2,7 +2,7 @@
 title: Welcome to DisabilityWiki
 description: An introduction to what this project is, who it’s for, and how it’s built.
 published: true
-date: 2025-11-21T20:05:29.364Z
+date: 2025-12-01T23:30:19.963Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:58:54.081Z
@@ -10,62 +10,127 @@ dateCreated: 2025-11-20T18:58:54.081Z
 
 # Welcome to DisabilityWiki
 
-You’ve reached a community-built resource created **by disabled people, for disabled people and those alongside us.**
-
-Information about disability is usually scattered across:
-
-- Government sites with confusing jargon
-- Nonprofits that only focus on one diagnosis or one country
-- Social media posts that disappear into the algorithm
-
-This wiki tries to bring those threads together in one place, while staying rooted in disability justice and lived experience.
+All disabled people deserve access to accurate, respectful information created by people who understand our experiences. This is a community-built resource created by disabled people, for disabled people and those alongside us.
 
 ---
 
-## Who this wiki is for
+## Why This Wiki Exists
 
-- Disabled people, whether you use that word or not yet
-- People with chronic illness, pain, neurodivergence, mental health conditions, and other forms of bodymind difference
-- Families, partners, friends, and caregivers
-- Professionals who want to do better (teachers, doctors, social workers, access staff, etc.)
-- Organizers, advocates, and researchers
+Information about disability is usually scattered across government sites with confusing jargon, nonprofits that focus on only one diagnosis or one country, and social media posts that disappear into the algorithm.
 
-We assume that:
-
-- **Anyone can become disabled** at any point in life.
-- Many people are already disabled but have been encouraged not to claim that language.
-- Disability is shaped by **racism, colonialism, capitalism, gender, and migration**, not just biology.
+This wiki brings those threads together in one place, grounded in disability rights and lived experience. We aim to provide practical, accurate information while respecting that disabled people are the experts on our own lives.
 
 ---
 
-## What this wiki is *not*
+## Who This Wiki Is For
 
-- Not a replacement for medical or legal advice.
-- Not tied to any one nonprofit, government, or company.
-- Not a space where cure narratives or “inspiration porn” are centered.
+This wiki serves disabled people (whether you use that word or not yet), people with chronic illness, pain, neurodivergence, mental health conditions, and other forms of bodymind difference, families, partners, friends, and caregivers, professionals who want to do better (teachers, doctors, social workers, access staff, and others), and organizers, advocates, and researchers.
 
-We aim to **share tools and knowledge**, not to police who is “disabled enough.”
+We assume that anyone can become disabled at any point in life, that many people are already disabled but have been encouraged not to claim that language, and that disability is shaped by racism, colonialism, capitalism, gender, and migration—not just biology.
 
 ---
 
-## How pages are written
+## What This Wiki Is Not
 
-Pages try to:
+This wiki is not a replacement for medical or legal advice. It's not tied to any one nonprofit, government, or company. It's not a space where cure narratives or "inspiration porn" are centered.
 
-- Use clear, plain language where possible
-- Flag differences between countries and regions
-- Name power and policy, not just “personal choices”
-- Center self-determination and access needs
-
-Some pages will be short or incomplete – that’s an invitation for contributors to expand them.
+We aim to share tools and knowledge, not to police who is "disabled enough." If you're here looking for information, you belong here.
 
 ---
 
-## How you can be involved
+## How Pages Are Written
 
-- Use the information for yourself and your community.
-- Share pages with people who need them.
-- Suggest edits, add resources, or write new sections.
-- Help translate content or add material from under-represented regions.
+Pages on this wiki try to use clear, plain language where possible, flag differences between countries and regions, name power and policy rather than just "personal choices," and center self-determination and access needs.
 
-You don’t need a degree or a perfect writing style to help. Lived experience is expertise.
+Some pages will be short or incomplete—that's an invitation for contributors to expand them, not a failure.
+
+---
+
+## Current Scope
+
+This wiki currently emphasizes US and Western resources (Canada, UK, Australia, EU) while actively working to include Global South perspectives, Indigenous frameworks, and international resources. Most pages include a "Where Are You?" section to help you find country-specific information.
+
+We acknowledge the limitations of our current coverage and welcome contributions that expand our geographic and cultural scope.
+
+---
+
+## How You Can Be Involved
+
+You can use the information for yourself and your community. You can share pages with people who need them. You can suggest edits, add resources, or write new sections. You can help translate content or add material from under-represented regions.
+
+You don't need a degree or a perfect writing style to help. Lived experience is expertise.
+
+[Learn how to contribute](/glossary/how-to-contribute)
+
+---
+
+## Getting Started
+
+### If You're New to the Wiki
+
+Start with [How to Use This Wiki](/foundations/how-to-use-this-wiki) for practical navigation guidance.
+
+### If You're New to Disability
+
+Begin with [What Is Disability?](/foundations/what-is-disability) and [Disability Models](/foundations/disability-models) for foundational concepts.
+
+### If You Need Help Now
+
+Go directly to [Crisis Resources](/crisis) for immediate support options.
+
+### If You're Supporting Someone
+
+Read [For Allies](/foundations/for-allies) for guidance on respectful support.
+
+### If You're a Professional
+
+See [Professional Toolkits](/professionals) for role-specific guidance.
+
+---
+
+## Related Pages
+
+### Getting Oriented
+- [How to Use This Wiki](/foundations/how-to-use-this-wiki) — Practical navigation
+- [What Is Disability?](/foundations/what-is-disability) — Core concepts
+- [Disability Models](/foundations/disability-models) — Understanding frameworks
+- [Language, Terminology & Identity](/foundations/language-terminology-identity) — How we talk about disability
+- [Glossary: Terminology](/glossary/terminology) — Quick reference for terms
+
+### If You Need Help Now
+- [Crisis Resources](/crisis) — Immediate help
+- [Global Crisis Hotlines](/crisis/global-crisis-hotlines) — Emergency contact numbers
+- [Abuse, Neglect & Exploitation](/crisis/abuse-neglect-exploitation) — Recognizing and escaping abuse
+- [Emergency & Disaster Preparedness](/crisis/emergency-disaster-preparedness) — Planning for emergencies
+
+### Finding Community
+- [Online Communities](/community/online-communities) — Finding your people online
+- [Reddit](/community/online-groups/reddit) — Reddit disability communities
+- [Discord](/community/online-groups/discord) — Discord servers
+- [In-Person Community](/community/in-person-community) — Local connections
+- [Youth & Student Communities](/community/youth-student-communities) — For young disabled people
+
+### Practical Resources
+- [Benefits Overview](/benefits) — Financial support and programs
+- [Healthcare](/healthcare) — Medical access and navigation
+- [Housing](/housing) — Accessible housing and independent living
+- [Employment](/employment) — Work and accommodations
+- [Rights & Advocacy](/rights) — Legal protections
+
+### By Identity
+- [Intersectionality](/intersectionality) — Disability across identities
+- [Specific Conditions](/conditions) — Condition-specific information
+
+---
+
+## Contribute to This Page
+
+Have suggestions for improving this welcome page? Ideas for what newcomers need to know?
+
+[Suggest an edit or addition](https://docs.google.com/forms/d/e/1FAIpQLSfVmedRxQZ1tmu63I0OZSZXuinbzNQ7WYyBFHMp6NbsHb0F0g/viewform?usp=sharing&ouid=110839947117265692657)
+
+---
+
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/glossary/how-to-contribute).*
+
+**Last updated**: November 2025
