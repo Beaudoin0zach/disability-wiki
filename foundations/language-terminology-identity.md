@@ -2,7 +2,7 @@
 title:  Language, Terminology, and Identity
 description: Person-first vs. identity-first language, reclaimed terms, and why wording matters. 
 published: true
-date: 2025-11-30T17:40:18.055Z
+date: 2025-12-01T23:29:51.085Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:58:43.024Z
@@ -132,11 +132,32 @@ We recognize language is always evolving and welcome feedback on how to improve.
 
 ## Related Pages
 
+### Foundations
 - [What Is Disability?](/foundations/what-is-disability) — Different definitions and frameworks
 - [Disability Models](/foundations/disability-models) — How frameworks shape language
 - [Disability Culture](/foundations/disability-culture) — How community language develops
+- [For Allies](/foundations/for-allies) — Guidance on respectful communication
+
+### Glossary
 - [Glossary: Terminology](/glossary/terminology) — Quick reference for specific terms
 - [Glossary: Acronyms](/glossary/acronyms) — Common disability-related acronyms
+- [Editorial Guidelines](/glossary/editorial-guidelines) — How we approach language on this wiki
+
+### Specific Conditions (Community Language Preferences)
+- [Sensory Disabilities](/conditions/sensory-disabilities) — Deaf and blind community language
+- [Neurodivergence](/conditions/neurodivergence) — Autistic and neurodivergent language
+- [Chronic Illness](/conditions/chronic-illness) — Chronic illness community language
+- [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability) — Mad pride and psychiatric survivor language
+- [Intellectual & Developmental Disability](/conditions/intellectual-and-developmental-disability) — IDD community preferences
+
+### Intersectionality
+- [Race & Disability](/intersectionality/race-and-disability) — Language at the intersection
+- [LGBTQ & Disability](/intersectionality/lgbtq-and-disability) — Queer and trans disability language
+- [Indigenous Disability Perspectives](/intersectionality/indigenous-disability-perspectives) — Non-Western terminology
+
+### Media
+- [Media Tropes & Representation](/media/media-tropes-and-representation) — How language shapes representation
+- [Books](/media/books) — Disability literature and writing
 
 ---
 
