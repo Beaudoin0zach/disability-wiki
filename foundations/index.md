@@ -2,7 +2,7 @@
 title: Foundations
 description: description: Core concepts, language, and frameworks for understanding disability and disability justice. 
 published: true
-date: 2025-12-01T23:36:24.938Z
+date: 2025-12-01T23:38:29.251Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:58:31.530Z
@@ -85,27 +85,27 @@ Check [Language, Terminology & Identity](/foundations/language-terminology-ident
 ## Related Sections
 
 ### If You Need Help Now
-- [Crisis Resources](/crisis) — Immediate help and safety
+- [Crisis Resources](/crisis/index) — Immediate help and safety
 - [Global Crisis Hotlines](/crisis/global-crisis-hotlines) — Emergency numbers worldwide
 
 ### Finding Community
-- [Community & Peer Support](/community) — Finding your people
+- [Community & Peer Support](/community/index) — Finding your people
 - [Online Communities](/community/online-communities) — Digital spaces
 - [In-Person Community](/community/in-person-community) — Local connections
 
 ### Understanding Your Rights
-- [Rights & Advocacy](/rights) — Legal frameworks and protections
-- [History](/history) — Disability rights movement and historical context
+- [Rights & Advocacy](/rights/index) — Legal frameworks and protections
+- [History](/history/index) — Disability rights movement and historical context
 
 ### Practical Resources
-- [Benefits](/benefits) — Financial support programs
-- [Healthcare](/healthcare) — Medical access
-- [Housing](/housing) — Accessible housing
-- [Employment](/employment) — Work and accommodations
+- [Benefits](/benefits/index) — Financial support programs
+- [Healthcare](/healthcare/index) — Medical access
+- [Housing](/housing/index) — Accessible housing
+- [Employment](/employment/index) — Work and accommodations
 
 ### Going Deeper
-- [Intersectionality](/intersectionality) — Disability across identities
-- [Specific Conditions](/conditions) — Condition-specific information
+- [Intersectionality](/intersectionality/index) — Disability across identities
+- [Specific Conditions](/conditions/index) — Condition-specific information
 - [Glossary & Terminology](/glossary/terminology) — Quick reference for terms
 
 ---
