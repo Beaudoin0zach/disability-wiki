@@ -2,7 +2,7 @@
 title: Disability Models
 description: Medical, social, biopsychosocial, charity, moral, and disability justice models explained.
 published: true
-date: 2025-11-30T17:41:35.463Z
+date: 2025-12-01T23:27:21.832Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:57:57.640Z
@@ -262,11 +262,36 @@ You don't have to adopt one model entirely or reject others completely. What mat
 
 ## Related Pages
 
+### Foundations
 - [What Is Disability?](/foundations/what-is-disability) — Different definitions across contexts
 - [Language, Terminology & Identity](/foundations/language-terminology-identity) — How models shape language
 - [Disability Culture](/foundations/disability-culture) — Community beyond frameworks
+
+### History
 - [History of Disability Rights](/rights/history-of-disability-rights) — How these models developed
+- [Disability Rights Movement](/history/disability-rights-movement) — Movement history
+- [Institutionalization & Deinstitutionalization](/history/institutionalization-and-deinstitutionalization) — Institutional history
+- [Eugenics](/history/eugenics) — Eugenics and the medical/charity models
+
+### Housing & Independent Living
 - [Independent Living Philosophy & Centers](/housing/independent-living-philosophy-and-centers) — Deeper dive on IL movement
+- [Group Homes & Institutions](/housing/group-homes-and-institutions) — Understanding congregate settings
+
+### Intersectionality
+- [Race & Disability](/intersectionality/race-and-disability) — How models apply across race
+- [Poverty & Class](/intersectionality/poverty-and-class) — Economic dimensions
+- [Indigenous Disability Perspectives](/intersectionality/indigenous-disability-perspectives) — Non-Western models
+- [Incarceration & Criminalization](/intersectionality/incarceration-and-criminalization) — Disability and the carceral system
+
+### Rights & Healthcare
+- [International Rights](/rights/international-rights) — UN CRPD and human rights model
+- [Healthcare Rights](/healthcare/healthcare-rights) — Medical model in practice
+- [Advocacy & Self-Advocacy](/rights/advocacy-and-self-advocacy) — Applying these frameworks
+
+### Conditions
+- [Neurodivergence](/conditions/neurodivergence) — Neurodiversity paradigm in practice
+- [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability) — Mad pride and survivor movements
+- [Chronic Illness](/conditions/chronic-illness) — Models and chronic illness
 
 ---
 
