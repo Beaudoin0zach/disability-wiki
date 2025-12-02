@@ -2,7 +2,7 @@
 title: Architects And Designers
 description: 
 published: true
-date: 2025-11-30T01:13:33.271Z
+date: 2025-12-02T11:09:19.171Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:09:21.168Z
@@ -235,7 +235,7 @@ Effective wayfinding works across sensory modalities:
 
 ### Housing
 
-See [Housing Section](/housing) for detailed guidance, including:
+See [Housing Section](/housing/index) for detailed guidance, including:
 - Visitability (basic access in all homes)
 - Adaptable design (easily modifiable as needs change)
 - Accessible design (fully accessible from construction)
