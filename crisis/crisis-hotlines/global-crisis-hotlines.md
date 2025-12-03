@@ -2,7 +2,7 @@
 title: Global Crisis Hotlines and Helplines
 description: 
 published: true
-date: 2025-11-30T00:49:19.410Z
+date: 2025-12-03T20:22:53.725Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:53:22.597Z
@@ -37,11 +37,11 @@ Availability, quality, and accessibility vary widely.
   - Befrienders Worldwide – international directory of emotional support centers  
   - International Association for Suicide Prevention – country-by-country listing
 
-- **Europe:**  
+- **[Europe](/crisis/crisis-hotlines/europe/):**  
   - EU / EEA national crisis lines  
   - Samaritans branches in the UK, Ireland, and other locations
 
-- **Africa, Asia, Latin America, and the Caribbean:**  
+- **[Africa](/crisis/crisis-hotlines/africa/), [Asia](/crisis/crisis-hotlines/asian-pacific), [South America](/crisis/crisis-hotlines/south-america), [North America](/crisis/crisis-hotlines/north-america), and the Caribbean:**  
   - Country-specific hotlines where available  
   - Regional NGO directories
 
