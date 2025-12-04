@@ -2,7 +2,7 @@
 title: Global Crisis Hotlines and Helplines
 description: 
 published: true
-date: 2025-12-04T19:07:01.323Z
+date: 2025-12-04T19:17:18.662Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:53:22.597Z
@@ -143,7 +143,7 @@ Availability, quality, and accessibility vary widely across countries and region
 - **New Zealand:** 0800-543-354 (Lifeline) | 1737 (Need to Talk)
 - **India:** 14416 (Tele-MANAS, government 24/7) | 91-9820466726 (AASRA)
 - **Hong Kong:** 18111 (Government mental health, 24/7, launched Dec 2023)
-- **Indonesia:** 119 ext 8 - [Detailed page](/crisis/crisis/crisis-hotlines/asian-pacific/indonesia)
+- **Indonesia:** 119 ext 8 - [Detailed page](/crisis/crisis-hotlines/asian-pacific/indonesia)
 - **Japan:** 0120-279-338 (Yorisoi, 24/7) | 03-5774-0992 (TELL English, 9am-11pm)
 - ⚠️ **Vietnam:** Limited services available
 - See regional page for country-specific numbers
