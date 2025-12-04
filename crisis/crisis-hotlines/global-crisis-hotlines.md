@@ -2,7 +2,7 @@
 title: Global Crisis Hotlines and Helplines
 description: 
 published: true
-date: 2025-12-04T19:01:27.058Z
+date: 2025-12-04T19:03:35.973Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:53:22.597Z
@@ -79,7 +79,7 @@ Availability, quality, and accessibility vary widely across countries and region
 **[South America Crisis Resources](/crisis/crisis-hotlines/south-america)**
 - Argentina
 - Bolivia
-- **Brazil** - **[Detailed page available](/crisis/crisis-hotlines/brazil)**
+- **Brazil** - **[Detailed page available](/crisis/crisis-hotlines/south-america/brazil)**
 - Chile
 - Colombia
 - Ecuador
@@ -89,7 +89,7 @@ Availability, quality, and accessibility vary widely across countries and region
 - Venezuela
 
 **Quick access:**
-- **Brazil:** 188 (CVV, 24/7) - [Detailed page](/crisis/crisis-hotlines/brazil)
+- **Brazil:** 188 (CVV, 24/7) - [Detailed page](/crisis/crisis-hotlines/south-america/brazil)
 - See regional page for other country-specific numbers
 
 ---
@@ -115,25 +115,25 @@ Availability, quality, and accessibility vary widely across countries and region
 ### 🌍 Africa
 **[Africa Crisis Resources](/crisis/crisis-hotlines/africa)**
 - Northern Africa (5 countries) - **⚠️ Egypt has NO suicide hotline**
-- Western Africa (3 countries including **[Nigeria](/crisis/hotlines/nigeria)** detailed page)
+- Western Africa (3 countries including **[Nigeria](/crisis/hotlines/africa/nigeria)** detailed page)
 - Eastern Africa (4 countries) - **⚠️ Ethiopia has NO dedicated crisis line**
-- Southern Africa (4 countries including **[South Africa](/crisis/crisis-hotlines/south-africa)** detailed page)
+- Southern Africa (4 countries including **[South Africa](/crisis/crisis-hotlines/africa/south-africa)** detailed page)
 - Central Africa (2 countries)
 
 **Context note:** Service availability varies significantly. Many countries have no 24/7 crisis hotlines. The regional page includes guidance on alternative support options when formal crisis services are limited.
 
 **Quick access:**
-- **South Africa:** 0800-567-567 (SADAG) | 0861-322-322 (LifeLine) - [Detailed page](/crisis/crisis-hotlines/south-africa)
-- **Nigeria:** 0800-800-2000 (She Writes Woman, 24/7 toll-free) - [Detailed page](/crisis/crisis-hotlines/nigeria)
+- **South Africa:** 0800-567-567 (SADAG) | 0861-322-322 (LifeLine) - [Detailed page](/crisis/crisis-hotlines/africa/south-africa)
+- **Nigeria:** 0800-800-2000 (She Writes Woman, 24/7 toll-free) - [Detailed page](/crisis/crisis-hotlines/africa/nigeria)
 - ⚠️ **Egypt, Ethiopia, Zimbabwe:** No telephone crisis lines - use emergency services
 - See regional page for other country-specific numbers
 
 ---
 
 ### 🌏 Asia & Pacific
-**[Asia & Pacific Crisis Resources](/crisis/crisis-hotlines/asia-pacific)**
+**[Asia & Pacific Crisis Resources](/crisis/crisis-hotlines/asian-pacific)**
 - East Asia (5 countries)
-- Southeast Asia (6 countries including **[Indonesia](/crisis/crisis-hotlines/asia-pacific/indonesia)** detailed page)
+- Southeast Asia (6 countries including **[Indonesia](/crisis/crisis-hotlines/asian-pacific/indonesia)** detailed page)
 - South Asia (5 countries)
 - Pacific Islands & Oceania (4 countries)
 - Central Asia (2 countries)
@@ -143,7 +143,7 @@ Availability, quality, and accessibility vary widely across countries and region
 - **New Zealand:** 0800-543-354 (Lifeline) | 1737 (Need to Talk)
 - **India:** 14416 (Tele-MANAS, government 24/7) | 91-9820466726 (AASRA)
 - **Hong Kong:** 18111 (Government mental health, 24/7, launched Dec 2023)
-- **Indonesia:** 119 ext 8 - [Detailed page](/crisis/crisis/hotlines/asia-pacific/indonesia)
+- **Indonesia:** 119 ext 8 - [Detailed page](/crisis/crisis/hotlines/asian-pacific/indonesia)
 - **Japan:** 0120-279-338 (Yorisoi, 24/7) | 03-5774-0992 (TELL English, 9am-11pm)
 - ⚠️ **Vietnam:** Limited services available
 - See regional page for country-specific numbers
