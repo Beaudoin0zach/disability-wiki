@@ -2,7 +2,7 @@
 title: Global Crisis Hotlines and Helplines
 description: 
 published: true
-date: 2025-12-04T19:03:35.973Z
+date: 2025-12-04T19:06:06.008Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:53:22.597Z
@@ -115,7 +115,7 @@ Availability, quality, and accessibility vary widely across countries and region
 ### 🌍 Africa
 **[Africa Crisis Resources](/crisis/crisis-hotlines/africa)**
 - Northern Africa (5 countries) - **⚠️ Egypt has NO suicide hotline**
-- Western Africa (3 countries including **[Nigeria](/crisis/hotlines/africa/nigeria)** detailed page)
+- Western Africa (3 countries including **[Nigeria](/crisis/crisis-hotlines/africa/nigeria)** detailed page)
 - Eastern Africa (4 countries) - **⚠️ Ethiopia has NO dedicated crisis line**
 - Southern Africa (4 countries including **[South Africa](/crisis/crisis-hotlines/africa/south-africa)** detailed page)
 - Central Africa (2 countries)
