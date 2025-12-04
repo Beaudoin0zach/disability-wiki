@@ -2,7 +2,7 @@
 title: Global Crisis Hotlines and Helplines
 description: 
 published: true
-date: 2025-12-04T12:09:55.230Z
+date: 2025-12-04T18:51:30.148Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:53:22.597Z
@@ -26,6 +26,18 @@ This page connects you to crisis and emotional support resources worldwide.
 **Many hotlines are linked to police or involuntary hospitalization.** If avoiding those systems is important to you, read the notes on each regional page and consider peer-run or text/chat options where available.
 
 Availability, quality, and accessibility vary widely across countries and regions.
+
+### ⚠️ Critical Safety Warnings (Updated December 2025)
+
+**Recent Changes That May Affect You:**
+
+1. **Trans Lifeline (US/Canada)** - Now operates **Monday-Friday 10am-6pm Pacific Time ONLY** (no longer 24/7). Call 1-877-565-8860 (US) or 1-877-330-6366 (Canada).
+
+2. **988 LGBTQ+ "Press 3" Option (US)** - **TERMINATED July 2025**. LGBTQ+ individuals should call The Trevor Project directly at 1-866-488-7386 instead.
+
+3. **Countries with NO verified crisis hotlines:** Egypt, Ethiopia, Zimbabwe, and parts of Vietnam have no functioning telephone crisis services. Use emergency services (ambulance/police) or go to hospital emergency departments.
+
+4. **Wrong numbers corrected:** If you've used crisis services in Jamaica, Romania, Nepal, Sri Lanka, Fiji, or Papua New Guinea, verify you have current numbers on regional pages.
 
 ---
 
@@ -54,8 +66,11 @@ Availability, quality, and accessibility vary widely across countries and region
 - Central America (7 countries)
 
 **Quick access:**
-- **US/Canada:** 988 (call or text)
-- **US:** Text HOME to 741741 (Crisis Text Line)
+- **US/Canada:** 988 (call or text, 24/7)
+  - ⚠️ **Note:** LGBTQ+ "Press 3" option terminated July 2025. LGBTQ+ individuals call Trevor Project: 1-866-488-7386
+- **US:** Text HOME to 741741 (Crisis Text Line, 24/7)
+- **Trans Lifeline:** 1-877-565-8860 (US) or 1-877-330-6366 (Canada)
+  - ⚠️ **Hours reduced:** M-F 10am-6pm PT only (NOT 24/7)
 - **Emergency:** 911 (US, Canada, Mexico, most Caribbean/Central America)
 
 ---
@@ -64,7 +79,7 @@ Availability, quality, and accessibility vary widely across countries and region
 **[South America Crisis Resources](/crisis/south-america)**
 - Argentina
 - Bolivia
-- Brazil (detailed page available)
+- **Brazil** - **[Detailed page available](/crisis/brazil)**
 - Chile
 - Colombia
 - Ecuador
@@ -74,8 +89,8 @@ Availability, quality, and accessibility vary widely across countries and region
 - Venezuela
 
 **Quick access:**
-- **Brazil:** 188 (CVV, 24/7)
-- See regional page for country-specific numbers
+- **Brazil:** 188 (CVV, 24/7) - [Detailed page](/crisis/brazil)
+- See regional page for other country-specific numbers
 
 ---
 
@@ -99,42 +114,53 @@ Availability, quality, and accessibility vary widely across countries and region
 
 ### 🌍 Africa
 **[Africa Crisis Resources](/crisis/africa)**
-- Northern Africa (5 countries)
-- Western Africa (3 countries)
-- Eastern Africa (4 countries)
-- Southern Africa (4 countries)
+- Northern Africa (5 countries) - **⚠️ Egypt has NO suicide hotline**
+- Western Africa (3 countries including **[Nigeria](/crisis/nigeria)** detailed page)
+- Eastern Africa (4 countries) - **⚠️ Ethiopia has NO dedicated crisis line**
+- Southern Africa (4 countries including **[South Africa](/crisis/south-africa)** detailed page)
 - Central Africa (2 countries)
 
-**Context note:** Service availability varies significantly. The regional page includes guidance on alternative support options when formal crisis services are limited.
+**Context note:** Service availability varies significantly. Many countries have no 24/7 crisis hotlines. The regional page includes guidance on alternative support options when formal crisis services are limited.
 
 **Quick access:**
-- **South Africa:** 0800-567-567 (SADAG)
-- See regional page for country-specific numbers
+- **South Africa:** 0800-567-567 (SADAG) | 0861-322-322 (LifeLine) - [Detailed page](/crisis/south-africa)
+- **Nigeria:** 0800-800-2000 (She Writes Woman, 24/7 toll-free) - [Detailed page](/crisis/nigeria)
+- ⚠️ **Egypt, Ethiopia, Zimbabwe:** No telephone crisis lines - use emergency services
+- See regional page for other country-specific numbers
 
 ---
 
 ### 🌏 Asia & Pacific
 **[Asia & Pacific Crisis Resources](/crisis/asia-pacific)**
 - East Asia (5 countries)
-- Southeast Asia (6 countries)
+- Southeast Asia (6 countries including **[Indonesia](/crisis/indonesia)** detailed page)
 - South Asia (5 countries)
 - Pacific Islands & Oceania (4 countries)
 - Central Asia (2 countries)
 
 **Quick access:**
-- **Australia:** 13-11-14 (Lifeline)
-- **India:** 91-9820466726 (AASRA)
-- **Japan:** 03-5774-0992 (TELL, English)
+- **Australia:** 13-11-14 (Lifeline) | 13-92-76 (13YARN for Indigenous peoples)
+- **New Zealand:** 0800-543-354 (Lifeline) | 1737 (Need to Talk)
+- **India:** 14416 (Tele-MANAS, government 24/7) | 91-9820466726 (AASRA)
+- **Hong Kong:** 18111 (Government mental health, 24/7, launched Dec 2023)
+- **Indonesia:** 119 ext 8 - [Detailed page](/crisis/indonesia)
+- **Japan:** 0120-279-338 (Yorisoi, 24/7) | 03-5774-0992 (TELL English, 9am-11pm)
+- ⚠️ **Vietnam:** Limited services available
 - See regional page for country-specific numbers
 
 ---
 
 ## Country-Specific Detailed Pages
 
-Some countries have comprehensive crisis resource pages:
+Some countries have comprehensive crisis resource pages with local context, disability-specific resources, and detailed service information:
 
+### Available Now:
 - **[Brazil Crisis Help](/crisis/brazil)** - Complete resources in Portuguese and English
-- More detailed country pages coming soon
+- **[Indonesia Crisis Help](/crisis/indonesia)** - Detailed Indonesian resources
+- **[Nigeria Crisis Help](/crisis/nigeria)** - Comprehensive Nigerian crisis services
+- **[South Africa Crisis Help](/crisis/south-africa)** - Complete South African resources
+
+*More detailed country pages coming soon. If you'd like to contribute a detailed page for your country, see [How to Contribute](/glossary/how-to-contribute).*
 
 ---
 
@@ -187,7 +213,9 @@ Where available, we highlight alternatives to traditional clinical crisis servic
 
 - **Trans Lifeline** (US/Canada): 1-877-565-8860 (US) or 1-877-330-6366 (Canada)
   - Peer support by trans people for trans people
+  - ⚠️ **Hours: Monday-Friday 10am-6pm Pacific Time ONLY (NOT 24/7)**
   - Does not contact emergency services without consent
+  - Hours reduced January 2024
 
 - **BlackLine** (US): 1-800-604-5841
   - Peer support for Black, Black LGBTQ+, Brown, Native, and Muslim communities
@@ -196,12 +224,14 @@ Where available, we highlight alternatives to traditional clinical crisis servic
 ### Identity-Specific Support
 
 **LGBTQ+ Youth:**
-- **The Trevor Project** (US): 1-866-488-7386 (call), text START to 678-678
+- **The Trevor Project** (US): 1-866-488-7386 (call, 24/7), text START to 678-678
+- ⚠️ **Important:** The 988 LGBTQ+ "Press 3" option was terminated by the federal government in July 2025. LGBTQ+ individuals should call Trevor Project directly.
 - See regional pages for country-specific LGBTQ+ resources
 
 **Indigenous Peoples:**
-- **Hope for Wellness Helpline** (Canada): 1-855-242-3310
-- **StrongHearts Native Helpline** (US/Canada): 1-844-762-8483
+- **Hope for Wellness Helpline** (Canada): 1-855-242-3310 (24/7)
+- **13YARN** (Australia): 13-92-76 (24/7, for Aboriginal and Torres Strait Islander peoples)
+- **StrongHearts Native Helpline** (US/Canada): 1-844-762-8483 (domestic violence)
 
 **BIPOC Communities:**
 - **BlackLine** (US): 1-800-604-5841
@@ -220,12 +250,12 @@ For those who prefer or need non-voice communication:
 ### Text Crisis Support
 
 **Available in:**
-- **United States:** Text HOME to 741741 (Crisis Text Line)
-- **United States/Canada:** Text 988
-- **Canada:** Text 45645 (Crisis Services Canada), 686868 (Kids Help Phone)
-- **United Kingdom:** Text SHOUT to 85258
+- **United States:** Text HOME to 741741 (Crisis Text Line, 24/7)
+- **United States/Canada:** Text 988 (24/7)
+- **Canada:** Text 45645 (Crisis Services Canada, 4pm-midnight ET), 686868 (Kids Help Phone, 24/7)
+- **United Kingdom:** Text SHOUT to 85258 (24/7)
 - **Ireland:** Text HELLO to 50808
-- **Australia:** Text 0477-13-11-14 (Lifeline)
+- **Australia:** Text 0477-13-11-14 (Lifeline, 24/7)
 - **New Zealand:** Text 234 (Youthline, 8am-midnight)
 
 See regional pages for additional country-specific text options.
@@ -254,8 +284,8 @@ Text-based services (SMS, chat) are often most accessible for Deaf/HoH individua
 ### TTY/TDD Services
 
 **Available in:**
-- **United States:** 988 (use your preferred relay service)
-- **United States:** 1-800-799-7233 TTY 1-800-787-3224 (Domestic Violence)
+- **United States:** 988 (TTY: dial 711 then 988)
+- **United States:** 1-800-799-7233 TTY 1-800-787-3224 (National Domestic Violence Hotline)
 - Other countries vary; check regional pages
 
 ### Video Relay and Sign Language
@@ -274,7 +304,8 @@ Text-based services (SMS, chat) are often most accessible for Deaf/HoH individua
 - Crisis services change frequently
 - New services launch; others close or change numbers
 - Regional pages are more comprehensive but still not exhaustive
-- **Contributors are encouraged to suggest additions**
+- **Last comprehensive verification:** December 2025 (62 corrections implemented)
+- **Contributors are encouraged to suggest additions and report outdated information**
 
 ### Numbers May Be Inactive or Region-Locked
 
@@ -406,10 +437,17 @@ This wiki is community-driven. See [How to Contribute](/glossary/how-to-contribu
 ---
 
 *Last updated: December 2025*
+*Verified December 4, 2025 - 60+ corrections implemented*
 
 **In crisis right now?**
-- **US/Canada:** 988 or text HOME to 741741
-- **Europe:** 112 or your country's crisis line
+- **US/Canada:** 988 (call or text, 24/7)
+  - LGBTQ+ youth: Call Trevor Project 1-866-488-7386
+- **US:** Text HOME to 741741 (Crisis Text Line, 24/7)
+- **UK:** 116-123 (Samaritans, 24/7)
+- **Australia:** 13-11-14 (Lifeline, 24/7)
+- **Europe:** 112 (emergency) or your country's crisis line
 - **Other regions:** See your regional page above
+
+⚠️ **Trans Lifeline:** M-F 10am-6pm PT only (not 24/7)
 
 **Everything else can wait.**
