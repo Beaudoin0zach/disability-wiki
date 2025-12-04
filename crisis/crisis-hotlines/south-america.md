@@ -2,7 +2,7 @@
 title: South American Crisis Hotlines
 description: 
 published: true
-date: 2025-12-04T12:00:20.282Z
+date: 2025-12-04T16:41:30.043Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T20:17:01.913Z
@@ -44,9 +44,10 @@ Select your country for local crisis resources:
 ### Crisis and Suicide Prevention
 
 **Centro de Asistencia al Suicida (CAS)**
-- Phone: 135 (free, 24/7 from landlines and mobiles)
-- Alternative: (011) 5275-1135
+- Phone: 135 (free, 8am-midnight daily from landlines and mobiles)
+- Alternative: (011) 5275-1135 or 0800-345-1435
 - Website: http://www.casbuenosaires.com.ar
+- **Note:** NOT 24/7 service
 
 **Línea 102 – Derechos de Niños, Niñas y Adolescentes**
 - Phone: 102 (free, 24/7)
@@ -161,8 +162,10 @@ Select your country for local crisis resources:
 ### Crisis and Mental Health Support
 
 **Ministerio de Salud Pública – Salud Mental**
-- Phone: 171 (Option 2, free, 24/7)
+- Phone: 171 (Option 6, free)
+- Hours: 7am-8pm daily
 - Suicide prevention and mental health crisis
+- **Note:** NOT 24/7 service
 
 **ECU 911 – Servicios de Emergencia**
 - Phone: 911 (free, 24/7)
