@@ -2,7 +2,7 @@
 title: Crisis Hotlines in Brazil
 description: 
 published: true
-date: 2025-11-22T15:49:16.350Z
+date: 2025-12-04T11:57:52.310Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-16T22:12:10.193Z
@@ -10,183 +10,299 @@ dateCreated: 2025-11-16T22:12:10.193Z
 
 # Crisis Help: Brazil
 
-If you're in crisis right now, você não está sozinho (you're not alone). Help is 
-available immediately, and confidential.
-
-⚠️ **Content note:** This page discusses suicide, abuse, self-harm, and violence. 
-If this is overwhelming right now, you can just call the number below. You don't have 
-to read everything.
+If you're in crisis right now, você não está sozinho (you're not alone).
+Help is available immediately, confidentially, and without judgment.
 
 ---
 
-## 🚨 RIGHT NOW: Call This Number
+⚠️ **Content note:** This page discusses suicide, abuse, self-harm, and violence.
+If that feels overwhelming, you can skip everything and just call the number below.
 
-### Centro de Valorização da Vida (CVV)
+---
 
-**Phone:** 188 (24/7, can be called from any phone, even without credit on some networks)  
-**Chat:** cvv.org.br  
-**Email:** atendimento@cvv.org.br  
-**Hours:** 24/7, 365 days a year  
-**Cost:** Free  
-**Languages:** Portuguese, English, Spanish  
+## 🚨 Right Now: Call This Number
 
-**What happens:**
-- Free emotional support
-- 24/7 availability
-- Trained volunteers
+**CVV – Centro de Valorização da Vida**
+
+- **Phone:** 188
+- **Cost:** Free from any landline or mobile phone
+- **Hours:** 24/7, every day of the year
+- **Website:** https://www.cvv.org.br
+- **Chat:** Available on the website (hours depend on volunteer availability)
+- **Email:** apoioemocional@cvv.org.br (response typically within 24 hours)
+- **Languages:** Portuguese (primary); support in other languages may occur but is not guaranteed
+
+**What CVV provides:**
+- Immediate emotional support
 - Suicide prevention
-- Confidential and non-judgmental
+- Confidential, non-judgmental conversation
+- Trained volunteers
+- No identification or documents required
+
+**If unsure what to say, start with:**
+
+"Estou em crise."
+(I'm in crisis.)
+
+"Estou tendo pensamentos suicidas."
+(I'm having suicidal thoughts.)
+
+"Preciso conversar com alguém."
+(I need to talk to someone.)
+
+They will guide you from there.
 
 ---
 
-## Other Crisis Options (Choose What Works for You)
+## Other Crisis Options (Choose What Fits Your Situation)
 
 ### Mental Health Crisis
 
-**CVV:** 188 (24/7)  
-- Emotional support for mental health crisis
+**CVV:** 188 (24/7)
 
-**CAPS (Centros de Atenção Psicossocial):** Local mental health services  
-- Government mental health centers
-- Search "CAPS [your city]"
+**CAPS – Centros de Atenção Psicossocial**
+- Public mental-health centers offering psychiatric and psychological support
+- Search: "CAPS [sua cidade]"
+- **Hours:** Most CAPS operate Monday-Friday during business hours
+- **24/7 CAPS:** Only CAPS III and CAPS AD III operate 24 hours (limited locations)
 
 ### Suicidal Thoughts
 
-**CVV:** 188 (24/7)  
-- Suicide prevention and support
+- **CVV:** 188 (24/7)
+- For follow-up care: contact your local CAPS or SUS health unit
 
-**National Suicide Prevention Network:** Search for local services in your state
+---
 
-### Abuse or Violence
+## Abuse, Violence, and Exploitation
 
-**Domestic Violence:**  
-- Ligue 180 (National Domestic Violence Hotline): 180 (24/7, free)
-- Also available as 0800-006-1880 from some phones
+### Domestic or Sexual Violence (Women)
 
-**Sexual Assault:**  
-- Same number: 180 (also handles sexual violence)
-- Hospital VIVER: For rape survivors (São Paulo)
+**Ligue 180 – Central de Atendimento à Mulher**
 
-**Child Abuse:**  
-- Ligue 100 (National Child Helpline): 100 (24/7)
-- Report abuse of children
+- **Phone:** 180 (free, confidential, 24/7)
+- **WhatsApp:** (61) 9610-0180
+- **Email:** central180@mulheres.gov.br
+- **Libras (video calls):** Available at gov.br/mulheres/ligue180/libras
+- **Languages:** Portuguese, English, Spanish, Libras
+
+**Services:**
+- Reports domestic violence, sexual violence, gender-based violence
+- Provides orientation and referral to local protective services
+- Confidential and free
+
+### Child Abuse or Child Sexual Exploitation
+
+**Disque 100 – Direitos Humanos**
+
+- **Phone:** 100 (free, 24/7)
+- **WhatsApp:** (61) 99611-0100
+- **Telegram:** @DireitosHumanosBrasil
+- **Mobile app:** "Direitos Humanos Brasil" (iOS/Android)
+- **Libras (video calls):** Available at gov.br/mdh/pt-br/ondh
+
+**Reports violations against:**
+- Children and adolescents
+- Older adults
+- Disabled people
+- LGBTQIA+ people
+- Other vulnerable groups
+
+**You can report anonymously.**
+
+### Sexual Violence (Medical Care)
+
+If sexual assault occurred within the last 72 hours, seek urgent medical care at a hospital that provides "atendimento a vítimas de violência sexual."
+
+**In São Paulo:**
+- **Hospital da Mulher** (formerly Hospital Pérola Byington)
+- Address: Av. Rio Branco 1080, Campos Elíseos, São Paulo
+- Services: 24-hour sexual violence care, forensic services, psychological support
+- Phone: (11) 3197-0966
+- Website: hospitaldamulhersp.org.br
+
+**In other cities:**
+- Search: "hospital violência sexual [sua cidade]"
+- Go to nearest hospital emergency room or UPA
 
 ### Youth Crisis
 
-**CVV:** 188 (24/7)  
-- Support for young people
-
-**Disque Denúncia:** 100 (for child abuse/exploitation)
-
-### Disability-Specific Crisis Support
-
-**APAE (Associação de Pais e Amigos dos Excepcionais):** Local organizations  
-- Support for people with intellectual disabilities
-- "APAE [your city]" for local office
-
-**Federation of Deaf Societies:** Organizations for Deaf people  
-- Sign language support
-- Search "Federação de Surdos [state]"
+- **CVV:** 188 (24/7 emotional support)
+- **Disque 100:** For reporting youth abuse/exploitation
+- **Local CAPS-i** (child/adolescent CAPS) where available
+- **UNICEF Pode Falar:** podefalar.org.br or WhatsApp (61) 9660-8843 (ages 13-24, anonymous chat support)
 
 ---
 
-## Emergency: Life-Threatening
+## Disability-Specific Support
 
-**Immediate life-threatening danger:**
-- **Call 192** for SAMU (ambulance/emergency medical)
-- **Call 190** for police
-- **Go to nearest hospital (hospital/pronto-socorro)**
+These are not crisis hotlines but can help with navigation, referrals, and protection:
+
+### APAE – Associação de Pais e Amigos dos Excepcionais
+
+- Support for people with intellectual and multiple disabilities
+- 2,200+ locations across Brazil
+- Website: apaebrasil.org.br
+- Search: "APAE [sua cidade]"
+
+### Deaf Community Support
+
+**FENEIS – Federação Nacional de Educação e Integração dos Surdos**
+- National Deaf rights organization
+- Website: feneis.org.br
+- State-level Deaf federations also exist
+- Search: "FENEIS" or "Federação de Surdos [seu estado]"
 
 ---
 
-## What to Say When You Call
+## Medical or Safety Emergencies
 
-You don't need perfect words. Just say:
+If someone is in immediate physical danger or needs emergency care:
 
-- "Estou em crise" (I'm in crisis)
-- "Estou tendo pensamentos suicidas" (I'm having suicidal thoughts)
-- "Preciso conversar com alguém" (I need to talk to someone)
+- **SAMU (ambulance):** 192
+- **Police:** 190
+- **Fire Department:** 193
+- Go to the nearest hospital or **UPA (Unidade de Pronto Atendimento)**
 
-Volunteers are trained to help.
+**These numbers are 24/7, free, and nationwide.**
+
+---
+
+## Local Resources to Help Triage or Connect You to Support
+
+These organizations vary by city, but most medium and large municipalities have them.
+
+### 1. Municipal Health Departments (Secretaria Municipal de Saúde)
+
+They can help direct you to:
+- CAPS
+- Emergency mental-health services
+- Psychologists and psychiatrists
+- Crisis stabilization units
+- Social assistance services
+
+Search: "Secretaria de Saúde [sua cidade]"
+
+### 2. CRAS – Centro de Referência de Assistência Social
+
+For people experiencing:
+- Family conflict
+- Disability-related needs
+- Poverty, food insecurity
+- Domestic violence risk
+- Need for referrals to shelters or protective services
+
+**Coverage:** 8,360+ units in 97%+ of Brazilian municipalities
+
+Search: "CRAS [sua cidade]"
+
+### 3. CREAS – Centro Especializado de Assistência Social
+
+For serious violations, including:
+- Domestic violence
+- Sexual violence
+- Abuse or neglect
+- Forced institutionalization
+- Rights violations
+
+**Coverage:** 2,780+ units nationwide
+
+Search: "CREAS [sua cidade]"
+
+### 4. Public Defender's Office (Defensoria Pública)
+
+Free legal help in:
+- Violence cases
+- Disability rights
+- Housing insecurity
+- Access to healthcare/SUS
+- Social security issues
+
+Search: "Defensoria Pública [estado]"
+
+### 5. Local Mental-Health Emergency Rooms
+
+Often located inside:
+- UPA (Unidade de Pronto Atendimento)
+- Municipal hospitals
+- Regional psychiatric emergency centers ("emergência psiquiátrica")
+
+**Note:** UPAs operate 24/7 for urgent care, including psychiatric emergencies.
+
+Search: "emergência psiquiátrica [sua cidade]"
 
 ---
 
 ## Accessibility & Contact Methods
 
-### For Those Who Prefer Chat
+### If You Prefer Chat/Text
 
-- **CVV Chat:** cvv.org.br (24/7)
-- **CVV Email:** atendimento@cvv.org.br (responses 24 hours)
+- **CVV Chat:** via cvv.org.br (hours listed on site)
+- **CVV Email:** apoioemocional@cvv.org.br
+- **Ligue 180 WhatsApp:** (61) 9610-0180
+- **Disque 100 WhatsApp:** (61) 99611-0100
+- **UNICEF Pode Falar (ages 13-24):** WhatsApp (61) 9660-8843 or podefalar.org.br
 
-### Multiple Languages
+### If You're Deaf or Hard of Hearing
 
-- Portuguese (primary)
-- English available
-- Spanish available
-- Can request interpretation for other languages
+- **Ligue 180:** Libras video calls available at gov.br/mulheres/ligue180/libras
+- **Disque 100:** Libras video calls available at gov.br/mdh/pt-br/ondh
+- **FENEIS:** Contact for community support and resources
 
-### People in Remote Areas
+### If You're in a Remote Area
 
-- Phone number 188 works from any phone
-- Some services have mobile clinics in smaller cities
+- 188 works from all mobile and landline phones
+- Many CAPS and SUS mobile teams serve rural/remote communities
+- WhatsApp options available with internet connection
 
 ---
 
-## After You Call
+## After the Crisis Call
 
-Crisis lines help you get through RIGHT NOW. After that:
+Crisis lines help you get through right now.
+Afterward, consider connecting with long-term support:
 
-### Finding Ongoing Support
+- **CAPS** (mental health treatment)
+- **UPA or hospital** (medical or psychiatric evaluation)
+- **SUS / public health centers (UBS)** (ongoing care)
+- **Local NGOs or disability organizations**
+- **CRAS/CREAS** for social support or protection
 
-**Contact your nearest:**
-- UPA (Unidade de Pronto Atendimento) - emergency care
-- CAPS (mental health center)
-- Your city's health department (Secretaria de Saúde)
-
-**Mental health professionals:**
-- Search for psychologists in your city
-- Ask your doctor for referrals
-
-**Government support:**
-- SUS (Sistema Único de Saúde) - public health system
-- Free mental health services available
+Recovery doesn't happen alone. Help is available.
 
 ---
 
 ## Important Information
 
-### It's Free
+### Free Services
 
-All services listed are completely free.
+All hotlines listed (188, 180, 100, 190, 192, 193) are free.
 
-### It's Confidential
+### Confidential
 
-Confidential. Police only contacted if immediate danger.
+CVV, 180, and 100 respect confidentiality.
+Authorities are contacted only if someone is in immediate danger.
 
-### It's 24/7
+### 24/7 Services
 
-All major services run 24/7.
+- **24/7:** 188, 180, 100, 190, 192, 193
+- **Variable hours:** CAPS (most operate business hours; only CAPS III and CAPS AD III are 24/7), hospitals, NGOs
 
-### You Can Call Multiple Times
+### You Don't Need to Be "Sick Enough" to Call
 
-Many people use crisis services multiple times. That's normal.
+If you're asking yourself "sou doente o suficiente para ligar?" (am I sick enough to call?)—
 
-### You're Not "Sick Enough" to Call
-
-If you're asking: "Sou 'doente o suficiente' para ligar?" → **Você é.** Call.
-
----
-
-## Related Resources
-
-- [[/crisis|Main Crisis Help Section]]
-- [[Emergency Preparedness|Emergency Preparedness & Safety Planning]]
+**You are. Call.**
 
 ---
 
-*Last updated: November 16, 2025*  
-*All numbers verified through official Brazilian sources*
+## Related Pages
 
-**Em crise agora?** Ligue 188. Tudo mais pode esperar.
+- [Main Crisis Help Section](/crisis)
+- [Emergency Preparedness & Safety Planning](/crisis/emergency-disaster-preparedness)
+- [Abuse, Neglect, and Exploitation](/crisis/abuse-neglect-exploitation)
 
-**All services are free, confidential, and available 24/7.**
+---
+
+*Last updated: December 2025*
+
+**In crisis right now? Call 188. Everything else can wait.**
