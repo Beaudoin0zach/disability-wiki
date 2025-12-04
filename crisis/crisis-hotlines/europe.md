@@ -2,7 +2,7 @@
 title: European Crisis Hotlines
 description: 
 published: true
-date: 2025-12-04T12:01:43.376Z
+date: 2025-12-04T16:45:13.201Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T20:15:43.635Z
@@ -204,18 +204,10 @@ This page connects you to crisis resources across Europe.
 ### Netherlands
 
 **113 Zelfmoordpreventie (Suicide Prevention)**
-- Phone: 0900-0113 (24/7)
+- Phone: 0800-0113 (free, 24/7)
 - Chat: 113.nl
 - Website: https://www.113.nl
-
-**Kindertelefoon (Children's Helpline)**
-- Phone: 0800-0432 (free, Mon-Fri 2pm-9pm, weekends 10am-12pm)
-- For children ages 8-18
-
-**Veilig Thuis (Safe at Home)**
-- Phone: 0800-2000 (free, 24/7)
-- Domestic violence, child abuse, elder abuse
-- Website: https://www.vooreenveiligthuis.nl
+- **Important:** Use 0800-0113 (free), NOT 0900-0113 (paid)
 
 **Emergency:** 112
 
@@ -466,7 +458,8 @@ This page connects you to crisis resources across Europe.
 ### Romania
 
 **Telefon de Suflet (Soul Phone)**
-- Phone: 0800-800-808 (free, Mon-Fri 7pm-11pm)
+- Phone: 0800 801 200 (free)
+- Hours: 7pm-7am daily
 - Website: https://www.telefondesuflet.ro
 
 **Telefonul Copilului (Child Helpline)**
