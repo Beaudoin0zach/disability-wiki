@@ -2,7 +2,7 @@
 title: Crisis & Safety
 description: 
 published: true
-date: 2025-11-30T00:53:26.644Z
+date: 2025-12-04T19:24:40.078Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:53:34.253Z
@@ -30,7 +30,7 @@ All hotlines and resources are verified for accessibility when possible. We cont
 
 ## Pages in This Section
 
-### [Global Crisis Hotlines](/crisis/crisis-hotlines/global-crisis-hotlines)
+### [Global Crisis Hotlines](/crisis/crisis-hotlines/)
 
 Crisis hotlines by region: US, Canada, UK/Ireland, EU, Africa, Middle East, South Asia, East Asia, Pacific & Oceania, and Latin America. Includes numbers for mental health, substance use, self-harm, suicide, abuse, trafficking, and disability-specific services.
 
