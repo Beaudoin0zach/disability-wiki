@@ -2,7 +2,7 @@
 title: Asian Pacific Crisis Hotlines
 description: 
 published: true
-date: 2025-12-04T12:05:33.052Z
+date: 2025-12-04T16:46:17.098Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T20:15:02.140Z
@@ -167,21 +167,13 @@ This page connects you to crisis resources across Asia and the Pacific region.
 
 ### Indonesia
 
-**Yayasan Pulih**
-- Phone: (021) 788-42580
-- Website: https://yayasanpulih.org
-- Trauma recovery services
+**For complete crisis resources in Indonesia, see [Crisis Help: Indonesia](/crisis/indonesia)**
 
-**LSM Jangan Bunuh Diri (Anti-Suicide NGO)**
-- Phone: (021) 9696-9293 or 0818-0140-1754
-- Hours: 8am-10pm daily
-
-**Komnas Perempuan (National Commission on Violence Against Women)**
-- Phone: (021) 3903-963
-
-**Emergency Services**
-- Emergency: 112 or 119
-- Police: 110
+**Quick Numbers:**
+- **Yayasan Pulih:** (021) 788-42580
+- **LSM Jangan Bunuh Diri:** (021) 9696-9293 or 0818-0140-1754 (8am-10pm)
+- **Komnas Perempuan (Violence Against Women):** (021) 3903-963
+- **Emergency:** 112 or 119
 
 ---
 
@@ -337,8 +329,13 @@ This page connects you to crisis resources across Asia and the Pacific region.
 
 ### Nepal
 
+**National Mental Health Helpline**
+- Phone: 1166 (24/7)
+- National mental health and suicide prevention
+
 **Transcultural Psychosocial Organization (TPO)**
-- Phone: 1660-0102-005 or 9840-021-600
+- Phone: 16600102005
+- Hours: Monday-Friday, 9:30am-4:30pm
 - Mental health support
 
 **Maiti Nepal (Human Trafficking)**
@@ -373,15 +370,17 @@ This page connects you to crisis resources across Asia and the Pacific region.
 ### Sri Lanka
 
 **Sumithrayo (Befrienders)**
-- Phone: 011-2696-666 or 011-2692-909 (24/7)
+- Phone: 011-2696-666 or 011-2692-909
+- Hours: 9am-4pm daily
 - Email: sumithrayo@sltnet.lk
 - Website: http://www.sumithrayo.org
 
+**National Mental Health Hotline**
+- Phone: 1926 (24/7)
+- Government mental health crisis line
+
 **National Institute of Mental Health (NIMH) Hotline**
 - Phone: 011-2-696-666
-
-**Child Protection Authority**
-- Phone: 1929 (24/7)
 
 **Emergency Services**
 - Emergency: 119 or 110
@@ -423,15 +422,21 @@ This page connects you to crisis resources across Asia and the Pacific region.
 ### Fiji
 
 **Lifeline Fiji**
-- Phone: 132-454 (24/7)
+- Phone: 1543 (24/7, toll-free)
 - Website: https://www.lifelinefiji.com
+- **Note:** Updated from old number 132-454
 
-**Empower Pacific**
-- Phone: 919 or 5626 (domestic violence)
+**Fiji Women's Crisis Centre**
+- Phone: 1560 (24/7, toll-free)
+- Domestic violence support
+
+**Child Helpline Fiji**
+- Phone: 1325 (24/7, toll-free)
 
 **Emergency Services**
 - Emergency: 911
 - Police: 911
+- **Note:** 919 is Crime Stoppers, NOT a crisis line
 
 ---
 
@@ -461,9 +466,11 @@ This page connects you to crisis resources across Asia and the Pacific region.
 
 ### Papua New Guinea
 
-**LifeLine PNG**
-- Phone: 675-326-0011 or 675-7300-1212
-- Email: pnglifeline@gmail.com
+**1-Tok Kaunselin Helpim Lain**
+- Phone: 7150 8000 (24/7, toll-free)
+- Languages: English, Tok Pisin, Hiri Motu
+- Mental health and crisis counseling
+- **Note:** Lifeline PNG ceased operations in October 2019
 
 **Family and Sexual Violence Action Committee**
 - Phone: 71-508-000 (Port Moresby)
