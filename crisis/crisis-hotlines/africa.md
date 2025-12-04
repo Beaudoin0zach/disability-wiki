@@ -2,7 +2,7 @@
 title: African Crisis Hotlines
 description: 
 published: true
-date: 2025-12-04T12:02:44.048Z
+date: 2025-12-04T16:45:45.516Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-03T20:14:23.770Z
@@ -72,14 +72,16 @@ This page connects you to crisis resources across Africa.
 
 ### Egypt
 
-**Befrienders Cairo**
-- Phone: (02) 2762-1602 or (02) 2762-2381
-- Hours: 8pm-12am daily
-- Email: help@befrienderscairo.org
+**⚠️ Important:** Egypt currently has **no functioning suicide prevention hotline**. Befrienders Cairo closed approximately 2005.
 
 **National Council for Childhood and Motherhood Hotline**
 - Phone: 16000
-- Child protection and abuse
+- Child protection and abuse reporting only
+
+**For mental health crisis:**
+- Contact emergency services: 122
+- Go to nearest hospital emergency department
+- Contact: Sourire de Reda +212 (5) 22 87 47 40 (Morocco-based, limited hours)
 
 **Emergency Services**
 - Emergency: 122
@@ -153,23 +155,13 @@ This page connects you to crisis resources across Africa.
 
 ### Nigeria
 
-**Mentally Aware Nigeria Initiative (MANI)**
-- Phone: 0806-210-6493 or 0809-210-0009
-- Hours: 8am-10pm daily
-- Website: https://mentallyaware.org
+**For complete crisis resources in Nigeria, see [Crisis Help: Nigeria](/crisis/nigeria)**
 
-**She Writes Woman (Women's Mental Health)**
-- Phone: 0810-556-5247
-- WhatsApp: 0902-200-0003
-- Website: https://www.shewriteswoman.org
-
-**National Human Rights Commission**
-- Phone: 0700-2255-6472
-- Child abuse and human rights violations
-
-**Emergency Services**
-- Emergency: 112 or 767
-- Police: 112
+**Quick Numbers:**
+- **Mentally Aware Nigeria Initiative (MANI):** 0806-210-6493 or 0809-210-0009 (8am-10pm daily)
+- **She Writes Woman (Women's Mental Health):** 0800 800 2000 (toll-free, 24/7, launched 2024)
+- **National Human Rights Commission:** 0700-2255-6472
+- **Emergency:** 112 or 767
 
 ---
 
@@ -298,28 +290,15 @@ This page connects you to crisis resources across Africa.
 
 ### South Africa
 
-**South African Depression and Anxiety Group (SADAG)**
-- Phone: 0800-567-567 (toll-free, 8am-8pm Mon-Sun)
-- Suicide Crisis Line: 0800-456-789 (24/7)
-- Website: https://www.sadag.org
+**For complete crisis resources in South Africa, see [Crisis Help: South Africa](/crisis/south-africa)**
 
-**LifeLine South Africa**
-- Phone: 0861-322-322 (24/7)
-- Website: https://www.lifelinesa.co.za
-
-**Childline South Africa**
-- Phone: 116 (free, 24/7)
-- Website: https://www.childlinesa.org.za
-
-**GBV Command Centre (Gender-Based Violence)**
-- Phone: 0800-428-428 (toll-free, 24/7)
-- WhatsApp: 0600-42-8428
-- SMS: *120*7867#
-
-**Emergency Services**
-- Emergency: 10111 or 112
-- Police: 10111
-- Ambulance: 10177
+**Quick Numbers:**
+- **SADAG:** 0800-567-567 (toll-free, 8am-8pm)
+- **Suicide Crisis Line:** 0800-456-789 (24/7)
+- **LifeLine South Africa:** 0861-322-322 (24/7)
+- **Childline:** 116 (free, 24/7)
+- **GBV Command Centre:** 0800-428-428 (toll-free, 24/7)
+- **Emergency:** 10111 or 112
 
 ---
 
