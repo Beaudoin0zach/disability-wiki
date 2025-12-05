@@ -2,7 +2,7 @@
 title: Disability, War, and Colonialism (1500–1960)
 description: 
 published: true
-date: 2025-12-04T23:05:42.854Z
+date: 2025-12-05T00:12:31.211Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-04T23:05:42.854Z
@@ -199,12 +199,15 @@ This resistance shaped later liberation movements across the world.
 
 ## Related Pages
 
-- [Industrialization and the Birth of Ableism](/rights/history/industrialization-and-ableism)
-- [Eugenics and Institutionalization](/rights/history/eugenics-and-institutionalization)
-- [Pre-Industrial Disability](/rights/history/pre-industrial-disability)
-- [History of Disability Rights](/rights/history-of-disability-rights)
-- [Deinstitutionalization](/rights/history/deinstitutionalization)
-- [Independent Living Movement](/rights/history/independent-living-movement)
+- [Industrialization and the Birth of Ableism](/history/industrialization)
+- [Eugenics and Institutionalization](/history/eugenics)
+- [Pre-Industrial Disability](/history/pre-industrial)
+- [Early Disability Movements](/history/early-movements)
+- [Institutionalization and Deinstitutionalization](/history/institutionalization-and-deinstitutionalization)
+- [Independent Living Movement](/history/independent-living-movement)
+- [Race and Disability](/intersectionality/race-and-disability)
+- [Indigenous Disability Perspectives](/intersectionality/indigenous-disability-perspectives)
+- [Immigration and Refugees](/intersectionality/immigration-and-refugees)
 
 ---
 
