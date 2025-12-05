@@ -2,7 +2,7 @@
 title: The Independent Living Movement (1960s–1980s)
 description: 
 published: true
-date: 2025-12-04T23:37:41.641Z
+date: 2025-12-05T00:15:15.027Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-04T23:37:41.641Z
@@ -212,11 +212,14 @@ The movement remains alive today through disability justice organizing, mutual a
 
 ## Related Pages
 
-- [Early Disability Movements](/rights/history/early-disability-movements)
-- [Deinstitutionalization](/rights/history/deinstitutionalization)
-- [History of Disability Rights](/rights/history-of-disability-rights)
-- [Eugenics and Institutionalization](/rights/history/eugenics-and-institutionalization)
-- [Disability and Colonialism](/intersectionality/disability-and-colonialism)
+- [Early Disability Movements](/history/early-movements)
+- [Institutionalization and Deinstitutionalization](/history/institutionalization-and-deinstitutionalization)
+- [Disability Rights Movement](/history/disability-rights-movement)
+- [Eugenics and Institutionalization](/history/eugenics)
+- [Disability, War, and Colonialism](/history/war-and-colonialism)
+- [Independent Living Philosophy and Centers](/housing/independent-living-philosophy-and-centers)
+- [Advocacy and Self-Advocacy](/rights/advocacy-and-self-advocacy)
+- [Community Organizing](/get-involved/community-organizing)
 
 ---
 
