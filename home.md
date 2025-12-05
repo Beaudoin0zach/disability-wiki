@@ -2,7 +2,7 @@
 title: Disability Wiki
 description: 
 published: true
-date: 2025-12-05T21:39:17.199Z
+date: 2025-12-05T21:39:58.614Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T13:10:00.897Z
@@ -12,7 +12,7 @@ dateCreated: 2025-11-20T13:10:00.897Z
 
 **Welcome! This is a community-driven guide to disability resources, rights, and culture—created by disabled people, for disabled people, allies, and advocates.**
 
-*Last updated: November 16, 2025 | License: CC BY-SA 4.0*
+*Last updated: December, 2025 | License: CC BY-SA 4.0*
 
 ---
 
@@ -245,5 +245,5 @@ We welcome contributors from everywhere.
 
 **"Nothing About Us Without Us."**
 
-*Last updated: November 21, 2025*  
+*Last updated: December, 2025*  
 *Maintained by: DisabilityWiki Community*
