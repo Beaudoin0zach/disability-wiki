@@ -2,7 +2,7 @@
 title: History of Disability
 description: 
 published: true
-date: 2025-12-05T00:08:45.950Z
+date: 2025-12-05T00:30:13.493Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-29T00:59:00.106Z
@@ -45,19 +45,19 @@ How disabled people organized before modern disability rights. Covers Deaf schoo
 How disabled people built a movement that transformed disability from a medical issue into a civil rights issue. Covers the Berkeley CIL, global spread of IL principles, the fight for transportation and housing access, and the movement's lasting legacy.
 
 ### [Institutionalization and Deinstitutionalization](/history/institutionalization-and-deinstitutionalization)
-How disabled people and allies fought to close institutions and create community alternatives. Covers legal battles, the role of IL activists, ongoing struggles, and what true community living requires. *(Coming soon)*
+How disabled people and allies fought to close institutions and create community alternatives. Covers legal battles, the role of IL activists, ongoing struggles, and what true community living requires. 
 
 ### [The Disability Rights Movement](/history/disability-rights-movement)
-How disabled people won major legal protections and continue fighting for full inclusion. Covers Section 504, the ADA, international developments, ADAPT, and ongoing organizing. *(Coming soon)*
+How disabled people won major legal protections and continue fighting for full inclusion. Covers Section 504, the ADA, international developments, ADAPT, and ongoing organizing. 
 
 ### [ADA History](/history/ada-history)
-The story of how the Americans with Disabilities Act was won—through organizing, protest, and political strategy. *(Coming soon)*
+The story of how the Americans with Disabilities Act was won—through organizing, protest, and political strategy. 
 
 ### [Global Timelines](/history/global-timelines)
-Key dates and milestones in disability history across different countries and regions. *(Coming soon)*
+Key dates and milestones in disability history across different countries and regions. 
 
 ### [Disability in Media History](/history/disability-in-media-history)
-How disabled people have been represented—and misrepresented—in media over time, and how disabled creators have told their own stories. *(Coming soon)*
+How disabled people have been represented—and misrepresented—in media over time, and how disabled creators have told their own stories. 
 
 ---
 
