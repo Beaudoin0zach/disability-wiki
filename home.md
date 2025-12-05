@@ -2,7 +2,7 @@
 title: Disability Wiki
 description: 
 published: true
-date: 2025-12-05T21:36:02.891Z
+date: 2025-12-05T21:39:17.199Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T13:10:00.897Z
@@ -136,6 +136,12 @@ DisabilityWiki exists to centralize disability resources, promote accessibility 
 - [Psychiatric & Psychosocial Disability](/conditions/psychiatric-and-psychosocial-disability)
 - [Invisible Disabilities](/conditions/invisible-disabilities)
 
+### History
+
+[Disability History](/history/index) — Movement history and cultural memory
+- [Disability Rights Movement](/history/disability-rights-movement)
+- [Institutionalization & Deinstitutionalization](/history/institutionalization-and-deinstitutionalization)
+
 ### Intersectionality
 
 [Intersectionality](/intersectionality/index) — Disability across identities
@@ -149,6 +155,14 @@ DisabilityWiki exists to centralize disability resources, promote accessibility 
 
 [Community & Activism](/community/index) — Support networks & advocacy
 - [Get Involved](/get-involved/index)
+
+### Research & Data
+
+[Research & Data](/research/index) — Statistics, studies, and academic resources
+
+### For Professionals
+
+[Professional Toolkits](/professionals/index) — Guidance for educators, healthcare providers, employers, and others
 
 ### Library
 
