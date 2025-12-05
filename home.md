@@ -2,7 +2,7 @@
 title: Disability Wiki
 description: 
 published: true
-date: 2025-11-22T00:18:40.524Z
+date: 2025-12-05T21:36:02.891Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T13:10:00.897Z
@@ -223,7 +223,7 @@ We welcome contributors from everywhere.
 
 ## Footer
 
-- [Start](/index)
+- [Start](/foundations/index)
 - [How to Use This Wiki](/foundations/how-to-use-this-wiki)
 - [Get Involved](/get-involved/index)
 - [Accessibility Statement](/accessibility-statement)
