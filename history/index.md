@@ -2,7 +2,7 @@
 title: History of Disability
 description: 
 published: true
-date: 2025-12-04T23:40:47.395Z
+date: 2025-12-05T00:08:45.950Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-29T00:59:00.106Z
@@ -26,29 +26,38 @@ Understanding this history helps us see that ableism is not natural or inevitabl
 
 ## In This Section
 
-### [Pre-Industrial Disability](/rights/history/pre-industrial-disability)
+### [Pre-Industrial Disability](/history/pre-industrial)
 How disabled people lived, worked, and were understood before factories and modern institutions. Covers diverse global frameworks, community roles, and the flexibility that existed before industrialization imposed rigid standards of "normal."
 
-### [Industrialization and the Birth of Ableism (1750–1900)](/rights/history/industrialization-and-ableism)
+### [Industrialization and the Birth of Ableism (1750–1900)](/history/industrialization)
 How factory work, statistics, and institutions created the modern idea of "normal" versus "defective" bodies. Covers the rise of poorhouses and asylums, industrial injury, colonial expansion of European disability frameworks, and the roots of eugenics.
 
-### [Disability, War, and Colonialism (1500–1960)](/rights/history/disability-war-and-colonialism)
+### [Disability, War, and Colonialism (1500–1960)](/history/war-and-colonialism)
 How military conflict and empire-building produced mass disability, imposed Western classifications on colonized peoples, and created systems of control. Covers forced labor, mission schools, veterans' movements, medical experimentation, and resistance.
 
-### [Eugenics and Institutionalization (1880–1945)](/rights/history/eugenics-and-institutionalization)
+### [Eugenics and Institutionalization (1880–1945)](/history/eugenics)
 How eugenics became a dominant global system for controlling and erasing disabled people. Covers sterilization laws, the growth of institutions, immigration exclusions, Nazi Aktion T4, and disabled people's resistance.
 
-### [Early Disability Movements (1800–1960)](/rights/history/early-disability-movements)
+### [Early Disability Movements (1800–1960)](/history/early-movements)
 How disabled people organized before modern disability rights. Covers Deaf schools and sign language communities, blind cooperatives, psychiatric survivor resistance, veterans' unions, labor organizing, and mutual aid in Black, Indigenous, and immigrant communities.
 
-### [The Independent Living Movement (1960s–1980s)](/rights/history/independent-living-movement)
+### [The Independent Living Movement (1960s–1980s)](/history/independent-living-movement)
 How disabled people built a movement that transformed disability from a medical issue into a civil rights issue. Covers the Berkeley CIL, global spread of IL principles, the fight for transportation and housing access, and the movement's lasting legacy.
 
-### [Deinstitutionalization](/rights/history/deinstitutionalization)
+### [Institutionalization and Deinstitutionalization](/history/institutionalization-and-deinstitutionalization)
 How disabled people and allies fought to close institutions and create community alternatives. Covers legal battles, the role of IL activists, ongoing struggles, and what true community living requires. *(Coming soon)*
 
-### [The Disability Rights Movement (1970s–Present)](/rights/history/disability-rights-movement)
+### [The Disability Rights Movement](/history/disability-rights-movement)
 How disabled people won major legal protections and continue fighting for full inclusion. Covers Section 504, the ADA, international developments, ADAPT, and ongoing organizing. *(Coming soon)*
+
+### [ADA History](/history/ada-history)
+The story of how the Americans with Disabilities Act was won—through organizing, protest, and political strategy. *(Coming soon)*
+
+### [Global Timelines](/history/global-timelines)
+Key dates and milestones in disability history across different countries and regions. *(Coming soon)*
+
+### [Disability in Media History](/history/disability-in-media-history)
+How disabled people have been represented—and misrepresented—in media over time, and how disabled creators have told their own stories. *(Coming soon)*
 
 ---
 
@@ -56,13 +65,13 @@ How disabled people won major legal protections and continue fighting for full i
 
 These pages are organized thematically rather than strictly chronologically—the timelines overlap because different forces shaped disability simultaneously.
 
-**If you're new to disability history:** Start with [Industrialization and the Birth of Ableism](/rights/history/industrialization-and-ableism) to understand how modern ableism was constructed, then read [The Independent Living Movement](/rights/history/independent-living-movement) to see how disabled people built alternatives.
+**If you're new to disability history:** Start with [Industrialization and the Birth of Ableism](/history/industrialization) to understand how modern ableism was constructed, then read [The Independent Living Movement](/history/independent-living-movement) to see how disabled people built alternatives.
 
-**If you want to understand eugenics:** Read [Eugenics and Institutionalization](/rights/history/eugenics-and-institutionalization), which covers 1880–1945 and the global spread of sterilization and segregation.
+**If you want to understand eugenics:** Read [Eugenics and Institutionalization](/history/eugenics), which covers 1880–1945 and the global spread of sterilization and segregation.
 
-**If you want global perspectives:** [Disability, War, and Colonialism](/rights/history/disability-war-and-colonialism) centers Global South experiences and colonial violence.
+**If you want global perspectives:** [Disability, War, and Colonialism](/history/war-and-colonialism) centers Global South experiences and colonial violence.
 
-**If you want to understand disability organizing:** [Early Disability Movements](/rights/history/early-disability-movements) covers the period before modern rights movements, showing that disabled people have always resisted.
+**If you want to understand disability organizing:** [Early Disability Movements](/history/early-movements) covers the period before modern rights movements, showing that disabled people have always resisted.
 
 ---
 
@@ -80,9 +89,9 @@ These pages are organized thematically rather than strictly chronologically—th
 
 ## Related Sections
 
-- [Rights & Advocacy](/rights) — Current disability rights frameworks and how to use them
-- [Intersectionality](/intersectionality) — How disability intersects with race, gender, class, and other identities
-- [Community & Peer Support](/community) — Building on the mutual aid traditions described in this section
+- [Rights & Advocacy](/rights/index) — Current disability rights frameworks and how to use them
+- [Intersectionality](/intersectionality/index) — How disability intersects with race, gender, class, and other identities
+- [Community & Peer Support](/community/index) — Building on the mutual aid traditions described in this section
 - [Independent Living Philosophy and Centers](/housing/independent-living-philosophy-and-centers) — The IL movement's practical legacy today
 
 ---
