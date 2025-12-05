@@ -2,7 +2,7 @@
 title: Industrialization & the Birth of Ableism (1750–1900)
 description: 
 published: true
-date: 2025-12-04T23:00:29.640Z
+date: 2025-12-05T00:09:44.979Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-04T23:00:29.640Z
@@ -46,7 +46,7 @@ In many pre-industrial societies:
 - Households and small workshops allowed people to specialize in what they could do
 - Disabled people often contributed through crafts, teaching, storytelling, spiritual roles, childcare, and other forms of work
 
-For more detail, see [Pre-Industrial Disability](/rights/history/pre-industrial-disability).
+For more detail, see [Pre-Industrial Disability](/history/pre-industrial).
 
 ### During Industrialization
 
@@ -142,7 +142,7 @@ By the late 19th century, fears about "degeneration" and "racial decline" grew i
 
 This created the conditions for eugenics, which would expand in the early 20th century. Eugenic ideas framed disability as a threat to the health of the nation, encouraged segregation, marriage restrictions, and institutionalization, and targeted poor, disabled, racialized, and immigrant communities.
 
-The next page in this history series picks up here: [Eugenics and Institutionalization (1880–1945)](/rights/history/eugenics-and-institutionalization).
+The next page in this history series picks up here: [Eugenics and Institutionalization (1880–1945)](/history/eugenics).
 
 ---
 
@@ -184,11 +184,13 @@ History often hides this resistance, but it laid important groundwork for later 
 
 ## Related Pages
 
-- [Pre-Industrial Disability](/rights/history/pre-industrial-disability)
-- [History of Disability Rights](/rights/history-of-disability-rights)
-- [Eugenics and Institutionalization (1880–1945)](/rights/history/eugenics-and-institutionalization)
-- [Disability and Colonialism](/intersectionality/disability-and-colonialism)
-- [Independent Living Movement](/rights/history/independent-living-movement)
+- [Pre-Industrial Disability](/history/pre-industrial)
+- [Eugenics and Institutionalization (1880–1945)](/history/eugenics)
+- [Disability, War, and Colonialism](/history/war-and-colonialism)
+- [Early Disability Movements](/history/early-movements)
+- [Independent Living Movement](/history/independent-living-movement)
+- [Disability Models](/foundations/disability-models)
+- [Race and Disability](/intersectionality/race-and-disability)
 
 ---
 
