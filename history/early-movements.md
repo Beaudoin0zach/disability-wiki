@@ -2,7 +2,7 @@
 title: Early Disability Movements (1800–1960)
 description: 
 published: true
-date: 2025-12-04T23:36:10.016Z
+date: 2025-12-05T00:14:08.924Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-04T23:36:10.016Z
@@ -205,12 +205,15 @@ These developments set the stage for the Independent Living Movement, Deinstitut
 
 ## Related Pages
 
-- [Industrialization and the Birth of Ableism](/rights/history/industrialization-and-ableism)
-- [Eugenics and Institutionalization](/rights/history/eugenics-and-institutionalization)
-- [Disability, War, and Colonialism](/rights/history/disability-war-and-colonialism)
-- [Independent Living Movement](/rights/history/independent-living-movement)
-- [Deinstitutionalization](/rights/history/deinstitutionalization)
-- [History of Disability Rights](/rights/history-of-disability-rights)
+- [Industrialization and the Birth of Ableism](/history/industrialization)
+- [Eugenics and Institutionalization](/history/eugenics)
+- [Disability, War, and Colonialism](/history/war-and-colonialism)
+- [Independent Living Movement](/history/independent-living-movement)
+- [Institutionalization and Deinstitutionalization](/history/institutionalization-and-deinstitutionalization)
+- [Disability Rights Movement](/history/disability-rights-movement)
+- [Disability Culture](/foundations/disability-culture)
+- [Race and Disability](/intersectionality/race-and-disability)
+- [Online Communities](/community/online-communities)
 
 ---
 
