@@ -2,7 +2,7 @@
 title: Eugenics and Institutionalization (1880–1945)
 description: 
 published: true
-date: 2025-12-04T23:04:38.103Z
+date: 2025-12-05T00:11:47.613Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-04T23:04:38.103Z
@@ -192,12 +192,14 @@ This era is not "past." Its structures continue to shape disabled people's lives
 
 ## Related Pages
 
-- [Industrialization and the Birth of Ableism](/rights/history/industrialization-and-ableism)
-- [Pre-Industrial Disability](/rights/history/pre-industrial-disability)
-- [History of Disability Rights](/rights/history-of-disability-rights)
-- [Deinstitutionalization](/rights/history/deinstitutionalization)
-- [Disability and Colonialism](/intersectionality/disability-and-colonialism)
-- [Independent Living Movement](/rights/history/independent-living-movement)
+- [Industrialization and the Birth of Ableism](/history/industrialization)
+- [Pre-Industrial Disability](/history/pre-industrial)
+- [Disability, War, and Colonialism](/history/war-and-colonialism)
+- [Institutionalization and Deinstitutionalization](/history/institutionalization-and-deinstitutionalization)
+- [Independent Living Movement](/history/independent-living-movement)
+- [Group Homes and Institutions](/housing/group-homes-and-institutions)
+- [Race and Disability](/intersectionality/race-and-disability)
+- [Immigration and Refugees](/intersectionality/immigration-and-refugees)
 
 ---
 
