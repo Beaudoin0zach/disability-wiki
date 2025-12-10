@@ -2,10 +2,10 @@
 title: Disability Wiki
 description: 
 published: true
-date: 2025-12-05T21:42:31.697Z
+date: 2025-12-10T16:16:53.193Z
 tags: 
 editor: markdown
-dateCreated: 2025-11-20T13:10:00.897Z
+dateCreated: 2025-12-10T16:16:53.193Z
 ---
 
 # DisabilityWiki: A Community-Built Disability Resource
@@ -72,11 +72,11 @@ DisabilityWiki exists to centralize disability resources, promote accessibility 
 ### Money & Benefits
 
 [Benefits & Financial Support](/benefits/index) — Navigating assistance programs
-- [SSDI](/benefits/us-ssdi)
-- [SSI](/benefits/us-ssi)
-- [Medicaid](/benefits/us-medicaid)
-- [State Benefits](/benefits/us-state-benefits)
-- [SNAP / Food Assistance](/benefits/us-snap)
+- [SSDI](/benefits/us/ssdi)
+- [SSI](/benefits/us/ssi)
+- [Medicaid](/benefits/us/medicaid)
+- [State Benefits](/benefits/us/state-benefits)
+- [SNAP / Food Assistance](/benefits/us/snap)
 
 ### Housing & Independent Living
 
@@ -246,4 +246,4 @@ We welcome contributors from everywhere.
 **"Nothing About Us Without Us."**
 
 *Last updated: December, 2025*  
-*Maintained by: DisabilityWiki Community*
+*Maintained by: DisabilityWiki Community
