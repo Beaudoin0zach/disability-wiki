@@ -1,0 +1,33 @@
+baseURL = 'https://example.org/'  # You'll update this with your actual domain
+languageCode = 'en-us'
+title = 'NY-23 Accountability Tracker'
+theme = 'ananke'
+
+[params]
+  description = 'Documenting NY-23 representation through public records'
+  featured_image = ''
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    identifier = 'fact-checks'
+    name = 'Fact Checks'
+    url = '/fact-checks/'
+    weight = 2
+  [[menu.main]]
+    identifier = 'votes'
+    name = 'Voting Record'
+    url = '/votes/'
+    weight = 3
+  [[menu.main]]
+    identifier = 'methodology'
+    name = 'Methodology'
+    url = '/methodology/'
+    weight = 4
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
