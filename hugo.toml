@@ -1,4 +1,4 @@
-baseURL = 'https://langworthywatch.github.io/ny23-accountability/'
+baseURL = 'https://langworthywatch.org/'
 languageCode = 'en-us'
 title = 'NY-23 Accountability Tracker'
 theme = 'ananke'
