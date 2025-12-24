@@ -2,7 +2,7 @@
 title: Employers And HR
 description: 
 published: true
-date: 2025-12-24T22:33:23.323Z
+date: 2025-12-24T22:34:46.176Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:09:55.397Z
@@ -481,7 +481,7 @@ Many states have additional protections with broader coverage than federal law.
 
 ## Related Pages
 
-- [Employment Section](/employment)
+- [Employment Section](/employment/index)
 - [Workplace Accommodations](/employment/workplace-accommodations)
 - [Employment Rights by Country](/employment/employment-rights-by-country)
 - [Job Searching with a Disability](/employment/job-searching-with-a-disability)
