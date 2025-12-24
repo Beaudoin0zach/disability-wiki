@@ -2,7 +2,7 @@
 title: Welcome to DisabilityWiki
 description: An introduction to what this project is, who it’s for, and how it’s built.
 published: true
-date: 2025-12-24T23:00:09.688Z
+date: 2025-12-24T23:20:51.980Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:58:54.081Z
@@ -105,8 +105,8 @@ See [Professional Toolkits](/professionals/index) for role-specific guidance.
 
 ### Finding Community
 - [Online Communities](/community/online-communities) — Finding your people online
-- [Reddit](/community/online-groups/reddit) — Reddit disability communities
-- [Discord](/community/online-groups/discord) — Discord servers
+- [Reddit](/community/online-communities/reddit) — Reddit disability communities
+- [Discord](/community/online-communities/discord) — Discord servers
 - [In-Person Community](/community/in-person-community) — Local connections
 - [Youth & Student Communities](/community/youth-student-communities) — For young disabled people
 
