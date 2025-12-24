@@ -2,7 +2,7 @@
 title: For Allies
 description: 
 published: true
-date: 2025-12-01T23:27:40.946Z
+date: 2025-12-24T22:36:38.066Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:58:09.317Z
@@ -120,7 +120,7 @@ Disabled people can internalize ableist messages too. As an ally, recognize this
 
 Advocate for accessible hiring practices. Support accommodation requests—don't make colleagues justify their needs. Include disability in DEI efforts. Challenge ableist comments. Don't assume disabled colleagues can't do things. Create accessible documents and meetings.
 
-For more detailed guidance, see [Professional Toolkits](/professionals), particularly [Employers & HR](/professionals/employers-and-hr).
+For more detailed guidance, see [Professional Toolkits](/professionals/index), particularly [Employers & HR](/professionals/employers-and-hr).
 
 ### In Social Settings
 
