@@ -2,7 +2,7 @@
 title: Disability Communities on Discord
 description: 
 published: true
-date: 2025-12-24T23:13:03.785Z
+date: 2025-12-24T23:14:40.356Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-24T23:13:03.785Z
@@ -449,8 +449,8 @@ If Reddit communities are not serving you well, consider:
 
 See also:
 
-- [Disability Communities on Discord](/community/discord-communities)
-- [Disability Communities on Facebook](/community/facebook-communities)
+- [Disability Communities on Discord](/community/online-communities/discord)
+- [Disability Communities on Facebook](/community/online-communities/facebook)
 - [Online Disability Communities](/community/online-communities)
 
 ---
@@ -458,8 +458,8 @@ See also:
 ## Related Pages
 
 - [Online Disability Communities](/community/online-communities)
-- [Disability Communities on Discord](/community/discord-communities)
-- [Disability Communities on Facebook](/community/facebook-communities)
+- [Disability Communities on Discord](/community/online-communities/discord)
+- [Disability Communities on Facebook](/community/online-communities/facebook)
 - [Disability-Specific Peer Groups](/community/disability-specific-peer-groups)
 - [In-Person Community](/community/in-person-community)
 
