@@ -2,7 +2,7 @@
 title: Industrialization and the Birth of Ableism (1750–1900)
 description: 
 published: true
-date: 2025-12-04T23:02:42.730Z
+date: 2025-12-24T23:32:25.972Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-04T23:02:42.730Z
@@ -46,7 +46,7 @@ In many pre-industrial societies:
 - Households and small workshops allowed people to specialize in what they could do
 - Disabled people often contributed through crafts, teaching, storytelling, spiritual roles, childcare, and other forms of work
 
-For more detail, see [Pre-Industrial Disability](/rights/history/pre-industrial-disability).
+For more detail, see [Pre-Industrial Disability](/rights/history/pre-industrial).
 
 ### During Industrialization
 
