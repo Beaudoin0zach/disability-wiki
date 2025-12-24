@@ -2,7 +2,7 @@
 title: Welcome to DisabilityWiki
 description: An introduction to what this project is, who it’s for, and how it’s built.
 published: true
-date: 2025-12-01T23:30:19.963Z
+date: 2025-12-24T23:00:09.688Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:58:54.081Z
@@ -76,7 +76,7 @@ Begin with [What Is Disability?](/foundations/what-is-disability) and [Disabilit
 
 ### If You Need Help Now
 
-Go directly to [Crisis Resources](/crisis) for immediate support options.
+Go directly to [Crisis Resources](/crisis/index) for immediate support options.
 
 ### If You're Supporting Someone
 
@@ -84,7 +84,7 @@ Read [For Allies](/foundations/for-allies) for guidance on respectful support.
 
 ### If You're a Professional
 
-See [Professional Toolkits](/professionals) for role-specific guidance.
+See [Professional Toolkits](/professionals/index) for role-specific guidance.
 
 ---
 
@@ -98,7 +98,7 @@ See [Professional Toolkits](/professionals) for role-specific guidance.
 - [Glossary: Terminology](/glossary/terminology) — Quick reference for terms
 
 ### If You Need Help Now
-- [Crisis Resources](/crisis) — Immediate help
+- [Crisis Resources](/crisis/index) — Immediate help
 - [Global Crisis Hotlines](/crisis/global-crisis-hotlines) — Emergency contact numbers
 - [Abuse, Neglect & Exploitation](/crisis/abuse-neglect-exploitation) — Recognizing and escaping abuse
 - [Emergency & Disaster Preparedness](/crisis/emergency-disaster-preparedness) — Planning for emergencies
@@ -111,15 +111,15 @@ See [Professional Toolkits](/professionals) for role-specific guidance.
 - [Youth & Student Communities](/community/youth-student-communities) — For young disabled people
 
 ### Practical Resources
-- [Benefits Overview](/benefits) — Financial support and programs
-- [Healthcare](/healthcare) — Medical access and navigation
-- [Housing](/housing) — Accessible housing and independent living
-- [Employment](/employment) — Work and accommodations
-- [Rights & Advocacy](/rights) — Legal protections
+- [Benefits Overview](/benefits/index) — Financial support and programs
+- [Healthcare](/healthcare/index) — Medical access and navigation
+- [Housing](/housing/index) — Accessible housing and independent living
+- [Employment](/employment/index) — Work and accommodations
+- [Rights & Advocacy](/rights/index) — Legal protections
 
 ### By Identity
-- [Intersectionality](/intersectionality) — Disability across identities
-- [Specific Conditions](/conditions) — Condition-specific information
+- [Intersectionality](/intersectionality/index) — Disability across identities
+- [Specific Conditions](/conditions/index) — Condition-specific information
 
 ---
 
