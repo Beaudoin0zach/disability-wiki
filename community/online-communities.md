@@ -2,7 +2,7 @@
 title: Online Disability Communities
 description: Finding disabled community, support, and organizing spaces online.
 published: true
-date: 2025-12-24T23:21:50.425Z
+date: 2025-12-24T23:27:58.317Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T18:49:43.126Z
@@ -43,7 +43,7 @@ However, online communities also have significant risks: ableism is common even 
 
 **Risks**: Uneven moderation, ableism common, medical misinformation, trolling, public content can be screenshot/shared
 
-**See**: [Disability Communities on Reddit](/community/reddit-communities) for detailed guide including specific subreddits, safety tips, and how to evaluate communities
+**See**: [Disability Communities on Reddit](/community/online-communities/reddit) for detailed guide including specific subreddits, safety tips, and how to evaluate communities
 
 ---
 
@@ -57,7 +57,7 @@ However, online communities also have significant risks: ableism is common even 
 
 **Risks**: Servers change ownership/moderation frequently, quality varies dramatically, real-time pressure can be intense, parasocial relationships develop easily, some servers promote harmful practices
 
-**See**: [Disability Communities on Discord](/community/discord-communities) for detailed guide including server types, safety warnings, and red flags
+**See**: [Disability Communities on Discord](/community/online-communities/discord) for detailed guide including server types, safety warnings, and red flags
 
 ---
 
@@ -71,7 +71,7 @@ However, online communities also have significant risks: ableism is common even 
 
 **Risks**: Real name visibility, data collection, many groups dominated by parents/caregivers rather than disabled people, ableism often unmoderated, medical misinformation common
 
-**See**: [Disability Communities on Facebook](/community/facebook-communities) for detailed guide including group evaluation criteria, parent vs. disabled-led groups, and red flags
+**See**: [Disability Communities on Facebook](/community/online-communities/facebook) for detailed guide including group evaluation criteria, parent vs. disabled-led groups, and red flags
 
 ---
 
@@ -498,9 +498,9 @@ Online community is valuable, but it's not the solution for everyone or every si
 
 ### Platform-Specific Guides
 
-- **[Reddit Communities](/community/reddit-communities)**: Comprehensive guide to disability subreddits, safety tips, and how to evaluate Reddit communities
-- **[Discord Communities](/community/discord-communities)**: Discord server types, safety warnings, and finding disability-led servers
-- **[Facebook Communities](/community/facebook-communities)**: Facebook groups, parent vs. disabled-led spaces, and group evaluation
+- **[Reddit Communities](/community/online-communities/reddit)**: Comprehensive guide to disability subreddits, safety tips, and how to evaluate Reddit communities
+- **[Discord Communities](/community/online-communities/discord)**: Discord server types, safety warnings, and finding disability-led servers
+- **[Facebook Communities](/community/online-communities/facebook)**: Facebook groups, parent vs. disabled-led spaces, and group evaluation
 
 ### Related Pages
 
