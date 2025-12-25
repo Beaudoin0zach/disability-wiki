@@ -1,0 +1,37 @@
+services:
+  db:
+    image: postgres:15
+    container_name: wiki-db
+    environment:
+      POSTGRES_DB: wiki
+      POSTGRES_USER: wikijs
+      POSTGRES_PASSWORD: [REDACTED]
+    volumes:
+      - wiki_db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U wikijs -d wiki"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  wiki:
+    image: requarks/wiki:latest
+    container_name: wiki-app
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8080:3000"
+    environment:
+      DB_TYPE: postgres
+      DB_HOST: db
+      DB_PORT: 5432
+      DB_USER: wikijs
+      DB_PASS: [REDACTED]
+      DB_NAME: wiki
+    volumes:
+      - wiki_data:/wiki/data
+
+volumes:
+  wiki_db_data:
+  wiki_data:
