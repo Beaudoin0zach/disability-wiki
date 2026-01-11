@@ -14,5 +14,47 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Local development
+# Environment and secrets - NEVER commit these
 .env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets/
+credentials/
+
+# Docker volumes and data
+wiki_data/
+wiki_db_data/
+
+# Backups - never commit database dumps or archives
+backups/
+!backups/.gitkeep
+*.sql
+*.sql.gz
+*.dump
+*.bak
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+venv/
+.venv/
+
+# Reports and generated files - may contain sensitive paths or data
+link_validation_report.json
+link_validation_report.txt
+*.log
+validation_*.txt
+validation_*.json
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# Node modules (if any)
+node_modules/
