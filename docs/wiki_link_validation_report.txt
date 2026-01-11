@@ -1,0 +1,1538 @@
+DISABILITY WIKI - INTERNAL LINK VALIDATION REPORT
+================================================================================
+
+BROKEN LINKS (15 found):
+--------------------------------------------------------------------------------
+
+File: benefits.md
+  Text: 'Medicare'
+  URL: /benefits/us/medicare
+  Target: disability-wiki/benefits/us/medicare.md
+
+File: benefits.md
+  Text: 'Medicare →'
+  URL: /benefits/us/medicare
+  Target: disability-wiki/benefits/us/medicare.md
+
+File: home.md
+  Text: 'visually_safe_disability_pride_flag.svg.png'
+  URL: /visually_safe_disability_pride_flag.svg.png
+  Target: disability-wiki/visually_safe_disability_pride_flag.svg.png.md
+
+File: home.md
+  Text: 'Start'
+  URL: /index
+  Target: disability-wiki/index.md
+
+File: start/how-to-use.md
+  Text: 'See About page →'
+  URL: /about
+  Target: disability-wiki/about.md
+
+File: start/how-to-use.md
+  Text: 'Accessibility Statement →'
+  URL: /about/accessibility
+  Target: disability-wiki/about/accessibility.md
+
+File: foundations/disability-culture.md
+  Text: 'Reddit'
+  URL: /community/online-groups/reddit
+  Target: disability-wiki/community/online-groups/reddit.md
+
+File: foundations/disability-culture.md
+  Text: 'Discord'
+  URL: /community/online-groups/discord
+  Target: disability-wiki/community/online-groups/discord.md
+
+File: foundations/disability-culture.md
+  Text: 'Facebook Communities'
+  URL: /community/online-groups/facebook-communities
+  Target: disability-wiki/community/online-groups/facebook-communities.md
+
+File: foundations/welcome.md
+  Text: 'Reddit'
+  URL: /community/online-groups/reddit
+  Target: disability-wiki/community/online-groups/reddit.md
+
+File: foundations/welcome.md
+  Text: 'Discord'
+  URL: /community/online-groups/discord
+  Target: disability-wiki/community/online-groups/discord.md
+
+File: history/Industrialization.md
+  Text: 'History of Disability Rights'
+  URL: /history-of-disability-rights
+  Target: disability-wiki/history-of-disability-rights.md
+
+File: benefits/us/ssdi.md
+  Text: '/benefits/us-medicare'
+  URL: /benefits/us/medicare
+  Target: disability-wiki/benefits/us/medicare.md
+
+File: benefits/us/medicaid.md
+  Text: '/benefits/us-medicare'
+  URL: /benefits/us/medicare
+  Target: disability-wiki/benefits/us/medicare.md
+
+File: benefits/us/benefits-overview.md
+  Text: '/benefits/us-medicare'
+  URL: /benefits/us/medicare
+  Target: disability-wiki/benefits/us/medicare.md
+
+================================================================================
+FILES MISSING DESCRIPTIONS (232):
+--------------------------------------------------------------------------------
+rights.md
+get-involved.md
+professionals.md
+benefits.md
+intersectionality.md
+conditions.md
+glossary.md
+history.md
+robots.md
+healthcare.md
+home.md
+accessibility-statement.md
+sports.md
+crisis.md
+transport.md
+housing.md
+research.md
+media.md
+tech.md
+research/studies-archive.md
+research/academic-programs.md
+research/disability-statistics.md
+research/ethical-research-with-disabled-communities.md
+research/accessible-research-tools.md
+research/how-to-interpret-disability-data.md
+intersectionality/indigenous-disability-perspectives.md
+intersectionality/gender-and-disability.md
+intersectionality/disability-and-homelessness.md
+intersectionality/race-and-disability.md
+intersectionality/religion-and-disability.md
+intersectionality/lgbtq-and-disability.md
+intersectionality/poverty-and-class.md
+intersectionality/incarceration-and-criminalization.md
+intersectionality/immigration-and-refugees.md
+intersectionality/rural-disability.md
+transport/public-transit-rights.md
+transport/paratransit.md
+transport/air-travel-rights.md
+transport/mobility-aids.md
+transport/service-animals.md
+transport/driving-and-adaptive-driving.md
+professionals/healthcare-providers.md
+professionals/educators.md
+professionals/emergency-planners.md
+professionals/architects-and-designers.md
+professionals/public-safety-officers.md
+professionals/employers-and-hr.md
+professionals/social-workers.md
+daily-living/accessible-parties-and-games.md
+daily-living/cooking-and-nutrition.md
+daily-living/personal-care.md
+daily-living/pets-and-service-animals.md
+daily-living/fashion-beauty-and-adaptive-wear.md
+daily-living/accessible-travel.md
+daily-living/assistive-technology-overview.md
+daily-living/exercise-and-adaptive-sports.md
+daily-living/recreation-travel-and-outdoors.md
+get-involved/volunteering.md
+get-involved/starting-organizations.md
+get-involved/community-organizing.md
+get-involved/accessible-protest-guide.md
+get-involved/policy-advocacy.md
+get-involved/advocacy-101.md
+healthcare/medical-gaslighting.md
+healthcare/healthcare-rights.md
+healthcare/medical-equipment-and-at.md
+healthcare/pain-and-fatigue.md
+healthcare/insurance-navigation.md
+healthcare/mental-health.md
+healthcare/home-and-community-care.md
+healthcare/accessible-healthcare.md
+education/transition-to-adulthood.md
+education/early-intervention.md
+education/k12-education.md
+education/higher-education.md
+education/adult-and-continuing-education.md
+start/language-and-terminology.md
+start/contribute.md
+start/faq.md
+start/accessibility-statement.md
+start/disability-models.md
+start/disability-culture--pride.md
+start/how-to-use.md
+start/what-is-disability.md
+start/for-allies.md
+housing/home-modifications.md
+housing/homelessness-and-disability.md
+housing/international-housing-rights.md
+housing/accessible-housing-search-guide.md
+housing/group-homes-and-institutions.md
+housing/housing-rights.md
+housing/tenants-rights-with-disabilities.md
+housing/independent-living-philosophy-and-centers.md
+crisis/global-crisis-hotlines.md
+crisis/abuse-neglect-exploitation.md
+crisis/disabled-crisis-support.md
+crisis/crisis-hotlines.md
+foundations/disability-culture.md
+foundations/for-allies.md
+sports/blind-sports.md
+sports/special-olympics.md
+sports/athletes-directory.md
+sports/deaf-sports.md
+sports/getting-started.md
+sports/paralympic-movement.md
+sports/adaptive-fitness.md
+sports/wheelchair-sports.md
+employment/workplace-accommodations.md
+employment/supported-employment-and-voc-rehab.md
+employment/job-searching-with-a-disability.md
+employment/employment-rights-by-country.md
+employment/entrepreneurship-and-self-employment.md
+Rights/us-state-rights.md
+Rights/finding-legal-aid.md
+Rights/overview.md
+Rights/international-rights.md
+Rights/filing-a-disability-complaint.md
+Rights/history-of-disability-rights.md
+Rights/advocacy-and-self-advocacy.md
+conditions/intellectual-and-developmental-disability.md
+conditions/neurodivergence.md
+conditions/MCAS.md
+conditions/chronic-illness.md
+conditions/EDS.md
+conditions/physical-disabilities.md
+conditions/POTS.md
+conditions/rare-diseases.md
+conditions/psychiatric-and-psychosocial-disability.md
+conditions/sensory-disabilities.md
+conditions/invisible-disabilities.md
+conditions/multiple-disabilities.md
+history/accommodations.md
+history/independent-living-movement.md
+history/deaf-history-culture.md
+history/eugenics.md
+history/institutionalization-and-deinstitutionalization.md
+history/disability-in-media-history.md
+history/Industrialization.md
+history/ada-history.md
+history/pre-industrial.md
+history/war-and-colonialism.md
+history/deafness.md
+history/disability-rights-movement.md
+history/early-movements.md
+history/global-timelines.md
+glossary/bibliography.md
+glossary/acronyms.md
+glossary/citation-guide.md
+glossary/terminology.md
+glossary/how-to-contribute.md
+glossary/editorial-guidelines.md
+benefits/other-countries-benefits.md
+benefits/benefit-denials-and-appeals.md
+benefits/us-ssi.md
+benefits/debt-budgeting-financial-rights.md
+benefits/us-medicare.md
+benefits/us-veterans-benefits.md
+community/in-person-community.md
+community/youth-student-communities.md
+tech/communication-access-and-aac.md
+tech/digital-disability-justice.md
+tech/social-media-accessibility.md
+tech/mobile-and-os-accessibility.md
+tech/gaming-accessibility.md
+tech/web-accessibility.md
+relationships/parenting-with-a-disability.md
+relationships/sexuality-and-reproductive-health.md
+relationships/family-control-and-gaslighting.md
+relationships/dating-and-relationships.md
+relationships/caregiving.md
+relationships/parents-of-disabled-children.md
+relationships/abuse-safety-and-consent.md
+media/tiktok-creators.md
+media/youtube-channels.md
+media/documentaries-and-films.md
+media/disabled-creators-directory.md
+media/tv-shows.md
+media/media-tropes-and-representation.md
+media/blogs-and-websites.md
+media/disability-arts-and-performance.md
+media/podcasts.md
+media/books.md
+community/online-communities/facebook.md
+community/online-communities/reddit.md
+community/online-communities/discord.md
+benefits/us/able-accounts.md
+benefits/us/ssi.md
+benefits/us/state-benefits.md
+benefits/us/ssdi.md
+benefits/us/medicaid.md
+benefits/us/benefits-overview.md
+benefits/us/family-caregiver-pay.md
+benefits/us/tanf.md
+benefits/us/snap.md
+benefits/australia/benefits.md
+benefits/european-union/benefits.md
+benefits/international/benefits-overview.md
+benefits/canada/benefits.md
+benefits/united-kingdom/benefits.md
+Rights/us/section-504.md
+Rights/us/air-carrier-access-act.md
+Rights/us/idea.md
+Rights/us/state-disability-rights-laws.md
+Rights/us/federal-rights.md
+Rights/us/ada.md
+Rights/us/fair-housing-act.md
+Rights/North-America/US/ADA.md
+Rights/North-America/US/Fair-Housing.md
+crisis/emergency/emergency-preparedness.md
+crisis/emergency/medical-cards.md
+crisis/crisis-hotlines/north-america.md
+crisis/crisis-hotlines/africa.md
+crisis/crisis-hotlines/south-america.md
+crisis/crisis-hotlines/asian-pacific.md
+crisis/crisis-hotlines/europe.md
+crisis/abuse/recognizing-violence.md
+crisis/abuse/abuse-resources.md
+crisis/abuse/what-is-it.md
+crisis/crisis-hotlines/south-america/brazil.md
+crisis/crisis-hotlines/south-america/argentina.md
+crisis/crisis-hotlines/europe/united-kingdom.md
+crisis/crisis-hotlines/asian-pacific/australia.md
+crisis/crisis-hotlines/asian-pacific/india.md
+crisis/crisis-hotlines/asian-pacific/indonesia.md
+crisis/crisis-hotlines/asian-pacific/thailand.md
+crisis/crisis-hotlines/asian-pacific/philippines.md
+crisis/crisis-hotlines/north-america/mexico.md
+crisis/crisis-hotlines/north-america/united-states.md
+crisis/crisis-hotlines/north-america/canada.md
+crisis/crisis-hotlines/africa/south-africa.md
+crisis/crisis-hotlines/africa/kenya.md
+crisis/crisis-hotlines/africa/nigeria.md
+
+================================================================================
+SUGGESTED INTERNAL LINKS
+================================================================================
+
+employment.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'education' to /education
+
+get-involved.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+  • Consider linking 'crisis' to /crisis
+
+professionals.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+benefits.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+
+intersectionality.md:
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+conditions.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+daily-living.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+community.md:
+  • Consider linking 'housing' to /housing
+  • Consider linking 'mental health' to /conditions
+
+foundations.md:
+  • Consider linking 'education' to /education
+
+glossary.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+
+history.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+
+relationships.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+healthcare.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+accessibility-statement.md:
+  • Consider linking 'crisis' to /crisis
+
+sports.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+crisis.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+transport.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+housing.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+
+research.md:
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+media.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'education' to /education
+
+education.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'mental health' to /conditions
+
+regions.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'crisis' to /crisis
+
+tech.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+
+research/studies-archive.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'crisis' to /crisis
+
+research/academic-programs.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+research/disability-statistics.md:
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+research/ethical-research-with-disabled-communities.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+research/accessible-research-tools.md:
+  • Consider linking 'mental health' to /conditions
+
+research/how-to-interpret-disability-data.md:
+  • Consider linking 'mental health' to /conditions
+
+transport/public-transit-rights.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+
+transport/paratransit.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'employment' to /employment
+
+transport/air-travel-rights.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+
+transport/mobility-aids.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+
+transport/service-animals.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'mental health' to /conditions
+
+transport/driving-and-adaptive-driving.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+
+professionals/healthcare-providers.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+professionals/educators.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+professionals/emergency-planners.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'housing' to /housing
+  • Consider linking 'mental health' to /conditions
+
+professionals/architects-and-designers.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+professionals/public-safety-officers.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+professionals/employers-and-hr.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+professionals/social-workers.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+daily-living/accessible-parties-and-games.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+daily-living/cooking-and-nutrition.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+daily-living/personal-care.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'employment' to /employment
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+daily-living/pets-and-service-animals.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+daily-living/fashion-beauty-and-adaptive-wear.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+
+daily-living/accessible-travel.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+daily-living/assistive-technology-overview.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+daily-living/exercise-and-adaptive-sports.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+daily-living/recreation-travel-and-outdoors.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'mental health' to /conditions
+
+get-involved/volunteering.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'crisis' to /crisis
+
+get-involved/community-organizing.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+get-involved/accessible-protest-guide.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+get-involved/policy-advocacy.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'housing' to /housing
+  • Consider linking 'education' to /education
+
+get-involved/advocacy-101.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+healthcare/medical-gaslighting.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+healthcare/healthcare-rights.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'employment' to /employment
+  • Consider linking 'mental health' to /conditions
+
+healthcare/medical-equipment-and-at.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+healthcare/pain-and-fatigue.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+healthcare/insurance-navigation.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'mental health' to /conditions
+
+healthcare/mental-health.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+healthcare/home-and-community-care.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'housing' to /housing
+  • Consider linking 'crisis' to /crisis
+
+healthcare/accessible-healthcare.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+education/transition-to-adulthood.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+education/early-intervention.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+education/k12-education.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'education' to /education
+
+education/higher-education.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+education/adult-and-continuing-education.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+start/language-and-terminology.md:
+  • Consider linking 'mental health' to /conditions
+
+start/faq.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+start/accessibility-statement.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'education' to /education
+  • Consider linking 'crisis' to /crisis
+
+start/disability-models.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+start/disability-culture--pride.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'mental health' to /conditions
+
+start/how-to-use.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+
+start/what-is-disability.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+start/for-allies.md:
+  • Consider linking 'disability rights' to /rights
+
+housing/home-modifications.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'crisis' to /crisis
+
+housing/homelessness-and-disability.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+housing/international-housing-rights.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+
+housing/accessible-housing-search-guide.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+
+housing/group-homes-and-institutions.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+housing/housing-rights.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+
+housing/tenants-rights-with-disabilities.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+housing/independent-living-philosophy-and-centers.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+crisis/global-crisis-hotlines.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+crisis/abuse-neglect-exploitation.md:
+  • Consider linking 'housing' to /housing
+  • Consider linking 'crisis' to /crisis
+
+crisis/disabled-crisis-support.md:
+  • Consider linking 'crisis' to /crisis
+
+crisis/emergency-disaster-preparedness.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+
+crisis/crisis-hotlines.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+foundations/disability-culture.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+
+foundations/welcome.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+foundations/how-to-use-this-wiki.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'education' to /education
+
+foundations/language-terminology-identity.md:
+  • Consider linking 'disability rights' to /rights
+
+foundations/disability-models.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+foundations/what-is-disability.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+foundations/for-allies.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'education' to /education
+
+sports/blind-sports.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+sports/special-olympics.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+sports/athletes-directory.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+
+sports/deaf-sports.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+sports/getting-started.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+sports/paralympic-movement.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+sports/adaptive-fitness.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+sports/wheelchair-sports.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+employment/workplace-accommodations.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+  • Consider linking 'mental health' to /conditions
+
+employment/supported-employment-and-voc-rehab.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+employment/job-searching-with-a-disability.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+employment/employment-rights-by-country.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'mental health' to /conditions
+
+employment/entrepreneurship-and-self-employment.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'employment' to /employment
+
+Rights/us-state-rights.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+Rights/global-overview.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+Rights/finding-legal-aid.md:
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+
+Rights/overview.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+Rights/international-rights.md:
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+Rights/filing-a-disability-complaint.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+
+Rights/history-of-disability-rights.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+
+Rights/advocacy-and-self-advocacy.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+conditions/neurodivergence.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'housing' to /housing
+  • Consider linking 'crisis' to /crisis
+
+conditions/MCAS.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+conditions/chronic-illness.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'housing' to /housing
+  • Consider linking 'education' to /education
+
+conditions/EDS.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+conditions/physical-disabilities.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicare' to /benefits/us/medicare
+
+conditions/POTS.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'education' to /education
+
+conditions/rare-diseases.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+conditions/psychiatric-and-psychosocial-disability.md:
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'housing' to /housing
+
+conditions/sensory-disabilities.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+conditions/invisible-disabilities.md:
+  • Consider linking 'education' to /education
+
+conditions/multiple-disabilities.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'housing' to /housing
+
+history/accommodations.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+history/independent-living-movement.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+history/deaf-history-culture.md:
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+history/eugenics.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+history/institutionalization-and-deinstitutionalization.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+history/disability-in-media-history.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'education' to /education
+
+history/Industrialization.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+
+history/ada-history.md:
+  • Consider linking 'housing' to /housing
+  • Consider linking 'education' to /education
+
+history/pre-industrial.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'mental health' to /conditions
+
+history/war-and-colonialism.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'mental health' to /conditions
+
+history/deafness.md:
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+history/disability-rights-movement.md:
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+history/early-movements.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+history/global-timelines.md:
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+glossary/bibliography.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+
+glossary/acronyms.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+glossary/citation-guide.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+glossary/terminology.md:
+  • Consider linking 'disability rights' to /rights
+
+glossary/editorial-guidelines.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+benefits/benefit-denials-and-appeals.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'housing' to /housing
+  • Consider linking 'mental health' to /conditions
+
+benefits/uk-benefits.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'employment' to /employment
+
+benefits/us-ssi.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+benefits/debt-budgeting-financial-rights.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'education' to /education
+  • Consider linking 'crisis' to /crisis
+
+benefits/eu-benefits.md:
+  • Consider linking 'social security' to /benefits/us
+
+benefits/international-benefits-overview.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+
+benefits/canada-benefits.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+
+benefits/australia-benefits.md:
+  • Consider linking 'medicare' to /benefits/us/medicare
+
+benefits/us-medicare.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'mental health' to /conditions
+
+benefits/us-veterans-benefits.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+community/in-person-community.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+community/online-communities.md:
+  • Consider linking 'education' to /education
+
+community/youth-student-communities.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'mental health' to /conditions
+
+tech/communication-access-and-aac.md:
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+tech/digital-disability-justice.md:
+  • Consider linking 'housing' to /housing
+  • Consider linking 'education' to /education
+
+tech/social-media-accessibility.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+tech/gaming-accessibility.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+tech/web-accessibility.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+relationships/parenting-with-a-disability.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+
+relationships/sexuality-and-reproductive-health.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+relationships/family-control-and-gaslighting.md:
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+relationships/dating-and-relationships.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+relationships/caregiving.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'employment' to /employment
+  • Consider linking 'mental health' to /conditions
+
+relationships/parents-of-disabled-children.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+relationships/abuse-safety-and-consent.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+media/tiktok-creators.md:
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+media/youtube-channels.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+media/documentaries-and-films.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+media/disabled-creators-directory.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+media/tv-shows.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+media/media-tropes-and-representation.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'employment' to /employment
+  • Consider linking 'mental health' to /conditions
+
+media/blogs-and-websites.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+media/disability-arts-and-performance.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+media/podcasts.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+media/books.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+
+community/online-communities/facebook.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'education' to /education
+
+community/online-communities/reddit.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+community/online-communities/discord.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+benefits/us/able-accounts.md:
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+benefits/us/ssi.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+benefits/us/state-benefits.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'housing' to /housing
+
+benefits/us/ssdi.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+
+benefits/us/medicaid.md:
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'employment' to /employment
+  • Consider linking 'mental health' to /conditions
+
+benefits/us/benefits-overview.md:
+  • Consider linking 'housing' to /housing
+
+benefits/us/family-caregiver-pay.md:
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'housing' to /housing
+
+benefits/us/tanf.md:
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'housing' to /housing
+
+benefits/us/snap.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'housing' to /housing
+
+benefits/australia/benefits.md:
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'housing' to /housing
+  • Consider linking 'mental health' to /conditions
+
+benefits/european-union/benefits.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+
+benefits/international/benefits-overview.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+
+benefits/canada/benefits.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'mental health' to /conditions
+
+benefits/united-kingdom/benefits.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+
+Rights/us/section-504.md:
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+
+Rights/us/air-carrier-access-act.md:
+  • Consider linking 'ada' to /rights/us/ada
+
+Rights/us/idea.md:
+  • Consider linking 'employment' to /employment
+
+Rights/us/state-disability-rights-laws.md:
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+
+Rights/us/federal-rights.md:
+  • Consider linking 'ssdi' to /benefits/us/ssdi
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+Rights/us/ada.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'medicaid' to /benefits/us/medicaid
+
+Rights/us/fair-housing-act.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+Rights/North-America/US/ADA.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+Rights/North-America/US/Fair-Housing.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'mental health' to /conditions
+
+crisis/emergency/emergency-preparedness.md:
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+crisis/emergency/medical-cards.md:
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/north-america.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/africa.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/south-america.md:
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/asian-pacific.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/europe.md:
+  • Consider linking 'mental health' to /conditions
+
+crisis/abuse/recognizing-violence.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+crisis/abuse/abuse-resources.md:
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'crisis' to /crisis
+
+crisis/abuse/what-is-it.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'housing' to /housing
+  • Consider linking 'employment' to /employment
+  • Consider linking 'education' to /education
+  • Consider linking 'crisis' to /crisis
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/south-america/brazil.md:
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'housing' to /housing
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/europe/united-kingdom.md:
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/asian-pacific/australia.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'medicare' to /benefits/us/medicare
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/asian-pacific/india.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'education' to /education
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/asian-pacific/indonesia.md:
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/asian-pacific/thailand.md:
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/asian-pacific/philippines.md:
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/north-america/mexico.md:
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/north-america/united-states.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/north-america/canada.md:
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/africa/south-africa.md:
+  • Consider linking 'social security' to /benefits/us
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'ada' to /rights/us/ada
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/africa/kenya.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'mental health' to /conditions
+
+crisis/crisis-hotlines/africa/nigeria.md:
+  • Consider linking 'disability rights' to /rights
+  • Consider linking 'mental health' to /conditions
+
+================================================================================
+SUMMARY
+================================================================================
+Total files: 254
+Total internal links: 1758
+Broken links: 15
+Files missing descriptions: 232
