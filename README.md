@@ -166,26 +166,40 @@ All pages should include:
 
 ---
 
+## Security
+
+The production deployment includes:
+
+- **TLS/HTTPS** with Let's Encrypt (auto-renewal)
+- **Security headers** (HSTS, X-Frame-Options, CSP)
+- **Rate limiting** (10r/s general, 1r/s login)
+- **Automated backups** (daily, weekly, monthly retention)
+- **Environment variables** for all credentials
+
+See [SECURITY.md](./SECURITY.md) for complete security documentation.
+
+---
+
 ## Maintenance
 
-### Regular Tasks
+### Automated (Daily)
+- Database backups at 3 AM UTC
+- Backup verification and rotation
 
-**Weekly**:
+### Weekly
 - Check Wiki.js logs for errors
 - Monitor server disk usage
 - Verify site accessibility
 
-**Monthly**:
-- Backup database
+### Monthly
 - Check for Wiki.js updates
 - Run link validator
-- Review server resource usage
+- Test backup restore process
 
-**Quarterly**:
-- Full database export
+### Quarterly
+- Rotate database password
+- Security audit
 - Update documentation
-- Clean up old backups
-- Apply security updates
 
 ---
 

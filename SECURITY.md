@@ -1,15 +1,30 @@
 # Security Hardening Guide
 
-This document outlines security best practices and hardening procedures for the Disability Wiki deployment.
+This document outlines security best practices and the current security configuration for the Disability Wiki deployment.
+
+## Current Security Status
+
+| Feature | Status | Details |
+|---------|--------|---------|
+| TLS/HTTPS | **Implemented** | Let's Encrypt, auto-renewal enabled |
+| HTTP to HTTPS redirect | **Implemented** | 301 redirect on all HTTP requests |
+| HSTS | **Implemented** | 1 year max-age with includeSubDomains |
+| Security headers | **Implemented** | X-Frame-Options, CSP, XSS protection |
+| Rate limiting | **Implemented** | 10r/s general, 1r/s login paths |
+| Automated backups | **Implemented** | Daily at 3 AM UTC, 7/4/3 retention |
+| Environment variables | **Implemented** | Credentials in .env, not in repo |
+| Git history scrubbed | **Implemented** | Sensitive data removed from history |
+
+---
 
 ## Table of Contents
 
 - [Credential Management](#credential-management)
 - [TLS/HTTPS Configuration](#tlshttps-configuration)
-- [Reverse Proxy Setup](#reverse-proxy-setup)
 - [Rate Limiting](#rate-limiting)
-- [Backup Verification](#backup-verification)
+- [Automated Backups](#automated-backups)
 - [Security Checklist](#security-checklist)
+- [Incident Response](#incident-response)
 
 ---
 
@@ -17,7 +32,7 @@ This document outlines security best practices and hardening procedures for the 
 
 ### Environment Variables
 
-**Never commit credentials to the repository.** Use environment variables for all secrets.
+**Never commit credentials to the repository.** All secrets are managed via environment variables.
 
 #### Local Development
 
@@ -33,44 +48,42 @@ openssl rand -base64 32
 
 #### Production Server
 
-Create `/opt/wiki/.env` on the server:
+Credentials are stored in `/opt/wiki/.env`:
 
 ```bash
-# /opt/wiki/.env
-POSTGRES_DB=wiki
-POSTGRES_USER=wiki
-POSTGRES_PASSWORD=<STRONG_RANDOM_PASSWORD>
-DB_TYPE=postgres
-DB_HOST=db
-DB_PORT=5432
-DB_USER=wiki
-DB_PASS=<STRONG_RANDOM_PASSWORD>
-DB_NAME=wiki
+# /opt/wiki/.env (actual file on server)
+POSTGRES_PASSWORD=<32-character-random-password>
+DB_PASS=<32-character-random-password>
 ```
 
-Update the production `docker-compose.yml` to use environment variables:
-
-```yaml
-services:
-  db:
-    environment:
-      POSTGRES_DB: ${POSTGRES_DB}
-      POSTGRES_USER: ${POSTGRES_USER}
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
-  wiki:
-    environment:
-      DB_PASS: ${DB_PASS}
-```
+The `docker-compose.yml` references these via `${VARIABLE}` syntax.
 
 ### Credential Rotation
 
 Rotate database passwords quarterly:
 
-1. Generate new password: `openssl rand -base64 32`
-2. Update `.env` file on server
-3. Restart containers: `docker-compose down && docker-compose up -d`
-4. Verify Wiki.js connects successfully
-5. Store old password securely for rollback if needed
+```bash
+# SSH into server
+ssh user@your-server
+cd /opt/wiki
+
+# Generate new password
+NEW_PASS=$(openssl rand -base64 32 | tr -d '/+=' | head -c 32)
+
+# Update .env file
+sed -i "s/POSTGRES_PASSWORD=.*/POSTGRES_PASSWORD=$NEW_PASS/" .env
+sed -i "s/DB_PASS=.*/DB_PASS=$NEW_PASS/" .env
+
+# Update PostgreSQL password
+source .env
+docker exec wiki_db_1 psql -U wiki -d wiki -c "ALTER USER wiki WITH PASSWORD '$DB_PASS';"
+
+# Restart Wiki.js
+docker-compose down && docker-compose up -d
+
+# Verify
+docker-compose logs wiki | tail -20
+```
 
 ### SSH Key Management
 
@@ -80,168 +93,74 @@ Rotate database passwords quarterly:
   PasswordAuthentication no
   PermitRootLogin prohibit-password
   ```
-- Use a non-root user with sudo privileges when possible
 
 ---
 
 ## TLS/HTTPS Configuration
 
-### Option 1: Nginx Reverse Proxy with Let's Encrypt (Recommended)
+### Current Production Setup (Implemented)
 
-Install Certbot and Nginx on the server:
+TLS is configured via Nginx reverse proxy at `/etc/nginx/sites-available/disabilitywiki.org`.
 
-```bash
-apt update
-apt install nginx certbot python3-certbot-nginx
-```
+**Certificate Details**:
+- **Issuer**: Let's Encrypt
+- **Domains**: disabilitywiki.org, www.disabilitywiki.org
+- **Auto-renewal**: certbot timer (runs twice daily)
+- **Expiry check**: `ssh user@your-server "certbot certificates"`
 
-Create Nginx configuration `/etc/nginx/sites-available/wiki`:
+### Active Security Headers
 
 ```nginx
-server {
-    listen 80;
-    server_name disabilitywiki.org www.disabilitywiki.org;
-
-    location / {
-        return 301 https://$server_name$request_uri;
-    }
-}
-
-server {
-    listen 443 ssl http2;
-    server_name disabilitywiki.org www.disabilitywiki.org;
-
-    # SSL configuration (managed by Certbot)
-    ssl_certificate /etc/letsencrypt/live/disabilitywiki.org/fullchain.pem;
-    ssl_certificate_key /etc/letsencrypt/live/disabilitywiki.org/privkey.pem;
-    ssl_session_timeout 1d;
-    ssl_session_cache shared:SSL:50m;
-    ssl_session_tickets off;
-
-    # Modern TLS configuration
-    ssl_protocols TLSv1.2 TLSv1.3;
-    ssl_ciphers ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384;
-    ssl_prefer_server_ciphers off;
-
-    # HSTS (uncomment after testing)
-    # add_header Strict-Transport-Security "max-age=63072000" always;
-
-    # Security headers
-    add_header X-Frame-Options "SAMEORIGIN" always;
-    add_header X-Content-Type-Options "nosniff" always;
-    add_header X-XSS-Protection "1; mode=block" always;
-    add_header Referrer-Policy "strict-origin-when-cross-origin" always;
-
-    location / {
-        proxy_pass http://127.0.0.1:8080;
-        proxy_http_version 1.1;
-        proxy_set_header Upgrade $http_upgrade;
-        proxy_set_header Connection "upgrade";
-        proxy_set_header Host $host;
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
-        proxy_cache_bypass $http_upgrade;
-
-        # Timeouts
-        proxy_connect_timeout 60s;
-        proxy_send_timeout 60s;
-        proxy_read_timeout 60s;
-    }
-}
+# Currently deployed on production
+add_header Strict-Transport-Security "max-age=31536000; includeSubDomains" always;
+add_header X-Frame-Options "SAMEORIGIN" always;
+add_header X-Content-Type-Options "nosniff" always;
+add_header X-XSS-Protection "1; mode=block" always;
+add_header Referrer-Policy "strict-origin-when-cross-origin" always;
+add_header Permissions-Policy "geolocation=(), microphone=(), camera=()" always;
 ```
 
-Enable the site and obtain certificate:
+### Verify TLS Configuration
 
 ```bash
-ln -s /etc/nginx/sites-available/wiki /etc/nginx/sites-enabled/
-nginx -t
-certbot --nginx -d disabilitywiki.org -d www.disabilitywiki.org
-systemctl reload nginx
-```
+# Check certificate status
+ssh user@your-server "certbot certificates"
 
-### Option 2: Traefik Reverse Proxy
+# Test renewal
+ssh user@your-server "certbot renew --dry-run"
 
-Add Traefik to `docker-compose.yml`:
-
-```yaml
-services:
-  traefik:
-    image: traefik:v2.10
-    command:
-      - "--api.insecure=false"
-      - "--providers.docker=true"
-      - "--providers.docker.exposedbydefault=false"
-      - "--entrypoints.web.address=:80"
-      - "--entrypoints.websecure.address=:443"
-      - "--certificatesresolvers.letsencrypt.acme.httpchallenge=true"
-      - "--certificatesresolvers.letsencrypt.acme.httpchallenge.entrypoint=web"
-      - "--certificatesresolvers.letsencrypt.acme.email=your-email@example.com"
-      - "--certificatesresolvers.letsencrypt.acme.storage=/letsencrypt/acme.json"
-    ports:
-      - "80:80"
-      - "443:443"
-    volumes:
-      - /var/run/docker.sock:/var/run/docker.sock:ro
-      - traefik_letsencrypt:/letsencrypt
-
-  wiki:
-    labels:
-      - "traefik.enable=true"
-      - "traefik.http.routers.wiki.rule=Host(`disabilitywiki.org`)"
-      - "traefik.http.routers.wiki.entrypoints=websecure"
-      - "traefik.http.routers.wiki.tls.certresolver=letsencrypt"
-      - "traefik.http.routers.wiki-http.rule=Host(`disabilitywiki.org`)"
-      - "traefik.http.routers.wiki-http.entrypoints=web"
-      - "traefik.http.routers.wiki-http.middlewares=https-redirect"
-      - "traefik.http.middlewares.https-redirect.redirectscheme.scheme=https"
-    # Remove ports section - Traefik handles external access
-
-volumes:
-  traefik_letsencrypt:
+# Check headers (from local machine)
+curl -I https://disabilitywiki.org
 ```
 
 ---
 
 ## Rate Limiting
 
-### Nginx Rate Limiting
+### Current Configuration (Implemented)
 
-Add to `/etc/nginx/nginx.conf` in the `http` block:
+Rate limiting is configured in the Nginx site configuration.
 
 ```nginx
-# Rate limiting zones
+# Rate limiting zones (in nginx config)
 limit_req_zone $binary_remote_addr zone=general:10m rate=10r/s;
 limit_req_zone $binary_remote_addr zone=login:10m rate=1r/s;
 limit_conn_zone $binary_remote_addr zone=addr:10m;
 ```
 
-Add to the server block:
+**Applied Limits**:
+- **General requests**: 10 requests/second with burst of 20
+- **Login/Admin paths** (`/login`, `/a`, `/graphql`): 1 request/second with burst of 5
+- **Connection limit**: 10 concurrent connections per IP
 
-```nginx
-# General rate limiting
-limit_req zone=general burst=20 nodelay;
-limit_conn addr 10;
+### Fail2Ban (Optional Enhancement)
 
-# Stricter rate limiting for login/admin paths
-location ~ ^/(login|admin|graphql) {
-    limit_req zone=login burst=5 nodelay;
-    proxy_pass http://127.0.0.1:8080;
-    # ... other proxy settings
-}
-```
-
-### Fail2Ban Integration
-
-Install and configure fail2ban:
+If additional protection is needed, install fail2ban:
 
 ```bash
 apt install fail2ban
-```
 
-Create `/etc/fail2ban/jail.local`:
-
-```ini
+# Create /etc/fail2ban/jail.local
 [wiki-login]
 enabled = true
 port = http,https
@@ -250,69 +169,58 @@ logpath = /var/log/nginx/access.log
 maxretry = 5
 bantime = 3600
 findtime = 600
-
-[nginx-req-limit]
-enabled = true
-port = http,https
-filter = nginx-req-limit
-logpath = /var/log/nginx/error.log
-maxretry = 10
-bantime = 7200
-findtime = 600
-```
-
-Create `/etc/fail2ban/filter.d/wiki-login.conf`:
-
-```ini
-[Definition]
-failregex = ^<HOST> .* "(POST|GET) /(login|graphql).* 401
-ignoreregex =
 ```
 
 ---
 
-## Backup Verification
+## Automated Backups
 
-### Automated Backup Script
+### Current Configuration (Implemented)
 
-Create `/opt/wiki/backup.sh`:
+Backups run automatically via cron at 3 AM UTC daily.
 
-```bash
-#!/bin/bash
-set -e
+**Backup Script**: `/opt/wiki/backup.sh`
+**Restore Script**: `/opt/wiki/restore.sh`
+**Log File**: `/var/log/wiki-backup.log`
 
-BACKUP_DIR="/opt/wiki/backups"
-DATE=$(date +%Y%m%d_%H%M%S)
-RETENTION_DAYS=30
+### Retention Policy
 
-# Create backup directory
-mkdir -p "$BACKUP_DIR"
+| Type | Retention | Created |
+|------|-----------|---------|
+| Daily | 7 backups | Every day |
+| Weekly | 4 backups | Sundays |
+| Monthly | 3 backups | 1st of month |
 
-# Backup database
-docker exec wiki_db_1 pg_dump -U $DB_USER $DB_NAME | gzip > "$BACKUP_DIR/wiki-$DATE.sql.gz"
+### Backup Location
 
-# Verify backup is not empty
-if [ ! -s "$BACKUP_DIR/wiki-$DATE.sql.gz" ]; then
-    echo "ERROR: Backup file is empty!"
-    exit 1
-fi
-
-# Test backup integrity
-gunzip -t "$BACKUP_DIR/wiki-$DATE.sql.gz"
-echo "Backup verified: wiki-$DATE.sql.gz"
-
-# Remove old backups
-find "$BACKUP_DIR" -name "*.sql.gz" -mtime +$RETENTION_DAYS -delete
-
-# Sync to off-site storage (configure your backup destination)
-# rsync -avz "$BACKUP_DIR/" backup-server:/backups/wiki/
-# or
-# aws s3 sync "$BACKUP_DIR/" s3://your-bucket/wiki-backups/
+```
+/opt/wiki/backups/
+├── daily/      # wiki-YYYYMMDD_HHMMSS.sql.gz
+├── weekly/     # wiki-weekly-YYYYMMDD_HHMMSS.sql.gz
+└── monthly/    # wiki-monthly-YYYYMMDD_HHMMSS.sql.gz
 ```
 
-### Backup Verification Procedure
+### Manual Backup
 
-**Monthly verification checklist:**
+```bash
+ssh user@your-server "/opt/wiki/backup.sh"
+```
+
+### Restore Procedure
+
+```bash
+ssh user@your-server
+
+# Interactive restore (shows available backups)
+/opt/wiki/restore.sh
+
+# Or specify backup directly
+/opt/wiki/restore.sh /opt/wiki/backups/daily/wiki-20260111_030000.sql.gz
+```
+
+### Backup Verification
+
+Monthly verification checklist:
 
 1. Download a recent backup to a test environment
 2. Start a fresh PostgreSQL container
@@ -324,60 +232,46 @@ find "$BACKUP_DIR" -name "*.sql.gz" -mtime +$RETENTION_DAYS -delete
 5. Verify content is accessible and complete
 6. Document the test results
 
-### Cron Schedule
-
-Add to crontab (`crontab -e`):
-
-```cron
-# Daily backup at 3 AM
-0 3 * * * /opt/wiki/backup.sh >> /var/log/wiki-backup.log 2>&1
-
-# Weekly backup verification reminder (sends email)
-0 9 * * 1 echo "Weekly reminder: Verify Wiki.js backup integrity" | mail -s "Backup Verification Reminder" admin@example.com
-```
-
 ---
 
 ## Security Checklist
 
-### Initial Setup
+### Initial Setup - COMPLETED
 
-- [ ] Generate strong, unique passwords for all services
-- [ ] Configure environment variables (never commit secrets)
-- [ ] Set up TLS/HTTPS with valid certificates
-- [ ] Configure HTTP to HTTPS redirect
-- [ ] Enable HSTS header
-- [ ] Set up reverse proxy (Nginx or Traefik)
-- [ ] Configure rate limiting
-- [ ] Set up fail2ban or similar
+- [x] Generate strong, unique passwords for all services
+- [x] Configure environment variables (never commit secrets)
+- [x] Set up TLS/HTTPS with valid certificates
+- [x] Configure HTTP to HTTPS redirect
+- [x] Enable HSTS header
+- [x] Set up reverse proxy (Nginx)
+- [x] Configure rate limiting
+- [x] Scrub git history of sensitive data
+- [x] Set up automated backups
 
-### Server Hardening
+### Server Hardening - RECOMMENDED
 
 - [ ] Disable root SSH login (use sudo user)
 - [ ] Configure SSH key authentication only
 - [ ] Enable UFW firewall (allow only 80, 443, 22)
-- [ ] Keep system packages updated
 - [ ] Configure automatic security updates
-- [ ] Set up monitoring/alerting
+- [ ] Set up fail2ban
 
 ### Application Security
 
 - [ ] Use strong admin password for Wiki.js
 - [ ] Enable 2FA for admin accounts if available
 - [ ] Review Wiki.js access permissions
-- [ ] Limit admin panel access by IP if possible
 - [ ] Configure CORS appropriately
 
 ### Ongoing Maintenance
 
+- [x] Automated daily backups
 - [ ] Rotate credentials quarterly
 - [ ] Verify backups monthly
 - [ ] Review access logs weekly
 - [ ] Apply security updates promptly
-- [ ] Review fail2ban bans weekly
-- [ ] Test disaster recovery annually
 
-### Monitoring
+### Monitoring - RECOMMENDED
 
 - [ ] Set up uptime monitoring (e.g., UptimeRobot, Healthchecks.io)
 - [ ] Configure log aggregation
@@ -390,9 +284,9 @@ Add to crontab (`crontab -e`):
 
 ### If Credentials Are Compromised
 
-1. **Immediately** rotate all passwords
-2. Review access logs for unauthorized access
-3. Check for unauthorized content changes
+1. **Immediately** rotate all passwords (see Credential Rotation above)
+2. Review access logs: `ssh user@your-server "tail -1000 /var/log/nginx/access.log | grep -i 'POST\|admin'"`
+3. Check for unauthorized content changes in Wiki.js
 4. Restore from known-good backup if needed
 5. Review and revoke any suspicious API keys or tokens
 6. Document the incident and improve security measures
@@ -406,6 +300,24 @@ Add to crontab (`crontab -e`):
 5. Rotate all credentials
 6. Review and fix the attack vector
 7. Document lessons learned
+
+### Backup Recovery
+
+If you need to recover from a disaster:
+
+```bash
+# 1. Provision new server with Docker
+
+# 2. Copy backup from off-site storage or old server
+
+# 3. Set up Wiki.js with docker-compose
+
+# 4. Restore database
+gunzip -c backup.sql.gz | docker exec -i wiki_db_1 psql -U wiki wiki
+
+# 5. Restart Wiki.js
+docker-compose restart wiki
+```
 
 ---
 
