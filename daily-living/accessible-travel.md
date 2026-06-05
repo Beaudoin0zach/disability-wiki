@@ -1,8 +1,8 @@
 ---
 title: Accessible Travel
-description: 
+description: This page complements Recreation, Travel, and Outdoors with specific, practical travel planning for disabled people. It includes accessibility guides for…
 published: true
-date: 2026-06-05T14:57:54.211Z
+date: 2026-06-05T20:32:10.636Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-22T23:10:18.455Z
