@@ -2,7 +2,7 @@
 title: Group Homes and Institutions
 description: 
 published: true
-date: 2026-06-05T13:21:26.422Z
+date: 2026-06-05T14:58:23.210Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:07:31.293Z
@@ -244,13 +244,13 @@ Similar to U.S.: supported living, self-directed care, host homes, cooperative h
 ### Transitioning from institutions (Canada)
 
 1. **Contact provincial disability organization** for assistance
-2. **Work with local CIL equivalent** - Independent Living Canada (ilcan.ca) - for transition planning
+2. **Work with local CIL equivalent** - Independent Living Canada (ilc-vac.ca) - for transition planning
 3. **Advocate with provincial disability ministry** for community living support
 4. **Connect with disability justice organizations** for collective advocacy
 
 ### Resources (Canada)
 
-**Independent Living Canada**: ilcan.ca
+**Independent Living Canada**: ilc-vac.ca
 
 **Provincial disability organizations**: Search "[province] disability rights"
 
@@ -457,7 +457,7 @@ Institutional landscape and deinstitutionalization progress vary dramatically gl
 
 **Disabled Peoples' International**: dpi.org (connect with disability movements in your country)
 
-**SABE International**: sabeint.org (self-advocacy networks globally)
+**SABE International**: sabeusa.com (self-advocacy networks globally)
 
 **Regional disability forums**: Connect with regional networks
 
