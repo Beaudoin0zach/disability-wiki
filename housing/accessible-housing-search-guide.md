@@ -2,7 +2,7 @@
 title: Accessible Housing Search Guide
 description: 
 published: true
-date: 2026-06-05T13:21:21.336Z
+date: 2026-06-05T14:58:18.519Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:07:26.391Z
@@ -148,7 +148,7 @@ Canada has housing search tools and accessibility standards, though less central
 
 **Accessible Canada Act (2019)** establishes accessibility principles. **CAN-ASC-2.8:2025** provides accessible-ready housing standards applicable across Canada.
 
-**Independent Living Canada** (ilcan.ca) and provincial CILs provide housing search assistance similar to U.S. centers—free, peer-led, disability-centered support.
+**Independent Living Canada** (ilc-vac.ca) and provincial CILs provide housing search assistance similar to U.S. centers—free, peer-led, disability-centered support.
 
 ### Provincial databases and search strategies
 
@@ -176,7 +176,7 @@ Building codes (National Building Code of Canada) establish accessibility standa
 
 ### Resources (Canada)
 
-**Independent Living Canada**: ilcan.ca (equivalent of U.S. CILs)
+**Independent Living Canada**: ilc-vac.ca (equivalent of U.S. CILs)
 
 **CMHC**: cmhc-schl.gc.ca
 
@@ -359,7 +359,7 @@ Housing search strategies vary globally based on local housing markets, accessib
 
 **Disabled Peoples' International**: dpi.org (connect with disabled people's organizations in your country)
 
-**SABE International**: sabeint.org (self-advocacy network across countries)
+**SABE International**: sabeusa.com (self-advocacy network across countries)
 
 **UN CRPD housing resources**: ohchr.org (research what housing protections exist in your country)
 
