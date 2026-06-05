@@ -1,8 +1,8 @@
 ---
 title: Insurance Navigation
-description: 
+description: Navigating health insurance with a disability can be frustrating, confusing, and exhausting. Insurance systems often create barriers to care, deny needed…
 published: true
-date: 2026-06-05T13:20:57.041Z
+date: 2026-06-05T20:35:47.689Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-27T23:11:00.230Z
