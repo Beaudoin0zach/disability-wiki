@@ -16,8 +16,12 @@ Full-site structural/placeholder/duplicate scan (285 pages) + content-accuracy f
 - Legal: §503 threshold $10k→$20k (OFCCP note); DFEH→CRD; NY all-employers (1+); ACAA 45-day/6-month deadlines + no-private-right-of-action note.
 - Backups: `backups/pagereview-2026-06-05/CORR_*.json`.
 
-## ⏳ DRAFTED — missing legal sections (awaiting review, NOT published)
-See `page-review-2026-06-05/DRAFT_legal_sections.md` — proposed sections for the **2024 DOJ ADA Title II web rule** (→ rights/us/ada) and the **2024 HHS Section 504 final rule** (→ rights/us/section-504).
+## ✅ DONE 2026-06-05 (round 2) — approved follow-ups applied
+- ✅ **Legal sections published:** "2024 Update: Web & Mobile App Accessibility (Title II)" → `rights/us/ada`; "2024 Update: The New HHS Section 504 Rule" → `rights/us/section-504`. (Drafts: `page-review-2026-06-05/DRAFT_legal_sections.md`.)
+- ✅ **Meta descriptions:** 253 published pages auto-filled from intro text (`backups/.../META_APPLIED.json`). Auto-generated first drafts — refine via `page-review-2026-06-05/META_DESCRIPTIONS_PROPOSED.md`.
+- ✅ **Frontmatter leak fixed** on all 7 pages (stripped leading YAML from body).
+- ✅ **Duplicate pages redirected** (body replaced with a "this page has moved" stub → canonical; originals in backups): `start/disability-models`→foundations, `start/for-allies`→foundations, `foundations/how-to-use-this-wiki`→`start/how-to-use`, `accessibility-statement`→`start/accessibility-statement`, `Rights/North-America/US/ADA`→`rights/us/ada`, `Rights/North-America/US/Fair-Housing`→`rights/us/fair-housing-act`, `Rights/Overview`→`rights/index`, `Healthcare`→`healthcare/index`.
+  - **Held (need editorial/rename, NOT auto-changed):** `start/what-is-disability` (merge best of both with foundations), `Rights/Filing-a-Disability-Complaint` & `Rights/Finding-Legal-Aid` (rename into lowercase `rights/` — deferred because a move creates 404s and needs inbound-link updates).
 
 ## 🔴 High — security/structure (✅ DONE)
 - ✅ Unpublished accidentally-public internal pages: `/claude`, `/README`, `/SECURITY`, `/SETUP`, `/PROJECT_STATUS`, `/archetypes/default`, `/archetypes/fact-checks`, `/robots` (now 403). `/SECURITY` had exposed hardening notes.
