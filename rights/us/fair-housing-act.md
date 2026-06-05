@@ -2,7 +2,7 @@
 title: Fair Housing Act
 description: 
 published: true
-date: 2026-06-05T13:19:08.285Z
+date: 2026-06-05T14:59:14.269Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:15:24.342Z
@@ -339,7 +339,7 @@ Be cautious. HUD allows landlords to be skeptical of documentation from provider
 ### Legal Help
 
 - **Fair housing attorneys**: Many take cases on contingency
-- **Legal Aid**: lawhelp.org
+- **Legal Aid**: www.lawhelp.org
 - **Disability Rights Advocates**: dralegal.org
 
 ---
