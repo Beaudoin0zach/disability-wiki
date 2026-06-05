@@ -1,8 +1,8 @@
 ---
 title: Disability Benefits – Other Countries & Regions
-description: 
+description: This page is a catch-all and starting point for disability benefits information in countries and regions not yet covered by their own pages.
 published: true
-date: 2026-06-05T17:40:28.297Z
+date: 2026-06-05T20:27:23.908Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T19:58:53.720Z
