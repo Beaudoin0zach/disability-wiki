@@ -1,8 +1,8 @@
 ---
 title: Group Homes and Institutions
-description: 
+description: Institutions—nursing homes, psychiatric hospitals, group homes, developmental facilities, and other congregate settings—segregate disabled people from…
 published: true
-date: 2026-06-05T14:58:23.210Z
+date: 2026-06-05T20:37:47.429Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:07:31.293Z
