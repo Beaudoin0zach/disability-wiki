@@ -1,8 +1,8 @@
 ---
 title: How to Use This Wiki
-description: 
+description: This wiki has a lot of information. This page helps you find what you need.
 published: true
-date: 2026-06-05T12:32:58.177Z
+date: 2026-06-05T20:19:42.151Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-16T20:27:43.770Z
