@@ -1,8 +1,8 @@
 ---
 title: Service Animals
-description: 
+description: Service animals help disabled people navigate the world—performing tasks, providing assistance, and enabling independence. They're protected under law in…
 published: true
-date: 2026-06-05T13:19:29.244Z
+date: 2026-06-05T20:24:59.646Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:17:46.454Z
