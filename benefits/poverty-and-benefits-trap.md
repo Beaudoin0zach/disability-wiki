@@ -2,20 +2,10 @@
 title: Disability and Poverty: The Benefits Trap
 description: 
 published: true
-date: 2026-06-05T12:31:39.752Z
+date: 2026-06-05T20:17:07.978Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T19:38:05.547Z
----
-
----
-title: Disability and Poverty: The Benefits Trap
-description: 
-published: true
-date: 2025-12-30T22:43:48.515Z
-tags: 
-editor: markdown
-dateCreated: 2025-12-30T22:43:48.515Z
 ---
 
 # Disability and Poverty: The Benefits Trap
