@@ -1,8 +1,8 @@
 ---
 title: When Doctors Don't Believe You: Navigating Medical Dismissal
-description: 
+description: All disabled people have the right to healthcare that respects their dignity, autonomy, and expertise about their own bodies. This page centers disabled…
 published: true
-date: 2026-06-05T20:17:35.284Z
+date: 2026-06-05T20:35:57.647Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T19:41:52.403Z
