@@ -21,7 +21,12 @@ Full-site structural/placeholder/duplicate scan (285 pages) + content-accuracy f
 - ✅ **Meta descriptions:** 253 published pages auto-filled from intro text (`backups/.../META_APPLIED.json`). Auto-generated first drafts — refine via `page-review-2026-06-05/META_DESCRIPTIONS_PROPOSED.md`.
 - ✅ **Frontmatter leak fixed** on all 7 pages (stripped leading YAML from body).
 - ✅ **Duplicate pages redirected** (body replaced with a "this page has moved" stub → canonical; originals in backups): `start/disability-models`→foundations, `start/for-allies`→foundations, `foundations/how-to-use-this-wiki`→`start/how-to-use`, `accessibility-statement`→`start/accessibility-statement`, `Rights/North-America/US/ADA`→`rights/us/ada`, `Rights/North-America/US/Fair-Housing`→`rights/us/fair-housing-act`, `Rights/Overview`→`rights/index`, `Healthcare`→`healthcare/index`.
-  - **Held (need editorial/rename, NOT auto-changed):** `start/what-is-disability` (merge best of both with foundations), `Rights/Filing-a-Disability-Complaint` & `Rights/Finding-Legal-Aid` (rename into lowercase `rights/` — deferred because a move creates 404s and needs inbound-link updates).
+  - ✅ **Renamed** (no inbound links, so no breakage): `Rights/Filing-a-Disability-Complaint` → `rights/filing-a-disability-complaint`; `Rights/Finding-Legal-Aid` → `rights/finding-legal-aid`. Old capital paths now 404 (were orphaned).
+  - ⏳ **`what-is-disability` merge drafted** (NOT yet published): `page-review-2026-06-05/DRAFT_what-is-disability_merged.md` — foundations base + grafted unique sections (Common Myths, Visible/Invisible, Temporary/Permanent/Fluctuating, Acquired/Congenital, Disability vs. Difference) from the start version. Publish to `foundations/what-is-disability` + stub `start/what-is-disability` on approval.
+
+## Remaining open
+- ~10 empty `/intersectionality/*` stub pages need content written.
+- Auto-generated meta descriptions can be refined via `META_DESCRIPTIONS_PROPOSED.md`.
 
 ## 🔴 High — security/structure (✅ DONE)
 - ✅ Unpublished accidentally-public internal pages: `/claude`, `/README`, `/SECURITY`, `/SETUP`, `/PROJECT_STATUS`, `/archetypes/default`, `/archetypes/fact-checks`, `/robots` (now 403). `/SECURITY` had exposed hardening notes.
