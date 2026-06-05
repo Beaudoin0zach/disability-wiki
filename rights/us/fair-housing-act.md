@@ -1,8 +1,8 @@
 ---
 title: Fair Housing Act
-description: 
+description: The Fair Housing Act prohibits discrimination in housing based on disability. It's a critical tool for disabled people seeking to rent, buy, or keep their…
 published: true
-date: 2026-06-05T14:59:14.269Z
+date: 2026-06-05T20:23:46.942Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:15:24.342Z
