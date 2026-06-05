@@ -2,7 +2,7 @@
 title: U.S. State Disability Rights Laws
 description: 
 published: true
-date: 2026-06-05T13:19:01.491Z
+date: 2026-06-05T14:59:09.505Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:14:49.821Z
@@ -335,7 +335,7 @@ Connect with disability rights organizations in your state. Many work on state l
 
 ### Legal Help
 
-- **Legal Aid by location**: lawhelp.org
+- **Legal Aid by location**: www.lawhelp.org
 - **State bar lawyer referral services**
 - **Disability rights law firms** in your area
 
