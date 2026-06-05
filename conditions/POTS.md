@@ -1,8 +1,8 @@
 ---
 title: Postural Orthostatic Tachycardia Syndrome (POTS)
-description: 
+description: All disabled people have the right to the highest attainable standard of health without discrimination. This page centers disabled people's expertise and is…
 published: true
-date: 2026-06-05T12:32:25.032Z
+date: 2026-06-05T20:29:35.063Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:00:30.710Z
