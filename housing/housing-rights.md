@@ -2,7 +2,7 @@
 title: Housing Rights
 description: 
 published: true
-date: 2026-06-05T13:21:41.617Z
+date: 2026-06-05T14:58:32.935Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:07:45.079Z
@@ -141,7 +141,7 @@ Some landlords respond to clear documentation. Fair housing organizations offer 
 
 **Centers for Independent Living**: ncil.org directory (free housing advocacy)
 
-**Legal aid**: lawhelp.org, 211.org
+**Legal aid**: www.lawhelp.org, 211.org
 
 ---
 
@@ -179,7 +179,7 @@ Document all communications. If landlord refuses, contact your provincial human 
 
 **Your provincial human rights commission**: Contact through provincial government
 
-**Independent Living Canada**: ilcan.ca (equivalent of U.S. CILs)
+**Independent Living Canada**: ilc-vac.ca (equivalent of U.S. CILs)
 
 **Provincial disability rights organizations**: Search "[province] disability rights"
 
@@ -273,7 +273,7 @@ Contact your local council's housing department or housing ombudsman. Cases can 
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
-**Housing ombudsman**: Housing ombudsman.org.uk
+**Housing ombudsman**: Housing housing-ombudsman.org.uk
 
 **Citizens Advice**: citizensadvice.org.uk (housing rights information)
 
@@ -319,7 +319,7 @@ Contact the **Australian Human Rights Commission** (humanrights.gov.au) or your 
 
 **NDIS**: ndis.gov.au
 
-**Disability Rights Australia**: disabilityrightsaustralia.org.au
+**People with Disability Australia (PWDA)**: pwd.org.au
 
 **State disability organizations**: Search "[state] disability rights"
 
@@ -365,7 +365,7 @@ Despite barriers, disabled people's organizations in every country are advocatin
 
 **Disabled Peoples' International** (dpi.org): Global federation with members in 150+ countries, focused on disability rights including housing.
 
-**SABE International** (sabeint.org): International organization of self-advocates with intellectual/developmental disabilities.
+**SABE International** (sabeusa.com): International organization of self-advocates with intellectual/developmental disabilities.
 
 **Regional disability organizations**: Europe (EDF, ENIL), Americas, Africa, Asia, Pacific - coordinating advocacy and sharing strategies.
 
@@ -441,13 +441,13 @@ Whether you're in a country that has ratified CRPD, in a country like the U.S. t
 
 **Disabled Peoples' International**: dpi.org. Global federation of disabled people's organizations in 150+ countries.
 
-**SABE International**: sabeint.org. International organization of self-advocates with intellectual/developmental disabilities.
+**SABE International**: sabeusa.com. International organization of self-advocates with intellectual/developmental disabilities.
 
 **European Disability Forum**: edf-feph.org. Coordinates disability organizations across Europe.
 
 **Your country's disability rights organization**: Search "[country] disabled people's organization" or contact through national government.
 
-**Centers for Independent Living** (U.S. and equivalents internationally): These peer-led organizations provide housing assistance and community living advocacy. Find yours through national directories (ncil.org in U.S., ilcan.ca in Canada, etc.).
+**Centers for Independent Living** (U.S. and equivalents internationally): These peer-led organizations provide housing assistance and community living advocacy. Find yours through national directories (ncil.org in U.S., ilc-vac.ca in Canada, etc.).
 
 ---
 
