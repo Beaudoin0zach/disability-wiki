@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: false
+date: 2026-06-05T17:40:43.343Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T19:37:34.040Z
+---
+
 # Disability Wiki
 
 A comprehensive, community-driven knowledge base for disability rights, resources, and support information powered by Wiki.js.
