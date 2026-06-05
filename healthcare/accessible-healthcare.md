@@ -2,7 +2,7 @@
 title: Accessible Healthcare
 description: 
 published: true
-date: 2026-06-05T13:20:46.061Z
+date: 2026-06-05T14:58:13.705Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-28T00:21:58.593Z
@@ -366,7 +366,7 @@ File a complaint with the hospital's patient advocate. File with OCR (US) or equ
 
 - **ADA National Network**: adata.org (information and resources)
 - **Office for Civil Rights (OCR)**: hhs.gov/ocr (file healthcare complaints)
-- **Disability Rights Legal Center**: drlcenter.org
+- **Disability Rights Legal Center**: thedrlc.org
 
 ### United Kingdom
 
