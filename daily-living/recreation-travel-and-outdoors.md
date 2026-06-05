@@ -1,8 +1,8 @@
 ---
 title: Recreation, Travel, and Outdoors
-description: 
+description: Recreation, travel, and outdoor activities are fundamental to quality of life—not luxuries. They offer joy, community, physical and mental health benefits…
 published: true
-date: 2026-06-05T14:57:58.925Z
+date: 2026-06-05T20:32:59.607Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-22T16:16:35.809Z
