@@ -1,8 +1,8 @@
 ---
 title: Accessible Healthcare
-description: 
+description: All disabled people have the right to accessible, quality healthcare. Yet healthcare systems create barriers at every turn—from inaccessible facilities to…
 published: true
-date: 2026-06-05T14:58:13.705Z
+date: 2026-06-05T20:35:18.875Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-28T00:21:58.593Z
