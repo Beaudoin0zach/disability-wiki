@@ -1,3 +1,13 @@
+---
+title: SECURITY
+description: 
+published: false
+date: 2026-06-05T17:40:48.532Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-11T19:37:44.846Z
+---
+
 # Security Hardening Guide
 
 This document outlines security best practices and the current security configuration for the Disability Wiki deployment.
