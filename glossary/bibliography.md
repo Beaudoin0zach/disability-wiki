@@ -2,7 +2,7 @@
 title: Bibliography
 description: 
 published: true
-date: 2026-06-05T13:16:53.171Z
+date: 2026-06-05T14:58:08.915Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:05:13.279Z
@@ -235,7 +235,7 @@ This is a living document. For guidance on adding sources, see [How to Contribut
 ### Inclusive Research
 
 - National Disability Authority (Ireland). *Ethical Guidance for Research with People with Disabilities*.
-  - https://nda.ie/publications/nda-ethics-guidance-for-research-with-people-with-disabilities
+  - https://nda.ie/publications/ethical-guidance-for-research-with-people-with-disabilities-report
 
 - IASSIDD. *Ethics Guidelines for International, Multi-Centre Research Involving People with Intellectual Disabilities*.
   - https://www.iassidd.org/ethics-guidelines/
@@ -456,7 +456,7 @@ This is a living document. For guidance on adding sources, see [How to Contribut
   - https://www.ilru.org/projects/cil-net/cil-center-and-association-directory
 
 - Disability Rights Digital Library.
-  - https://drdl.law.syr.edu
+  - https://researchguides.library.syr.edu/disabilitystudies
 
 ### Plain Language and Accessibility
 
