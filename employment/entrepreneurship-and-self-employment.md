@@ -1,8 +1,8 @@
 ---
 title: Entrepreneurship and Self-Employment
-description: 
+description: Self-employment and entrepreneurship offer disabled people flexibility, control, and income—often in ways traditional employment can't. Many disabled people…
 published: true
-date: 2026-06-05T13:20:22.445Z
+date: 2026-06-05T20:33:41.197Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-28T00:19:13.279Z
