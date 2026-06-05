@@ -2,7 +2,7 @@
 title: Home Modifications
 description: 
 published: true
-date: 2026-06-05T13:21:36.626Z
+date: 2026-06-05T14:58:27.905Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:07:35.783Z
@@ -186,7 +186,7 @@ Canadian building codes increasingly incorporating accessibility features. New c
 
 **Provincial disability organizations**: Search "[province] disability rights"
 
-**Independent Living Canada**: ilcan.ca
+**Independent Living Canada**: ilc-vac.ca
 
 **Provincial housing authorities**: Contact through provincial government
 
