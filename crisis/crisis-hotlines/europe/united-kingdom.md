@@ -1,8 +1,8 @@
 ---
 title: Crisis Hotlines in the United Kingdom
-description: 
+description: If this is overwhelming right now, you can just call the number below. You don't have to read everything.
 published: true
-date: 2026-06-05T19:29:44.471Z
+date: 2026-06-05T20:31:05.611Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:02:43.370Z
