@@ -1,8 +1,8 @@
 ---
 title: Home and Community-Based Care
-description: 
+description: All disabled people have the right to live in the community with the supports they need. The UN Convention on the Rights of Persons with Disabilities (CRPD)…
 published: true
-date: 2026-06-05T13:20:51.349Z
+date: 2026-06-05T20:35:28.655Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-27T23:08:16.290Z
