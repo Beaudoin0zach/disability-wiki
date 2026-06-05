@@ -2,7 +2,7 @@
 title: International Housing Rights
 description: 
 published: true
-date: 2026-06-05T13:21:54.817Z
+date: 2026-06-05T14:58:42.090Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-07T20:07:58.507Z
@@ -199,13 +199,13 @@ Whether you're in a country that has ratified CRPD, in a country like the U.S. t
 
 **UN Convention on Rights of Persons with Disabilities**: ohchr.org. Full text in multiple languages; General Comment 5 on Article 19 provides in-depth interpretation.
 
-**Disability Rights International**: disabilityinternational.org. Global advocacy organization monitoring CRPD implementation and institutional conditions.
+**Disability Rights International**: driadvocacy.org. Global advocacy organization monitoring CRPD implementation and institutional conditions.
 
 **European Disability Forum**: edf-feph.org. Coordinates disability organizations across Europe around CRPD implementation.
 
 **Disabled Peoples' International**: dpi.org. Global federation of disabled people's organizations in 150+ countries.
 
-**SABE (Self Advocates Becoming Empowered) International**: sabeint.org. International organization of self-advocates with intellectual/developmental disabilities.
+**SABE (Self Advocates Becoming Empowered) International**: sabeusa.com. International organization of self-advocates with intellectual/developmental disabilities.
 
 **ADAPT**: adapt.org. U.S. organization but involved in international advocacy around deinstitutionalization.
 
