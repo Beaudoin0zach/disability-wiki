@@ -1,8 +1,8 @@
 ---
 title: Accessible Research Tools
-description: 
+description: All disabled people have the right to participate in research and knowledge production on an equal basis with others, as affirmed by Articles 30 and 31 of…
 published: true
-date: 2026-06-05T14:58:55.761Z
+date: 2026-06-05T20:22:37.127Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:12:36.034Z
