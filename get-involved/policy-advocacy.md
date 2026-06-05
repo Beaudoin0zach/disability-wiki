@@ -1,8 +1,8 @@
 ---
 title: Policy Advocacy
-description: 
+description: All disabled people have the right to participate in political and public life on an equal basis with others, as affirmed by Article 29 of the UN Convention…
 published: true
-date: 2026-06-05T12:32:39.987Z
+date: 2026-06-05T20:34:34.437Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T19:41:24.784Z
