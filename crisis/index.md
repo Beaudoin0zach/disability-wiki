@@ -2,7 +2,7 @@
 title: Crisis & Safety
 description: 
 published: true
-date: 2026-06-05T14:57:49.680Z
+date: 2026-06-05T19:43:26.175Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-11T19:40:21.571Z
@@ -154,7 +154,7 @@ Accuracy and accessibility of crisis information saves lives. This section is ma
 
 ---
 
-**Last updated**: [Date]  
+**Last updated**: June 2026  
 **Maintained by**: DisabilityWiki Community Crisis Response Team  
 **Emergency? Contact local emergency services or use the hotlines above**  
 **Feedback or missing resources?** [Report here →](/start/contact)
