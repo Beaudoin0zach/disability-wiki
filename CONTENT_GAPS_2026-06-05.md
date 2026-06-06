@@ -16,6 +16,26 @@ Prioritized list of pages the disability community appears to need that the wiki
 
 ---
 
+## ✅ VALIDATION UPDATE (2026-06-06)
+
+A deep-research validation pass was run externally. Key outcome: **Reddit's API now requires 2–4 week pre-approval for all apps (policy changed Nov 11, 2025), and reddit.com is inaccessible to automated search/fetch tools** — so hard demand measurement isn't feasible through any tool right now. Demand remains *inferred* for most topics. BUT two topics have **measured** evidence (from peer-reviewed studies that scraped Reddit), and the priority order tightened:
+
+**🥇 MEASURED — build first (demand proven by data):**
+1. **Autistic Burnout & Recovery** — Clarey et al. 2025 (*J. Autism Dev. Disord.*, doi:10.1007/s10803-025-06765-4) analyzed 249 Reddit threads / 3,539 entries. → Daily living/Conditions
+2. **ADHD Medication Shortage / Refills / Titration** — Shrestha et al. 2025 (*Front. Pharmacol.* 16:1529115): 172 "shortage" threads + a **pinned r/ADHD megathread** (r/ADHD ≈ 2.2M members). → extend `medication-management` or own page
+
+**🥈 Strongest *inferred* cluster — benefits-process mechanics** (dedicated subreddits r/SSDI, r/SocialSecurityDisability, r/disabilitybenefits + huge law-firm content economy). Build as a coordinated set:
+- Back pay & retroactive benefits → application walkthrough & ALJ hearing → CDR → **Working while on disability (SGA/TWP/Ticket to Work)** → **overpayment notices & waiver/appeal (NEW)** → **expedited reinstatement (NEW)**
+- **Pin & date-stamp 2026 figures:** SGA $1,690/mo (non-blind), $2,830/mo (blind); TWP $1,210/mo; 5-month waiting period; 12-month retroactive cap (17-month onset limit); attorney fee = lesser of 25% of past-due benefits or **$9,200** (raised from $7,200 on Nov 30, 2024). Re-verify at publish.
+
+**🥉 Pacing/PEM hub** for chronic illness + long COVID (use community terms "spoons," "energy envelope," "PEM," "crash"; pair pacing + PEM). Plus **late/adult autism & ADHD diagnosis**, **task paralysis/executive dysfunction**, and **DME through insurance**.
+
+**New topics surfaced (not in original list):** SSDI/SSI overpayment & waiver; expedited reinstatement after benefits end; **Long COVID as a bridge page** to ME/CFS pacing.
+
+**Reconciliation:** the original "6 highest-confidence" below came from cross-agent *convergence*; this validation adds *measured* evidence elevating Autistic Burnout + ADHD-med-shortage to the very top and strongly backing the benefits-process cluster. Both lists are compatible.
+
+---
+
 ## ⭐ BUILD FIRST — 6 highest-confidence (flagged by multiple agents)
 
 1. **Adjusting to a Newly Acquired Disability** — grief, identity reconstruction, the transition crisis. *(Gap between existing `disability-identity` (settled) and `mental-health` (clinical). Cited by 3 agents as the top emotional theme.)* → Healthcare/Foundations
