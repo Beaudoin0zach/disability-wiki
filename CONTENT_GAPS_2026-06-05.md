@@ -36,6 +36,30 @@ A deep-research validation pass was run externally. Key outcome: **Reddit's API 
 
 ---
 
+## 📊 LIVE TRAFFIC SIGNAL (GA4, May 9–Jun 5 2026)
+
+Real site traffic (~622 views/28 days — low volume, so directional not statistical). Where traffic + engagement actually concentrate:
+
+| Area | Views | Avg engagement |
+|---|---|---|
+| Media/culture (TikTok, TV, YouTube, documentaries, media history) | 91 | 40s |
+| History | 74 | 31s |
+| Community / finding people (**"Communities on Discord" = #2 page, 58 views**) | 70 | — |
+| Crisis/hotlines | 59 | 32s |
+| Rights/laws | 53 | 22s |
+| **Conditions** | 51 | **64s (deepest reading)** |
+| Foundations/identity | 49 | 44s |
+| Benefits (across 18 thin pages) | 31 | 15s (shallowest) |
+
+**Reconciliation with the gap analysis:** GA = *captured* demand (what the current audience reads); the Reddit gaps = *latent* demand (what people ask elsewhere). Benefits-process scores HIGH on latent demand but LOW on current traffic/engagement → real need the site isn't capturing yet (a slower SEO bet on a low-traffic site). **Conditions + identity are the deepest-engagement zones** — and that's exactly where the self-management cluster (incl. the two *measured* winners: autistic burnout, ADHD med shortage) lands.
+
+**Sharpened build order:**
+1. **Self-management / conditions cluster** (autistic burnout, pacing/PEM, brain fog, coping with invisible/fluctuating disability) — proven deepest-engagement zone *and* measured demand. **Best bet.**
+2. **Cheap quick wins on existing traffic:** expand community-finding (Discord is #2), media/culture, international crisis coverage.
+3. **Benefits-process:** real need, but treat as a longer-horizon SEO play, not a quick-traffic win.
+
+---
+
 ## ⭐ BUILD FIRST — 6 highest-confidence (flagged by multiple agents)
 
 1. **Adjusting to a Newly Acquired Disability** — grief, identity reconstruction, the transition crisis. *(Gap between existing `disability-identity` (settled) and `mental-health` (clinical). Cited by 3 agents as the top emotional theme.)* → Healthcare/Foundations
