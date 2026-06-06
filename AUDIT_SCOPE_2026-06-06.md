@@ -61,7 +61,47 @@ For each: are statistics sourced and hedged where contested? Do all listed organ
 
 ---
 
+## Wiki.js API access (for the auditor)
+
+> ⚠️ **The API token is NOT in this file or repo — by design.** It is a long-lived, full-content-access credential; committing it would expose the whole wiki. Supply it to your tooling via an environment variable (e.g. `WIKIJS_TOKEN`) out-of-band — never commit it.
+
+**Two ways to apply fixes** (pull-mode site, so both end up live):
+1. **Preferred — edit the markdown** in this repo and merge to `main`; Wiki.js pulls every 5 min. Cleaner, version-controlled, reviewable.
+2. **Direct via the GraphQL API** — for quick/targeted edits.
+
+**Endpoint & auth:**
+```
+POST https://disabilitywiki.org/graphql
+Authorization: Bearer $WIKIJS_TOKEN
+Content-Type: application/json
+# Note: the WAF blocks default/script user-agents — send a normal browser User-Agent header.
+```
+
+**List pages (get id ↔ path):**
+```graphql
+{ pages { list(orderBy: PATH) { id path title isPublished } } }
+```
+
+**Read one page's content:**
+```graphql
+query($id:Int!){ pages { single(id:$id){ path title content description editor isPublished isPrivate locale tags{tag} scriptCss scriptJs } } }
+```
+
+**Update a page (must resend all these fields or they get cleared):**
+```graphql
+mutation($id:Int!,$content:String!,$description:String!,$editor:String!,$isPublished:Boolean!,$isPrivate:Boolean!,$locale:String!,$path:String!,$tags:[String]!,$title:String!,$scriptCss:String,$scriptJs:String){
+  pages { update(id:$id,content:$content,description:$description,editor:$editor,isPublished:$isPublished,isPrivate:$isPrivate,locale:$locale,path:$path,tags:$tags,title:$title,scriptCss:$scriptCss,scriptJs:$scriptJs){ responseResult{ succeeded message } } }
+}
+```
+
+**Force a Git pull after editing the repo (publishes immediately instead of waiting 5 min):**
+```graphql
+mutation { storage { executeAction(targetKey:"git", handler:"sync"){ responseResult{ succeeded message } } } }
+```
+
+---
+
 ## Notes for the auditor
-- The site runs **Wiki.js in pull-mode**: the markdown in this repo (`main`) is the source of truth — fixes can be made by editing the `.md` files and merging to `main` (Wiki.js pulls every 5 min).
+- The site runs **Wiki.js in pull-mode**: the markdown in this repo (`main`) is the source of truth — fixes can be made by editing the `.md` files and merging to `main` (Wiki.js pulls every 5 min, or force-sync via the API above).
 - Backups of every API-edited page are in `backups/pagereview-2026-06-05/` and `backups/linkfix-2026-06-04/` (gitignored) for diffing against originals.
 - Highest-value audit targets: **the Tier 1 numbers and legal/crisis claims.** Those are where a wrong AI fact does real harm.
