@@ -373,7 +373,7 @@ Questions cross into harassment when:
 - [Disability Identity and Visibility](/foundations/disability-identity)
 - [Why People Are Rude About Mobility Aids](/daily-living/mobility-aid-stigma)
 - [For Allies](/foundations/for-allies)
-- [Dating and Disclosure](/relationships/dating-disclosure)
+- [Dating and Disclosure](/relationships/dating-and-relationships)
 - [Disclosure to Teachers](/education/disclosure-to-teachers)
 
 ---

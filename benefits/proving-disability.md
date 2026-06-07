@@ -241,7 +241,7 @@ Until these underlying assumptions change, documentation burden will continue to
 - [US SSI Benefits](/benefits/us/ssi)
 - [Benefit Denials and Appeals](/benefits/benefit-denials-and-appeals)
 - [Workplace Accommodations](/employment/workplace-accommodations)
-- [Understanding Your Rights](/rights/understanding-your-rights)
+- [Understanding Your Rights](/rights/index)
 
 ---
 

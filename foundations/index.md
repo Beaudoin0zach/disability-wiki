@@ -24,7 +24,7 @@ Whether you're newly disabled, supporting someone who is, researching for profes
 
 ## Pages in This Section
 
-### [Welcome to DisabilityWiki](/foundations/welcome)
+### [Welcome to DisabilityWiki](/foundations/how-to-use-this-wiki)
 
 Your starting point. Learn how to navigate this resource, what accessibility features are available, and community guidelines for this space.
 

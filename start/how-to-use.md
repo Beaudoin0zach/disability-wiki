@@ -284,7 +284,7 @@ Most pages can be printed or saved as PDF:
 
 ### You're newly disabled:
 
-1. Read [Welcome to the Disability Wiki →](/foundations/welcome)
+1. Read [Welcome to the Disability Wiki →](/foundations/how-to-use-this-wiki)
 2. Read [What Is Disability? →](/foundations/what-is-disability)
 3. Search for specific disability or topic you need
 4. Explore [Community & Peer Support →](/community) to find peer support
@@ -340,7 +340,7 @@ A: No. This is informational education. For legal advice, consult a lawyer. [Fin
 A: No. For medical advice, consult your healthcare provider.
 
 **Q: Can I use this information elsewhere?**  
-A: Yes, under CC-BY-SA 4.0 license (you must credit us and share under the same license). [See About page →](/about)
+A: Yes, under CC-BY-SA 4.0 license (you must credit us and share under the same license). [See About page →](/home)
 
 **Q: Can I contribute?**  
 A: Yes! We need community perspectives. [Learn how to contribute →](/glossary/how-to-contribute)
@@ -359,7 +359,7 @@ A: Try searching or browse the relevant section. If you can't find it, [let us k
 → [Use the contribution form →](https://forms.gle/YJFxFGrK3cZs1VKi8) to report it
 
 **Accessibility problem?**  
-→ See [Accessibility Statement →](/about/accessibility) or [Contact Us →](/start/contact)
+→ See [Accessibility Statement →](/accessibility-statement) or [Contact Us →](/start/contact)
 
 **Want to contribute your knowledge?**  
 → [Learn how to contribute →](/glossary/how-to-contribute)

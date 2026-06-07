@@ -220,7 +220,7 @@ Disclosure in dating involves unique considerations:
 - What's your comfort with people knowing?
 - What are safety implications?
 
-**See also**: [Dating and Disclosure](/relationships/dating-disclosure)
+**See also**: [Dating and Disclosure](/relationships/dating-and-relationships)
 
 ### With Friends
 
@@ -467,7 +467,7 @@ Multiple marginalized identities affect disclosure:
 ## Related Pages
 
 - [Handling Inappropriate Questions](/foundations/handling-intrusive-questions)
-- [Dating and Disclosure](/relationships/dating-disclosure)
+- [Dating and Disclosure](/relationships/dating-and-relationships)
 - [Disclosure to Teachers](/education/disclosure-to-teachers)
 - [Workplace Accommodations](/employment/workplace-accommodations)
 - [Disability Identity and Visibility](/foundations/disability-identity)

@@ -513,7 +513,7 @@ These historical patterns show:
 
 This integration didn't disappear naturally. It was created as problem and "solved" through segregation during industrialization.
 
-[See Accommodations Throughout History →](/history/accommodations-history) for specific examples of how this worked.
+[See Accommodations Throughout History →](/history/accommodations) for specific examples of how this worked.
 
 ---
 
@@ -531,7 +531,7 @@ This is not romanticizing the past, but learning from what worked.
 
 ## Related Pages on DisabilityWiki
 
-- [Accommodations Throughout History →](/history/accommodations-history)
+- [Accommodations Throughout History →](/history/accommodations)
 - [Deaf History & Culture →](/history/deaf-history-culture)
 - [Disability Rights Movement →](/rights/history-of-disability-rights)
 - [Disability Culture →](/foundations/disability-culture)

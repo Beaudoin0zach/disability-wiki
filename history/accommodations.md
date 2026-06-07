@@ -642,7 +642,7 @@ Some communities today reclaim these principles:
 
 ## Related Pages on DisabilityWiki
 
-- [Pre-Industrial Disability →](/history/pre-industrial-disability)
+- [Pre-Industrial Disability →](/history/pre-industrial)
 - [Disability History →](/foundations/disability-culture)
 - [Deaf History & Culture →](/history/deaf-history-culture)
 - [Disability Rights Movement →](/rights/history-of-disability-rights)

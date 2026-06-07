@@ -208,7 +208,7 @@ Yes. The wiki is designed to work with all major screen readers.
 
 **If something doesn't work:** Tell us immediately. We treat accessibility bugs as urgent.
 
-- [[/about/accessibility|Full Accessibility Statement]]
+- [[/accessibility-statement|Full Accessibility Statement]]
 - [[/about/contact|Report an accessibility problem]]
 
 ---
