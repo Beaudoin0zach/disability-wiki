@@ -38,6 +38,8 @@ These English pages were corrected this session (commits `8fa5f04`, `1f98057`) a
 - ⬜ `es/education/k12-education.md` — same CRPD signing≠ratifying caveat
 - ⬜ `es/benefits/index.md` — 2026 figures ($994/$1,690); one-vehicle exclusion; DAC age-22 clarification
 - ⬜ `es/benefits/poverty-and-benefits-trap.md` — 2026 SSI base; 1972/1989 reconciliation; inflation/proposed-limit correction
+- ⬜ `es/rights/filing-a-disability-complaint.md` — IDEA deadlines (state 1yr / due process 2yr) + OCR=§504/Title-II not IDEA; SoL table
+- ⬜ `es/rights/international-rights.md` — CRPD ">190 ratified/acceded" count fix
 
 ---
 
