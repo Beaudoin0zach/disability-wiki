@@ -477,7 +477,7 @@ Some users need both magnification and screen reading:
 
 - [Browsers and Assistive Tech](/tech/browsers-assistive-tech)
 - [Web Accessibility](/tech/web-accessibility)
-- [Digital Accessibility Beyond Checklists](/tech/real-world-accessibility)
+- [Digital Accessibility Beyond Checklists](/tech/digital-disability-justice)
 - [Mobile and OS Accessibility](/tech/mobile-and-os-accessibility)
 - [Communication Access and AAC](/tech/communication-access-and-aac)
 

@@ -12,7 +12,7 @@ dateCreated: 2026-01-11T19:41:46.293Z
 
 All disabled people have the right to healthcare that respects their knowledge about their own bodies. This page centers disabled people's expertise and draws on survival strategies that disabled communities have developed for navigating healthcare systems that too often cause harm.
 
-This page focuses on practical recognition, healing, and advocacy. For deeper analysis of why these patterns happen, see [Understanding Medical Bias](/healthcare/understanding-medical-bias).
+This page focuses on practical recognition, healing, and advocacy. For deeper analysis of why these patterns happen, see [Understanding Medical Bias](/healthcare/medical-bias).
 
 ---
 
@@ -123,7 +123,7 @@ Notice when you:
 
 **Multiple provider dismissal:** When provider after provider says it's psychological. This can happen because conditions are hard to diagnose—or because each provider sees the previous dismissal and assumes it was warranted. Pattern repetition doesn't make it accurate.
 
-For deeper analysis of why these patterns happen systemically, see [Understanding Medical Bias](/healthcare/understanding-medical-bias).
+For deeper analysis of why these patterns happen systemically, see [Understanding Medical Bias](/healthcare/medical-bias).
 
 ---
 
@@ -486,7 +486,7 @@ Share through our [contribution form](/glossary/how-to-contribute).
 
 ## Related Pages
 
-- [Understanding Medical Bias](/healthcare/understanding-medical-bias) — Why medical dismissal happens systemically
+- [Understanding Medical Bias](/healthcare/medical-bias) — Why medical dismissal happens systemically
 - [Healthcare Rights](/healthcare/healthcare-rights) — Your legal rights in medical settings
 - [Accessible Healthcare](/healthcare/accessible-healthcare) — Finding providers who work
 - [Advocacy and Self-Advocacy](/rights/advocacy-and-self-advocacy) — Building advocacy skills

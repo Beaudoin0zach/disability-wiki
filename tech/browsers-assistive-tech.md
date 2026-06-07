@@ -435,7 +435,7 @@ Some privacy-focused browsers may have fewer accessibility features or testing:
 ## Related Pages
 
 - [Screen Reader Comparison](/tech/screen-reader-comparison)
-- [Digital Accessibility Beyond Checklists](/tech/real-world-accessibility)
+- [Digital Accessibility Beyond Checklists](/tech/digital-disability-justice)
 - [Web Accessibility](/tech/web-accessibility)
 - [Mobile and OS Accessibility](/tech/mobile-and-os-accessibility)
 
