@@ -6,10 +6,13 @@ description: >-
   translate, localize, or create a Spanish version of any wiki page or section —
   e.g. "translate the housing pages to Spanish", "add an es version of
   benefits/us/ssi", "localize the crisis section", or "make a Spanish page for
-  X". Handles the es/ file layout, /es/ link rewriting, frontmatter, the
-  project's Spanish glossary and style rules, and flags source-accuracy issues.
+  X". ALSO covers SYNCING an existing es/ page after its English source changed —
+  e.g. "sync the Spanish pages to the audit fixes", "the es/ crisis pages are
+  stale", "propagate the English corrections to es/". Handles the es/ file layout,
+  /es/ link rewriting, frontmatter, the project's Spanish glossary and style
+  rules, the canonical boilerplate blocks, and flags source-accuracy issues.
   Trigger even if the user doesn't say "Wiki.js" or name this skill, as long as
-  they're translating this repo's content to Spanish.
+  they're translating or syncing this repo's content to Spanish.
 ---
 
 # Spanish Wiki Translation
@@ -28,6 +31,8 @@ how the same mistakes get repeated across hundreds of pages:
   locale mechanics, and the accuracy-vs-translation split. **Read this first.**
 - `references/glossary.md` — required term translations and Spanish style rules
   drawn from a native-speaker review. **Apply every rule here.**
+- `references/canonical-blocks.md` — paste-verbatim Spanish boilerplate (crisis
+  "Información importante" + footer blocks). Read before any **sync** task.
 
 ## Workflow for one page
 
@@ -46,6 +51,39 @@ how the same mistakes get repeated across hundreds of pages:
    prefixed.
 7. **Validate**: run `scripts/check_translation.py es/<path>.md` and resolve any
    warnings.
+
+## Workflow for syncing an already-translated page
+
+When the English source changed *after* the `es/` page was translated (an audit, a
+correction, a content edit), do NOT re-translate from scratch — **surgically apply
+the same changes** to the existing Spanish page so unrelated prose stays stable.
+
+1. **Get the diff — it is the spec.** The English change is usually a git commit:
+   `git show <sha> -- <path>` (or `git log -p -- <path>`). Read exactly what lines
+   changed; that delta, translated, is your entire edit set. Don't reprocess
+   untouched sections. (Heads-up: `es/` is **untracked** in git, so you can't
+   `git diff` the Spanish — the English commit is your only source of truth for
+   what's stale.)
+2. **Map each English hunk to the Spanish page** and Edit it in place — numbers,
+   org names, hours, hedged wording. Keep acronyms/org names/phone numbers exactly
+   as English (per `glossary.md`).
+3. **Use the canonical blocks.** Standardized footers and the crisis
+   "Información importante" block have fixed Spanish forms — paste them from
+   `references/canonical-blocks.md` rather than re-improvising. This is where the
+   old blanket "todos los servicios son gratuitos/confidenciales/24-7" and false
+   "verificados a través de fuentes oficiales" lines get replaced.
+4. **Check leaf vs. index.** A corrected number on a country/leaf page may also
+   appear on an aggregator index page (e.g. `crisis/crisis-hotlines/asian-pacific.md`).
+   Before "fixing" an index number, confirm it's actually the same service —
+   a similar-looking number can be a *different, valid* line (the Thailand "1300"
+   on the index is the Baan Kredtrakarn child-abuse line, not the obsolete
+   Samaritans number). Sync the index only where it genuinely mirrors the leaf.
+5. **Stay faithful — still flag, never edit English.** If the English diff itself
+   looks wrong, apply it faithfully to Spanish and flag the English (see below).
+   Don't let a sync become a place where the two locales silently diverge.
+6. **Validate** every touched file: `scripts/check_translation.py es/<path>.md`.
+7. **Record the sync** in `docs/translation-source-accuracy-flags.md` (mark the
+   page synced + note the English commit) so the parity state stays auditable.
 
 ## Accuracy is a separate pass — flag, never edit English
 
