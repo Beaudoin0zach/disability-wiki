@@ -1,6 +1,6 @@
 ---
 title: Healthcare
-description: 
+description: This was a duplicate page; its previous content is preserved in the site's git history and local backups.
 published: true
 date: 2026-06-05T20:18:23.614Z
 tags: 

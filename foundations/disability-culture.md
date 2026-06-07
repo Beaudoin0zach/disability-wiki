@@ -1,6 +1,6 @@
 ---
 title: Disability Culture
-description: All disabled people have the right to community, identity, and cultural expression. This page centers disabled people's expertise on what disability culture…
+description: Disability culture is real. It encompasses shared history, art, humor, language, values, and ways of being that emerge from living as disabled people in an ableist world.
 published: true
 date: 2026-06-05T20:33:59.030Z
 tags: 

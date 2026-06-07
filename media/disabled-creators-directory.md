@@ -1,6 +1,6 @@
 ---
 title: Disabled Creators Directory
-description: A directory of disabled artists, writers, musicians, filmmakers, performers, and creators across all media. This page helps you discover and support disabled…
+description: A directory of disabled artists, writers, musicians, filmmakers, performers, and creators across all media.
 published: true
 date: 2026-06-05T20:20:44.291Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Handling Inappropriate and Intrusive Questions
-description: Disabled people are treated as public property—strangers ask questions they'd never ask non-disabled people. This page offers strategies for responding to…
+description: Disabled people are treated as public property—strangers ask questions they'd never ask non-disabled people.
 published: true
 date: 2026-06-05T20:34:12.679Z
 tags: 

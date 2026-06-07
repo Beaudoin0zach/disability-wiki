@@ -1,6 +1,6 @@
 ---
 title: Eugenics and Institutionalization (1880–1945)
-description: All disabled people have the right to life (CRPD Article 10), freedom from torture and cruel treatment (Article 15), and freedom from exploitation, violence…
+description: Between the late 19th and mid-20th centuries, eugenics and institutionalization became dominant global systems for controlling, segregating, and erasing disabled people.
 published: true
 date: 2026-06-05T20:37:00.113Z
 tags: 

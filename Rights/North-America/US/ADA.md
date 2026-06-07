@@ -1,6 +1,6 @@
 ---
 title: Americans with Disabilties Act (ADA)
-description: 
+description: Americans with Disabilties Act (ADA): guidance, rights, and resources for the disability community.
 published: true
 date: 2026-06-05T20:18:10.275Z
 tags: 

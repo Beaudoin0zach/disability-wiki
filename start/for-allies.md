@@ -1,6 +1,6 @@
 ---
 title: For Allies
-description: 
+description: For Allies: guidance, rights, and resources for the disability community.
 published: true
 date: 2026-06-05T20:17:55.698Z
 tags: 

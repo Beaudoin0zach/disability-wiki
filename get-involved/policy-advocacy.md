@@ -1,6 +1,6 @@
 ---
 title: Policy Advocacy
-description: All disabled people have the right to participate in political and public life on an equal basis with others, as affirmed by Article 29 of the UN Convention…
+description: Policy advocacy focuses on changing laws, regulations, funding structures, and government programs.
 published: true
 date: 2026-06-05T20:34:34.437Z
 tags: 

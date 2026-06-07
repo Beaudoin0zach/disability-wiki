@@ -1,6 +1,6 @@
 ---
 title: Disability Rights Overview
-description: 
+description: Disability Rights Overview: guidance, rights, and resources for the disability community.
 published: true
 date: 2026-06-05T20:18:19.268Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: ADA History
-description: All disabled people have the right to equality and non-discrimination (CRPD Article 5). The Americans with Disabilities Act of 1990 was the world's first…
+description: The Americans with Disabilities Act of 1990 was the world's first comprehensive civil rights law for disabled people—and it was won through decades…
 published: true
 date: 2026-06-05T20:36:37.357Z
 tags: 

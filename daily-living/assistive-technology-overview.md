@@ -1,6 +1,6 @@
 ---
 title: Assistive Technology Overview
-description: Assistive technology (AT) is any tool, device, software, or adaptation that helps a disabled person do something. This could be a cane, a wheelchair, a…
+description: Assistive technology (AT) is any tool, device, software, or adaptation that helps a disabled person do something.
 published: true
 date: 2026-06-05T20:32:15.614Z
 tags: 

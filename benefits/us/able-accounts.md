@@ -1,6 +1,6 @@
 ---
 title: ABLE Accounts (U.S.)
-description: ABLE accounts are special savings accounts for certain disabled people that:
+description: They are meant to help disabled people build some financial stability without losing critical benefits.
 published: true
 date: 2026-06-05T20:27:40.120Z
 tags: 

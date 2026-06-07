@@ -1,6 +1,6 @@
 ---
 title: Parenting with a Disability
-description: Disabled people have the same right to have and raise children as anyone else. This page centers disabled parents' experiences and expertise, provides…
+description: Disabled people have the same right to have and raise children as anyone else.
 published: true
 date: 2026-06-05T20:22:18.686Z
 tags: 

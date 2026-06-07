@@ -1,6 +1,6 @@
 ---
 title: Public Transit Rights
-description: All disabled people have the right to accessible public transportation. The UN Convention on the Rights of Persons with Disabilities (CRPD) Article 9…
+description: The UN Convention on the Rights of Persons with Disabilities (CRPD) Article 9 requires accessible transportation systems that enable independent living…
 published: true
 date: 2026-06-05T20:24:55.055Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: What Does Violence Look Like: A Visual & Practical Guide
-description: What this page covers: Concrete descriptions of what violence against disabled people looks like—visible and invisible, obvious and subtle, in intimate…
+description: If this is heavy for you right now, Crisis Resources is here. You can bookmark this and come back when you're ready. Violence is often invisible.
 published: true
 date: 2026-06-05T20:30:04.809Z
 tags: 

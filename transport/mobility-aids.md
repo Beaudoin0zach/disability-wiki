@@ -1,6 +1,6 @@
 ---
 title: Mobility Aids
-description: Mobility aids are tools that help people move through the world. This page centers disabled people's expertise in choosing, obtaining, and using mobility…
+description: Mobility aids are tools that help people move through the world.
 published: true
 date: 2026-06-05T20:24:45.822Z
 tags: 

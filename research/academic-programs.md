@@ -1,6 +1,6 @@
 ---
 title: Academic Programs
-description: All disabled people have the right to education on an equal basis with others, including access to higher education and lifelong learning, as affirmed by…
+description: This page describes academic programs, training opportunities, and educational pathways focused on disability studies, inclusive research, and related fields.
 published: true
 date: 2026-06-05T20:22:33.037Z
 tags: 

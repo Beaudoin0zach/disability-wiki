@@ -1,6 +1,6 @@
 ---
 title: Medical Gaslighting and Healthcare Trauma
-description: All disabled people have the right to healthcare that respects their knowledge about their own bodies. This page centers disabled people's expertise and…
+description: This page focuses on practical recognition, healing, and advocacy. For deeper analysis of why these patterns happen, see Understanding Medical Bias.
 published: true
 date: 2026-06-05T20:36:08.500Z
 tags: 

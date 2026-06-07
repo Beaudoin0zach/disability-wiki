@@ -1,6 +1,6 @@
 ---
 title: Transition to Adulthood
-description: All disabled young people have the right to become adults with full participation in society. The UN Convention on the Rights of Persons with Disabilities…
+description: All disabled young people have the right to become adults with full participation in society.
 published: true
 date: 2026-06-05T20:33:32.259Z
 tags: 

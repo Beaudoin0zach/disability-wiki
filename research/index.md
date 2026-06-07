@@ -1,6 +1,6 @@
 ---
 title: Research Index
-description: All disabled people have the right to participate in cultural, recreational, and public life, including research and knowledge production, as affirmed by…
+description: This section centers disabled people's expertise and is informed by the principle that research about disability should involve and benefit disabled communities.
 published: true
 date: 2026-06-05T20:22:55.016Z
 tags: 

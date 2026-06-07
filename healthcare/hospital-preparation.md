@@ -1,6 +1,6 @@
 ---
 title: Preparing for the Hospital as a Disabled Person
-description: All disabled people have the right to healthcare that accommodates their access needs and respects their autonomy. This page centers disabled people's…
+description: Hospitals are designed for speed, efficiency, and normative bodies—not for disabled patients with complex needs, communication differences, mobility equipment, or trauma histories.
 published: true
 date: 2026-06-05T20:35:33.748Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Abuse, Safety, and Consent
-description: Disabled people experience abuse at significantly higher rates than non-disabled people. This isn't because of disability itself—it's because systems and…
+description: Disabled people experience abuse at significantly higher rates than non-disabled people.
 published: true
 date: 2026-06-05T20:22:03.329Z
 tags: 

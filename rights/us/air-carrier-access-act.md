@@ -1,6 +1,6 @@
 ---
 title: Air Carrier Access Act
-description: The Air Carrier Access Act (ACAA) is a federal law that prohibits discrimination against passengers with disabilities by airlines. Enacted in 1986, it…
+description: The Air Carrier Access Act (ACAA) is a federal law that prohibits discrimination against passengers with disabilities by airlines.
 published: true
 date: 2026-06-05T20:23:37.534Z
 tags: 

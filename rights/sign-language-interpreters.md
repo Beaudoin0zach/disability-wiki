@@ -1,6 +1,6 @@
 ---
 title: Why Sign Language Interpreters Are Needed (Even When "Alternatives" Exist)
-description: All Deaf and Hard of Hearing people have the right to effective communication in their preferred language. This page centers disabled people's expertise and…
+description: Healthcare providers, employers, educators, and public services routinely deny sign language interpreter requests, offering written notes, lip-reading,…
 published: true
 date: 2026-06-05T20:25:57.798Z
 tags: 

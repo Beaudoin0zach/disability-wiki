@@ -1,6 +1,6 @@
 ---
 title: Adult and Continuing Education
-description: Adult and continuing education includes learning opportunities for people beyond traditional school settings. This includes community college, trade schools…
+description: Adult and continuing education includes learning opportunities for people beyond traditional school settings.
 published: true
 date: 2026-06-05T20:33:10.203Z
 tags: 

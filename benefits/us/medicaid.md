@@ -1,6 +1,6 @@
 ---
 title: Medicaid (U.S.)
-description: Medicaid is a joint federal-state program that provides health coverage to:
+description: Because eligibility categories and income limits change, always check your state’s Medicaid agency or a local navigator.
 published: true
 date: 2026-06-05T20:27:52.025Z
 tags: 

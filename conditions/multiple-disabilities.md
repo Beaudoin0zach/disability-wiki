@@ -1,6 +1,6 @@
 ---
 title: Multiple Disabilities
-description: All people deserve support that addresses their full, complex selves — not just one diagnosis at a time. This page centers the expertise of people living…
+description: Many disabled people have more than one disability. Systems often treat conditions separately, but real people experience them together.
 published: true
 date: 2026-06-05T20:29:21.209Z
 tags: 

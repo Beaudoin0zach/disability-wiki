@@ -1,6 +1,6 @@
 ---
 title: Deaf History & Culture
-description: Deaf history is disability community history. The Deaf community is the oldest, most visible, most culturally developed disability community. Understanding…
+description: Deaf history is disability community history. The Deaf community is the oldest, most visible, most culturally developed disability community.
 published: true
 date: 2026-06-05T20:36:41.858Z
 tags: 

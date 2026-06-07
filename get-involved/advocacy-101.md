@@ -1,6 +1,6 @@
 ---
 title: Advocacy 101
-description: All disabled people have the right to participate in political and public life, including through advocacy and self-representation. This page centers…
+description: Advocacy means speaking, acting, or organizing to influence decisions about disability rights, services, community supports, or cultural attitudes.
 published: true
 date: 2026-06-05T20:34:22.260Z
 tags: 

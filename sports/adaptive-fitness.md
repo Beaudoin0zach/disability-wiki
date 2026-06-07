@@ -1,6 +1,6 @@
 ---
 title: Adaptive Fitness & Recreation
-description: Fitness and recreation beyond competitive sports—gym accessibility, adaptive exercise equipment, workout modifications, and recreational activities for…
+description: Fitness and recreation beyond competitive sports—gym accessibility, adaptive exercise equipment, workout modifications, and recreational activities…
 published: true
 date: 2026-06-05T20:25:43.435Z
 tags: 

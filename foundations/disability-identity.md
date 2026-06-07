@@ -1,6 +1,6 @@
 ---
 title: Disability Identity and Visibility
-description: What does it mean to be disabled? When do you "count"? Who decides? These questions come up whether you're newly diagnosed, self-identified, questioning, or…
+description: What does it mean to be disabled? When do you "count"? Who decides?
 published: true
 date: 2026-06-05T20:34:03.445Z
 tags: 

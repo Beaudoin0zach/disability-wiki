@@ -1,6 +1,6 @@
 ---
 title: Wheelchair Sports
-description: Sports designed for or adapted for wheelchair users—from recreational play to Paralympic competition. This page covers major wheelchair sports, how they…
+description: Sports designed for or adapted for wheelchair users—from recreational play to Paralympic competition. The most widely played wheelchair sport globally.
 published: true
 date: 2026-06-05T20:25:25.319Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: History of Disability Rights
-description: The fight for disability rights is a global movement built by disabled people who demanded recognition of their humanity, autonomy, and equal place in…
+description: The fight for disability rights is a global movement built by disabled people who demanded recognition of their humanity, autonomy, and equal place in society.
 published: true
 date: 2026-06-05T20:23:14.184Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Pre-Industrial Disability
-description: For most of human history, disabled people were integrated into their communities. Different societies had different approaches, but the general pattern was…
+description: For most of human history, disabled people were integrated into their communities.
 published: true
 date: 2026-06-05T20:37:27.677Z
 tags: 

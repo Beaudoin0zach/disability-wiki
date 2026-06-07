@@ -1,6 +1,6 @@
 ---
 title: Mast Cell Activation Syndrome (MCAS)
-description: All disabled people have the right to the highest attainable standard of health without discrimination. This page centers disabled people's expertise and is…
+description: Mast Cell Activation Syndrome (MCAS) is a condition where your mast cells—immune cells found throughout your body—release their chemicals (including…
 published: true
 date: 2026-06-05T20:29:16.492Z
 tags: 

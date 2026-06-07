@@ -1,6 +1,6 @@
 ---
 title: When Doctors Don't Believe You: Navigating Medical Dismissal
-description: All disabled people have the right to healthcare that respects their dignity, autonomy, and expertise about their own bodies. This page centers disabled…
+description: Medical dismissal—sometimes called "medical gaslighting"—occurs when healthcare providers discount, minimize, or refuse to investigate a patient's symptoms.
 published: true
 date: 2026-06-05T20:35:57.647Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Air Travel Rights
-description: Disabled people have the right to fly. Air travel with a disability can be challenging, but laws protect your rights to accessible air travel. Knowing your…
+description: Disabled people have the right to fly. Air travel with a disability can be challenging, but laws protect your rights to accessible air travel.
 published: true
 date: 2026-06-05T20:24:31.894Z
 tags: 

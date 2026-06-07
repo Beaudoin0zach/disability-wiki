@@ -1,6 +1,6 @@
 ---
 title: Finding Legal Aid
-description: Legal help is often available for free or low cost if you're pursuing disability rights violations. This page helps you find lawyers, legal aid…
+description: Legal help is often available for free or low cost if you're pursuing disability rights violations.
 published: true
 date: 2026-06-05T20:38:53.663Z
 tags: 

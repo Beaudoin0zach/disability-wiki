@@ -1,6 +1,6 @@
 ---
 title: Accessible Protest Guide
-description: All disabled people have the right to freedom of peaceful assembly, as affirmed by Article 21 of the UN Convention on the Rights of Persons with…
+description: Disabled people have always been central to protest movements—blocking inaccessible buses, crawling up Capitol steps, occupying institutions, and leading…
 published: true
 date: 2026-06-05T20:34:17.485Z
 tags: 

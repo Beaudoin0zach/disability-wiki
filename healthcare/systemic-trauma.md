@@ -1,6 +1,6 @@
 ---
 title: Trauma From Systems, Not Conditions
-description: Disabled people are often traumatized—but not by their disabilities. They're traumatized by the systems meant to help them. This page distinguishes…
+description: Disabled people are often traumatized—but not by their disabilities. They're traumatized by the systems meant to help them.
 published: true
 date: 2026-06-05T20:36:23.114Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Pets and Service Animals
-description: Pets and service animals are foundational to many disabled people's lives—they provide practical assistance, emotional support, companionship, and purpose. A…
+description: Pets and service animals are foundational to many disabled people's lives—they provide practical assistance, emotional support, companionship, and purpose.
 published: true
 date: 2026-06-05T20:32:55.030Z
 tags: 

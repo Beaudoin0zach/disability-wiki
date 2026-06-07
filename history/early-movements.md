@@ -1,6 +1,6 @@
 ---
 title: Early Disability Movements (1800–1960)
-description: All disabled people have the right to full participation in political and public life (CRPD Article 29) and the right to participate in cultural life…
+description: Before the modern disability rights era, disabled people around the world built communities, organizations, schools, mutual aid networks, and resistance…
 published: true
 date: 2026-06-05T20:36:55.672Z
 tags: 

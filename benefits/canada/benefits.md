@@ -1,6 +1,6 @@
 ---
 title: Disability Benefits – Canada
-description: Canada has a mix of federal and provincial/territorial disability benefits. This page gives a high-level overview and invites deeper, province-specific…
+description: Canada has a mix of federal and provincial/territorial disability benefits.
 published: true
 date: 2026-06-05T20:27:03.526Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Disability Communities on Discord
-description: All disabled people have the right to community, peer support, and spaces where they can connect with others who share their experiences. This page centers…
+description: However, Reddit is also a space where ableism, misinformation, and harmful narratives are common.
 published: true
 date: 2026-06-05T20:28:30.626Z
 tags: 

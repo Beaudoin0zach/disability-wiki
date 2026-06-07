@@ -1,6 +1,6 @@
 ---
 title: Resources for Public Officials Working With Disabled Constituents
-description: Disabled people make up at least 15-20% of every community. Decisions you make—about zoning, emergency planning, public meetings, constituent services, and…
+description: Disabled people make up at least 15-20% of every community.
 published: true
 date: 2026-06-05T20:26:02.402Z
 tags: 

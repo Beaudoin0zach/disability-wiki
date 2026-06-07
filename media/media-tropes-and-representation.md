@@ -1,6 +1,6 @@
 ---
 title: Media Tropes And Representation
-description: Analysis of harmful disability tropes in media and what good representation looks like. Understanding these patterns helps identify ableism and advocate for…
+description: Analysis of harmful disability tropes in media and what good representation looks like.
 published: true
 date: 2026-06-05T20:20:58.581Z
 tags: 

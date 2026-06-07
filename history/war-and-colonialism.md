@@ -1,6 +1,6 @@
 ---
 title: Disability, War, and Colonialism (1500–1960)
-description: All disabled people have the right to freedom from exploitation, violence, and abuse (CRPD Article 16) and the right to health without discrimination…
+description: War and colonialism produced mass disability, reshaped how societies understood disabled people, and imposed new systems of control across continents.
 published: true
 date: 2026-06-05T20:37:33.455Z
 tags: 

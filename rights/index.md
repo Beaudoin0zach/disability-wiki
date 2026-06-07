@@ -1,6 +1,6 @@
 ---
 title: Rights & Laws
-description: Disability rights exist. They're not charity or accommodation—they're legal protections and human rights that you have, whether you know about them or not…
+description: Disability rights exist. They're not charity or accommodation—they're legal protections and human rights that you have, whether you know about them or not.
 published: true
 date: 2026-06-05T20:23:18.918Z
 tags: 

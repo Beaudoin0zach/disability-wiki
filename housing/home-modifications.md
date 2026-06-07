@@ -1,6 +1,6 @@
 ---
 title: Home Modifications
-description: Making your home physically accessible is often essential to living independently. Whether you own your home, rent, or live in supported housing…
+description: Making your home physically accessible is often essential to living independently.
 published: true
 date: 2026-06-05T20:37:57.361Z
 tags: 

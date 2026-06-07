@@ -1,6 +1,6 @@
 ---
 title: International Disability Rights
-description: All disabled people have inherent dignity and equal rights under international law. This page centers disabled people's expertise and is informed by decades…
+description: The CRPD is the primary international human rights treaty protecting disabled people's rights.
 published: true
 date: 2026-06-05T20:23:23.303Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Screen Reader Comparison Guide
-description: Screen readers turn visual interfaces into audio and braille output. This page compares major screen readers to help you choose what works for your needs…
+description: Screen readers turn visual interfaces into audio and braille output.
 published: true
 date: 2026-06-05T20:26:16.732Z
 tags: 

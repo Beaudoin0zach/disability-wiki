@@ -1,6 +1,6 @@
 ---
 title: Psychiatric And Psychosocial Disability
-description: All people have the right to the highest attainable standard of mental health and to live free from discrimination based on psychiatric diagnosis or mental…
+description: Psychiatric and psychosocial disabilities include mental health conditions that significantly impact daily life.
 published: true
 date: 2026-06-05T20:29:40.114Z
 tags: 

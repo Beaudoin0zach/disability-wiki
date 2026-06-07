@@ -1,6 +1,6 @@
 ---
 title: Glossary & Contribution
-description: This section provides definitions, terminology, and information on how to contribute to the Disability Wiki. Terms are explained in plain language from a…
+description: This section provides definitions, terminology, and information on how to contribute to the Disability Wiki.
 published: true
 date: 2026-06-05T20:35:10.018Z
 tags: 

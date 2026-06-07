@@ -1,6 +1,6 @@
 ---
 title: Crisis Hotlines in India
-description: If this is overwhelming right now, you can just call the number below. You don't have to read everything.
+description: If you're in crisis right now, you're not alone. Most services listed are free, but cost and hours vary by service — check each one.
 published: true
 date: 2026-06-05T20:30:43.402Z
 tags: 

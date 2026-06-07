@@ -1,6 +1,6 @@
 ---
 title: Special Olympics
-description: The Special Olympics movement provides year-round sports training and competition for people with intellectual disabilities. Distinct from the Paralympics…
+description: The Special Olympics movement provides year-round sports training and competition for people with intellectual disabilities.
 published: true
 date: 2026-06-05T20:25:38.777Z
 tags: 

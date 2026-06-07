@@ -1,6 +1,6 @@
 ---
 title: Example: Statement vs. Vote Template
-description: Source: Press Release, [DATE] Archived: [Archive.org link will go here]
+description: Example: Statement vs. Vote Template: guidance, rights, and resources for the disability community.
 published: true
 date: 2026-06-05T20:26:48.129Z
 tags: 

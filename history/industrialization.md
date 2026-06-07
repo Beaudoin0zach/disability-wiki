@@ -1,6 +1,6 @@
 ---
 title: Industrialization & the Birth of Ableism (1750–1900)
-description: All disabled people have a right to be recognized as persons before the law on an equal basis with others (CRPD Article 12) and to work on an equal basis…
+description: Understanding how industrialization created modern ableism—the idea that some bodies and minds are "normal" and others are "defective"—helps explain why…
 published: true
 date: 2026-06-05T20:37:18.298Z
 tags: 

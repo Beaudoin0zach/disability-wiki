@@ -1,6 +1,6 @@
 ---
 title: North American Crisis Hotlines
-description: Help is available immediately, confidentially, and without judgment.
+description: If you're in crisis right now, you're not alone. This page connects you to crisis resources across North America. Most states have local crisis lines.
 published: true
 date: 2026-06-05T20:31:10.193Z
 tags: 

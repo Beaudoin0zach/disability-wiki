@@ -1,6 +1,6 @@
 ---
 title: The Disability Rights Movement
-description: All disabled people have the right to equality before the law (CRPD Article 5) and to full participation in political and public life (Article 29). The…
+description: The disability rights movement transformed how the world understands disability—from a medical problem to be fixed into a civil rights issue demanding equal access and inclusion.
 published: true
 date: 2026-06-05T20:36:51.273Z
 tags: 

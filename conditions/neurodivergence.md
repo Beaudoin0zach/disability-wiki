@@ -1,6 +1,6 @@
 ---
 title: Neurodivergence
-description: All people have the right to education, employment, and full participation in society regardless of how their brains work. This page centers the expertise of…
+description: Neurodivergence describes brains that work differently from what society considers "typical." This includes autism, ADHD, dyslexia, and many other neurological variations.
 published: true
 date: 2026-06-05T20:29:25.526Z
 tags: 

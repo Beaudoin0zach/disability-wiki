@@ -1,6 +1,6 @@
 ---
 title: Disability Communities on Reddit
-description: All disabled people have the right to community, peer support, and spaces where they can connect with others who share their experiences. This page centers…
+description: The platforms's structure—upvoting/downvoting, pseudonymity, minimal accountability—can amplify both the best and worst of online community.
 published: true
 date: 2026-06-05T20:28:39.590Z
 tags: 

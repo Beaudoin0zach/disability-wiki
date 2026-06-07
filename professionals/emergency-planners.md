@@ -1,6 +1,6 @@
 ---
 title: Emergency Planners
-description: All disabled people have the right to protection and safety in situations of risk, including armed conflict, humanitarian emergencies, and natural disasters…
+description: Disabled people die disproportionately in disasters. Hurricane Katrina killed those over 60 at rates vastly disproportionate to their share of the population.
 published: true
 date: 2026-06-05T20:21:33.065Z
 tags: 

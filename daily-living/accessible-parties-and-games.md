@@ -1,6 +1,6 @@
 ---
 title: Accessible Parties and Games
-description: All disabled people have the right to participate in cultural life, recreation, and leisure activities on an equal basis with others. This page centers…
+description: Social isolation is one of the most significant and least-discussed impacts of disability.
 published: true
 date: 2026-06-05T20:32:05.389Z
 tags: 

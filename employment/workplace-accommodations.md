@@ -1,6 +1,6 @@
 ---
 title: Workplace Accommodations
-description: Workplace accommodations are adjustments to jobs, work environments, or work practices that enable disabled people to do their jobs. They're a legal right in…
+description: Workplace accommodations are adjustments to jobs, work environments, or work practices that enable disabled people to do their jobs.
 published: true
 date: 2026-06-05T20:33:54.797Z
 tags: 

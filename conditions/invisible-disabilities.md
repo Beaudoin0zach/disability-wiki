@@ -1,6 +1,6 @@
 ---
 title: Invisible Disabilities
-description: All disabled people have the right to accommodations and support, regardless of whether their disabilities are apparent to others. This page centers the…
+description: Invisible disabilities — also called non-visible, non-apparent, or hidden disabilities — are conditions that significantly impact daily life but aren't…
 published: true
 date: 2026-06-05T20:29:07.700Z
 tags: 

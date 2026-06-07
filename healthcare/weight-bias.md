@@ -1,6 +1,6 @@
 ---
 title: Weight Bias and Disability
-description: Fat disabled people face compounded discrimination. Weight bias in healthcare leads to missed diagnoses, delayed treatment, and worse outcomes. This page…
+description: Fat disabled people face compounded discrimination. Weight bias in healthcare leads to missed diagnoses, delayed treatment, and worse outcomes.
 published: true
 date: 2026-06-05T20:36:27.918Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Rare Diseases
-description: All people with rare diseases deserve accurate diagnosis, effective treatment, and access to knowledgeable care — regardless of how uncommon their condition…
+description: A rare disease is typically defined as affecting fewer than 200,000 people in the United States (or similar thresholds in other countries).
 published: true
 date: 2026-06-05T20:29:44.965Z
 tags: 

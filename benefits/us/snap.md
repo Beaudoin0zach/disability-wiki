@@ -1,6 +1,6 @@
 ---
 title: SNAP – Food Assistance (U.S.)
-description: SNAP (Supplemental Nutrition Assistance Program) is a federal program that provides monthly food benefits:
+description: For many disabled people, SNAP is a core part of survival. Exact rules and benefit amounts vary by state and change over time.
 published: true
 date: 2026-06-05T20:28:01.005Z
 tags: 

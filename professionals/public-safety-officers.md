@@ -1,6 +1,6 @@
 ---
 title: Public Safety Officers
-description: All disabled people have the right to liberty and security of person, equal protection under the law, and freedom from torture and cruel, inhuman, or…
+description: Disabled people are significantly overrepresented in use-of-force incidents and police killings.
 published: true
 date: 2026-06-05T20:21:52.856Z
 tags: 

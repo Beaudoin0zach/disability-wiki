@@ -1,6 +1,6 @@
 ---
 title: Fashion, Beauty, and Adaptive Wear
-description: Fashion and beauty aren't frivolous. They're expressions of identity, culture, and self-determination. For disabled people, choosing what to wear, how to…
+description: Fashion and beauty aren't frivolous. They're expressions of identity, culture, and self-determination.
 published: true
 date: 2026-06-05T20:32:34.129Z
 tags: 

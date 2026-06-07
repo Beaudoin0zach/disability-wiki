@@ -1,6 +1,6 @@
 ---
 title: Youth and Student Communities
-description: Disabled youth and students face specific barriers and opportunities. School, college, and the transition to adulthood can be incredibly challenging for…
+description: Disabled youth and students face specific barriers and opportunities.
 published: true
 date: 2026-06-05T20:28:43.902Z
 tags: 

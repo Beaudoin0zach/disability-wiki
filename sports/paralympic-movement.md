@@ -1,6 +1,6 @@
 ---
 title: The Paralympic Movement
-description: The Paralympic Games are the world's third-largest sporting event, showcasing elite disabled athletes across dozens of sports. This page covers Paralympic…
+description: The Paralympic Games are the world's third-largest sporting event, showcasing elite disabled athletes across dozens of sports.
 published: true
 date: 2026-06-05T20:25:15.731Z
 tags: 

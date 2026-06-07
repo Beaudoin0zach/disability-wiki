@@ -1,6 +1,6 @@
 ---
 title: Crisis Hotlines in Australia
-description: If this is overwhelming right now, you can just call the number below. You don't have to read everything.
+description: If you're in crisis right now, you're not alone. Most services are free (Lifeline's 13 11 14 call, text, and chat are free), but this varies by service — check each one.
 published: true
 date: 2026-06-05T20:30:39.103Z
 tags: 

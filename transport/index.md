@@ -1,6 +1,6 @@
 ---
 title: Transportation & Mobility
-description: Getting around is essential to independence, employment, education, and community participation. Yet many disabled people face barriers: inaccessible…
+description: Getting around is essential to independence, employment, education, and community participation.
 published: true
 date: 2026-06-05T20:24:41.225Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Blind & Low Vision Sports
-description: Sports adapted for blind and visually impaired athletes—from goalball (designed specifically for blind players) to adapted versions of mainstream sports…
+description: Sports adapted for blind and visually impaired athletes—from goalball (designed specifically for blind players) to adapted versions of mainstream sports.
 published: true
 date: 2026-06-05T20:25:34.423Z
 tags: 

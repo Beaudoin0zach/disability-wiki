@@ -1,6 +1,6 @@
 ---
 title: Healthcare Rights for Disabled People
-description: All disabled people have the right to accessible, respectful, and effective healthcare. This page centers disabled people's experiences navigating healthcare…
+description: Article 25 establishes that disabled people have the right to the highest attainable standard of health without discrimination.
 published: true
 date: 2026-06-05T20:35:23.610Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: For Allies
-description: All disabled people have the right to support that centers our autonomy, dignity, and leadership. This page is informed by what disabled people have said…
+description: The best way to be an ally is to listen to disabled people. You want to support disabled people. That's good—and how you do it matters.
 published: true
 date: 2026-06-05T20:34:07.842Z
 tags: 

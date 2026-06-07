@@ -1,6 +1,6 @@
 ---
 title: Personal Care
-description: Personal care is basic: bathing, toileting, grooming, and managing menstruation or incontinence. These are fundamental needs, not luxuries. Yet for many…
+description: Personal care is basic: bathing, toileting, grooming, and managing menstruation or incontinence. These are fundamental needs, not luxuries.
 published: true
 date: 2026-06-05T20:32:50.732Z
 tags: 

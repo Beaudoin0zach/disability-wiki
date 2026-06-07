@@ -1,6 +1,6 @@
 ---
 title: Institutionalization and Deinstitutionalization
-description: All disabled people have the right to live independently and be included in the community, with choices equal to others (CRPD Article 19). For over a…
+description: For over a century, millions of disabled people were confined in institutions against their will.
 published: true
 date: 2026-06-05T20:37:23.216Z
 tags: 

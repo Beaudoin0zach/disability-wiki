@@ -1,6 +1,6 @@
 ---
 title: Disability in Media History
-description: All disabled people have the right to participate in cultural life on an equal basis (CRPD Article 30). How disabled people have been represented—and…
+description: How disabled people have been represented—and misrepresented—in media shapes public attitudes, policy, and how disabled people see themselves.
 published: true
 date: 2026-06-05T20:36:46.733Z
 tags: 

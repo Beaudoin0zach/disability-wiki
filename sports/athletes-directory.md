@@ -1,6 +1,6 @@
 ---
 title: Disabled Athletes Directory
-description: Celebrating disabled athletes across sports, eras, and disability types—Paralympians, Deaflympians, professional athletes, and pioneers who changed what the…
+description: Celebrating disabled athletes across sports, eras, and disability types—Paralympians, Deaflympians, professional athletes, and pioneers who changed what…
 published: true
 date: 2026-06-05T20:25:48.180Z
 tags: 

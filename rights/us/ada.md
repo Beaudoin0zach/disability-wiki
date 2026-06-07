@@ -1,6 +1,6 @@
 ---
 title: Americans with Disabilities Act (ADA)
-description: All disabled people have the right to live free from discrimination and to participate fully in society. The Americans with Disabilities Act (ADA) is the…
+description: The Americans with Disabilities Act (ADA) is the primary U.S. federal civil rights law protecting disabled people from discrimination.
 published: true
 date: 2026-06-05T20:25:53.128Z
 tags: 

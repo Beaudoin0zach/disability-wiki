@@ -1,6 +1,6 @@
 ---
 title: Living Alone With a Disability
-description: All disabled people have the right to live independently in the community with supports they choose. This page centers disabled people's expertise and is…
+description: Many disabled people live alone—by choice, circumstance, or necessity. Living alone offers privacy, autonomy, and control over one's environment.
 published: true
 date: 2026-06-05T20:32:38.475Z
 tags: 

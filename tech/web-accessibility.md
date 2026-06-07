@@ -1,6 +1,6 @@
 ---
 title: Web Accessibility
-description: Web accessibility is about making websites and web apps usable by as many people as possible, including:
+description: It’s more than “checking a box” for compliance. It’s about whether disabled people can actually participate.
 published: true
 date: 2026-06-05T20:24:27.684Z
 tags: 

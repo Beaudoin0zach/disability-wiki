@@ -1,6 +1,6 @@
 ---
 title: Architects And Designers
-description: All disabled people have the right to access the physical environment, transportation, information, and communications on an equal basis with others. This…
+description: The built environment shapes who can participate in society. Stairs exclude wheelchair users. Poor lighting excludes people with low vision.
 published: true
 date: 2026-06-05T20:21:23.136Z
 tags: 

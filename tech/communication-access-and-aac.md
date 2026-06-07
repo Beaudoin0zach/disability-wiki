@@ -1,6 +1,6 @@
 ---
 title: Communication Access & AAC
-description: Communication is more than speech. Many disabled people use:
+description: This page focuses on technology’s role in communication access.
 published: true
 date: 2026-06-05T20:23:41.911Z
 tags: 

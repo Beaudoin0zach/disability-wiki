@@ -1,6 +1,6 @@
 ---
 title: Ehlers-Danlos Syndromes (EDS)
-description: All disabled people have the right to the highest attainable standard of health without discrimination. This page centers disabled people's expertise and is…
+description: Ehlers-Danlos syndromes are a group of connective tissue disorders that affect how your body builds and maintains the structure that holds you together—your connective tissue.
 published: true
 date: 2026-06-05T20:28:53.665Z
 tags: 

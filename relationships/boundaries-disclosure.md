@@ -1,6 +1,6 @@
 ---
 title: Social Boundaries and Disclosure
-description: Disabled people navigate constant decisions about what to share, with whom, and when. This page offers frameworks for thinking about disability disclosure…
+description: Disabled people navigate constant decisions about what to share, with whom, and when.
 published: true
 date: 2026-06-05T20:26:11.926Z
 tags: 

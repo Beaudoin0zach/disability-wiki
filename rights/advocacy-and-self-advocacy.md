@@ -1,6 +1,6 @@
 ---
 title: Advocacy and Self-Advocacy
-description: All disabled people have the right to speak for themselves and participate in decisions affecting their lives. This page centers disabled people's expertise…
+description: Advocacy means speaking up—for yourself, for others, or for change.
 published: true
 date: 2026-06-05T20:23:04.199Z
 tags: 

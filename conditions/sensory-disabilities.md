@@ -1,6 +1,6 @@
 ---
 title: Sensory Disabilities
-description: All disabled people have the right to access information and communication in accessible formats. This page centers the expertise of people with sensory…
+description: Sensory disabilities affect how people perceive and process sensory information — primarily sight and hearing, but also touch, proprioception, and other senses.
 published: true
 date: 2026-06-05T20:29:49.843Z
 tags: 

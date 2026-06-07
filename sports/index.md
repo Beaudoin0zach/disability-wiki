@@ -1,6 +1,6 @@
 ---
 title: Sports Index
-description: Disabled athletes compete at every level—from recreational leagues to the Paralympic Games. This section covers adaptive sports, Paralympic history, how to…
+description: Disabled athletes compete at every level—from recreational leagues to the Paralympic Games.
 published: true
 date: 2026-06-05T20:25:11.342Z
 tags: 

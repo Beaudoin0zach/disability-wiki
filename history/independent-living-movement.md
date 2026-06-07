@@ -1,6 +1,6 @@
 ---
 title: The Independent Living Movement (1960s–1980s)
-description: All disabled people have the right to live independently and be included in the community (CRPD Article 19) and the right to personal mobility with greatest…
+description: The Independent Living Movement transformed disability from a medical issue into a civil rights and community liberation issue.
 published: true
 date: 2026-06-05T20:37:10.038Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Accessible Housing Search Guide
-description: Finding accessible housing is one of the most practical but frustrating challenges disabled people face globally. Housing markets don't automatically label…
+description: Finding accessible housing is one of the most practical but frustrating challenges disabled people face globally.
 published: true
 date: 2026-06-05T20:37:42.424Z
 tags: 

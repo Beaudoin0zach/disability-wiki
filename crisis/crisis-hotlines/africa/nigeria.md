@@ -1,6 +1,6 @@
 ---
 title: Crisis Hotlines in Nigeria
-description: If this is overwhelming right now, you can just call the number below. You don't have to read everything.
+description: Confidential. Police only involved if immediate danger. Many people use crisis services multiple times. That's normal.
 published: true
 date: 2026-06-05T20:30:25.819Z
 tags: 

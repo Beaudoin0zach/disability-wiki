@@ -1,6 +1,6 @@
 ---
 title: Exercise and Adaptive Sports
-description: Movement, physical activity, and sports are for everyone—including disabled people. Disabled people can exercise, play sports, move our bodies, and…
+description: Movement, physical activity, and sports are for everyone—including disabled people.
 published: true
 date: 2026-06-05T20:32:29.224Z
 tags: 

@@ -68,3 +68,4 @@ node_modules/
 # still keep local settings/secrets and transient workspaces out
 .claude/settings.local.json
 .claude/skill-workspaces/
+description_fix_report.txt

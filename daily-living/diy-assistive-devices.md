@@ -1,6 +1,6 @@
 ---
 title: DIY and Homemade Assistive Devices
-description: All disabled people have the right to the tools and equipment that support their independence. This page centers disabled people's expertise and is informed…
+description: Disabled people have always adapted, modified, and created tools that work for them. This is adaptive engineering under constraint, not novelty crafts.
 published: true
 date: 2026-06-05T20:32:24.711Z
 tags: 

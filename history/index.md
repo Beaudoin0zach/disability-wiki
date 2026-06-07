@@ -1,6 +1,6 @@
 ---
 title: History of Disability
-description: All disabled people have the right to recognition before the law (CRPD Article 12) and to full participation in political and public life (Article 29)…
+description: Understanding disability history helps explain why these rights remain contested—and how disabled people have always organized for justice.
 published: true
 date: 2026-06-05T20:37:14.292Z
 tags: 

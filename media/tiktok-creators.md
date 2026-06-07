@@ -1,6 +1,6 @@
 ---
 title: Tiktok Creators
-description: Disabled creators building community and awareness on TikTok. This list centers disabled people sharing their own experiences, education, humor, and daily…
+description: Disabled creators building community and awareness on TikTok.
 published: true
 date: 2026-06-05T20:21:09.196Z
 tags: 

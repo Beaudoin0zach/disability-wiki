@@ -1,6 +1,6 @@
 ---
 title: In-Person Community
-description: While online communities are vital, in-person disability community—gathering in physical spaces with other disabled people—provides unique connection…
+description: While online communities are vital, in-person disability community—gathering in physical spaces with other disabled people—provides unique connection, support, and power.
 published: true
 date: 2026-06-05T20:28:26.057Z
 tags: 

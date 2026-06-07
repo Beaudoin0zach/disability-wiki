@@ -1,6 +1,6 @@
 ---
 title: Disability Benefits – Australia
-description: Australia has a mix of income support, disability-specific schemes, and state/territory services. This page offers a high-level map and invites Australians…
+description: Australia has a mix of income support, disability-specific schemes, and state/territory services.
 published: true
 date: 2026-06-05T20:26:55.120Z
 tags: 

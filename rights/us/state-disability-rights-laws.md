@@ -1,6 +1,6 @@
 ---
 title: State Disability Rights Laws
-description: While federal laws like the ADA, Section 504, and the Fair Housing Act provide important baseline protections, many states have disability rights laws that…
+description: While federal laws like the ADA, Section 504, and the Fair Housing Act provide important baseline protections, many states have disability rights laws that go further.
 published: true
 date: 2026-06-05T20:24:14.991Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Understanding Medical Bias
-description: All disabled people have the right to the highest attainable standard of health, including being believed about their own bodies and experiences. This page…
+description: For practical strategies, see Medical Gaslighting and Healthcare Trauma.
 published: true
 date: 2026-06-05T20:35:52.663Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: K-12 Education
-description: All disabled children have the right to education. The UN Convention on the Rights of Persons with Disabilities (CRPD) Article 24 affirms the right to…
+description: All disabled children have the right to education.
 published: true
 date: 2026-06-05T20:33:27.580Z
 tags: 

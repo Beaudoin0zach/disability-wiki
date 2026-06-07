@@ -1,6 +1,6 @@
 ---
 title: Which Browsers Work Best With Assistive Technology
-description: Your browser choice affects how well your assistive technology works. This page shares what disabled users have learned about browser-AT compatibility…
+description: Your browser choice affects how well your assistive technology works.
 published: true
 date: 2026-06-05T20:26:21.050Z
 tags: 

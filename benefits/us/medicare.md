@@ -1,6 +1,6 @@
 ---
 title: Medicare
-description: Medicare is federal health insurance primarily for people age 65+, but also available to some younger disabled people. This page explains Medicare in plain…
+description: Medicare is federal health insurance primarily for people age 65+, but also available to some younger disabled people.
 published: true
 date: 2026-06-05T20:27:56.378Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Indigenous Disability Perspectives
-description: Have lived experience or expertise that could strengthen this page? We especially welcome perspectives on models not well represented here, including those…
+description: Indigenous Disability Perspectives: guidance, rights, and resources for the disability community.
 published: true
 date: 2026-06-05T20:38:44.714Z
 tags: 

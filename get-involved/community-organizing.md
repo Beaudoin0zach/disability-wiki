@@ -1,6 +1,6 @@
 ---
 title: Community Organizing
-description: All disabled people have the right to organize and participate in associations concerned with public and political life, as affirmed by Article 29 of the UN…
+description: Community organizing builds collective power to make change.
 published: true
 date: 2026-06-05T20:34:26.205Z
 tags: 

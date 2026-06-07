@@ -1,6 +1,6 @@
 ---
 title: Benefit Denials & Appeals
-description: For many disabled people, being denied the first time is not the end of the story – it’s almost part of the process. This page is about:
+description: Because laws differ by country, this page uses general principles and should be expanded with country-specific sections.
 published: true
 date: 2026-06-05T20:26:59.152Z
 tags: 

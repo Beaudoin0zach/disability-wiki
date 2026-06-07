@@ -1,6 +1,6 @@
 ---
 title: How To Interpret Disability Data
-description: All States Parties to the UN Convention on the Rights of Persons with Disabilities commit to using collected information to help assess implementation of…
+description: Statistics and data about disability can be powerful tools for advocacy and policy change—but only if interpreted carefully, with attention to context…
 published: true
 date: 2026-06-05T20:22:50.517Z
 tags: 

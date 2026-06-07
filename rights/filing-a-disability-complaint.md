@@ -1,6 +1,6 @@
 ---
 title: Filing a Disability Complaint
-description: 2. Try Internal Process First (Usually)
+description: If your disability rights are violated, you have options to file complaints. Have lived experience or expertise that could strengthen this page?
 published: true
 date: 2026-06-05T20:38:48.724Z
 tags: 

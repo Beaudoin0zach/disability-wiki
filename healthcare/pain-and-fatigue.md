@@ -1,6 +1,6 @@
 ---
 title: Pain and Fatigue
-description: Chronic pain and fatigue affect millions of disabled people. They're often invisible, frequently dismissed, and deeply impact daily life. Living with pain…
+description: Chronic pain and fatigue affect millions of disabled people. They're often invisible, frequently dismissed, and deeply impact daily life.
 published: true
 date: 2026-06-05T20:36:18.421Z
 tags: 

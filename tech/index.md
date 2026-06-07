@@ -1,6 +1,6 @@
 ---
 title: Technology & Digital Access
-description: The digital world should be accessible to everyone. Yet many websites, apps, and digital services exclude disabled people. This section covers digital…
+description: The digital world should be accessible to everyone. Yet many websites, apps, and digital services exclude disabled people.
 published: true
 date: 2026-06-05T20:24:10.382Z
 tags: 

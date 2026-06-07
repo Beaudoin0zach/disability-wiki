@@ -1,6 +1,6 @@
 ---
 title: Healthcare & Access
-description: Accessing healthcare as a disabled person is often complicated. This section provides practical guidance on finding accessible healthcare, navigating…
+description: Accessing healthcare as a disabled person is often complicated.
 published: true
 date: 2026-06-05T20:35:38.259Z
 tags: 

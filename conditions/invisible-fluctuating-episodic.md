@@ -1,6 +1,6 @@
 ---
 title: Invisible, Fluctuating, and Episodic Disabilities
-description: All disabled people have the right to support and accommodations regardless of whether their disabilities are visible or constant. This page centers disabled…
+description: Systems designed around disability typically assume impairments are visible, constant, and stable. They aren't.
 published: true
 date: 2026-06-05T20:29:12.417Z
 tags: 

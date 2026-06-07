@@ -1,6 +1,6 @@
 ---
 title: Gender And Disability
-description: Have lived experience or expertise that could strengthen this page? We especially welcome perspectives on models not well represented here, including those…
+description: Have lived experience or expertise that could strengthen this page?
 published: true
 date: 2026-06-05T20:38:28.668Z
 tags: 

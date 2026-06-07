@@ -1,6 +1,6 @@
 ---
 title: Crisis Hotlines in Kenya
-description: If this is overwhelming right now, you can just call the number below. You don't have to read everything.
+description: If you're in crisis right now, you're not alone. Confidential. Police only involved if immediate danger. Many people use crisis services multiple times.
 published: true
 date: 2026-06-05T20:30:21.251Z
 tags: 

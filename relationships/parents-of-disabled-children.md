@@ -1,6 +1,6 @@
 ---
 title: Parents of Disabled Children
-description: This page provides guidance for parents raising disabled children, centering the well-being of disabled children and grounding advice in what disabled adults…
+description: The best guidance for raising disabled children comes from disabled adults who can reflect on their childhoods.
 published: true
 date: 2026-06-05T20:22:23.566Z
 tags: 

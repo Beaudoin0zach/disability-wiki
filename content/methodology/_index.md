@@ -1,6 +1,6 @@
 ---
 title: Methodology
-description: This site documents publicly available statements and actions by New York's 23rd Congressional District representative using official government records and…
+description: This site documents publicly available statements and actions by New York's 23rd Congressional District representative using official government records and archived sources.
 published: true
 date: 2026-06-05T20:26:51.509Z
 tags: 

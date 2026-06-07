@@ -1,6 +1,6 @@
 ---
 title: Global Overview of Disability Rights
-description: Disabled people worldwide share common experiences of discrimination and common aspirations for equality, dignity, and full participation in society. This…
+description: Disabled people worldwide share common experiences of discrimination and common aspirations for equality, dignity, and full participation in society.
 published: true
 date: 2026-06-05T20:23:09.225Z
 tags: 

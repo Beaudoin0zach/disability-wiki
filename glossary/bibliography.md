@@ -1,6 +1,6 @@
 ---
 title: Bibliography
-description: This bibliography compiles sources used throughout DisabilityWiki. It is organized by topic and includes international frameworks, disability-led…
+description: This bibliography compiles sources used throughout DisabilityWiki.
 published: true
 date: 2026-06-05T20:34:51.163Z
 tags: 

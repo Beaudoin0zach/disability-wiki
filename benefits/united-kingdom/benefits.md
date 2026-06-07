@@ -1,6 +1,6 @@
 ---
 title: Disability Benefits – United Kingdom
-description: The UK disability benefit system includes national programs that interact with housing support, employment, and health services. This page gives a high-level…
+description: The UK disability benefit system includes national programs that interact with housing support, employment, and health services.
 published: true
 date: 2026-06-05T20:27:36.400Z
 tags: 

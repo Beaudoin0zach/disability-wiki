@@ -1,6 +1,6 @@
 ---
 title: Caregiving
-description: This page addresses caregiving from multiple perspectives: disabled people receiving care, family members providing care, and the broader systems that shape…
+description: We center disabled people's autonomy and expertise while acknowledging the realities caregivers face.
 published: true
 date: 2026-06-05T20:22:08.629Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Physical Disabilities
-description: All disabled people have the right to live independently and be included in the community, with access to mobility aids, personal assistance, and accessible…
+description: Physical disabilities affect movement, mobility, strength, coordination, or physical function.
 published: true
 date: 2026-06-05T20:29:30.095Z
 tags: 

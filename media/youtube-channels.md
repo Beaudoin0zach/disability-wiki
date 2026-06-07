@@ -1,6 +1,6 @@
 ---
 title: Youtube Channels
-description: Disabled content creators on YouTube covering lifestyle, advocacy, education, comedy, vlogs, and more. This list centers disabled creators telling their own…
+description: Disabled content creators on YouTube covering lifestyle, advocacy, education, comedy, vlogs, and more.
 published: true
 date: 2026-06-05T20:21:18.280Z
 tags: 

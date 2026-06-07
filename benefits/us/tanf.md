@@ -1,6 +1,6 @@
 ---
 title: TANF – Cash Assistance for Families (U.S.)
-description: TANF is a federal-state cash assistance program for very low-income families with children. It is:
+description: Disabled parents and disabled children may be affected in specific ways.
 published: true
 date: 2026-06-05T20:28:17.790Z
 tags: 

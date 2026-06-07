@@ -1,6 +1,6 @@
 ---
 title: Intersectionality Index
-description: Disability doesn't exist in isolation. We are simultaneously disabled and part of other communities. Intersectionality means understanding how disability…
+description: Disability doesn't exist in isolation. We are simultaneously disabled and part of other communities.
 published: true
 date: 2026-06-05T20:38:40.023Z
 tags: 

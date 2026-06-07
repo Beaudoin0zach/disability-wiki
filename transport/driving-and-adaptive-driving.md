@@ -1,6 +1,6 @@
 ---
 title: Driving and Adaptive Driving
-description: Driving can provide significant independence for disabled people. This page covers the process of learning to drive or continuing to drive with a disability…
+description: Driving can provide significant independence for disabled people. No two drivers are the same.
 published: true
 date: 2026-06-05T20:24:36.434Z
 tags: 

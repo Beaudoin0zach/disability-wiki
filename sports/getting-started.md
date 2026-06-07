@@ -1,6 +1,6 @@
 ---
 title: Getting Started in Adaptive Sports
-description: Whether you're newly disabled, returning to sports after injury, or trying athletics for the first time, this guide helps you find programs, equipment…
+description: Whether you're newly disabled, returning to sports after injury, or trying athletics for the first time, this guide helps you find programs, equipment, funding, and community.
 published: true
 date: 2026-06-05T20:25:20.541Z
 tags: 

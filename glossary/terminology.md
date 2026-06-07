@@ -1,6 +1,6 @@
 ---
 title: Terminology
-description: This glossary page defines important terms and concepts used across the wiki. It is not a dictionary of general vocabulary, but a curated list of terms that…
+description: This glossary page defines important terms and concepts used across the wiki.
 published: true
 date: 2026-06-05T20:35:14.780Z
 tags: 

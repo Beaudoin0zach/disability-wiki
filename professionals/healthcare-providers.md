@@ -1,6 +1,6 @@
 ---
 title: Healthcare Providers
-description: All disabled people have the right to the highest attainable standard of health without discrimination on the basis of disability. This page centers disabled…
+description: Disabled people experience significant health disparities—not because of their disabilities, but because of healthcare systems designed without them in mind.
 published: true
 date: 2026-06-05T20:21:43.597Z
 tags: 

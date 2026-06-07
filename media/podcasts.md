@@ -1,6 +1,6 @@
 ---
 title: Podcasts
-description: Podcasts by and for disabled people covering news, culture, storytelling, advocacy, humor, and specific disability communities. This list centers disabled…
+description: Podcasts by and for disabled people covering news, culture, storytelling, advocacy, humor, and specific disability communities.
 published: true
 date: 2026-06-05T20:21:04.309Z
 tags: 

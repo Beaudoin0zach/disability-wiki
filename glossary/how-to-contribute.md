@@ -1,6 +1,6 @@
 ---
 title: How to Contribute
-description: We’re glad you’re interested in contributing! Here’s how the contribution process works for this wiki:
+description: Thank you for helping build this resource! Your voice—especially if you have lived experience—matters.
 published: true
 date: 2026-06-05T20:35:05.786Z
 tags: 

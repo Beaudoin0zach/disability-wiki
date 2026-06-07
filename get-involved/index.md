@@ -1,6 +1,6 @@
 ---
 title: Get Involved Index
-description: All disabled people have the right to participate fully in political and public life, as affirmed by Article 29 of the UN Convention on the Rights of Persons…
+description: This section centers disabled people's expertise in building movements for change and is informed by disabled-led organizing globally.
 published: true
 date: 2026-06-05T20:34:30.249Z
 tags: 

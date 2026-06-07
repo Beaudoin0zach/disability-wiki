@@ -1,6 +1,6 @@
 ---
 title: Independent Living Philosophy and Centers
-description: Independent Living (IL) is a disability rights philosophy and social movement centered on disabled people's self-determination, autonomy, and community…
+description: Independent Living (IL) is a disability rights philosophy and social movement centered on disabled people's self-determination, autonomy, and community participation.
 published: true
 date: 2026-06-05T20:38:07.155Z
 tags: 

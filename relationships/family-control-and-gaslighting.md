@@ -1,6 +1,6 @@
 ---
 title: Family Control and Gaslighting
-description: Some disabled people face controlling, manipulative, or abusive family dynamics. Families may use disability as justification for control, hide abuse behind…
+description: Some disabled people face controlling, manipulative, or abusive family dynamics.
 published: true
 date: 2026-06-05T20:25:06.000Z
 tags: 

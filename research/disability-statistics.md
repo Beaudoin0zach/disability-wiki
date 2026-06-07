@@ -1,6 +1,6 @@
 ---
 title: Disability Statistics
-description: All States Parties to the UN Convention on the Rights of Persons with Disabilities commit to collecting appropriate information, including statistical and…
+description: Reliable statistics are fundamental to understanding disability prevalence, disparities, access gaps, and unmet needs.
 published: true
 date: 2026-06-05T20:22:41.473Z
 tags: 

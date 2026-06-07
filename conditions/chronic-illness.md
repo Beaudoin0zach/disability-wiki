@@ -1,6 +1,6 @@
 ---
 title: Chronic Illness
-description: All disabled people have the right to the highest attainable standard of health and to live free from discrimination based on disability status. This page…
+description: Chronic illness refers to health conditions that persist over time — typically defined as lasting a year or more and requiring ongoing management.
 published: true
 date: 2026-06-05T20:28:48.994Z
 tags: 

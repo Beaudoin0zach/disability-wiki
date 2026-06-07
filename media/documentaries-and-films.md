@@ -1,6 +1,6 @@
 ---
 title: Documentaries And Films
-description: Documentaries about disability history, culture, and lived experience, plus feature films with authentic disability representation. This list centers…
+description: Documentaries about disability history, culture, and lived experience, plus feature films with authentic disability representation.
 published: true
 date: 2026-06-05T20:20:49.371Z
 tags: 

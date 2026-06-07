@@ -1,6 +1,6 @@
 ---
 title: History of Accommodations
-description: This page documents specific, concrete accommodations disabled people have used and communities have provided across history. It directly addresses…
+description: This page documents specific, concrete accommodations disabled people have used and communities have provided across history.
 published: true
 date: 2026-06-05T20:36:32.657Z
 tags: 

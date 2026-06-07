@@ -1,6 +1,6 @@
 ---
 title: Social Media Accessibility
-description: Social media can connect disabled people across distance, language, and isolation. It can also shut people out through:
+description: This page focuses on practical ways to make posts, accounts, and campaigns more accessible.
 published: true
 date: 2026-06-05T20:24:23.895Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Editorial & Style Guidelines
-description: This page outlines the editorial standards for content in this wiki. Following these guidelines helps us maintain a consistent, high-quality, inclusive…
+description: This page outlines the editorial standards for content in this wiki.
 published: true
 date: 2026-06-05T20:35:00.063Z
 tags: 

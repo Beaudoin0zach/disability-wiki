@@ -1,6 +1,6 @@
 ---
 title: Tv Shows
-description: Television series featuring disabled characters and creators. This list highlights authentic casting, disabled writers and showrunners, and shows that center…
+description: Television series featuring disabled characters and creators.
 published: true
 date: 2026-06-05T20:21:13.522Z
 tags: 

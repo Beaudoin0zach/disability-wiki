@@ -1,6 +1,6 @@
 ---
 title: Disabled-Led Crisis Support
-description: Many disabled and mad people have had harmful experiences with mainstream crisis systems—police wellness checks, forced hospitalization, or services that…
+description: Many disabled and mad people have had harmful experiences with mainstream crisis systems—police wellness checks, forced hospitalization, or services that ignore disability.
 published: true
 date: 2026-06-05T20:31:41.960Z
 tags: 

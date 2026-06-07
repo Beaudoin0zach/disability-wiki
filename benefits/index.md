@@ -1,6 +1,6 @@
 ---
 title: Money & Benefits – Overview
-description: Disability costs money. Medical care, assistive technology, accessibility modifications, reduced work capacity, and discrimination all create financial…
+description: Disability costs money. Medical care, assistive technology, accessibility modifications, reduced work capacity, and discrimination all create financial hardship.
 published: true
 date: 2026-06-05T20:27:15.633Z
 tags: 

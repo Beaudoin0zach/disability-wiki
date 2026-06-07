@@ -1,6 +1,6 @@
 ---
 title: Employers And HR
-description: All disabled people have the right to work on an equal basis with others, with equal pay, safe working conditions, and protection from harassment. This page…
+description: Disabled people are significantly underrepresented in the workforce—not because they can't work, but because of hiring discrimination, inaccessible…
 published: true
 date: 2026-06-05T20:21:38.229Z
 tags: 

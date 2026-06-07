@@ -1,6 +1,6 @@
 ---
 title: African Crisis Hotlines
-description: Help is available immediately, confidentially, and without judgment.
+description: If you're in crisis right now, you're not alone. This page connects you to crisis resources across Africa.
 published: true
 date: 2026-06-05T20:30:16.368Z
 tags: 

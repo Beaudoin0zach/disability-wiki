@@ -1,6 +1,6 @@
 ---
 title: Dating and Relationships
-description: Disabled people have the same desires for connection, intimacy, and partnership as anyone else. This page centers disabled people's experiences navigating…
+description: Disabled people have the same desires for connection, intimacy, and partnership as anyone else.
 published: true
 date: 2026-06-05T20:22:13.587Z
 tags: 

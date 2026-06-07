@@ -1,6 +1,6 @@
 ---
 title: Books
-description: All disabled people deserve to see themselves reflected in literature—not as objects of pity or inspiration, but as complex humans living full lives. This…
+description: This list centers disabled authors and authentic representation.
 published: true
 date: 2026-06-05T20:20:33.391Z
 tags: 

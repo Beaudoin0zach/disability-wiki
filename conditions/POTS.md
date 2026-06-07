@@ -1,6 +1,6 @@
 ---
 title: Postural Orthostatic Tachycardia Syndrome (POTS)
-description: All disabled people have the right to the highest attainable standard of health without discrimination. This page centers disabled people's expertise and is…
+description: POTS is a form of dysautonomia that causes your heart rate to increase excessively when you stand up—often by 30 beats per minute or more.
 published: true
 date: 2026-06-05T20:29:35.063Z
 tags: 

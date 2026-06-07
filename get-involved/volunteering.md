@@ -1,6 +1,6 @@
 ---
 title: Volunteering
-description: All disabled people have the right to participate in cultural life, recreation, and community activities on an equal basis with others, as affirmed by…
+description: Disabled people and allies support disability justice and rights movements through many forms of volunteering.
 published: true
 date: 2026-06-05T20:34:42.837Z
 tags: 

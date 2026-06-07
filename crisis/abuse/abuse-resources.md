@@ -1,6 +1,6 @@
 ---
 title: Abuse & Violence Resources
-description: United States: 1-800-799-7233 (24/7, free, confidential) Canada: 911 or local domestic violence hotline UK: 0808 2000 247 (24/7, free, confidential)…
+description: If you're experiencing abuse or violence right now, you're not alone.
 published: true
 date: 2026-06-05T20:29:54.907Z
 tags: 

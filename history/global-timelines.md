@@ -1,6 +1,6 @@
 ---
 title: Global Disability History Timelines
-description: All disabled people have the right to recognition before the law (CRPD Article 12) and to full participation in political and public life (Article 29)…
+description: Disability history is global history—disabled people on every continent have organized, resisted, and shaped their societies.
 published: true
 date: 2026-06-05T20:37:04.998Z
 tags: 

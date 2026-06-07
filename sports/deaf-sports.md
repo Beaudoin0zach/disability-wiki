@@ -1,6 +1,6 @@
 ---
 title: Deaf Sports
-description: Deaf athletes have their own rich sporting tradition separate from the Paralympic movement. The Deaflympics, founded in 1924, predates both the Paralympics…
+description: Deaf athletes have their own rich sporting tradition separate from the Paralympic movement.
 published: true
 date: 2026-06-05T20:25:30.097Z
 tags: 

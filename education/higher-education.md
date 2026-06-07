@@ -1,6 +1,6 @@
 ---
 title: Higher Education
-description: All disabled people have the right to education on an equal basis with others. The UN Convention on the Rights of Persons with Disabilities (CRPD) Article 24…
+description: The UN Convention on the Rights of Persons with Disabilities (CRPD) Article 24 requires that disabled people can access higher education without…
 published: true
 date: 2026-06-05T20:33:23.438Z
 tags: 

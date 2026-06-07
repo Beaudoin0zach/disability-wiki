@@ -1,6 +1,6 @@
 ---
 title: State Disability & Related Benefits (U.S.)
-description: In addition to federal programs (SSDI, SSI, SNAP, Medicaid, etc.), many U.S. states and territories have their own disability-related benefits and supports…
+description: This page is a map and placeholder. It is meant to be built out by people who live in each state.
 published: true
 date: 2026-06-05T20:28:13.897Z
 tags: 

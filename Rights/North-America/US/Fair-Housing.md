@@ -1,6 +1,6 @@
 ---
 title: Fair Housing Act
-description: 
+description: Fair Housing Act: guidance, rights, and resources for the disability community.
 published: true
 date: 2026-06-05T20:18:14.902Z
 tags: 

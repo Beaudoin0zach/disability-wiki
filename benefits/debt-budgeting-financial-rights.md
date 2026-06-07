@@ -1,6 +1,6 @@
 ---
 title: Debt, Budgeting & Financial Rights
-description: Many disabled people end up in debt or financial crisis because:
+description: Some disabled people prefer to think of budgeting as resource mapping instead of “being more disciplined.” Systems are often the problem.
 published: true
 date: 2026-06-05T20:27:07.698Z
 tags: 

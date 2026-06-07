@@ -1,6 +1,6 @@
 ---
 title: Professionals Index
-description: All disabled people have the right to access services, employment, education, healthcare, housing, and community participation on an equal basis with others…
+description: This section centers disabled people's expertise to help professionals provide genuinely respectful, effective, person-centered service that goes beyond minimum legal compliance.
 published: true
 date: 2026-06-05T20:21:48.412Z
 tags: 

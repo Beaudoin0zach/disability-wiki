@@ -1,6 +1,6 @@
 ---
 title: Intellectual And Developmental Disability
-description: All people have the right to make decisions about their own lives, to be included in community, and to receive support that respects their autonomy and…
+description: Intellectual and developmental disabilities (IDD) include conditions present from birth or early childhood that affect cognitive development, adaptive skills, or both.
 published: true
 date: 2026-06-05T20:29:02.703Z
 tags: 

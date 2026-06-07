@@ -1,6 +1,6 @@
 ---
 title: International Housing Rights
-description: Housing is recognized globally as a fundamental human right for disabled people. Yet implementation varies dramatically across countries and regions. This…
+description: Housing is recognized globally as a fundamental human right for disabled people. Yet implementation varies dramatically across countries and regions.
 published: true
 date: 2026-06-05T20:38:16.125Z
 tags: 

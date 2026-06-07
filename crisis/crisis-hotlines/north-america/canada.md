@@ -1,6 +1,6 @@
 ---
 title: Crisis Hotlines in Canada
-description: If this is overwhelming right now, you can just call the number below. You don't have to read everything.
+description: If you're in crisis right now, you're not alone. Counselors are trained to help. Your words don't need to be perfect.
 published: true
 date: 2026-06-05T20:31:15.070Z
 tags: 

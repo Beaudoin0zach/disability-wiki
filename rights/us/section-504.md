@@ -1,6 +1,6 @@
 ---
 title: Section 504 of the Rehabilitation Act
-description: Section 504 is a federal civil rights law that prohibits discrimination against disabled people by any program or activity receiving federal funding. Enacted…
+description: Section 504 is a federal civil rights law that prohibits discrimination against disabled people by any program or activity receiving federal funding.
 published: true
 date: 2026-06-05T20:24:05.253Z
 tags: 

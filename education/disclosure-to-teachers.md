@@ -1,6 +1,6 @@
 ---
 title: Explaining Your Disability to a Teacher
-description: Telling a teacher about your disability is a strategic decision. This page helps students think through when, how, and how much to disclose—and how to…
+description: Telling a teacher about your disability is a strategic decision.
 published: true
 date: 2026-06-05T20:33:14.841Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Managing Medications in an Inaccessible World
-description: Medication management assumes you have perfect memory, steady hands, consistent energy, and a predictable schedule. Most disabled people don't have all of…
+description: Medication management assumes you have perfect memory, steady hands, consistent energy, and a predictable schedule.
 published: true
 date: 2026-06-05T20:32:42.630Z
 tags: 

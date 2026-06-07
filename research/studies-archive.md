@@ -1,6 +1,6 @@
 ---
 title: Studies Archive
-description: All disabled people have the right to access information on an equal basis with others, as affirmed by Article 21 of the UN Convention on the Rights of…
+description: This page serves as an evolving archive of significant studies, reports, datasets, and publications related to disability around the world.
 published: true
 date: 2026-06-05T20:22:59.175Z
 tags: 

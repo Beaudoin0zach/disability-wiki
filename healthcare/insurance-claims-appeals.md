@@ -1,6 +1,6 @@
 ---
 title: Insurance Claims and Appeals
-description: All disabled people have the right to healthcare without financial ruin. Insurance systems are designed to be complex—understanding how to navigate claims…
+description: Insurance systems are designed to be complex—understanding how to navigate claims and appeals is a survival skill, not a personal failing.
 published: true
 date: 2026-06-05T20:35:42.868Z
 tags: 

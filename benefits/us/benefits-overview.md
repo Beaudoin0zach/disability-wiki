@@ -1,6 +1,6 @@
 ---
 title: U.S. Disability Benefits – Overview
-description: In the United States, disability-related benefits are a patchwork of federal and state programs. Most people end up combining several of these:
+description: This page gives a big-picture map. Each major program has its own page with more detail. Have lived experience or expertise that could strengthen this page?
 published: true
 date: 2026-06-05T20:27:43.910Z
 tags: 

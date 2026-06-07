@@ -1,6 +1,6 @@
 ---
 title: Accessible Research Tools
-description: All disabled people have the right to participate in research and knowledge production on an equal basis with others, as affirmed by Articles 30 and 31 of…
+description: Accessibility matters not only in services and spaces—it is essential in research itself. Many popular survey platforms have accessibility guides.
 published: true
 date: 2026-06-05T20:22:37.127Z
 tags: 

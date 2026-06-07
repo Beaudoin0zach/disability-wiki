@@ -1,6 +1,6 @@
 ---
 title: Social Workers
-description: All disabled people have the right to live independently and be included in the community, with access to support services that respect their autonomy and…
+description: Social workers often hold significant power over disabled people's lives—decisions about housing, benefits, services, and even liberty.
 published: true
 date: 2026-06-05T20:21:57.798Z
 tags: 

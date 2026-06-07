@@ -1,6 +1,6 @@
 ---
 title: Digital Disability Justice
-description: Digital accessibility is one layer. Digital disability justice looks at the bigger picture:
+description: This page connects disability justice principles to the digital world. Digital disability justice recognizes and centers this organizing.
 published: true
 date: 2026-06-05T20:23:51.577Z
 tags: 

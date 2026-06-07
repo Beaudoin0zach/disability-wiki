@@ -1,6 +1,6 @@
 ---
 title: Family Caregiver Pay & Support (U.S.)
-description: In many U.S. families, a relative provides most or all of the care for a disabled person. Sometimes, there are ways for that family caregiver to be paid or…
+description: In many U.S. families, a relative provides most or all of the care for a disabled person.
 published: true
 date: 2026-06-05T20:27:48.058Z
 tags: 

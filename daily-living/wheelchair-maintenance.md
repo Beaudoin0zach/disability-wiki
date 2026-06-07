@@ -1,6 +1,6 @@
 ---
 title: Wheelchair Maintenance and Everyday Repairs
-description: Your wheelchair is not medical equipment in a closet. It is your mobility—your legs. When it breaks, you are stranded. This page centers disabled people's…
+description: Your wheelchair is not medical equipment in a closet. It is your mobility—your legs. When it breaks, you are stranded.
 published: true
 date: 2026-06-05T20:33:05.196Z
 tags: 

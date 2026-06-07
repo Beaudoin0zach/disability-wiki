@@ -1,6 +1,6 @@
 ---
 title: Job Searching with a Disability
-description: Finding a job as a disabled person means navigating a system that often discriminates, while also managing disability-related challenges. The good news…
+description: Finding a job as a disabled person means navigating a system that often discriminates, while also managing disability-related challenges.
 published: true
 date: 2026-06-05T20:33:45.621Z
 tags: 

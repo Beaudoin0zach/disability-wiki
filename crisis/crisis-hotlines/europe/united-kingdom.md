@@ -1,6 +1,6 @@
 ---
 title: Crisis Hotlines in the United Kingdom
-description: If this is overwhelming right now, you can just call the number below. You don't have to read everything.
+description: If you're in crisis right now, you're not alone. Most services listed are free. Cost and hours vary by service — check each one. These lines are confidential.
 published: true
 date: 2026-06-05T20:31:05.611Z
 tags: 

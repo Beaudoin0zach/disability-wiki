@@ -1,6 +1,6 @@
 ---
 title: Immigration And Refugees
-description: Have lived experience or expertise that could strengthen this page? We especially welcome perspectives on models not well represented here, including those…
+description: We especially welcome perspectives on models not well represented here, including those from the Global South and Indigenous communities.
 published: true
 date: 2026-06-05T20:38:32.758Z
 tags: 

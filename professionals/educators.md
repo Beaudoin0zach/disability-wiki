@@ -1,6 +1,6 @@
 ---
 title: Educators
-description: All disabled students have the right to education on an equal basis with others, with reasonable accommodations and individualized supports. This page…
+description: All disabled students have the right to education on an equal basis with others, with reasonable accommodations and individualized supports.
 published: true
 date: 2026-06-05T20:21:28.131Z
 tags: 

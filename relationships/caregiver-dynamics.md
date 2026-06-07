@@ -1,6 +1,6 @@
 ---
 title: Relationship and Caregiver Dynamics
-description: When someone you're in relationship with is also your caregiver, roles blur. When you depend on someone for daily survival, power shifts. This page addresses…
+description: When someone you're in relationship with is also your caregiver, roles blur. When you depend on someone for daily survival, power shifts.
 published: true
 date: 2026-06-05T20:26:07.267Z
 tags: 
