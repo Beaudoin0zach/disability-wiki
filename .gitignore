@@ -58,3 +58,13 @@ validation_*.json
 
 # Node modules (if any)
 node_modules/
+
+# Claude Code: ignore local config/secrets globally, but DO track project skills.
+# (Overrides the global ~/.gitignore_global ".claude/" rule.)
+!.claude/
+.claude/*
+!.claude/skills/
+!.claude/skills/**
+# still keep local settings/secrets and transient workspaces out
+.claude/settings.local.json
+.claude/skill-workspaces/
