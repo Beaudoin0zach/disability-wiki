@@ -561,8 +561,8 @@ If Facebook groups are not serving you well, consider:
 
 See also:
 
-- [Disability Communities on Reddit](/community/reddit-communities)
-- [Disability Communities on Discord](/community/discord-communities)
+- [Disability Communities on Reddit](/community/online-communities/reddit)
+- [Disability Communities on Discord](/community/online-communities/discord)
 - [Online Disability Communities](/community/online-communities)
 
 ---
@@ -570,8 +570,8 @@ See also:
 ## Related Pages
 
 - [Online Disability Communities](/community/online-communities)
-- [Disability Communities on Reddit](/community/reddit-communities)
-- [Disability Communities on Discord](/community/discord-communities)
+- [Disability Communities on Reddit](/community/online-communities/reddit)
+- [Disability Communities on Discord](/community/online-communities/discord)
 - [Disability-Specific Peer Groups](/community/disability-specific-peer-groups)
 - [In-Person Community](/community/in-person-community)
 

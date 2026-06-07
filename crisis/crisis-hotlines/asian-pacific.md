@@ -167,7 +167,7 @@ This page connects you to crisis resources across Asia and the Pacific region.
 
 ### Indonesia
 
-**For complete crisis resources in Indonesia, see [Crisis Help: Indonesia](/crisis/indonesia)**
+**For complete crisis resources in Indonesia, see [Crisis Help: Indonesia](/crisis/crisis-hotlines/asian-pacific/indonesia)**
 
 **Quick Numbers:**
 - **Yayasan Pulih:** (021) 788-42580
@@ -604,7 +604,7 @@ For ongoing support:
 ## Related Pages
 
 - [Main Crisis Help](/crisis)
-- [Australia Crisis Resources](/crisis/australia) (if detailed page exists)
+- [Australia Crisis Resources](/crisis/crisis-hotlines/asian-pacific/australia) (if detailed page exists)
 - [Emergency Preparedness](/crisis/emergency/emergency-preparedness)
 - [Abuse, Neglect, and Exploitation](/crisis/abuse-neglect-exploitation)
 

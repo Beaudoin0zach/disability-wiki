@@ -270,9 +270,9 @@ Connect with disability organizations and events. Expose your child to disabled 
 
 ### Community
 - [Online Communities](/community/online-communities) — Finding your people online
-- [Reddit](/community/online-groups/reddit) — Disability communities on Reddit
-- [Discord](/community/online-groups/discord) — Discord servers for disabled people
-- [Facebook Communities](/community/online-groups/facebook-communities) — Facebook groups
+- [Reddit](/community/online-communities/reddit) — Disability communities on Reddit
+- [Discord](/community/online-communities/discord) — Discord servers for disabled people
+- [Facebook Communities](/community/online-communities/facebook) — Facebook groups
 - [In-Person Community](/community/in-person-community) — Local connections
 - [Disability-Specific Peer Groups](/community/disability-specific-peer-groups) — Condition-specific communities
 - [Youth & Student Communities](/community/youth-student-communities) — For young disabled people

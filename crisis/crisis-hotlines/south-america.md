@@ -90,7 +90,7 @@ Select your country for local crisis resources:
 
 ## Brazil
 
-**For complete crisis resources in Brazil, see [Crisis Help: Brazil](/crisis/brazil)**
+**For complete crisis resources in Brazil, see [Crisis Help: Brazil](/crisis/crisis-hotlines/south-america/brazil)**
 
 ### Quick Numbers
 - **CVV (Suicide Prevention):** 188 (free, 24/7)
@@ -285,7 +285,7 @@ Select your country for local crisis resources:
 ### French Guiana
 - **Emergency:** 112 (European standard)
 - **SAMU:** 15
-- See also [Europe Crisis Resources](/crisis/europe) for French resources
+- See also [Europe Crisis Resources](/crisis/crisis-hotlines/europe) for French resources
 
 ### Guyana
 - **National Crisis Hotline:** 223-0001 or 223-0009 or 223-0818
@@ -344,7 +344,7 @@ Crisis lines help you through immediate danger. For ongoing support:
 
 ## Related Pages
 
-- [Crisis Help: Brazil](/crisis/brazil) (detailed Brazilian resources)
+- [Crisis Help: Brazil](/crisis/crisis-hotlines/south-america/brazil) (detailed Brazilian resources)
 - [Main Crisis Help](/crisis)
 - [Emergency Preparedness](/crisis/emergency/emergency-preparedness)
 - [Abuse, Neglect, and Exploitation](/crisis/abuse-neglect-exploitation)

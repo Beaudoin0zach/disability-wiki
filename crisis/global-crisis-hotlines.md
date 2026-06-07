@@ -156,7 +156,7 @@ Some countries have comprehensive crisis resource pages with local context, disa
 
 ### Available Now:
 - **[Brazil Crisis Help](/crisis/crisis-hotlines/south-america/brazil)** - Complete resources in Portuguese and English
-- **[Indonesia Crisis Help](/crisis/crisis-hotlines/south-america/indonesia)** - Detailed Indonesian resources
+- **[Indonesia Crisis Help](/crisis/crisis-hotlines/asian-pacific/indonesia)** - Detailed Indonesian resources
 - **[Nigeria Crisis Help](/crisis/crisis-hotlines/africa/nigeria)** - Comprehensive Nigerian crisis services
 - **[South Africa Crisis Help](/crisis/crisis-hotlines/africa/south-africa)** - Complete South African resources
 

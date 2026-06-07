@@ -155,7 +155,7 @@ This page connects you to crisis resources across Africa.
 
 ### Nigeria
 
-**For complete crisis resources in Nigeria, see [Crisis Help: Nigeria](/crisis/nigeria)**
+**For complete crisis resources in Nigeria, see [Crisis Help: Nigeria](/crisis/crisis-hotlines/africa/nigeria)**
 
 **Quick Numbers:**
 - **Mentally Aware Nigeria Initiative (MANI):** 0806-210-6493 or 0809-210-0009 (8am-10pm daily)
@@ -290,7 +290,7 @@ This page connects you to crisis resources across Africa.
 
 ### South Africa
 
-**For complete crisis resources in South Africa, see [Crisis Help: South Africa](/crisis/south-africa)**
+**For complete crisis resources in South Africa, see [Crisis Help: South Africa](/crisis/crisis-hotlines/africa/south-africa)**
 
 **Quick Numbers:**
 - **SADAG:** 0800-567-567 (toll-free, 8am-8pm)
