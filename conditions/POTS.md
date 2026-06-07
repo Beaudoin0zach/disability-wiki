@@ -219,8 +219,8 @@ See [Exercise and Adaptive Sports](/daily-living/exercise-and-adaptive-sports) f
 
 POTS rarely occurs alone. Knowing about commonly co-occurring conditions helps you recognize if you need additional evaluation:
 
-- **Ehlers-Danlos Syndrome (EDS):** 31% of POTS patients meet criteria for hypermobile EDS; 55% have joint hypermobility. See [Ehlers-Danlos Syndromes](/conditions/ehlers-danlos-syndrome)
-- **Mast Cell Activation Syndrome (MCAS):** 31% of people with both POTS and EDS also have MCAS. See [Mast Cell Activation Syndrome](/conditions/mast-cell-activation-syndrome)
+- **Ehlers-Danlos Syndrome (EDS):** 31% of POTS patients meet criteria for hypermobile EDS; 55% have joint hypermobility. See [Ehlers-Danlos Syndromes](/conditions/EDS)
+- **Mast Cell Activation Syndrome (MCAS):** 31% of people with both POTS and EDS also have MCAS. See [Mast Cell Activation Syndrome](/conditions/MCAS)
 - **Small fiber neuropathy:** About 50% of POTS patients
 - **Chronic fatigue syndrome (ME/CFS):** Significant overlap, especially in post-viral cases
 - **Fibromyalgia:** Common co-occurrence
@@ -455,8 +455,8 @@ Approximately **30% of people with highly symptomatic Long COVID** develop POTS.
 
 ## Related Pages
 
-- [Ehlers-Danlos Syndromes](/conditions/ehlers-danlos-syndrome)—often co-occurs with POTS
-- [Mast Cell Activation Syndrome](/conditions/mast-cell-activation-syndrome)—the "trifecta" with EDS and POTS
+- [Ehlers-Danlos Syndromes](/conditions/EDS)—often co-occurs with POTS
+- [Mast Cell Activation Syndrome](/conditions/MCAS)—the "trifecta" with EDS and POTS
 - [Chronic Illness](/conditions/chronic-illness)—general strategies for living with chronic conditions
 - [Exercise and Adaptive Sports](/daily-living/exercise-and-adaptive-sports)—exercise modifications for POTS
 - [Workplace Accommodations](/employment/workplace-accommodations)—specific accommodations that help

@@ -340,8 +340,8 @@ Current research suggests that abnormal connective tissue in Ehlers-Danlos Syndr
 **The 2025 American Gastroenterological Association issued guidance:** When doctors see one of these conditions, they should screen for the others.
 
 See:
-- [Ehlers-Danlos Syndromes](/conditions/ehlers-danlos-syndrome)
-- [Postural Orthostatic Tachycardia Syndrome](/conditions/postural-orthostatic-tachycardia-syndrome)
+- [Ehlers-Danlos Syndromes](/conditions/EDS)
+- [Postural Orthostatic Tachycardia Syndrome](/conditions/POTS)
 
 ### Treatment Implications
 
@@ -565,8 +565,8 @@ Most MCAS research funded by:
 
 ## Related Pages
 
-- [Ehlers-Danlos Syndromes](/conditions/ehlers-danlos-syndrome)—frequently co-occurs
-- [Postural Orthostatic Tachycardia Syndrome](/conditions/postural-orthostatic-tachycardia-syndrome)—the trifecta condition
+- [Ehlers-Danlos Syndromes](/conditions/EDS)—frequently co-occurs
+- [Postural Orthostatic Tachycardia Syndrome](/conditions/POTS)—the trifecta condition
 - [Chronic Illness](/conditions/chronic-illness)—general strategies
 - [Invisible Disabilities](/conditions/invisible-disabilities)—navigating invisible illness
 - [Accessible Healthcare](/healthcare/accessible-healthcare)—advocating in medical system

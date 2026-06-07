@@ -237,7 +237,7 @@ A 2025 study led to new clinical guidance: "When clinicians see disorders of the
 
 ### Autonomic Nervous System
 
-**41-80% of people with hEDS have POTS** (Postural Orthostatic Tachycardia Syndrome)—see [Postural Orthostatic Tachycardia Syndrome](/conditions/postural-orthostatic-tachycardia-syndrome).
+**41-80% of people with hEDS have POTS** (Postural Orthostatic Tachycardia Syndrome)—see [Postural Orthostatic Tachycardia Syndrome](/conditions/POTS).
 
 Other autonomic issues:
 - Temperature regulation problems
@@ -252,7 +252,7 @@ Other autonomic issues:
 - **TMJ dysfunction**—jaw pops, clicks, dislocates
 - **Dental crowding**
 - **Cardiovascular:** Mitral valve prolapse (more common), aortic root dilation (less common, monitor regularly)
-- **Mast Cell Activation Syndrome (MCAS):** 48% of hEDS patients—see [Mast Cell Activation Syndrome](/conditions/mast-cell-activation-syndrome)
+- **Mast Cell Activation Syndrome (MCAS):** 48% of hEDS patients—see [Mast Cell Activation Syndrome](/conditions/MCAS)
 - **Resistance to local anesthetics**—lidocaine may not work well for dental work or minor procedures
 
 ### Neurological
@@ -356,10 +356,10 @@ See [Mobility Aids](/transport/mobility-aids) for detailed guidance.
 
 ### Medications That May Help Different Systems
 
-- **POTS symptoms:** See [POTS](/conditions/postural-orthostatic-tachycardia-syndrome) page
+- **POTS symptoms:** See [POTS](/conditions/POTS) page
 - **GERD:** Proton pump inhibitors, H2 blockers
 - **Gastroparesis:** Metoclopramide, domperidone (country-dependent availability)
-- **MCAS:** Antihistamines, mast cell stabilizers—see [MCAS](/conditions/mast-cell-activation-syndrome)
+- **MCAS:** Antihistamines, mast cell stabilizers—see [MCAS](/conditions/MCAS)
 - **Migraines:** Standard migraine preventatives and treatments
 
 ---
@@ -376,8 +376,8 @@ These three conditions occur together so frequently that the medical community n
 **Why they cluster together:** The leading theory is that faulty connective tissue affects both blood vessel function (causing POTS) and mast cell stability (causing MCAS). The 2025 American Gastroenterological Association issued guidance recommending that diagnosis of one condition should prompt screening for the others.
 
 See:
-- [Postural Orthostatic Tachycardia Syndrome](/conditions/postural-orthostatic-tachycardia-syndrome)
-- [Mast Cell Activation Syndrome](/conditions/mast-cell-activation-syndrome)
+- [Postural Orthostatic Tachycardia Syndrome](/conditions/POTS)
+- [Mast Cell Activation Syndrome](/conditions/MCAS)
 
 ### Other Commonly Co-Occurring Conditions
 
@@ -632,8 +632,8 @@ The Ehlers-Danlos Society and national organizations organize:
 
 ## Related Pages
 
-- [Postural Orthostatic Tachycardia Syndrome](/conditions/postural-orthostatic-tachycardia-syndrome)—frequently co-occurs
-- [Mast Cell Activation Syndrome](/conditions/mast-cell-activation-syndrome)—the "trifecta" condition
+- [Postural Orthostatic Tachycardia Syndrome](/conditions/POTS)—frequently co-occurs
+- [Mast Cell Activation Syndrome](/conditions/MCAS)—the "trifecta" condition
 - [Chronic Illness](/conditions/chronic-illness)—general strategies
 - [Physical Disabilities](/conditions/physical-disabilities)—broader category
 - [Chronic Pain](/healthcare/pain-and-fatigue)—pain management strategies
