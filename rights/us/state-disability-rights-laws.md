@@ -49,7 +49,7 @@ These states have disability discrimination laws comparable to or stronger than 
 - No cap on damages
 - Broad definition of disability
 - Extensive accessibility requirements (California Building Code)
-- Enforcement: Department of Fair Employment and Housing
+- Enforcement: California Civil Rights Department (CRD) (formerly the DFEH, renamed July 2022)
 
 **New York**
 - New York Human Rights Law
@@ -181,8 +181,7 @@ States implement IDEA and Section 504 but may also have:
 
 Every state has an agency responsible for civil rights enforcement. Names vary:
 - Division of Human Rights
-- Civil Rights Commission
-- Department of Fair Employment and Housing
+- Civil Rights Commission / Civil Rights Department (e.g., California's CRD)
 - Human Relations Commission
 
 **Find yours:** Search "[Your state] disability discrimination complaint" or "[Your state] civil rights agency"
@@ -241,8 +240,8 @@ California generally has the strongest state disability rights protections.
 - New York City Human Rights Law (NYC—extremely strong)
 
 **Notable features:**
-- State law covers employers with 4+ employees
-- NYC law covers employers with 1+ employees
+- State law covers **all employers (1+ employee)** as of 2020 (the prior 4-employee minimum was removed)
+- NYC law also covers employers with 1+ employees
 - NYC law interpreted very broadly
 - Strong remedies available
 

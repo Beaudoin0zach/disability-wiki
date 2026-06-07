@@ -78,9 +78,9 @@ You may qualify for VA disability benefits if you:
 
 ### Temporary Disability Retirement Pay (TDRP)
 
-For some service members medically separated while still on active duty:
-- Bridge benefit between military and VA benefits
-- Typically lasts 5 years
+For some service members placed on the Temporary Disability Retirement List when medically separated:
+- A bridge benefit between military and VA benefits
+- Time-limited and reviewed periodically — the length depends on the case and rules, and it is not a fixed term for everyone
 - Can overlap with VA disability compensation
 
 ## VA Health Care
@@ -118,7 +118,7 @@ For some service members medically separated while still on active duty:
 **Program of Comprehensive Assistance for Family Caregivers (PCAFC)**:
 
 For seriously injured veterans from Iraq/Afghanistan:
-- Primary caregiver receives monthly stipend ($3,331-$3,737 depending on veteran's need level)
+- Primary caregiver may receive a monthly stipend — the amount is based on the veteran's level of need and the local GS-4 federal pay rate, so it varies by location and is adjusted yearly (check VA.gov for current figures)
 - Secondary caregiver may receive support
 - Respite care available
 - Healthcare benefits for caregiver
@@ -225,8 +225,8 @@ For veterans not yet ready for permanent home modifications:
 
 For veterans with service-connected disabilities requiring prosthetics or orthotic devices:
 - Annual allowance ($1,053.19 in 2026)
-- Reimburses for clothing damaged by devices
-- Automatic if VA already providing prosthetic/orthotic
+- For clothing worn out or damaged by a prosthetic/orthotic device, or by qualifying skin medication
+- You apply through the VA (VA Form 10-8678); it is tied to VA-prescribed devices/medication, not granted automatically
 
 ### Aid and Attendance Allowance
 

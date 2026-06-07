@@ -22,7 +22,7 @@ In May 2024, the U.S. Department of Health and Human Services (HHS) finalized th
 - **Medical treatment:** Providers cannot deny or limit care based on biased assumptions about a disabled person's quality or value of life.
 - **Value-assessment tools:** Bans the use of measures (like the "quality-adjusted life year," QALY) that devalue life extension for disabled people when deciding coverage.
 - **Websites & mobile apps:** Must meet **WCAG 2.1 Level AA** by **May 11, 2026** (recipients with 15+ employees) or **May 10, 2027** (fewer than 15).
-- **Accessible medical equipment:** Exam tables, weight scales, and other diagnostic equipment must be accessible — by **July 8, 2026**.
+- **Accessible medical equipment:** by **July 8, 2026**, covered providers that use diagnostic equipment such as exam tables and weight scales must have at least **one accessible unit of each type in use** (other scoping requirements began July 8, 2024) — not every piece of equipment all at once.
 - **Community integration (Olmstead):** Reinforces the right to receive services in the most integrated setting rather than being unnecessarily institutionalized.
 
 **Where to complain:** the **HHS Office for Civil Rights (OCR)**, generally within **180 days** of the discrimination.

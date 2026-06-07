@@ -215,10 +215,9 @@ If you can't resolve the issue with the airline:
 - What resolution you seek
 
 **Timeline:**
-- File a written complaint with the airline within 45 days of the incident; complaints to DOT are generally expected within ~6 months
-- DOT investigates complaints
-- Airlines must respond to DOT inquiries
-- Note: the ACAA has no private right of action — you cannot sue an airline directly under it; enforcement is through DOT
+- An airline is **not required to address a written complaint it receives more than 45 days after the incident** (unless DOT refers it), so complain to the airline promptly
+- DOT **refers the disability-related complaints it receives** to the airline and reviews them; you can also complain directly to DOT (generally within 6 months of the incident)
+- Note: the ACAA has **no private right of action** — you cannot sue an airline directly under it; enforcement is through DOT
 
 ### What Complaints Accomplish
 

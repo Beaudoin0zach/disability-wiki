@@ -85,9 +85,9 @@ Medicare has different "parts." You don't have to take all of them, but understa
 - Some drugs cost more than others (tiers)
 
 **Cost**:
-- Monthly premium: Varies by plan ($7-$100+)
+- Monthly premium: varies by plan and region
 - Annual deductible: Up to $615 (2026)
-- Copay for each prescription: $0-$15 for generic, $0-$100+ for brand name
+- Copay for each prescription: varies by plan and drug tier
 - Out-of-pocket cap: As of 2025 the "donut hole" is gone — once your out-of-pocket drug costs reach $2,100 (2026), you pay $0 for covered drugs for the rest of the year
 
 **When you need it**: If you take prescription medications
@@ -112,9 +112,8 @@ Medicare has different "parts." You don't have to take all of them, but understa
 
 **Cons**:
 - Limited provider networks
-- Higher copays/coinsurance when you use services
-- Must get referrals for specialists
-- Coverage varies by plan
+- Copays/coinsurance and referral rules vary by plan — many plans require referrals for specialists and charge per-service costs
+- Coverage and out-of-pocket costs vary a lot by plan
 - Can be hard to switch plans
 
 ## Enrollment
@@ -149,7 +148,7 @@ Medicare costs vary based on:
 
 **Prescription drugs**:
 - Part D premium varies
-- Donut hole coverage gap affects costs
+- (The old Part D "donut hole" no longer applies — Part D now has a yearly out-of-pocket cap; see the Part D section above)
 
 **Low-income help**:
 - Qualified Medicare Beneficiary (QMB): Covers Part B premium
@@ -180,7 +179,7 @@ Supplemental insurance helps pay costs Medicare doesn't cover.
 
 **Plans A-N**: Different levels of coverage
 
-**Cost**: $100-$300+ per month depending on plan
+**Cost**: varies widely by plan letter, age, and location
 
 **Where to buy**: Private insurance companies (Medicare.gov has tool)
 
@@ -294,8 +293,10 @@ Medicare covers assistive technology and medical equipment when:
 - CPAP machines
 - Oxygen
 - Walkers and canes
-- Bathroom safety equipment
+- Hospital beds and patient lifts
 - Speech-generating devices (sometimes)
+
+*Note: Medicare generally does **not** cover most bathroom safety equipment (grab bars, shower chairs, raised toilet seats) — it treats them as not "primarily medical." Medicaid or other programs may help.*
 
 **Requirements**:
 - Prescription from doctor
