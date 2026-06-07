@@ -281,7 +281,7 @@ Each state/territory has its own approach to students with disabilities, but gen
 
 ### Principles
 
-If your country signed the CRPD, disabled children have a right to education with supports. Implementation varies widely.
+If your country has **ratified** the CRPD, it has committed to inclusive education with supports, though domestic implementation and enforceability vary widely. (Signing is not ratifying: the United States signed the CRPD in 2009 but never ratified it, so US children's rights come from IDEA and Section 504, not the CRPD.)
 
 ### Global South Perspectives
 

@@ -227,7 +227,7 @@ Australian universities have disability/accessibility services where students ca
 
 ### Principles That Apply Everywhere
 
-If your country has signed the CRPD (most have), you have a right to non-discriminatory access to higher education with reasonable accommodations.
+If your country has **ratified** the CRPD, it has committed to non-discriminatory access to higher education with reasonable accommodations—though how enforceable that is for you depends on your national laws. (Signing a treaty is not the same as ratifying it: the United States signed the CRPD in 2009 but never ratified it, so US students' rights come from the ADA and Section 504, not the CRPD.)
 
 ### Finding Support
 

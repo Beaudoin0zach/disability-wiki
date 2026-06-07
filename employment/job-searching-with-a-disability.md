@@ -20,7 +20,7 @@ This page centers disabled job seekers' expertise on finding work.
 
 ### Discrimination Is Real
 
-Let's be honest: hiring discrimination against disabled people is well-documented. Studies show disabled applicants get fewer callbacks for identical resumes. This isn't your fault—it's systemic ableism.
+Let's be honest: hiring discrimination against disabled people is well-documented. In a large field experiment that sent matched résumés differing only by a disclosed disability, disabled applicants received about 26% fewer expressions of employer interest ([Ameri et al., 2018, *ILR Review*](https://journals.sagepub.com/doi/10.1177/0019793917717474)). This isn't your fault—it's systemic ableism.
 
 ### So Is Employment
 
