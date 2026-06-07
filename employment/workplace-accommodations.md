@@ -10,7 +10,7 @@ dateCreated: 2025-11-28T00:22:39.759Z
 
 # Workplace Accommodations
 
-Workplace accommodations are adjustments to jobs, work environments, or work practices that enable disabled people to do their jobs. They're a legal right in most countries, and they work—studies consistently show accommodations are low-cost and effective.
+Workplace accommodations are adjustments to jobs, work environments, or work practices that enable disabled people to do their jobs. Where disability discrimination laws apply, they're a legal right—and they work: the U.S. [Job Accommodation Network](https://askjan.org/topics/costs.cfm) finds most accommodations are low- or no-cost (about 61% cost nothing to implement; those with a one-time cost run a median of roughly $300).
 
 This page centers disabled workers' expertise on requesting and getting accommodations.
 
@@ -59,7 +59,7 @@ Workplace accommodations are changes that remove barriers for disabled workers w
 - Clear, direct feedback
 
 **Other**:
-- Service animal or emotional support animal
+- Service animal in the workplace (other assistance or emotional-support animals are considered case by case, not automatic)
 - Modified dress code (for medical equipment, sensory needs)
 - Work from home
 - Job transfer to vacant position
@@ -72,7 +72,7 @@ Workplace accommodations are changes that remove barriers for disabled workers w
 
 Most countries require employers to provide reasonable accommodations:
 
-**United States**: ADA (employers with 15+ employees), Section 504 (federal contractors and recipients of federal funds), state laws (often cover smaller employers)
+**United States**: ADA (employers with 15+ employees), Section 503 (federal contractors and subcontractors with contracts of $10,000+), Section 504 (recipients of federal financial assistance and federal agencies), state laws (often cover smaller employers)
 
 **United Kingdom**: Equality Act 2010 (all employers)
 

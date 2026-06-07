@@ -10,7 +10,7 @@ dateCreated: 2025-11-27T23:13:06.523Z
 
 # Employment Rights by Country
 
-All disabled people have the right to work on an equal basis with others. The UN Convention on the Rights of Persons with Disabilities (CRPD) Article 27 affirms the right to work, including the right to reasonable accommodation in the workplace.
+All disabled people have the right to work on an equal basis with others. The UN Convention on the Rights of Persons with Disabilities (CRPD) Article 27 affirms the right to work, including the right to reasonable accommodation in the workplace. The CRPD sets an international standard; how enforceable it is for an individual depends on whether and how each country has written it into national law (see your country below).
 
 This page centers disabled people's expertise navigating employment rights in different countries.
 
@@ -243,7 +243,7 @@ Individual countries implement this in their national laws.
 - Quota system for public employers
 
 **Spain**:
-- LISMI requires employers with 50+ employees to employ 2% disabled workers
+- The General Disability Rights Law (Royal Legislative Decree 1/2013, which consolidated the former LISMI) requires employers with 50+ employees to reserve 2% of jobs for disabled workers
 - Right to reasonable adjustments
 - Reservations for certain jobs
 
