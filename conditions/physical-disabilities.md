@@ -155,8 +155,8 @@ This list is not exhaustive. Other physical disabilities include: Parkinson's di
 - [Insurance Navigation](/healthcare/insurance-navigation.md) for coverage guidance
 
 **Benefits**:
-- [SSDI](/benefits/us-ssdi.md) and [SSI](/benefits/us-ssi.md) for income support
-- [Medicaid](/benefits/us-medicaid.md) may cover personal care attendants, home modifications, durable medical equipment
+- [SSDI](/benefits/us/ssdi) and [SSI](/benefits/us/ssi) for income support
+- [Medicaid](/benefits/us/medicaid) may cover personal care attendants, home modifications, durable medical equipment
 - State Medicaid waiver programs vary significantly — some offer extensive home and community services
 
 **Equipment and mobility aids**:
@@ -182,7 +182,7 @@ This list is not exhaustive. Other physical disabilities include: Parkinson's di
 **Benefits**:
 - Canada Pension Plan Disability (CPP-D) for those who've worked
 - Provincial disability assistance programs (ODSP in Ontario, AISH in Alberta, PWD in BC, etc.)
-- See [Canada Benefits](/benefits/canada-benefits.md)
+- See [Canada Benefits](/benefits/canada/benefits)
 
 **Organizations**:
 - **DisAbled Women's Network Canada (DAWN)**: Led by disabled women
@@ -203,7 +203,7 @@ This list is not exhaustive. Other physical disabilities include: Parkinson's di
 - Personal Independence Payment (PIP) — not means-tested
 - Employment and Support Allowance (ESA) or Universal Credit
 - Access to Work for employment accommodations
-- See [UK Benefits](/benefits/uk-benefits.md)
+- See [UK Benefits](/benefits/united-kingdom/benefits)
 
 **Organizations**:
 - **Disability Rights UK**: Information and advocacy
@@ -223,7 +223,7 @@ This list is not exhaustive. Other physical disabilities include: Parkinson's di
 - Covers assistive technology, home modifications, personal care, therapy
 - Requires "permanent and significant" disability affecting daily life
 - Plan management matters — consider self-management or plan management vs. agency-managed
-- See [Australia Benefits](/benefits/australia-benefits.md)
+- See [Australia Benefits](/benefits/australia/benefits)
 
 **Organizations**:
 - **People with Disability Australia (PWDA)**: Cross-disability systemic advocacy
@@ -244,7 +244,7 @@ Frameworks vary by country, but EU disability strategy promotes:
 - **Netherlands**: WMO (Social Support Act) for home modifications and aids
 - **Nordic countries**: Generally strong social support systems
 
-See [EU Benefits](/benefits/eu-benefits.md) and [International Rights](/rights/international-rights.md).
+See [EU Benefits](/benefits/european-union/benefits) and [International Rights](/rights/international-rights.md).
 
 ---
 
@@ -258,7 +258,7 @@ The UN Convention on the Rights of Persons with Disabilities (CRPD) establishes 
 - Are there Centers for Independent Living or similar peer-led organizations?
 - What legal protections exist for accessibility and discrimination?
 
-See [International Benefits Overview](/benefits/international-benefits-overview.md) and [Other Countries Benefits](/benefits/other-countries-benefits.md).
+See [International Benefits Overview](/benefits/international/benefits-overview) and [Other Countries Benefits](/benefits/other-countries-benefits.md).
 
 ---
 

@@ -197,7 +197,7 @@ Affect balance and spatial orientation:
 - Centers for Independent Living often have Deaf/blind services
 
 **Benefits**:
-- [SSDI](/benefits/us-ssdi.md) and [SSI](/benefits/us-ssi.md)
+- [SSDI](/benefits/us/ssdi) and [SSI](/benefits/us/ssi)
 - Some states have specific blind pension programs
 - Social Security has specific rules for statutory blindness
 
@@ -226,7 +226,7 @@ Affect balance and spatial orientation:
 - Canada Pension Plan Disability
 - Provincial disability assistance
 - Disability Tax Credit
-- See [Canada Benefits](/benefits/canada-benefits.md)
+- See [Canada Benefits](/benefits/canada/benefits)
 
 **Organizations**:
 - **Canadian Association of the Deaf (CAD)**
@@ -247,7 +247,7 @@ Affect balance and spatial orientation:
 - Personal Independence Payment (PIP)
 - Employment and Support Allowance (ESA) or Universal Credit
 - Access to Work for employment accommodations
-- See [UK Benefits](/benefits/uk-benefits.md)
+- See [UK Benefits](/benefits/united-kingdom/benefits)
 
 **Communication access**:
 - BSL recognized as a language (2022 BSL Act)
@@ -275,7 +275,7 @@ Affect balance and spatial orientation:
 - Guide dogs and their training
 - Orientation and mobility training
 - Home modifications
-- See [Australia Benefits](/benefits/australia-benefits.md)
+- See [Australia Benefits](/benefits/australia/benefits)
 
 **Organizations**:
 - **Deaf Australia** (Deaf-led)

@@ -298,7 +298,7 @@ If you're asking yourself "sou doente o suficiente para ligar?" (am I sick enoug
 ## Related Pages
 
 - [Main Crisis Help Section](/crisis)
-- [Emergency Preparedness & Safety Planning](/crisis/emergency-disaster-preparedness)
+- [Emergency Preparedness & Safety Planning](/crisis/emergency/emergency-preparedness)
 - [Abuse, Neglect, and Exploitation](/crisis/abuse-neglect-exploitation)
 
 ---

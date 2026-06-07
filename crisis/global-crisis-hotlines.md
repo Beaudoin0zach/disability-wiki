@@ -375,7 +375,7 @@ Reasons services may be harmful:
 
 **See these related pages:**
 - [Disabled Crisis Support](/crisis/disabled-crisis-support)
-- [Emergency Preparedness](/crisis/emergency-disaster-preparedness)
+- [Emergency Preparedness](/crisis/emergency/emergency-preparedness)
 - [Abuse, Neglect, and Exploitation](/crisis/abuse-neglect-exploitation)
 
 ---

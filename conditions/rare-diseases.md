@@ -249,7 +249,7 @@ For very rare conditions, there may be no organized community:
 **Benefits**:
 - Rare diseases can qualify for disability benefits
 - Document functional limitations
-- See [SSDI](/benefits/us-ssdi.md), [SSI](/benefits/us-ssi.md)
+- See [SSDI](/benefits/us/ssdi), [SSI](/benefits/us/ssi)
 
 **Organizations**:
 - **NORD (National Organization for Rare Disorders)**: Advocacy, education, patient programs
@@ -272,7 +272,7 @@ For very rare conditions, there may be no organized community:
 
 **Benefits**:
 - Provincial disability programs
-- See [Canada Benefits](/benefits/canada-benefits.md)
+- See [Canada Benefits](/benefits/canada/benefits)
 
 **Organizations**:
 - **Canadian Organization for Rare Disorders (CORD)**
@@ -295,7 +295,7 @@ For very rare conditions, there may be no organized community:
 
 **Benefits**:
 - PIP for rare diseases causing functional limitations
-- See [UK Benefits](/benefits/uk-benefits.md)
+- See [UK Benefits](/benefits/united-kingdom/benefits)
 
 **Organizations**:
 - **Genetic Alliance UK**
@@ -329,7 +329,7 @@ For very rare conditions, there may be no organized community:
 - Rare Diseases Action Plan
 - National Strategic Action Plan for Rare Diseases being implemented
 
-**NDIS**: May cover supports for rare diseases with significant impact. See [Australia Benefits](/benefits/australia-benefits.md).
+**NDIS**: May cover supports for rare diseases with significant impact. See [Australia Benefits](/benefits/australia/benefits).
 
 **Organizations**:
 - **Rare Voices Australia**

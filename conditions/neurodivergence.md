@@ -322,7 +322,7 @@ See [Multiple Disabilities](/conditions/multiple-disabilities.md), [Psychiatric 
 - See [Workplace Accommodations](/employment/workplace-accommodations.md)
 
 **Benefits**:
-- [SSI](/benefits/us-ssi.md) and [SSDI](/benefits/us-ssdi.md) may be available for some
+- [SSI](/benefits/us/ssi) and [SSDI](/benefits/us/ssdi) may be available for some
 - State developmental disability services (varies significantly by state)
 
 **Organizations**:
@@ -349,7 +349,7 @@ See [Multiple Disabilities](/conditions/multiple-disabilities.md), [Psychiatric 
 - Provincial disability programs
 - Disability Tax Credit
 - Some autism-specific funding programs (varies by province)
-- See [Canada Benefits](/benefits/canada-benefits.md)
+- See [Canada Benefits](/benefits/canada/benefits)
 
 **Organizations**:
 - **Autistics United Canada**
@@ -378,7 +378,7 @@ See [Multiple Disabilities](/conditions/multiple-disabilities.md), [Psychiatric 
 **Benefits**:
 - Personal Independence Payment (PIP)
 - Universal Credit
-- See [UK Benefits](/benefits/uk-benefits.md)
+- See [UK Benefits](/benefits/united-kingdom/benefits)
 
 **Organizations**:
 - **National Autistic Society** — large charity (mixed views in community)
@@ -398,7 +398,7 @@ See [Multiple Disabilities](/conditions/multiple-disabilities.md), [Psychiatric 
 - Autism is generally eligible category
 - ADHD alone typically not NDIS eligible unless significant functional impact
 - NDIS can fund therapies, support workers, etc.
-- See [Australia Benefits](/benefits/australia-benefits.md)
+- See [Australia Benefits](/benefits/australia/benefits)
 
 **Education**:
 - State-based disability education programs

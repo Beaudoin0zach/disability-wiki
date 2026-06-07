@@ -605,7 +605,7 @@ For ongoing support:
 
 - [Main Crisis Help](/crisis)
 - [Australia Crisis Resources](/crisis/australia) (if detailed page exists)
-- [Emergency Preparedness](/crisis/emergency-disaster-preparedness)
+- [Emergency Preparedness](/crisis/emergency/emergency-preparedness)
 - [Abuse, Neglect, and Exploitation](/crisis/abuse-neglect-exploitation)
 
 ---

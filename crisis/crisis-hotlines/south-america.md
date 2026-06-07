@@ -346,7 +346,7 @@ Crisis lines help you through immediate danger. For ongoing support:
 
 - [Crisis Help: Brazil](/crisis/brazil) (detailed Brazilian resources)
 - [Main Crisis Help](/crisis)
-- [Emergency Preparedness](/crisis/emergency-disaster-preparedness)
+- [Emergency Preparedness](/crisis/emergency/emergency-preparedness)
 - [Abuse, Neglect, and Exploitation](/crisis/abuse-neglect-exploitation)
 
 ---

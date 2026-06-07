@@ -42,7 +42,7 @@ How to find accessible housing, evaluate accessibility features, use databases a
 Your legal protections—starting with international frameworks (CRPD Article 19) that apply globally, then organized by country/region (US, Canada, EU, UK, Australia, other). Find your location and learn what rights exist, how to enforce them, and where to get help. See also: [International Housing Rights](/housing/international-housing-rights.md) for deep dive on global frameworks.
 
 **[Home Modifications](/housing/home-modifications.md)**
-How to fund modifications, which programs cover costs (including [Medicaid](/benefits/us-medicaid.md) and [VA benefits](/benefits/us-veterans-benefits.md)), tax benefits, finding qualified contractors, and how to request modifications as a tenant.
+How to fund modifications, which programs cover costs (including [Medicaid](/benefits/us/medicaid) and [VA benefits](/benefits/us/veterans-benefits)), tax benefits, finding qualified contractors, and how to request modifications as a tenant.
 
 **[Tenants' Rights with Disabilities](/housing/tenants-rights-with-disabilities.md)**
 Requesting reasonable accommodations, service animals and support animals (see also [Service Animals](/transport/service-animals.md)), dealing with violations, and protecting yourself from eviction. References [Housing Rights](/housing/housing-rights.md).

@@ -265,8 +265,8 @@ Chronic kidney disease, liver disease, HIV/AIDS (now a manageable chronic condit
 - See [Insurance Navigation](/healthcare/insurance-navigation.md)
 
 **Benefits**:
-- [SSDI](/benefits/us-ssdi.md) and [SSI](/benefits/us-ssi.md) for disability benefits
-- [Medicaid](/benefits/us-medicaid.md) — eligibility varies by state
+- [SSDI](/benefits/us/ssdi) and [SSI](/benefits/us/ssi) for disability benefits
+- [Medicaid](/benefits/us/medicaid) — eligibility varies by state
 - FMLA for job-protected medical leave
 - Pharmaceutical patient assistance programs
 
@@ -290,7 +290,7 @@ Chronic kidney disease, liver disease, HIV/AIDS (now a manageable chronic condit
 - Canada Pension Plan Disability (CPP-D)
 - Provincial disability assistance programs
 - Tax credits for disability and medical expenses
-- See [Canada Benefits](/benefits/canada-benefits.md)
+- See [Canada Benefits](/benefits/canada/benefits)
 
 **Organizations**:
 - Chronic Disease Network and Access
@@ -311,7 +311,7 @@ Chronic kidney disease, liver disease, HIV/AIDS (now a manageable chronic condit
 - Personal Independence Payment (PIP)
 - Employment and Support Allowance (ESA) or Universal Credit
 - Access to Work for employment support
-- See [UK Benefits](/benefits/uk-benefits.md)
+- See [UK Benefits](/benefits/united-kingdom/benefits)
 
 **Organizations**:
 - Pain Concern
@@ -333,7 +333,7 @@ Chronic kidney disease, liver disease, HIV/AIDS (now a manageable chronic condit
 - Disability Support Pension (DSP)
 - NDIS for eligible participants
 - State-based programs
-- See [Australia Benefits](/benefits/australia-benefits.md)
+- See [Australia Benefits](/benefits/australia/benefits)
 
 **Organizations**:
 - Chronic Pain Australia
@@ -352,7 +352,7 @@ Healthcare systems and chronic illness support vary dramatically worldwide. Key 
 - Are disability benefits available for chronic conditions?
 - What patient organizations exist?
 
-See [International Benefits Overview](/benefits/international-benefits-overview.md).
+See [International Benefits Overview](/benefits/international/benefits-overview).
 
 ---
 

@@ -571,7 +571,7 @@ Most MCAS research funded by:
 - [Invisible Disabilities](/conditions/invisible-disabilities)—navigating invisible illness
 - [Accessible Healthcare](/healthcare/accessible-healthcare)—advocating in medical system
 - [Healthcare Rights](/healthcare/healthcare-rights)—your rights as a patient
-- [Emergency Disaster Preparedness](/crisis/emergency-disaster-preparedness)—planning for emergencies with MCAS
+- [Emergency Disaster Preparedness](/crisis/emergency/emergency-preparedness)—planning for emergencies with MCAS
 - [Cooking and Nutrition](/daily-living/cooking-and-nutrition)—dietary management
 - [For Allies](/foundations/for-allies)—supporting someone with MCAS
 

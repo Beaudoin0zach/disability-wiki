@@ -44,7 +44,7 @@ Disability-specific crisis resources including AAC-accessible lines, services fo
 
 Resources for domestic violence, caregiver abuse, institutional abuse, and exploitation by guardians. Includes information on reporting safely when you're disabled, recognizing abuse in different care settings, and accessing support.
 
-### [Emergency & Disaster Preparedness](/crisis/emergency-disaster-preparedness)
+### [Emergency & Disaster Preparedness](/crisis/emergency/emergency-preparedness)
 
 Create a disability-specific emergency plan. Covers evacuation with mobility devices, backup power for medical equipment, service animal evacuation, emergency information cards, and preparing for different types of emergencies.
 
@@ -73,7 +73,7 @@ Create a disability-specific emergency plan. Covers evacuation with mobility dev
 - Many crisis lines now support text-based contact and chat
 
 ### I need help planning for emergencies
-- [Emergency & Disaster Preparedness Guide →](/crisis/emergency-disaster-preparedness)
+- [Emergency & Disaster Preparedness Guide →](/crisis/emergency/emergency-preparedness)
 
 ---
 
@@ -128,7 +128,7 @@ A safety plan is not just for people in abusive relationships—it's for anyone 
 - Service animal care plan
 - Accessibility needs in emergency settings
 
-[Learn more in Emergency Preparedness →](/crisis/emergency-disaster-preparedness)
+[Learn more in Emergency Preparedness →](/crisis/emergency/emergency-preparedness)
 
 ---
 

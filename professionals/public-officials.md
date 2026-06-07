@@ -418,7 +418,7 @@ Disability is diverse. One wheelchair user's approval doesn't mean the space wor
 ## Related Pages
 
 - [Advocacy and Self-Advocacy](/rights/advocacy-and-self-advocacy)
-- [Emergency and Disaster Preparedness](/crisis/emergency-disaster-preparedness)
+- [Emergency and Disaster Preparedness](/crisis/emergency/emergency-preparedness)
 - [Accessibility in Public Spaces](/transport/public-transit-rights)
 - [Communication Access](/tech/communication-access-and-aac)
 - [Employment Rights](/employment/employment-rights-by-country)

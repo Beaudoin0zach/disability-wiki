@@ -181,10 +181,10 @@ Many other conditions may involve intellectual or developmental disability, incl
 - [Section 504](/rights/us/section-504.md): Accommodations
 
 **Benefits**:
-- [SSI](/benefits/us-ssi.md): Income for people with disabilities who haven't worked
-- [SSDI](/benefits/us-ssdi.md): For those who have worked (or SSDI on parent's record in some cases)
-- [Medicaid](/benefits/us-medicaid.md): Healthcare coverage
-- [ABLE Accounts](/benefits/us-able-accounts.md): Tax-advantaged savings
+- [SSI](/benefits/us/ssi): Income for people with disabilities who haven't worked
+- [SSDI](/benefits/us/ssdi): For those who have worked (or SSDI on parent's record in some cases)
+- [Medicaid](/benefits/us/medicaid): Healthcare coverage
+- [ABLE Accounts](/benefits/us/able-accounts): Tax-advantaged savings
 - State supplemental benefits vary
 
 **Waiting lists**: Many states have long waiting lists for services. Advocacy often needed.
@@ -209,7 +209,7 @@ Many other conditions may involve intellectual or developmental disability, incl
 - Provincial disability assistance programs
 - Canada Pension Plan Disability (for some)
 - Tax credits
-- See [Canada Benefits](/benefits/canada-benefits.md)
+- See [Canada Benefits](/benefits/canada/benefits)
 
 **Organizations**:
 - **People First of Canada** — self-advocacy
@@ -235,7 +235,7 @@ Many other conditions may involve intellectual or developmental disability, incl
 - Personal Independence Payment (PIP)
 - Universal Credit or Employment and Support Allowance
 - Housing benefits
-- See [UK Benefits](/benefits/uk-benefits.md)
+- See [UK Benefits](/benefits/united-kingdom/benefits)
 
 **Organizations**:
 - **People First** groups across UK — self-advocacy
@@ -251,7 +251,7 @@ Many other conditions may involve intellectual or developmental disability, incl
 - National Disability Insurance Scheme covers many supports
 - Includes support coordination, therapy, supported living, employment support
 - Plan management options: self-managed, plan-managed, or NDIA-managed
-- See [Australia Benefits](/benefits/australia-benefits.md)
+- See [Australia Benefits](/benefits/australia/benefits)
 
 **Organizations**:
 - **Inclusion Australia**

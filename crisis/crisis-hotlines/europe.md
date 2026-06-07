@@ -635,7 +635,7 @@ Crisis lines help you through immediate danger. For ongoing support:
 ## Related Pages
 
 - [Main Crisis Help](/crisis)
-- [Emergency Preparedness](/crisis/emergency-disaster-preparedness)
+- [Emergency Preparedness](/crisis/emergency/emergency-preparedness)
 - [Abuse, Neglect, and Exploitation](/crisis/abuse-neglect-exploitation)
 
 ---

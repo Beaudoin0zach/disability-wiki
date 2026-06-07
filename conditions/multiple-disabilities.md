@@ -200,7 +200,7 @@ When you have multiple disabilities, access needs may:
 - SSA considers all conditions together for disability determination
 - Document all conditions when applying
 - Multiple conditions can strengthen case
-- See [SSDI](/benefits/us-ssdi.md), [SSI](/benefits/us-ssi.md)
+- See [SSDI](/benefits/us/ssdi), [SSI](/benefits/us/ssi)
 
 **Services**:
 - Medicaid waiver programs may cover multiple needs
@@ -219,7 +219,7 @@ When you have multiple disabilities, access needs may:
 **Benefits**:
 - Provincial disability programs assess overall function
 - Document all conditions
-- See [Canada Benefits](/benefits/canada-benefits.md)
+- See [Canada Benefits](/benefits/canada/benefits)
 
 ---
 
@@ -234,7 +234,7 @@ When you have multiple disabilities, access needs may:
 **Benefits**:
 - PIP assessment should consider all conditions
 - Describe cumulative impact
-- See [UK Benefits](/benefits/uk-benefits.md)
+- See [UK Benefits](/benefits/united-kingdom/benefits)
 
 ---
 
@@ -244,7 +244,7 @@ When you have multiple disabilities, access needs may:
 - Plans can address multiple disabilities
 - Assessment should consider all conditions
 - May need to advocate for comprehensive plan
-- See [Australia Benefits](/benefits/australia-benefits.md)
+- See [Australia Benefits](/benefits/australia/benefits)
 
 ---
 
@@ -255,7 +255,7 @@ Approaches to multiple disabilities vary. Key questions:
 - Can you access services for different types of disabilities?
 - How is care coordination handled?
 
-See [International Benefits Overview](/benefits/international-benefits-overview.md).
+See [International Benefits Overview](/benefits/international/benefits-overview).
 
 ---
 

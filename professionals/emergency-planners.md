@@ -501,7 +501,7 @@ Developed by disability organizations and humanitarian actors, the Charter commi
 
 ## Related Pages
 
-- [Emergency & Disaster Preparedness](/crisis/emergency-disaster-preparedness)
+- [Emergency & Disaster Preparedness](/crisis/emergency/emergency-preparedness)
 - [Global Crisis Hotlines](/crisis/global-crisis-hotlines)
 - [Medical Equipment and AT](/healthcare/medical-equipment-and-at)
 - [Public Safety Officers](/professionals/public-safety-officers)

@@ -251,8 +251,8 @@ Substance use disorders, schizoaffective disorder, adjustment disorders, and man
 - Peer support programs growing but not available everywhere
 
 **Benefits**:
-- [SSDI](/benefits/us-ssdi.md) and [SSI](/benefits/us-ssi.md) for psychiatric disabilities
-- [Medicaid](/benefits/us-medicaid.md) covers mental health services
+- [SSDI](/benefits/us/ssdi) and [SSI](/benefits/us/ssi) for psychiatric disabilities
+- [Medicaid](/benefits/us/medicaid) covers mental health services
 - Medicare covers mental health with copays
 - FMLA for mental health leave
 
@@ -286,7 +286,7 @@ Substance use disorders, schizoaffective disorder, adjustment disorders, and man
 **Benefits**:
 - Provincial disability assistance programs
 - Canada Pension Plan Disability
-- See [Canada Benefits](/benefits/canada-benefits.md)
+- See [Canada Benefits](/benefits/canada/benefits)
 
 **Rights**:
 - Human rights protections for mental health conditions
@@ -312,7 +312,7 @@ Substance use disorders, schizoaffective disorder, adjustment disorders, and man
 - Personal Independence Payment (PIP) — psychiatric conditions can qualify
 - Universal Credit or Employment and Support Allowance
 - Access to Work for employment accommodations
-- See [UK Benefits](/benefits/uk-benefits.md)
+- See [UK Benefits](/benefits/united-kingdom/benefits)
 
 **Rights**:
 - Mental Health Act governs involuntary treatment
@@ -339,7 +339,7 @@ Substance use disorders, schizoaffective disorder, adjustment disorders, and man
 - Psychosocial disability is eligible category
 - May fund support workers, therapy, employment support
 - Eligibility requires "permanent" disability — controversial for conditions that may fluctuate or recover
-- See [Australia Benefits](/benefits/australia-benefits.md)
+- See [Australia Benefits](/benefits/australia/benefits)
 
 **Rights**:
 - State/territory mental health acts
@@ -487,7 +487,7 @@ If you cannot work due to psychiatric disability:
 - Appeals are common — don't give up after first denial
 - Your value is not determined by work capacity
 
-See [Benefits](/benefits/index.md), [SSDI](/benefits/us-ssdi.md), [SSI](/benefits/us-ssi.md).
+See [Benefits](/benefits/index.md), [SSDI](/benefits/us/ssdi), [SSI](/benefits/us/ssi).
 
 ---
 

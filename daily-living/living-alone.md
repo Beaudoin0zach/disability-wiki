@@ -339,7 +339,7 @@ You get to decide.
 - [DIY Assistive Devices](/daily-living/diy-assistive-devices)
 - [Medication Management](/daily-living/medication-management)
 - [Caregiving](/relationships/caregiving)
-- [Emergency and Disaster Preparedness](/crisis/emergency-disaster-preparedness)
+- [Emergency and Disaster Preparedness](/crisis/emergency/emergency-preparedness)
 
 ---
 
