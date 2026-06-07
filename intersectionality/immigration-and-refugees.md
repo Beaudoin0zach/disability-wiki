@@ -39,13 +39,13 @@ U.S. immigration law has excluded disabled people for well over a century:
 
 - The term **"public charge"** enters U.S. law in 1882; the **1891 Act explicitly added disabled people**. These exclusions were tied directly to the **eugenics movement**.
 - As late as the 1980s, U.S. law barred dozens of categories of immigrants, including people with intellectual disabilities and mental illness.
-- **This history is still live.** Public-charge policy has been changing rapidly — as of late 2025 there were federal moves to weigh chronic health conditions, age, and disabled dependents more heavily in visa and immigration decisions. *Because this area is volatile and changes with each administration, check a current source (e.g., the National Immigration Law Center) for the present rule before relying on anything here.*
+- **This history is still live.** The operative rule is DHS's **2022 public-charge final rule** (effective December 2022), which does **not** treat disability — or use of Medicaid home- and community-based services — as a negative factor. But on **November 17, 2025**, DHS issued a **proposed rule** to rescind it and count a disability or chronic health condition (diabetes, heart disease, cancer, depression, PTSD, and others) as a negative — a *heavily weighted* negative for anyone without private insurance to cover the costs. *That 2025 proposal was not yet final as of this writing, so the protective 2022 rule still governs; but because this area is volatile and changes with each administration, check a current source (e.g., the National Immigration Law Center) for the rule in force before relying on anything here.*
 
 ---
 
 ## Detention, access, and rights
 
-- In the U.S., **Section 504 of the Rehabilitation Act** entitles disabled people in immigration detention and immigration court to accommodations and effective communication — though enforcement is inconsistent.
+- In the U.S., **Section 504 of the Rehabilitation Act** requires accommodations and effective communication for disabled people in immigration detention and immigration court. DHS's own Section 504 regulations (**6 CFR Part 15**) cover its detention programs, and *Franco-Gonzalez v. Holder* (2013) established competency safeguards — including appointed representatives — for detained immigrants with serious mental disabilities. Enforcement is inconsistent.
 - **Language and disability barriers compound.** Someone who is both disabled and has limited English faces stacked obstacles in asylum systems that are hard to navigate even for those who don't.
 - Globally, the **UN Convention on the Rights of Persons with Disabilities (CRPD), Article 11**, requires states to protect disabled people in conflict, emergencies, and disasters, and the CRPD Committee has criticized migration "health requirements" as discriminatory. *(Note: the U.S. has signed but not ratified the CRPD.)*
 

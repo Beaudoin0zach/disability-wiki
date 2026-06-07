@@ -20,8 +20,8 @@ Rural disabled people are not a problem to be managed. They're farmers, ranchers
 
 Distance and thin infrastructure mean rural disabled communities often *do* survival differently — through kinship, barter, place-based knowledge, and dense webs of mutual care.
 
-- **Mutual aid is the rural default, not the exception.** Where formal services thin out, disabled people lean on community networks — friends sharing medication, families organizing food distribution, neighbors building disability-justice collectives from scratch. Supporting rural disability justice means *strengthening existing* networks, not importing urban service models.
-- **Disabled farmers stay on the land.** **AgrAbility**, a USDA-funded program, helps farmers, ranchers, and agricultural workers with disabilities (including veterans) keep working. In one multi-state study, the large majority of participating farmers and ranchers were able to keep farming as a result.
+- **Mutual aid is the rural default, not the exception.** Where formal services thin out, disabled people lean on community networks — neighbors sharing rides and equipment, families organizing food distribution, people building disability-justice collectives from scratch. Supporting rural disability justice means *strengthening existing* networks, not importing urban service models.
+- **Disabled farmers stay on the land.** **AgrAbility**, a USDA-funded program, helps farmers, ranchers, and agricultural workers with disabilities (including veterans) keep working — through on-farm assessments, assistive technology, and peer support. AgrAbility reports that this assistance helps many participants continue in agriculture.
 - **The South is organizing regionally.** **New Disabled South** — launched in 2022, the first regional disability-justice organization in the U.S. — built a 14-state coalition organizing mutual aid and political power.
 
 Lead with this: rural disabled people are the experts on their own survival and the architects of the solutions below.
@@ -34,16 +34,16 @@ Distance is a *designed* barrier — built by policy, not personal failing — w
 
 - **Higher prevalence.** About **14.7% of rural Americans** report a disability vs. **12.6%** in urban areas, rising to roughly **18%** in the most rural counties (U.S. Census, 2021 ACS). The gap holds even after accounting for age.
 - **Transportation deserts.** ADA complementary paratransit is only required within ¾ mile of fixed-route transit — which much of rural America simply doesn't have, leaving a structural coverage gap. Lack of transportation is a leading barrier to community participation.
-- **Healthcare access and hospital closures.** Over **100 rural hospitals have fully closed since 2005**; afterward, residents traveled roughly **20 miles farther** for inpatient care and **40 miles farther** for specialized services. About 20% of Americans live rurally, but only ~10% of physicians practice there.
+- **Healthcare access and hospital closures.** Since 2005, nearly **200 rural hospitals have closed or converted** — about **108 shutting down entirely** and **88 ending inpatient care** while keeping some outpatient or emergency services ([UNC Sheps Center](https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/)). After a closure, residents have had to travel substantially farther for care — on the order of 20 miles farther for inpatient services and 40 miles farther for specialized care (U.S. GAO, 2020). Roughly 20% of Americans live rurally, but only about 10% of physicians practice there (National Rural Health Association).
 - **Broadband and telehealth gaps.** A large share of rural and tribal-land residents lack high-speed broadband (FCC figures, which critics say *understate* the gap), and rural adults are far less likely to use telehealth — a barrier that compounds for people with intellectual and developmental disabilities. *(Broadband figures are modeled estimates; treat as approximate.)*
 - **Employment and poverty.** Disabled adults in the most rural counties have lower employment and higher poverty than their metro peers (Census ACS).
-- **Thin service reach.** Centers for Independent Living carry a statutory rural-outreach mandate precisely because these communities are under-reached — and their funding can be unstable.
+- **Thin service reach.** Centers for Independent Living are expected to serve underserved areas, including rural ones, but rural coverage is thin and their funding can be unstable — so many rural disabled people live far from the nearest CIL.
 
 ---
 
 ## Global scope (weaker data — hedge)
 
-The most-cited global figures come from the WHO's 2011 *World Report on Disability*, which estimated that a large majority of disabled people in developing countries live in rural areas. *These figures are now over a decade old and definitionally rough — treat them as an aging estimate, not a current count.*
+The most-cited global reference is the WHO's 2011 *World Report on Disability*, which noted that disability is more prevalent among rural and lower-income populations in developing countries. *That report is now over a decade old and its estimates are definitionally rough — treat them as aging context, not a current count.* (We could not confirm a specific "large majority live in rural areas" figure, so it has been removed.)
 
 ---
 

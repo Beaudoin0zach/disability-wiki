@@ -29,7 +29,7 @@ Disabled women and gender-diverse people didn't just join disability movements �
 
 Much of what disabled women and gender-diverse people organize against comes down to one question: **who is trusted to decide about their own body?**
 
-- **Reproductive coercion and sterilization.** Tens of thousands of people — disproportionately disabled people, poor people, and people of color — were sterilized under 20th-century eugenics laws. This isn't only history: a 2022 National Women's Law Center analysis found that **31 states and Washington, D.C. still have laws permitting court-authorized sterilization of disabled people**. *(That's a legal-landscape fact about what's permitted, not a measure of how often it happens.)*
+- **Reproductive coercion and sterilization.** Tens of thousands of people — disproportionately disabled people, poor people, and people of color — were sterilized under 20th-century eugenics laws. This isn't only history: a National Women's Law Center analysis (with the Autistic Women & Nonbinary Network; most recent report 2025) found that **31 states and Washington, D.C. still have laws permitting court-authorized sterilization of disabled people**. *(That's a legal-landscape fact about what's permitted, not a measure of how often it happens.)*
 - **Medical dismissal.** Women's pain has long been minimized as "emotional" or "hysterical," and research shows the pattern persists — delayed diagnoses, disbelief, and patients forced into constant self-advocacy. *(Much of this evidence is survey- and experience-based; "medical gaslighting" is a lived-experience term, strong as a pattern rather than a single statistic.)*
 
 ---
@@ -37,7 +37,7 @@ Much of what disabled women and gender-diverse people organize against comes dow
 ## The realities (told honestly)
 
 - **Prevalence.** Across most disability types, prevalence is **higher among women than men** (CDC/BRFSS data).
-- **Violence.** Disabled people experience sexual and intimate-partner violence at substantially higher rates than non-disabled people. The most defensible figures: a 2021 peer-reviewed meta-analysis found roughly **2.3× the odds** of sexual victimization, and U.S. survey data shows women with a disability report lifetime sexual violence at about **double** the rate of non-disabled women — highest for women with multiple disabilities. *(Avoid the widely circulated "80%" figure; it isn't traceable to a sound source.)*
+- **Violence.** Disabled people experience sexual and intimate-partner violence at substantially higher rates than non-disabled people. The most defensible figures: a 2022 peer-reviewed meta-analysis found about **2.3× the odds** of sexual victimization (pooled OR 2.27; [Mailhot Amborski et al., *Trauma, Violence, & Abuse*](https://journals.sagepub.com/doi/full/10.1177/1524838021995975)), and U.S. data show women with a disability experience lifetime sexual violence at about **double** the rate of non-disabled women ([CDC](https://www.cdc.gov/sexual-violence/about/sexual-violence-and-intimate-partner-violence-among-people-with-disabilities.html)) — highest for women with multiple disabilities. *(Avoid the widely circulated "80%" figure; it isn't traceable to a sound source.)*
 - **Care work.** Globally, women perform roughly **three-quarters of unpaid care work**. Disabled women are both more likely to *need* care and, when able, to *give* it — which is why disability justice reframes care as valued, mutual labor rather than burden.
 
 ---

@@ -19,7 +19,7 @@ This page is about how prisons, jails, and policing affect disabled and Deaf peo
 The throughline of disabled and Deaf carceral organizing is a simple, radical claim: **the people most harmed by prisons and policing should lead the work to end that harm** — and many of those organizers are themselves disabled, Deaf, or formerly incarcerated.
 
 - **HEARD** (Helping Educate to Advance the Rights of Deaf communities), founded by Black nonbinary disabled lawyer **Talila A. Lewis**, built the only national database of Deaf and disabled incarcerated people. Its public-education team is made up of **formerly incarcerated** Deaf and disabled people doing political education and reentry work.
-- **A concrete win:** after more than a decade of organizing led by HEARD and allies, the FCC adopted a rule (effective 2024) requiring prison phone companies to provide **videophone access** so Deaf incarcerated people can communicate in ASL.
+- **A concrete win:** after more than a decade of organizing led by HEARD and allies, the FCC adopted a rule (**FCC 24-75**, WC Docket No. 23-62, adopted July 2024) — implementing the Martha Wright-Reed Act — requiring incarcerated-communications providers to offer **point-to-point video service** so Deaf incarcerated people can communicate in ASL.
 - **Disability Justice Culture Club**, a collective of disabled QTBIPOC organizers in East Oakland, builds "joyful resistance," mutual aid, and work against police violence — disabled-led, place-based community power.
 - A growing body of work holds that **disability justice and prison abolition are the same project from two directions** (e.g., Liat Ben-Moshe's *Decarcerating Disability*; Katie Tastrom's *A People's Guide to Abolition and Disability Justice*).
 
@@ -27,7 +27,7 @@ The throughline of disabled and Deaf carceral organizing is a simple, radical cl
 
 ## Disability is the norm behind bars, not the exception
 
-- **Hard data (federal survey):** an estimated **32% of state and federal prisoners and 40% of people in local jails** reported at least one disability — roughly 3–4× the rate in the general population (Bureau of Justice Statistics, 2011–12). **Cognitive disability** is the single most common type. *(These rely on self-report and likely undercount intellectual/developmental and undiagnosed disabilities — treat 1-in-3 as a floor.)*
+- **Hard data (federal survey):** an estimated **32% of state and federal prisoners and 40% of people in local jails** reported at least one disability — roughly 3–4× the rate in the general population (Bureau of Justice Statistics, *Disabilities Among Prison and Jail Inmates, 2011–12*). A later BJS survey (the **2016 Survey of Prison Inmates**, published 2021) found about **38%** of state and federal prisoners reported a disability. **Cognitive disability** is the single most common type. *(These rely on self-report and likely undercount intellectual/developmental and undiagnosed disabilities — treat 1-in-3 as a floor.)*
 - **Mental illness is criminalized.** BJS found roughly **43% of state prisoners** had been told by a professional they had a mental-health condition. Jails and prisons are now widely described as the country's largest psychiatric provider — a well-supported framing born of decades of disinvestment in community care.
 
 ---
@@ -36,9 +36,9 @@ The throughline of disabled and Deaf carceral organizing is a simple, radical cl
 
 - **Denied access can be life-and-death.** Incarcerated Deaf people routinely report no ASL interpreters (including for medical care), being told to lip-read or pass notes — affecting medical treatment, discipline, and parole. Courts have repeatedly found these to be ADA violations.
 - **Policing.** Researchers estimate that **up to a third to a half of people killed by police are disabled** (Ruderman Foundation, 2016). *This is an estimate from a media-coverage analysis, not a comprehensive death count — keep it hedged.*
-- **Criminalizing homelessness.** After the Supreme Court's 2024 *Grants Pass* decision allowed cities to enforce anti-camping laws against unhoused people, hundreds of criminalization bills followed — directly affecting people with psychiatric and substance-use disabilities.
+- **Criminalizing homelessness.** After the Supreme Court's 2024 *Grants Pass* decision allowed cities to enforce anti-camping laws against unhoused people, many cities and states moved to pass or expand camping bans and other criminalization measures (tracked by groups such as the National Homelessness Law Center) — directly affecting people with psychiatric and substance-use disabilities.
 - **School-to-prison pipeline.** Students with disabilities are about 17% of K–12 enrollment but receive roughly **29% of out-of-school suspensions**, suspended at about 3× the rate of non-disabled peers — with race compounding the gap.
-- **Solitary confinement** both targets disabled people and *creates* lasting psychiatric disability; roughly half of prison and jail suicides occur in solitary.
+- **Solitary confinement** both targets disabled people and *creates* lasting psychiatric disability; by some estimates around half of prison and jail suicides occur in solitary, even though people held there are only a small share of those incarcerated (a pattern documented by suicide-prevention researchers and corrections-oversight bodies).
 
 ---
 

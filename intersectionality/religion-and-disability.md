@@ -33,7 +33,7 @@ Harm and liberation often live inside the *same* tradition — sometimes the sam
 - **Disability as sin or punishment** — a damaging reading that treats disability as the result of wrongdoing. In Hindu and Buddhist contexts this often attaches to *karma*, which scholars stress is widely **misread** as simple punishment rather than doctrine. **[interpretive]**
 - **Disability as "special blessing" or inspiration** — the flip side, treating disabled people as angelic or as inspiration for others ("inspiration porn"). It sounds kind but still removes full humanity and real needs.
 - **Faith-healing pressure** — framing disability as something prayer or "enough faith" *should* cure, which can imply that an unhealed person lacks faith, and can pressure people to forgo medical care or accommodations.
-- **Exclusion through inaccessibility** — even welcoming theology fails when buildings, rituals, and leadership pathways aren't accessible. In one large Jewish-community survey, about **22%** said they or a household member had been turned away from a faith activity over an unmet accommodation. *(Jewish-community data; don't generalize to all faiths.)*
+- **Exclusion through inaccessibility** — even welcoming theology fails when buildings, rituals, and leadership pathways aren't accessible. In **RespectAbility's 2021 survey of the U.S. Jewish community** (the organization is now [Disability Belongs](https://www.disabilitybelongs.org/2021/11/jewish-survey-results-2021/)), about **22%** said they or a household member had been turned away from an activity in their faith community because it would not make a reasonable accommodation. *(Jewish-community data; don't generalize to all faiths.)*
 
 ### Liberation inside the same traditions
 - **Christianity:** Eiesland's "Disabled God"; a broad movement toward accessible worship and disability-led ministry.
@@ -55,8 +55,7 @@ Belonging in disability community is not conditional on belief. Leaving a religi
 ## Organizations and resources
 
 - **[Collaborative on Faith and Disability](https://faithanddisability.org/)** — research, education, and the Institute on Theology and Disability.
-- **[Interfaith Disability Advocacy Coalition](https://www.aapd.com/idac/)** — cross-tradition coalition on disability policy (via AAPD).
-- **[RespectAbility / Disability Belongs — Faith toolkits](https://www.respectability.org/jewish-toolkit/)** — inclusion resources including the Jewish Disability Inclusion Toolkit.
+- **[Disability Belongs — Faith Inclusion toolkits](https://www.disabilitybelongs.org/jewish-toolkit/)** (formerly RespectAbility) — inclusion resources including the Jewish Disability Inclusion Toolkit and cross-faith guides.
 - **[MUHSEN](https://muhsen.org/)** — Muslim-led nonprofit building accessible mosques and communities.
 - **[National Catholic Partnership on Disability](https://www.ncpd.org/)** — Catholic inclusion in parish life and the sacraments.
 - **[Faith Inclusion Network](https://www.faithinclusionnetwork.org/)** — interfaith support for inclusive congregations.
