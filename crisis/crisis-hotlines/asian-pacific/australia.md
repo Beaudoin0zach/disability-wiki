@@ -27,7 +27,7 @@ to read everything.
 **Text:** 0477 13 11 14  
 **Chat:** lifeline.org.au  
 **Hours:** 24/7, 365 days a year  
-**Cost:** Local call rate only (very cheap)  
+**Cost:** Free (call, text, and chat)  
 
 **What happens:**
 - 24/7 crisis support and suicide prevention

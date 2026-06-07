@@ -1,0 +1,125 @@
+---
+name: disability-wiki-slop
+description: >-
+  Scan disability-wiki pages for AI-slop — the tells of AI-generated content that
+  erode trust or, worse, mislead someone making a real benefits/rights/crisis
+  decision. Use when the user wants to "slop-check" a page, "check this for AI
+  tells / AI-generated patterns", review newly drafted/imported content before
+  publishing, or sweep a section for fabricated facts and filler prose. Two tiers:
+  FACTUAL slop (fabricated numbers, blanket safety claims, false "verified"
+  attributions, unhedged legal claims — the dangerous kind on a life-safety wiki)
+  and STYLISTIC slop (delve/tapestry/throat-clearing/Title-Case headings). It
+  detects and routes; it does not silently rewrite. Trigger on "slop", "AI slop",
+  "AI tells", "is this AI-generated", "slop sweep/audit" for this repo's content.
+---
+
+# Disability-Wiki Slop Detector
+
+This wiki is AI-generated and serves people making real decisions about money,
+legal rights, and personal safety. So "slop" here is not only *ugly* prose — the
+dangerous slop is **plausible-sounding fabricated fact**. A made-up hotline number
+or a confident-but-wrong legal claim can hurt someone. Scan for both, but treat
+the factual tier as the priority.
+
+This skill **detects and routes** — it flags, cites `file:line`, and hands off.
+It does not rewrite content itself: factual flags go to **disability-wiki-accuracy**
+(verify against primary sources, then fix), stylistic/voice flags go to the house
+voice in **disability-wiki-page**. Read `references/rubric.md` for the full lists.
+
+## How to run a sweep
+
+1. **Scope it.** One page, a section, a category, or a diff (e.g. a freshly
+   imported/AI-drafted page before publish). For a git diff, only scan added/
+   changed prose lines.
+2. **Scan prose only.** Skip frontmatter, code spans, tables of raw data, and
+   text quoted from statutes/sources (quotation marks, blockquotes citing a law).
+   Flagging a quoted statute as "unhedged legal claim" is a false positive.
+3. **Walk both tiers** (below). Record each hit as `path:line — tell — why — fix/route`.
+4. **Report, grouped by tier then severity.** Don't fix in place. End with a
+   one-line routing summary: which flags need disability-wiki-accuracy (verify),
+   which need a voice/style pass.
+
+## Tier 1 — FACTUAL slop (priority; route to disability-wiki-accuracy)
+
+These are the patterns the 2026-06 audit caught. Each is a *signal to verify*, not
+proof of error — but on this wiki, unverified specifics are the whole problem.
+
+- **Blanket safety/eligibility promises.** "All services are free, confidential,
+  and available 24/7", "always", "guaranteed", "everyone qualifies", "in all
+  states". Real services vary. → soften to per-service hedged wording; verify.
+- **False / vague attribution.** "Verified through official sources", "according
+  to official data", "studies show", "research indicates", "experts agree" with
+  **no live link**. → either cite the primary source or drop the claim of authority.
+- **Unsourced hard specifics.** A dollar amount, percentage, deadline, statistic,
+  or **phone/hotline number** stated with no date-stamp and no source link —
+  especially as a page's *lead* contact. AI invents these confidently. → verify
+  against the official source; date-stamp figures.
+- **Life-safety numbers.** Any crisis/abuse/hotline number. NEVER trust a single
+  AI. → mandatory cross-verification via disability-wiki-accuracy.
+- **Unhedged legal claims.** "You are entitled to", "the law requires", "the ADA
+  guarantees", "they must" stated absolutely about contested or jurisdiction-
+  dependent rules. → hedge + attribute (e.g. "Title I generally requires…"),
+  distinguish fact from advocacy interpretation.
+- **Plausible-but-checkable entities.** Org names, program names, statute section
+  numbers, or citations that look right but may be fabricated/merged/renamed
+  (e.g. a real org with a wrong number, two programs conflated). → verify the org
+  is live and the cite exists.
+- **Internal contradiction.** The page states a figure one way in the lead and
+  another later, or "set in 1989" vs "set in 1972". → reconcile against source.
+
+## Tier 2 — STYLISTIC slop (route to disability-wiki-page house voice)
+
+Full word/phrase/structure tables in `references/rubric.md`. Highlights:
+
+- **AI marker words:** delve, realm, tapestry, leverage (as verb), utilize,
+  seamless, robust, synergy, paradigm, "navigate the landscape". (Domain-legit
+  exceptions — *accessibility*, *comprehensive coverage*, literal *navigate the
+  system* — are listed in the rubric; don't flag those.)
+- **Throat-clearing / filler:** "It's important to note that…", "In today's
+  [X] landscape…", "When it comes to…", "At the end of the day…".
+- **AI enthusiasm:** "This is a game-changer", "…and that's a good thing!",
+  "Here's the thing:", "It's worth noting".
+- **Structures:** the "Not just X — it's Y" construction, rule-of-three synonym
+  stacks ("comprehensive, robust, and holistic"), em-dash overuse. (Heading case:
+  English pages use Title Case as house style — do NOT flag it; only `es/` pages
+  want sentence case, which is the spanish-wiki-translation skill's concern.)
+
+## Tier 2b — VOICE slop (disability-wiki specific; route to disability-wiki-page)
+
+The wiki's non-negotiable voice is **"lead with agency, harm as context."** AI
+drafts violate it in recognizable ways — treat these as slop too:
+
+- **Pity/deficit lead:** the page opens with what's done *to* people (barriers,
+  tragedy, "the struggles of…") instead of what they build/lead. → reframe lead.
+- **Medicalizing / dehumanizing terms:** "suffers from", "victim of",
+  "wheelchair-bound", "the disabled", "special needs", "differently abled". →
+  person-first / identity-affirming language.
+- **Ends on the trap:** closes on "the system keeps them stuck" with no agency.
+  → end on strength/self-advocacy.
+
+## Output format
+
+```
+🔴 Tier 1 — Factual (verify before publish)
+- benefits/us/ssi.md:42 — "$1,200 break-even" unsourced + contradicts later "$2,000" → reconcile, verify vs SSA → disability-wiki-accuracy
+- crisis/.../mexico.md:26 — lead hotline is a US 1-800 number → wrong-country lead, verify → disability-wiki-accuracy
+
+🟡 Tier 2 — Stylistic / Voice
+- conditions/x.md:11 — "delve into" → examine/look at
+- intersectionality/y.md:9 — Title Case heading → sentence case
+- housing/z.md:14 — opens on "the barriers facing…" → lead with agency
+
+Routing: 2 factual flags → disability-wiki-accuracy; 3 style/voice → disability-wiki-page.
+```
+
+Only surface High/Medium stylistic items individually; batch Low ones as a count.
+Always surface **every** Tier 1 factual flag — a missed fabricated number is the
+failure mode this skill exists to prevent.
+
+## Skip / false-positive guard
+
+- Skip code, JSON/YAML/CSV, frontmatter, `node_modules`, `.git`.
+- Don't flag quoted statute/source text, or a number that **already** carries a
+  date-stamp + live source link (that's the correct pattern, not slop).
+- Don't flag disability domain vocabulary that's legitimate here (see rubric).
+- "Comprehensive" is often fine on a resource hub; judge in context.
