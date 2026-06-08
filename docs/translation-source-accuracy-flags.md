@@ -28,6 +28,13 @@ on them:
 
 **Life-safety priority — DONE.** The crisis-page `es/` versions previously showed wrong/obsolete numbers; all are now corrected: Mexico → Línea de la Vida 800-911-2000; Thailand 1300 → DMH 1323; India → adds Tele-MANAS 14416; Indonesia → Healing119 / 119 ext 8; Philippines → NCMH 1553; Australia → Lifeline "gratuito"; UK + abuse-resources → Rape & Sexual Abuse Support Line 0808 500 2222; US/Canada → 988 emergency-policy wording. Blanket "all free/confidential/24-7" footers and false "verified" lines softened to match EN.
 
+### 🚑 Tier A GAP — blanket claims the original audit MISSED (fixed 2026-06-07)
+Surfaced while regenerating es/ meta descriptions: the Tier A crisis audit covered the main country pages but **missed 5 sub-pages**, which still carried the dangerous blanket forms ("all services free/confidential/24-7", "police only if immediate danger", false "all numbers verified through official sources"). Now hedged to the canonical Cost/Confidentiality/Hours block + "confirm each number" footer, **EN + ES**:
+- `crisis/crisis-hotlines/africa/{kenya,nigeria,south-africa}` (+ es/) — full blanket block replaced; frontmatter descriptions rewritten (they carried "Police only involved if immediate danger").
+- `crisis/crisis-hotlines/south-america/argentina` (+ es/) — blanket block hedged.
+- `crisis/crisis-hotlines/north-america/united-states` (+ es/) — leftover false "verified through official sources" footer fixed.
+- ⬜ **Separate content bug (flag, not yet fully fixed):** the **English** `argentina` and `mexico` pages contain Spanish-language sections (e.g. argentina's "Información Importante" block — now converted to EN; mexico lines ~209/217 still Spanish though correctly hedged). The EN crisis pages should be swept for untranslated Spanish content.
+
 > Note: the aggregator index `es/crisis/crisis-hotlines/asian-pacific.md` was checked — its Thailand "1300" is the **Baan Kredtrakarn child-abuse line** (a distinct, valid service), not the obsolete Samaritans number, so it correctly mirrors EN and needs no change.
 
 **Remaining ES sync (next session):** the benefits/ and rights/ pages listed above (⬜) are NOT yet synced to their Tier B/C English corrections.

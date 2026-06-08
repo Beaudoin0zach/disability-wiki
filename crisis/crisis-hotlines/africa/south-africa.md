@@ -1,6 +1,6 @@
 ---
 title: Crisis Hotlines in South Africa
-description: If you're in crisis right now, you're not alone. All services are free or use local call rates (very cheap). Confidential.
+description: Crisis and mental-health support lines for South Africa, including Befrienders, the Suicide Crisis Line, and Childline. If you're in crisis right now, you're not alone.
 published: true
 date: 2026-06-05T20:30:29.924Z
 tags: 
@@ -198,17 +198,17 @@ Crisis lines help you get through RIGHT NOW. After that:
 
 ## Important Information
 
-### It's Free or Very Low Cost
+### Cost
 
-All services are free or use local call rates (very cheap).
+Most services are free, but some lines charge a local call rate, and hours vary by service — check each one.
 
-### It's Confidential
+### Confidentiality
 
-Confidential. Police only involved if immediate danger.
+These lines are confidential. Emergency services are contacted only in cases of serious, imminent, life-threatening risk.
 
-### It's 24/7
+### Hours
 
-All major services run 24/7.
+Many services run 24/7, but some have limited hours — check each listing.
 
 ### You Can Call Multiple Times
 
@@ -233,11 +233,11 @@ Disability discrimination is illegal. If a service discriminates, speak up.
 ---
 
 
-*All numbers verified through official South African sources*
+*Confirm each number with the service before calling; details can change.*
 
 **In crisis right now?** Call 0861-322 322 or 0800-567-567. Everything else can wait.
 
-**All services are free or low-cost, confidential, and available 24/7.**
+*Cost, confidentiality, and hours vary by service — check each listing.*
 
 ---
 

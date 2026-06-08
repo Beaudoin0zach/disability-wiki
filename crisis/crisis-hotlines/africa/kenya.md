@@ -1,6 +1,6 @@
 ---
 title: Crisis Hotlines in Kenya
-description: If you're in crisis right now, you're not alone. Confidential. Police only involved if immediate danger. Many people use crisis services multiple times.
+description: Crisis and mental-health support lines for Kenya, including the Kenya Red Cross line and Befrienders Kenya. If you're in crisis right now, you're not alone.
 published: true
 date: 2026-06-05T20:30:21.251Z
 tags: 
@@ -191,13 +191,17 @@ Crisis lines help you get through RIGHT NOW. After that:
 
 ## Important Information
 
-### It's Free
+### Cost
 
-All services listed are completely free.
+Most services listed are free, but cost and hours vary by service — check each one.
 
-### It's Confidential
+### Hours
 
-Confidential. Police only involved if immediate danger.
+Many services run 24/7, but some have limited hours — check each listing.
+
+### Confidentiality
+
+These lines are confidential. Emergency services are contacted only in cases of serious, imminent, life-threatening risk.
 
 ### You Can Call Multiple Times
 
@@ -222,11 +226,11 @@ Disability discrimination is illegal. If a service discriminates, speak up.
 ---
 
 
-*All numbers verified through official Kenyan sources*
+*Confirm each number with the service before calling; details can change.*
 
 **In crisis right now?** Call 0800 721 100. Everything else can wait.
 
-**All services are free, confidential, and available 24/7.**
+*Cost, confidentiality, and hours vary by service — check each listing.*
 
 ---
 

@@ -266,7 +266,7 @@ Todas estas son razones válidas para llamar.
 ---
 
 
-*Todos los números verificados a través de fuentes oficiales*
+*Confirma cada número con el servicio antes de llamar; los datos pueden cambiar.*
 
 **¿En crisis ahora mismo?** Llama o envía un mensaje de texto al 988. Todo lo demás puede esperar.
 

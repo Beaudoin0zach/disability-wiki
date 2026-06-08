@@ -162,27 +162,27 @@ Los consejeros están entrenados para ayudar.
 
 ---
 
-## Información Importante
+## Important Information
 
-### Es Gratuito
+### Cost
 
-Todos los servicios son gratuitos.
+Most services listed are free, but cost and hours vary by service — check each one.
 
-### Es Confidencial
+### Confidentiality
 
-Confidencial. Policía solo si peligro inmediato.
+These lines are confidential. Emergency services are contacted only in cases of serious, imminent, life-threatening risk.
 
-### Es 24/7
+### Hours
 
-Disponible 24/7.
+Many services run 24/7, but some have limited hours — check each listing.
 
-### Puedes Llamar Múltiples Veces
+### You Can Call Multiple Times
 
-Es normal llamar varias veces.
+Many people use crisis services multiple times. That's normal.
 
-### No Estás "Enfermo Suficiente"
+### You're Not "Sick Enough" to Call
 
-Si lo preguntas, estás suficientemente enfermo. Llama.
+If you're asking whether you're "sick enough" to call → **You are.** Call.
 
 ---
 
@@ -196,7 +196,7 @@ Si lo preguntas, estás suficientemente enfermo. Llama.
 
 **¿En crisis ahora?** Llama a Teléfono de la Esperanza. Todo lo demás puede esperar.
 
-**All services are free, confidential, and available 24/7.**
+*Cost, confidentiality, and hours vary by service — check each listing.*
 
 ---
 

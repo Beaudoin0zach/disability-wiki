@@ -197,13 +197,17 @@ Las líneas de crisis te ayudan a salir adelante AHORA MISMO. Después de eso:
 
 ## Información importante
 
-### Es gratuito
+### Costo
 
-Todos los servicios listados son completamente gratuitos.
+La mayoría de los servicios son gratuitos, pero el costo y el horario varían según el servicio; consulta cada uno.
 
-### Es confidencial
+### Horario
 
-Confidencial. La policía solo se involucra si hay peligro inmediato.
+Muchos servicios funcionan 24/7, pero algunos tienen horario limitado; consulta cada uno.
+
+### Confidencialidad
+
+Estas líneas son confidenciales. Los servicios de emergencia se contactan solo en casos de riesgo grave e inminente.
 
 ### Puedes llamar varias veces
 
@@ -227,11 +231,11 @@ El apoyo a las personas LGBTQ+ es confidencial. Tu seguridad está protegida.
 ---
 
 
-*Todos los números verificados a través de fuentes oficiales de Nigeria*
+*Confirma cada número con el servicio antes de llamar; los datos pueden cambiar.*
 
 **¿En crisis en este momento?** Llama al +234-809-063-0000. Todo lo demás puede esperar.
 
-**Todos los servicios son gratuitos, confidenciales y están disponibles 24/7.**
+*El costo, la confidencialidad y el horario varían según el servicio; consulta cada uno.*
 
 ---
 

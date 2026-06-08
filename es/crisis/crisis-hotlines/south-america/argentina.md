@@ -164,17 +164,17 @@ Los consejeros están capacitados para ayudar.
 
 ## Información importante
 
-### Es gratuito
+### Costo
 
-Todos los servicios son gratuitos.
+La mayoría de los servicios son gratuitos, pero el costo y el horario varían según el servicio; consulta cada uno.
 
-### Es confidencial
+### Confidencialidad
 
-Confidencial. Se contacta a la policía solo si hay peligro inmediato.
+Estas líneas son confidenciales. Los servicios de emergencia se contactan solo en casos de riesgo grave e inminente.
 
-### Es 24/7
+### Horario
 
-Disponible 24/7.
+Muchos servicios funcionan 24/7, pero algunos tienen horario limitado; consulta cada uno.
 
 ### Puedes llamar varias veces
 
@@ -196,7 +196,7 @@ Si te lo preguntas, estás lo suficientemente mal. Llama.
 
 **¿En crisis ahora mismo?** Llama a Teléfono de la Esperanza. Todo lo demás puede esperar.
 
-**Todos los servicios son gratuitos, confidenciales y están disponibles 24/7.**
+*El costo, la confidencialidad y el horario varían según el servicio; consulta cada uno.*
 
 ---
 

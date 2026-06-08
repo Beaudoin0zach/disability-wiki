@@ -1,6 +1,6 @@
 ---
 title: Crisis Hotlines in Nigeria
-description: Confidential. Police only involved if immediate danger. Many people use crisis services multiple times. That's normal.
+description: Crisis and mental-health support lines for Nigeria, including Lifeline Nigeria. If you're in crisis right now, you're not alone.
 published: true
 date: 2026-06-05T20:30:25.819Z
 tags: 
@@ -197,13 +197,17 @@ Crisis lines help you get through RIGHT NOW. After that:
 
 ## Important Information
 
-### It's Free
+### Cost
 
-All services listed are completely free.
+Most services listed are free, but cost and hours vary by service — check each one.
 
-### It's Confidential
+### Hours
 
-Confidential. Police only involved if immediate danger.
+Many services run 24/7, but some have limited hours — check each listing.
+
+### Confidentiality
+
+These lines are confidential. Emergency services are contacted only in cases of serious, imminent, life-threatening risk.
 
 ### You Can Call Multiple Times
 
@@ -227,11 +231,11 @@ LGBTQ+ support is confidential. Your safety is protected.
 ---
 
 
-*All numbers verified through official Nigerian sources*
+*Confirm each number with the service before calling; details can change.*
 
 **In crisis right now?** Call +234-809-063-0000. Everything else can wait.
 
-**All services are free, confidential, and available 24/7.**
+*Cost, confidentiality, and hours vary by service — check each listing.*
 
 ---
 
