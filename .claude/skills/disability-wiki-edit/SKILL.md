@@ -102,7 +102,17 @@ sync pipeline (see recovery below). To remove a page:
 - Frontmatter `published:false` in the repo does **NOT** propagate to the DB on pull
   (observed). Publish-state lives in the DB; change it via API.
 - The whole repo syncs to the wiki, so non-content paths (`.claude/`, `docs/`,
-  root `AUDIT_*`/`README`) get published as pages unless removed/unpublished.
+  root `AUDIT_*`/`README`, `archetypes/`) get imported as **published** pages —
+  Wiki.js v2 has **no import-exclude** (only `.git` is skipped; `.gitignore` is
+  honored only on commit, not import; frontmatter `published:false` is ignored on
+  import; dot-dirs import with the dot stripped). Only `.md`/`.html` leak (not
+  `.py`/`.sh`/`.yml`), and they re-publish whenever the file changes. There's no way
+  to prevent this at the storage layer, so run the sweep guard after touching any
+  non-content `.md`:
+  ```
+  python3 scripts/sweep_noncontent_pages.py           # report leaked pages
+  python3 scripts/sweep_noncontent_pages.py --apply    # unpublish them
+  ```
 
 ### Force a Git pull (publish repo changes immediately)
 ```graphql
@@ -178,6 +188,7 @@ life-safety priority.
 - [ ] Verify internal links resolve (see disability-wiki-page)
 - [ ] Commit to `main` (or branch+PR), then force-sync
 - [ ] To remove a page: API `pages.delete`/unpublish — NEVER `git rm` (wedges the sync)
+- [ ] Touched a non-content `.md` (`.claude/`, `docs/`, root meta)? Run `scripts/sweep_noncontent_pages.py --apply` after syncing
 - [ ] Verify via API (`pages{single{content}}`), not curl — Cloudflare caches the HTML
 - [ ] Token never committed; temp copy deleted after
 - [ ] If you changed an English page, note the `es/` sync need
