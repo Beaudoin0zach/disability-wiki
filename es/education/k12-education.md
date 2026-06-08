@@ -281,7 +281,7 @@ La **Australian Human Rights Commission** gestiona las quejas por discriminació
 
 ### Principios
 
-Si tu país firmó la CDPD, los niños con discapacidad tienen derecho a la educación con apoyos. La implementación varía ampliamente.
+Si tu país ha **ratificado** la CDPD, se ha comprometido con la educación inclusiva con apoyos, aunque la implementación interna y la exigibilidad varían ampliamente. (Firmar no es ratificar: Estados Unidos firmó la CDPD en 2009 pero nunca la ratificó, por lo que los derechos de los niños en EE. UU. provienen de IDEA y la Sección 504, no de la CDPD.)
 
 ### Perspectivas del Sur Global
 

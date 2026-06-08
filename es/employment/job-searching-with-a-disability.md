@@ -20,7 +20,7 @@ Esta página pone en el centro los conocimientos de las personas con discapacida
 
 ### La discriminación es real
 
-Seamos honestos: la discriminación en la contratación contra las personas con discapacidad está bien documentada. Los estudios muestran que las personas postulantes con discapacidad reciben menos respuestas con currículums idénticos. Esto no es tu culpa: es capacitismo sistémico.
+Seamos honestos: la discriminación en la contratación contra las personas con discapacidad está bien documentada. En un amplio experimento de campo que envió currículums equiparados que solo diferían en una discapacidad comunicada, las personas postulantes con discapacidad recibieron alrededor de un 26 % menos de expresiones de interés por parte de las personas empleadoras ([Ameri et al., 2018, *ILR Review*](https://journals.sagepub.com/doi/10.1177/0019793917717474)). Esto no es tu culpa: es capacitismo sistémico.
 
 ### Pero el empleo también lo es
 

@@ -34,11 +34,11 @@ on them:
 
 ### ⚠️ ES SYNC — employment/ + education/ (added 2026-06-07, from cold slop-sweep fixes)
 These English pages were corrected this session (commits `8fa5f04`, `1f98057`) and their `es/` counterparts are now stale:
-- ⬜ `es/employment/workplace-accommodations.md` — §503/§504 split (federal contractors = 503); JAN cost figures + source; ESA case-by-case
-- ⬜ `es/employment/employment-rights-by-country.md` — Spain LISMI → Royal Legislative Decree 1/2013; CRPD "standard ≠ enforceable remedy" caveat at lead
-- ⬜ `es/employment/job-searching-with-a-disability.md` — "studies show … fewer callbacks" → Ameri et al. 2018 (~26%) + link
-- ⬜ `es/education/higher-education.md` — CRPD "signed" → "ratified" + US-signed-not-ratified caveat
-- ⬜ `es/education/k12-education.md` — same CRPD signing≠ratifying caveat
+- ✅ `es/employment/workplace-accommodations.md` — **SYNCED 2026-06-07** (edited): §503 (federal contractors, $10k+) vs §504 (federal-fund recipients) de-conflated; JAN cost figures (~61% no-cost / ~$300 median); ESA case-by-case; legal-right hedge; frontmatter description. Validated clean. *(Open EN flag: confirm JAN 61%/$300 vs askjan.org.)*
+- ✅ `es/employment/employment-rights-by-country.md` — **SYNCED 2026-06-07** (edited): Spain LISMI → Real Decreto Legislativo 1/2013 (2% reservation, 50+ employees); CDPD "standard ≠ enforceable individual remedy" lead caveat; fixed CDPD gloss (dropped English convention name per glossary). Validated clean.
+- ✅ `es/employment/job-searching-with-a-disability.md` — **SYNCED 2026-06-07** (edited): vague "fewer callbacks" → Ameri et al. 2018 (*ILR Review*), ~26% fewer expressions of employer interest, with link. Validated clean.
+- ✅ `es/education/higher-education.md` — **SYNCED 2026-06-07** (edited): CDPD signing≠ratifying caveat (US signed 2009, never ratified; US rights from ADA/§504); frontmatter description. Validated clean.
+- ✅ `es/education/k12-education.md` — **SYNCED 2026-06-07** (edited): same CDPD signing≠ratifying caveat (US signed 2009; US rights from IDEA/§504). Validated clean.
 - ✅ `es/benefits/index.md` — 2026 figures ($994/$1,690); one-vehicle exclusion; DAC age-22 clarification *(synced 2026-06-07, commit `7739db4`)*
 - ✅ `es/benefits/poverty-and-benefits-trap.md` — 2026 SSI base; 1972/1989 reconciliation; inflation/proposed-limit correction *(synced 2026-06-07, commit `7739db4`)*
 - ✅ `es/rights/filing-a-disability-complaint.md` — **SYNCED 2026-06-07** (edited): OCR section was misrouting IDEA → now OCR = §504/Title II only with an explicit note it does NOT handle IDEA/IEP; added an IDEA complaint section (state complaint 1yr / due-process hearing 2yr, 34 CFR 300.153/300.507); fixed the SoL table; also repaired broken frontmatter description. Validated clean.
@@ -136,3 +136,14 @@ pages, bringing the repo to 0 broken). Propagated to `es/`:
 - `es/daily-living/mobility-aid-stigma.md`
 
 All 7 files pass `check_translation.py`; all `/es/` cross-links resolve.
+
+---
+
+## ✅✅ employment/employment-rights-by-country.md synced (2026-06-07)
+
+Synced `es/employment/employment-rights-by-country.md` to the audit-corrected English source. Two corrections applied:
+
+1. **Lead caveat (CRPD/CDPD enforceability)** — added the sentence noting the CDPD sets an international standard whose individual enforceability depends on each country's national implementation. Also fixed the first-use CDPD gloss to the official Spanish name ("Convención sobre los Derechos de las Personas con Discapacidad (CDPD)") rather than carrying the English convention name.
+2. **Spain LISMI → RDL 1/2013** — replaced "La LISMI" with "La Ley General de derechos de las personas con discapacidad (Real Decreto Legislativo 1/2013, que consolidó la antigua LISMI)" per current English.
+
+Passes `check_translation.py`.

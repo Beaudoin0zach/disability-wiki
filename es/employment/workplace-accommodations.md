@@ -1,6 +1,6 @@
 ---
 title: Adaptaciones en el lugar de trabajo
-description: Las adaptaciones en el lugar de trabajo son ajustes a los trabajos, los entornos laborales o las prácticas de trabajo que permiten a las personas con discapacidad hacer su trabajo. Son un derecho legal en…
+description: Las adaptaciones en el lugar de trabajo son ajustes a los trabajos, los entornos laborales o las prácticas de trabajo que permiten a las personas con discapacidad hacer su trabajo.
 published: true
 date: 2026-06-05T20:33:54.797Z
 tags: 
@@ -10,7 +10,7 @@ dateCreated: 2025-11-28T00:22:39.759Z
 
 # Adaptaciones en el lugar de trabajo
 
-Las adaptaciones en el lugar de trabajo son ajustes a los trabajos, los entornos laborales o las prácticas de trabajo que permiten a las personas con discapacidad hacer su trabajo. Son un derecho legal en la mayoría de los países, y funcionan: los estudios muestran de manera consistente que las adaptaciones son de bajo costo y efectivas.
+Las adaptaciones en el lugar de trabajo son ajustes a los trabajos, los entornos laborales o las prácticas de trabajo que permiten a las personas con discapacidad hacer su trabajo. Donde se aplican las leyes contra la discriminación por discapacidad, son un derecho legal, y funcionan: la [Job Accommodation Network](https://askjan.org/topics/costs.cfm) de EE. UU. concluye que la mayoría de las adaptaciones son de bajo costo o sin costo (alrededor del 61 % no cuesta nada implementarlas; las que tienen un costo único promedian una mediana de aproximadamente $300).
 
 Esta página pone en el centro los conocimientos de las personas trabajadoras con discapacidad sobre cómo solicitar y obtener adaptaciones.
 
@@ -59,7 +59,7 @@ Las adaptaciones en el lugar de trabajo son cambios que eliminan barreras para l
 - Retroalimentación clara y directa
 
 **Otras**:
-- Animal de servicio o animal de apoyo emocional
+- Animal de servicio en el lugar de trabajo (otros animales de asistencia o de apoyo emocional se consideran caso por caso, no de forma automática)
 - Código de vestimenta modificado (por equipo médico, necesidades sensoriales)
 - Trabajo desde casa
 - Traslado a un puesto vacante
@@ -72,7 +72,7 @@ Las adaptaciones en el lugar de trabajo son cambios que eliminan barreras para l
 
 La mayoría de los países exigen que las personas empleadoras provean adaptaciones razonables:
 
-**Estados Unidos**: ADA (personas empleadoras con 15 o más personas empleadas), Sección 504 (contratistas federales y receptores de fondos federales), leyes estatales (que a menudo cubren a personas empleadoras más pequeñas)
+**Estados Unidos**: ADA (personas empleadoras con 15 o más personas empleadas), Sección 503 (contratistas y subcontratistas federales con contratos de $10,000 o más), Sección 504 (receptores de asistencia financiera federal y agencias federales), leyes estatales (que a menudo cubren a personas empleadoras más pequeñas)
 
 **Reino Unido**: Equality Act 2010 (todas las personas empleadoras)
 

@@ -1,6 +1,6 @@
 ---
 title: Educación superior
-description: Todas las personas con discapacidad tienen derecho a la educación en igualdad de condiciones con las demás. El artículo 24 de la Convención sobre los Derechos de las Personas con Discapacidad (CDPD)…
+description: El artículo 24 de la Convención sobre los Derechos de las Personas con Discapacidad (CDPD) exige que las personas con discapacidad puedan acceder a la educación superior sin discriminación…
 published: true
 date: 2026-06-05T20:33:23.438Z
 tags: 
@@ -227,7 +227,7 @@ La **Australian Disability Students Network** aboga por los estudiantes con disc
 
 ### Principios que se aplican en todas partes
 
-Si tu país ha firmado la CDPD (la mayoría lo ha hecho), tienes derecho a un acceso no discriminatorio a la educación superior con adaptaciones razonables.
+Si tu país ha **ratificado** la CDPD, se ha comprometido a garantizar un acceso no discriminatorio a la educación superior con adaptaciones razonables, aunque cuán exigible sea esto para ti depende de las leyes de tu país. (Firmar un tratado no es lo mismo que ratificarlo: Estados Unidos firmó la CDPD en 2009, pero nunca la ratificó, así que los derechos de los estudiantes en EE. UU. provienen de la ADA y la Sección 504, no de la CDPD).
 
 ### Cómo encontrar apoyo
 

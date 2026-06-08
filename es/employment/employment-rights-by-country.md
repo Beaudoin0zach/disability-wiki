@@ -10,7 +10,7 @@ dateCreated: 2025-11-27T23:13:06.523Z
 
 # Derechos laborales por país
 
-Todas las personas con discapacidad tienen derecho a trabajar en igualdad de condiciones con las demás. El artículo 27 de la Convención de la ONU sobre los Derechos de las Personas con Discapacidad (Convention on the Rights of Persons with Disabilities, CDPD) afirma el derecho al trabajo, incluido el derecho a la adaptación razonable en el lugar de trabajo.
+Todas las personas con discapacidad tienen derecho a trabajar en igualdad de condiciones con las demás. El artículo 27 de la Convención sobre los Derechos de las Personas con Discapacidad (CDPD) de la ONU afirma el derecho al trabajo, incluido el derecho a la adaptación razonable en el lugar de trabajo. La CDPD establece un estándar internacional; su grado de exigibilidad para una persona depende de si cada país lo ha incorporado a su legislación nacional y de qué manera (consulta tu país más abajo).
 
 Esta página pone en el centro los conocimientos de las personas con discapacidad para navegar los derechos laborales en distintos países.
 
@@ -243,7 +243,7 @@ Cada país la implementa en sus leyes nacionales.
 - Sistema de cuotas para los empleadores públicos
 
 **España**:
-- La LISMI exige a los empleadores con 50 o más empleados emplear a un 2 % de trabajadores con discapacidad
+- La Ley General de derechos de las personas con discapacidad (Real Decreto Legislativo 1/2013, que consolidó la antigua LISMI) exige a los empleadores con 50 o más empleados emplear a un 2 % de trabajadores con discapacidad
 - Derecho a ajustes razonables
 - Reservas para ciertos puestos
 
