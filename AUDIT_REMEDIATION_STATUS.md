@@ -59,13 +59,10 @@ Closed the open Mexico/Argentina flags from `docs/translation-source-accuracy-fl
 
 ### Tier D — the remaining 6 intersectionality essays
 
-**✅ FIXED on PR #5 branch `content/intersectionality-remaining-6` (commit `5e6fa4f`, pushed 2026-06-07) — verified vs primary sources. Merge-ready except where noted. The fixes applied to each:**
-- `rural-disability` — **remove "friends sharing medication"** (unsafe/unlawful to normalize); drop the unsupported WHO "large majority rural" claim; split hospital "closed" vs "converted" (81/65, USDA); source travel/physician/AgrAbility/prevalence/broadband; soften CIL "statutory rural-outreach mandate"
-- `indigenous-disability-perspectives` — **GAO sterilization fix** (GAO found non-compliance with IHS consent regs, NOT "court moratorium violations"; cited GAO HRD-77-3). ⚠️ **STILL NEEDS Indigenous disabled review before merge** — a publication-quality prerequisite that AI cannot satisfy.
-- `immigration-and-refugees` — date the "late 2025 public-charge moves" to a specific memo/proposal; note 2022 rule remains operative; cite agency rules for the §504 claim
-- `incarceration-and-criminalization` — keep BJS 32%/40% only with 2011–12 date (note 2016 = 38%); source the solitary-suicide and "hundreds of bills" claims; give the exact FCC order/date
-- `gender-and-disability` — linked the 2.27× OR meta-analysis (Mailhot Amborski 2022) + the ~2× lifetime figure (CDC). **Audit correction:** the note "2025 NWLC says 30" was wrong — the current NWLC/AWN report says **31 states + DC** (verified), so the page's figure was kept and only re-dated.
-- `religion-and-disability` — name the 2021 Jewish faith-inclusion survey + population; fix the AAPD IDAC link (redirects to 2011) and the RespectAbility→Disability Belongs redirect
+**✅ RESOLVED 2026-06-09 — PR #5 closed (stale branch, 3 days behind main; merging would have deleted skills/audit docs). The 6 essays' content is settled:**
+- ✅ **LIVE on main** — `rural-disability`, `immigration-and-refugees`, `incarceration-and-criminalization`, `gender-and-disability`: the branch's fixes are already on `main` (0 diff; re-verified 2026-06-09 — e.g. gender 31 states + DC / 2.27× OR; incarceration BJS 2011–12 + 2016=38% + FCC 24-75; rural UNC Sheps 108/88, "sharing medication" gone).
+- ✅ **LIVE on main** — `religion-and-disability`: deep-linked the RespectAbility/Disability Belongs 2021 Jewish-survey page (commit `b488059`, verified in DB). The AAPD IDAC dead-link concern does not exist on the current page (IDAC is plain text).
+- ⏸️ **HELD — `indigenous-disability-perspectives`**: the fact-verified draft fill (GAO HRD-77-3 sterilization framing corrected; orgs verified) is preserved in **draft PR #13** (`hold/indigenous-disability-review`, rebased clean onto current main). **DO NOT MERGE until an Indigenous disabled reviewer approves** — a publication-quality prerequisite AI cannot satisfy. The live page intentionally remains a stub until then.
 
 ### Spanish (`es/`) translation sync — ⚠️ added 2026-06-07
 All English pages fixed this session have `es/` counterparts that are **now stale** and still carry the old/incorrect content (including wrong crisis numbers). See `docs/translation-source-accuracy-flags.md` for the full list and the ES-sync priority order (crisis pages first — life-safety). That file also tracks additional English-source issues the translator flagged (some already fixed this session; `benefits/index.md` + `poverty-and-benefits-trap.md` 2024-figure refresh and the 1972/1989 asset-limit contradiction remain open).
