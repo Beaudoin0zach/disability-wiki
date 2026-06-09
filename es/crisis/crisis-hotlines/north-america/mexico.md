@@ -92,8 +92,14 @@ No tienes que leer todo.
 **Teléfono de la Esperanza:** 24/7  
 - Apoyo para personas con discapacidad
 
-**CONADIS (Comisión Nacional de Derechos Humanos):** 01-800-526-2345  
-- Derechos y apoyo para personas con discapacidad
+**CNDH (Comisión Nacional de los Derechos Humanos):** 800-715-2000 (gratuito) o 55-5490-7400 (Ciudad de México)  
+- Recibe y da seguimiento a quejas sobre derechos de las personas con discapacidad
+
+**CONAPRED (Consejo Nacional para Prevenir la Discriminación):** 800-543-0033  
+- Quejas por discriminación a causa de la discapacidad (lun–jue 9:00–17:30, vie 9:00–15:00)
+
+**CONADIS (Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad):** conadis.gob.mx · contacto@conadis.gob.mx  
+- Políticas, programas e información sobre discapacidad
 
 **Organizaciones locales de discapacidad:** busca en tu estado
 
@@ -102,9 +108,10 @@ No tienes que leer todo.
 **Teléfono de la Esperanza:** 24/7  
 - Apoyo y derivaciones
 
-**CONADIC:** 01-800-911-2000  
+**Línea de la Vida (CONASAMA):** 800-911-2000 (24/7)  
 - Dependencia de drogas y alcohol
 - Derivación a tratamiento
+- Es la misma línea nacional mencionada arriba; también atiende el consumo de sustancias
 
 ---
 

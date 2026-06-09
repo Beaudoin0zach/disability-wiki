@@ -49,6 +49,12 @@ If that's overwhelming right now, just call the number below. You don't have to 
 
 ### Suicidal Thoughts
 
+**Centro de Asistencia al Suicida (CAS):** 135 (from Buenos Aires City/Greater Buenos Aires) or 0800-345-1435 (rest of the country)  
+- Suicide prevention, every day 8am–midnight
+
+**Salud Mental Responde:** 0800-333-1665 (24/7)  
+- Mental-health support from psychologists and psychiatrists (Buenos Aires City line)
+
 **Teléfono de la Esperanza:** 24/7  
 - Suicide prevention
 
@@ -82,8 +88,9 @@ If that's overwhelming right now, just call the number below. You don't have to 
 
 ### Support for People with Disabilities
 
-**ANDIS (Argentina's national disability agency):** 4303-9088  
-- Support and rights
+**ANDIS — Agencia Nacional de Discapacidad (now the Secretaría Nacional de Discapacidad):** 0800-555-3472 (Mon–Fri 8am–6pm)  
+- Disability pensions, benefits, and rights
+- Video-call line for Deaf and hard-of-hearing callers: 11-5728-4011 (Mon–Fri 10am–3pm)
 
 **Local municipality:** Disability services in your area
 
@@ -110,9 +117,10 @@ If that's overwhelming right now, just call the number below. You don't have to 
 ## Emergency: Imminent Danger
 
 **If there's immediate danger:**
-- **Call 911** for ambulance and police
+- **Call 911** for police, fire, or ambulance — the integrated emergency number in most of the country
+- **Call 107** for a medical emergency/ambulance (SAME, in Buenos Aires City and some provinces)
+- **Call 100** for the fire department (Bomberos)
 - **Go to the nearest hospital (emergency room)**
-- **Call 100** for emergency services (in some areas)
 
 ---
 
