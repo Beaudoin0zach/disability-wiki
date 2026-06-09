@@ -92,8 +92,14 @@ You don't have to read everything.
 **Teléfono de la Esperanza:** 24/7  
 - Support for people with disabilities
 
-**CONADIS / CNDH (disability rights):** 01-800-526-2345  
-- Rights and support for people with disabilities
+**CNDH (national human-rights commission):** 800-715-2000 (toll-free) or 55-5490-7400 (Mexico City)  
+- Files and monitors disability-rights complaints
+
+**CONAPRED (anti-discrimination council):** 800-543-0033  
+- Disability-discrimination complaints (Mon–Thu 9am–5:30pm, Fri 9am–3pm)
+
+**CONADIS (disability inclusion council):** conadis.gob.mx · contacto@conadis.gob.mx  
+- Disability policy, programs, and information
 
 **Local disability organizations:** Search in your state
 
@@ -102,9 +108,10 @@ You don't have to read everything.
 **Teléfono de la Esperanza:** 24/7  
 - Support and referrals
 
-**CONADIC:** 01-800-911-2000  
+**Línea de la Vida (CONASAMA):** 800-911-2000 (24/7)  
 - Drug and alcohol dependence
 - Referral to treatment
+- The same national line listed above; it also covers substance use
 
 ---
 

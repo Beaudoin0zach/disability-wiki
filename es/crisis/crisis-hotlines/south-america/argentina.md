@@ -49,6 +49,12 @@ Si esto es abrumador ahora, simplemente llama al número de abajo. No tienes que
 
 ### Pensamientos suicidas
 
+**Centro de Asistencia al Suicida (CAS):** 135 (desde la Ciudad de Buenos Aires y el Gran Buenos Aires) o 0800-345-1435 (resto del país)  
+- Prevención del suicidio, todos los días de 8 a 24 h
+
+**Salud Mental Responde:** 0800-333-1665 (24/7)  
+- Apoyo en salud mental con psicólogos y psiquiatras (línea de la Ciudad de Buenos Aires)
+
 **Teléfono de la Esperanza:** 24/7  
 - Prevención de suicidio
 
@@ -82,8 +88,9 @@ Si esto es abrumador ahora, simplemente llama al número de abajo. No tienes que
 
 ### Apoyo para personas con discapacidad
 
-**ANDIS (Asociación Nacional de Discapacitados):** 4303-9088  
-- Apoyo y derechos
+**ANDIS — Agencia Nacional de Discapacidad (actualmente Secretaría Nacional de Discapacidad):** 0800-555-3472 (lun–vie 8 a 18 h)  
+- Pensiones, prestaciones y derechos por discapacidad
+- Línea de videollamada para personas sordas o con dificultades auditivas: 11-5728-4011 (lun–vie 10 a 15 h)
 
 **Municipalidad local:** servicios de discapacidad en tu zona
 
@@ -110,9 +117,10 @@ Si esto es abrumador ahora, simplemente llama al número de abajo. No tienes que
 ## Emergencia: peligro inminente
 
 **Si hay peligro inmediato:**
-- **Llama al 911** para ambulancia y policía
+- **Llama al 911** para policía, bomberos o ambulancia — el número de emergencias integrado en la mayor parte del país
+- **Llama al 107** para una emergencia médica/ambulancia (SAME, en la Ciudad de Buenos Aires y algunas provincias)
+- **Llama al 100** para los bomberos
 - **Ve al hospital más cercano (urgencias)**
-- **Llama al 100** para la policía (en algunos lugares)
 
 ---
 
