@@ -40,14 +40,24 @@ Tracks fixes against the Codex audit (`AUDIT_RESULTS_2026-06-06.md`). Site is Wi
 
 ---
 
-## ⏳ REMAINING (paused 2026-06-07)
+## ✅ DONE & LIVE — 2026-06-09 session
 
-### Tier D — the 10 intersectionality essays
-**Live now (fix in place):**
-- `race-and-disability` — attribute/soften the "quarter of Native women sterilized" estimate; date + source-link stats (CDC AI/AN 38.7%; Black maternal mortality ~3.5×; Child Trends special-ed)
-- `lgbtq-and-disability` — add direct sources for prevalence/discrimination/conversion-therapy; "every major medical association" → name them; **verify/replace rad.org** (didn't resolve)
-- `poverty-and-class` — "designed to keep disabled people poor" → "can keep / are structured to" (intent-as-fact); qualify Medicaid-loss/work-disincentive; source the "earn less for same work" claim
-- `disability-and-homelessness` — "researchers consistently estimate ~half" is not defensible universally (sheltered data ~35%); name dataset/scope; attribute the CRPD Art. 19 "violation" as interpretation
+### 🚑 Tier A — Mexico/Argentina crisis verification flags (PR #11, verified in DB)
+Closed the open Mexico/Argentina flags from `docs/translation-source-accuracy-flags.md`, verified vs primary sources (argentina.gob.ar, ANDIS, gob.mx CONASAMA/CNDH/CONAPRED). EN + es:
+- `south-america/argentina` — **emergency block corrected: 100 = Bomberos (firefighters), NOT police** (es literally said "Llama al 100 para la policía"); added 911 (integrated), 107 (SAME). **ANDIS** name fixed (Agencia/Secretaría Nacional de Discapacidad; es had "Asociación Nacional de Discapacitados") + unverifiable **4303-9088 → official 0800-555-3472** + Deaf/HoH video line. Added verified suicide lines CAS (135 / 0800-345-1435) + Salud Mental Responde (0800-333-1665).
+- `north-america/mexico` — **deleted unverifiable 01-800-526-2345** (was "CONADIS / CNDH", conflated two orgs); split into **CNDH 800-715-2000**, **CONAPRED 800-543-0033**, CONADIS (site/email). "CONADIC 01-800-911-2000" (dup of Línea de la Vida, outdated operator) → **Línea de la Vida (CONASAMA)**.
+
+### 🔴/🟠 Tier D — the 4 live "fix-in-place" essays (PR #12, verified in DB) — EN + es
+- `race-and-disability` — AI/AN rate **~31% → ~39%** (CDC DHDS, 2022 BRFSS, 2024); sterilization estimate now attributed to historians (Lawrence 2000) + GAO HRD-77-3 cited separately.
+- `lgbtq-and-disability` — conversion therapy: named AMA/APA×2/AAP, suicide stat sourced (Trevor Project, AJPH 2020); dead **rad.org → deafrad.org**.
+- `poverty-and-class` — intent-as-fact removed ("designed to keep" → structural framing; heading + body).
+- `disability-and-homelessness` — "~half / 2–3×" rescoped (HUD ~40% sheltered; chronic = disabling by definition); CRPD Art. 19 "violation" → advocates' interpretation.
+
+---
+
+## ⏳ REMAINING (after 2026-06-09)
+
+### Tier D — the remaining 6 intersectionality essays
 
 **✅ FIXED on PR #5 branch `content/intersectionality-remaining-6` (commit `5e6fa4f`, pushed 2026-06-07) — verified vs primary sources. Merge-ready except where noted. The fixes applied to each:**
 - `rural-disability` — **remove "friends sharing medication"** (unsafe/unlawful to normalize); drop the unsupported WHO "large majority rural" claim; split hospital "closed" vs "converted" (81/65, USDA); source travel/physician/AgrAbility/prevalence/broadband; soften CIL "statutory rural-outreach mandate"
