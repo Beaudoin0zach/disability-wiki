@@ -55,24 +55,13 @@ contribute2disabilitywiki@gmail.com
 - Daremos crédito a tus contribuciones
 - Tendrás agencia sobre tus contribuciones
 - Manejaremos los comentarios con respeto
-- Tiempo de respuesta: [X días hábiles]
+- Responderemos tan pronto como podamos — somos un equipo pequeño de voluntarios, así que puede tardar un poco
 
 Si necesitas adaptaciones para enviar tus comentarios:
-- Escríbenos directamente: contribute2disabilitywiki@gmail.com 
-
-
----
+- Escríbenos directamente: contribute2disabilitywiki@gmail.com
 
 ---
 
-## Contribuye a esta página
-
-¿Tienes experiencia vivida o conocimientos que podrían fortalecer esta página? Damos especial bienvenida a perspectivas sobre modelos poco representados aquí, incluidas las del Sur Global y de las comunidades indígenas.
-
-[Sugiere una edición o un agregado →](/es/start/contribute)
-
----
-
-*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global. Para preguntas o para sugerir agregados, consulta [Cómo Contribuir](/es/start/contribute).*
+*Esta página pone en el centro los conocimientos de las personas con discapacidad y se basa en la organización liderada por personas con discapacidad a nivel global.*
 
 *Última actualización: enero de 2026*

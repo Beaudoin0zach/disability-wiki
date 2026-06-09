@@ -1,5 +1,5 @@
 ---
-title: How to Contribue
+title: How to Contribute
 description: We want to work with disabled community members to build this wiki together.
 published: true
 date: 2026-06-05T20:19:57.210Z
@@ -55,24 +55,13 @@ contribute2disabilitywiki@gmail.com
 - We'll credit your contributions
 - You'll have agency in your contributions
 - We'll handle feedback respectfully
-- Response time: [X business days]
+- We'll reply as soon as we can — we're a small volunteer team, so it may take a little while
 
 If you need accommodations to submit feedback:
-- Email us directly: contribute2disabilitywiki@gmail.com 
-
-
----
+- Email us directly: contribute2disabilitywiki@gmail.com
 
 ---
 
-## Contribute to This Page
-
-Have lived experience or expertise that could strengthen this page? We especially welcome perspectives on models not well represented here, including those from the Global South and Indigenous communities.
-
-[Suggest an edit or addition →](/start/contribute)
-
----
-
-*This page centers disabled people's expertise and is informed by disabled-led organizing globally. For questions or to suggest additions, see [How to Contribute](/start/contribute).*
+*This page centers disabled people's expertise and is informed by disabled-led organizing globally.*
 
 *Last updated: January 2026*
