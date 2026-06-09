@@ -41,6 +41,12 @@ to them.* This came directly from the maintainer's feedback and is non-negotiabl
 7. **Related Pages** — internal links (verify they resolve).
 8. **Contribute to This Page** footer (see below).
 
+**No emoji as information.** The project moved off emoji labels (📘/🌍/✦) to
+plain-text ones (`*Own voices*` / `*Global South*` / `*Essential*`) — emoji read
+poorly on screen readers and need a legend. Use short italic text labels instead;
+links are markdown `[text](/path)`, never `[[wikilinks]]` (unsupported — render as
+literal text). Headings: English pages use Title Case; only `es/` uses sentence case.
+
 ## Frontmatter
 ```yaml
 ---

@@ -49,7 +49,7 @@ how the same mistakes get repeated across hundreds of pages:
 6. **Write the result** to `es/<same relative path>.md` — same path, `es/`
    prefix. English stays at the repo root as the default locale; only Spanish is
    prefixed.
-7. **Validate**: run `scripts/check_translation.py es/<path>.md` and resolve any
+7. **Validate**: run `python3 .claude/skills/spanish-wiki-translation/scripts/check_translation.py es/<path>.md` (path is relative to the repo root) and resolve any
    warnings.
 
 ## Workflow for syncing an already-translated page
@@ -61,9 +61,8 @@ the same changes** to the existing Spanish page so unrelated prose stays stable.
 1. **Get the diff — it is the spec.** The English change is usually a git commit:
    `git show <sha> -- <path>` (or `git log -p -- <path>`). Read exactly what lines
    changed; that delta, translated, is your entire edit set. Don't reprocess
-   untouched sections. (Heads-up: `es/` is **untracked** in git, so you can't
-   `git diff` the Spanish — the English commit is your only source of truth for
-   what's stale.)
+   untouched sections. (`es/` **is** tracked in git, so you can `git log -p` the
+   Spanish too — but the English commit is still your spec for *what changed*.)
 2. **Map each English hunk to the Spanish page** and Edit it in place — numbers,
    org names, hours, hedged wording. Keep acronyms/org names/phone numbers exactly
    as English (per `glossary.md`).
@@ -81,7 +80,7 @@ the same changes** to the existing Spanish page so unrelated prose stays stable.
 5. **Stay faithful — still flag, never edit English.** If the English diff itself
    looks wrong, apply it faithfully to Spanish and flag the English (see below).
    Don't let a sync become a place where the two locales silently diverge.
-6. **Validate** every touched file: `scripts/check_translation.py es/<path>.md`.
+6. **Validate** every touched file: `python3 .claude/skills/spanish-wiki-translation/scripts/check_translation.py es/<path>.md` (path is relative to the repo root).
 7. **Record the sync** in `docs/translation-source-accuracy-flags.md` (mark the
    page synced + note the English commit) so the parity state stays auditable.
 
@@ -119,4 +118,13 @@ than silently dropping them.
 - Acronyms preserved (ADA, SSDI, SSI, EEOC); org proper names kept in English so
   readers can search/contact them; official law names glossed on first use.
 - Headings in sentence case; frontmatter title/description translated.
+- **No emoji.** The project dropped emoji labels for plain-text ones; mirror the
+  English convention — e.g. own-voices/Global-South markers render as
+  `*Voz propia*` / `*Sur Global*` / `*Esencial*`, not 📘/🌍/✦.
 - The validator passes clean.
+
+> **Publishing the Spanish:** the same import quirk applies (see
+> **disability-wiki-edit**) — after a merge/sync, force-sync often does NOT import
+> new or modified `es/` files into the DB. Verify via the API; if the DB is stale,
+> push the content in with `pages.create` (new, `locale:"es"`) or `pages.update`
+> (modified). Don't use `importAll`.

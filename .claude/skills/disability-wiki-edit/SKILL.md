@@ -122,6 +122,19 @@ mutation { storage { executeAction(targetKey:"git", handler:"sync"){
 Run this right after `git push origin main` to publish in seconds. (Storage target
 key is `git`; available actions are `sync` = Force Sync, `syncUntracked`, `importAll`.)
 
+> ⚠️ **Force-sync does NOT reliably import file changes into the DB** (observed
+> repeatedly 2026-06-09, both pull and sync modes). It pulls the commits — the
+> `.md` files on the server are correct — but the DB can keep the **old** content
+> for *modified* files and **never create** *new* files. The live page then 404s
+> (new) or shows stale content (modified). **So after any merge/push, verify via
+> the API** (`pages{single(id){content}}` or `pages{list}`), not just a `curl`.
+> If the DB didn't pick it up, push the on-disk content in yourself:
+> - **New page** → `pages.create` from the file's frontmatter+body.
+> - **Modified page** → `pages.update` (resend all fields) from the file's content.
+> Do **NOT** use `importAll` to force it — that re-imports every file and
+> re-publishes everything you'd unpublished (and the redirect stubs). The
+> per-page `create`/`update` is surgical and safe. Re-run the sweep after if unsure.
+
 If a sync returns `succeeded:false` with a CONFLICT / `unresolved conflict` message,
 the server's clone is wedged mid-rebase (almost always from a `git rm` colliding with
 local write-back commits — see Delete above). The handlers can't fix it; recover over SSH.
