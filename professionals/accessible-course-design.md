@@ -2,14 +2,10 @@
 title: Designing an Accessible Course
 description: A practical guide for educators on building access into a course or syllabus from the start — modalities, flexible deadlines, accessible materials, and treating accommodations as a floor, not a ceiling.
 published: true
-date: 2026-06-09T00:00:00.000Z
-tags:
-  - educators
-  - accessibility
-  - higher-education
-  - universal-design
+date: 2026-06-09T13:31:58.246Z
+tags: educators, accessibility, higher-education, universal-design
 editor: markdown
-dateCreated: 2026-06-09T00:00:00.000Z
+dateCreated: 2026-06-09T13:31:58.246Z
 ---
 
 # Designing an Accessible Course
