@@ -41,6 +41,9 @@ No single platform is best. A few things to weigh as you look:
 - **Moderation.** Active, fair moderation is the difference between a supportive space and a harmful one. Look for clear rules and visible mods.
 - **Fit.** A general disability space and a condition-specific one serve different needs. Many people use both.
 - **Safety.** Be cautious sharing identifying details, medical records, or money. Treat medical and legal advice from strangers as a starting point to verify, not a conclusion.
+- **Activity.** Communities go quiet. Before investing in a group or server, check that people have actually posted recently—a dead space won't give you community no matter how good its description sounds.
 - **Energy.** It's okay to lurk, to leave, or to take breaks. Community should give more than it takes.
+
+> **A note on scams and predation.** Disability communities get targeted by scammers who assume financial hardship or medical desperation makes people easier marks. Treat unsolicited private messages as suspect by default—especially anything involving money, "grants," investment or crypto offers, miracle treatments, or someone who gets intensely close fast and eventually needs money. Legitimate help doesn't arrive by cold DM. Never send money to someone you only know online, and report and block freely.
 
 For in-person and local options, see [In-Person Community](/community/in-person-community). For younger members, see [Youth and Student Communities](/community/youth-student-communities).
