@@ -416,7 +416,7 @@ Esta página está escrita por y para personas adultas con discapacidad. Damos l
 - Personas con discapacidades específicas que comparten qué les ayuda a aprender
 - Personas educadoras que hacen los programas más accesibles
 
-[Enlace al formulario de contribución]
+[Sugiere una edición o adición →](/es/start/contribute)
 
 ---
 
@@ -433,4 +433,4 @@ Esta página está escrita por y para personas adultas con discapacidad. Damos l
 ---
 
 **Mantenida por:** la comunidad de DisabilityWiki
-**Comparte tus comentarios:** [Enlace de comentarios]
+**Comparte tus comentarios:** [Cómo Contribuir](/es/start/contribute)

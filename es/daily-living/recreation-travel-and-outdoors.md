@@ -561,7 +561,7 @@ Damos la bienvenida a contribuciones de personas viajeras, deportistas y entusia
 - Innovaciones en equipo adaptado
 - Perspectivas globales e interculturales sobre la recreación y los viajes
 
-[Enlace al formulario de contribución]
+[Sugiere una edición o adición →](/es/start/contribute)
 
 ---
 
@@ -578,4 +578,4 @@ Damos la bienvenida a contribuciones de personas viajeras, deportistas y entusia
 ---
 
 **Mantenido por:** la comunidad de DisabilityWiki
-**Comparte tus comentarios:** [Enlace de comentarios]
+**Comparte tus comentarios:** [Cómo Contribuir](/es/start/contribute)

@@ -502,7 +502,7 @@ Damos la bienvenida a contribuciones de:
 - Historias sobre la construcción de una familia elegida
 - Dinámicas familiares específicas de la discapacidad
 
-[Enlace al formulario de contribución]
+[Sugiere una edición o adición →](/es/start/contribute)
 
 ---
 
@@ -519,4 +519,4 @@ Damos la bienvenida a contribuciones de:
 ---
 
 **Mantenida por:** la comunidad de DisabilityWiki
-**Comparte tus comentarios:** [Enlace de comentarios]
+**Comparte tus comentarios:** [Cómo Contribuir](/es/start/contribute)

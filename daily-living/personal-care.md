@@ -728,7 +728,7 @@ We welcome contributions from:
 - Cultural perspectives on care
 - Global approaches to personal care
 
-[Link to contribution form]
+[Suggest an edit or addition →](/start/contribute)
 
 ---
 
@@ -743,4 +743,4 @@ We welcome contributions from:
 ---
 
 **Maintained by:** DisabilityWiki community
-**Share feedback:** [Feedback link]
+**Share feedback:** [How to Contribute](/start/contribute)

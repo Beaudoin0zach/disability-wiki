@@ -728,7 +728,7 @@ Damos la bienvenida a contribuciones de:
 - Perspectivas culturales sobre el cuidado
 - Enfoques globales del cuidado personal
 
-[Enlace al formulario de contribución]
+[Sugiere una edición o adición →](/es/start/contribute)
 
 ---
 
@@ -743,4 +743,4 @@ Damos la bienvenida a contribuciones de:
 ---
 
 **Mantenido por:** la comunidad de DisabilityWiki
-**Comparte tus comentarios:** [Enlace de comentarios]
+**Comparte tus comentarios:** [Cómo Contribuir](/es/start/contribute)

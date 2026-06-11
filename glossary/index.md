@@ -149,7 +149,7 @@ Contributing to Disability Wiki:
 5. Editorial team reviews for accuracy and accessibility
 6. Content added to wiki with credit
 
-**Contribution form**: [Link to form →]
+**Contribution form**: [How to Contribute →](/start/contribute)
 
 **What we're looking for**:
 - Lived experience and expertise
@@ -292,7 +292,7 @@ Author(s) (Date) 'Page Title', *Disability Wiki*. Available at: URL (Accessed: D
 
 **Accessibility issues?** Report to [contact page →](/start/contact)
 
-**Want to contribute?** Use [contribution form →]
+**Want to contribute?** See [How to Contribute →](/start/contribute)
 
 **Feedback?** We welcome all feedback at [contact page →](/start/contact)
 
@@ -325,7 +325,7 @@ Thank you.
 
 ## Contribute Now
 
-[Link to contribution form →]
+[Suggest an edit or addition →](/start/contribute)
 
 **Have expertise to share?** We want to hear from you.
 

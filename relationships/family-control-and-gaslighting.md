@@ -502,7 +502,7 @@ We welcome contributions from:
 - Stories of building chosen family
 - Disability-specific family dynamics
 
-[Link to contribution form]
+[Suggest an edit or addition →](/start/contribute)
 
 ---
 
@@ -519,4 +519,4 @@ We welcome contributions from:
 ---
 
 **Maintained by:** DisabilityWiki community
-**Share feedback:** [Feedback link]
+**Share feedback:** [How to Contribute](/start/contribute)

@@ -605,7 +605,7 @@ We welcome contributions from:
 - Global and cultural perspectives on AT
 - Advocacy around AT access and funding
 
-[Link to contribution form]
+[Suggest an edit or addition →](/start/contribute)
 
 ---
 
@@ -621,4 +621,4 @@ We welcome contributions from:
 ---
 
 **Maintained by:** DisabilityWiki community
-**Share feedback:** [Feedback link]
+**Share feedback:** [How to Contribute](/start/contribute)

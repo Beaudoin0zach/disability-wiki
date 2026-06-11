@@ -679,7 +679,7 @@ Damos la bienvenida a contribuciones de:
 - Perspectivas de acondicionamiento físico sensibles al trauma y anti-dieta
 - Perspectivas globales y culturales sobre el movimiento de las personas con discapacidad
 
-[Enlace al formulario de contribución]
+[Sugiere una edición o adición →](/es/start/contribute)
 
 ---
 
@@ -694,4 +694,4 @@ Damos la bienvenida a contribuciones de:
 ---
 
 **Mantenido por:** la comunidad de DisabilityWiki
-**Comparte tu opinión:** [Enlace de retroalimentación]
+**Comparte tu opinión:** [Cómo Contribuir](/es/start/contribute)
