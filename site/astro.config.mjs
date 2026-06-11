@@ -10,6 +10,15 @@ export default defineConfig({
   redirects: {
     '/home': '/',
     '/es': '/es/home',
+    // Wiki.js-era stub pages, now true redirects (drafts on the wiki side)
+    '/accessibility-statement': '/start/accessibility-statement',
+    '/foundations/how-to-use-this-wiki': '/start/how-to-use',
+    '/start/disability-models': '/foundations/disability-models',
+    '/start/for-allies': '/foundations/for-allies',
+    '/start/what-is-disability': '/foundations/what-is-disability',
+    '/es/start/disability-models': '/es/foundations/disability-models',
+    '/es/start/for-allies': '/es/foundations/for-allies',
+    '/es/start/what-is-disability': '/es/foundations/what-is-disability',
   },
   integrations: [
     starlight({
