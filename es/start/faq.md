@@ -78,7 +78,7 @@ Elige según tu necesidad inmediata:
 
 **Nuevo en los conceptos de la discapacidad:**
 1. [Bienvenida](/es/foundations/welcome)
-2. [¿Qué es la discapacidad?](/es/start/what-is-disability)
+2. [¿Qué es la discapacidad?](/es/foundations/what-is-disability)
 3. [Lenguaje y terminología](/es/start/language-and-terminology)
 
 **Necesidad urgente (vivienda, dinero, crisis):**
@@ -87,8 +87,8 @@ Elige según tu necesidad inmediata:
 - [Vivienda y vida independiente](/es/housing)
 
 **Eres una persona aliada o profesional:**
-- [Para personas aliadas](/es/start/for-allies)
-- [Modelos de la discapacidad](/es/start/disability-models)
+- [Para personas aliadas](/es/foundations/for-allies)
+- [Modelos de la discapacidad](/es/foundations/disability-models)
 
 Siempre puedes volver a estas preguntas frecuentes si te pierdes.
 

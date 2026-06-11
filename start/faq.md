@@ -78,7 +78,7 @@ Choose based on your immediate need:
 
 **New to disability concepts:**
 1. [Welcome](/foundations/welcome)
-2. [What Is Disability?](/start/what-is-disability)
+2. [What Is Disability?](/foundations/what-is-disability)
 3. [Language & Terminology](/start/language-and-terminology)
 
 **Urgent need (housing, money, crisis):**
@@ -87,8 +87,8 @@ Choose based on your immediate need:
 - [Housing & Independent Living](/housing)
 
 **You're an ally or professional:**
-- [For Allies](/start/for-allies)
-- [Disability Models](/start/disability-models)
+- [For Allies](/foundations/for-allies)
+- [Disability Models](/foundations/disability-models)
 
 You can always come back to this FAQ if you get lost.
 
