@@ -1,6 +1,6 @@
 ---
 title: Fundamentos
-description: description: Conceptos, lenguaje y marcos esenciales para entender la discapacidad y la justicia para las personas con discapacidad. 
+description: "description: Conceptos, lenguaje y marcos esenciales para entender la discapacidad y la justicia para las personas con discapacidad."
 published: true
 date: 2026-01-13T14:32:24.460Z
 tags: 

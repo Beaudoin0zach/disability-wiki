@@ -1,6 +1,6 @@
 ---
 title: Defensa y autodefensa
-description: Defender derechos significa alzar la voz: por ti, por otras personas o por el cambio.
+description: "Defender derechos significa alzar la voz: por ti, por otras personas o por el cambio."
 published: true
 date: 2026-06-05T20:23:04.199Z
 tags: 

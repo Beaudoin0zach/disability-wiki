@@ -1,5 +1,5 @@
 ---
-title: Proving You're Disabled: Documentation, Gatekeeping, and Burden of Proof
+title: "Proving You're Disabled: Documentation, Gatekeeping, and Burden of Proof"
 description: Disabled people must constantly prove they are disabled.
 published: true
 date: 2026-06-05T20:27:32.088Z

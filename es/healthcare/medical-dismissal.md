@@ -1,5 +1,5 @@
 ---
-title: Cuando los médicos no te creen: navegar la invalidación médica
+title: "Cuando los médicos no te creen: navegar la invalidación médica"
 description: La invalidación médica —a veces llamada "medical gaslighting"— ocurre cuando los proveedores de atención médica descuentan, minimizan o se niegan…
 published: true
 date: 2026-06-05T20:35:57.647Z

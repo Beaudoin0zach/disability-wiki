@@ -1,6 +1,6 @@
 ---
 title: Gestionar el acceso a la medicación para el TDAH
-description: Ayuda práctica y en lenguaje sencillo para la escasez continua de estimulantes en EE. UU.: búsqueda en farmacias, reglas de resurtido y transferencia, cómo sobrellevar un período sin medicación y una nota de seguridad de reducción de daños.
+description: "Ayuda práctica y en lenguaje sencillo para la escasez continua de estimulantes en EE. UU.: búsqueda en farmacias, reglas de resurtido y transferencia, cómo sobrellevar un período sin medicación y una nota de seguridad de reducción de daños."
 published: true
 date: 2026-06-06T00:00:00.000Z
 tags: 

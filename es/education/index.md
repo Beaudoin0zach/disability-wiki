@@ -1,6 +1,6 @@
 ---
 title: Educación
-description: Derechos y recursos educativos para estudiantes con discapacidad: desde la intervención temprana y la educación K-12 hasta la educación superior, la educación de adultos y la transición a la vida adulta.
+description: "Derechos y recursos educativos para estudiantes con discapacidad: desde la intervención temprana y la educación K-12 hasta la educación superior, la educación de adultos y la transición a la vida adulta."
 published: true
 tags: 
 editor: markdown

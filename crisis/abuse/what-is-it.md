@@ -1,6 +1,6 @@
 ---
-title: Recognizing Abuse: A Guide for Disabled People
-description: What this page covers: Patterns of abuse specifically targeting disabled people, how to identify it, and why disabled people are at higher risk.
+title: "Recognizing Abuse: A Guide for Disabled People"
+description: "What this page covers: Patterns of abuse specifically targeting disabled people, how to identify it, and why disabled people are at higher risk."
 published: true
 date: 2026-06-05T20:30:10.870Z
 tags: 

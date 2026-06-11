@@ -1,6 +1,6 @@
 ---
 title: Discapacidad y falta de vivienda
-description: Las personas con discapacidad experimentan la falta de vivienda en proporciones mucho mayores que las personas sin discapacidad: no por sus cuerpos o sus mentes, sino por fallas de la vivienda, las políticas y los sistemas de apoyo.
+description: "Las personas con discapacidad experimentan la falta de vivienda en proporciones mucho mayores que las personas sin discapacidad: no por sus cuerpos o sus mentes, sino por fallas de la vivienda, las políticas y los sistemas de apoyo."
 published: true
 date: 2026-06-05T20:38:25.087Z
 tags: 

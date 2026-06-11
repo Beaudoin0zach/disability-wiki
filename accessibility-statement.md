@@ -1,6 +1,6 @@
 ---
 title: Accessibility Statement
-description: Accessibility Statement: guidance, rights, and resources for the disability community.
+description: "Accessibility Statement: guidance, rights, and resources for the disability community."
 published: true
 date: 2026-06-05T20:18:05.323Z
 tags: 

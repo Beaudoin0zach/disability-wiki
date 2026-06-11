@@ -1,6 +1,6 @@
 ---
 title: Injusticia epistémica en la discapacidad
-description: Por qué tan a menudo no se cree a las personas con discapacidad o se las deja sin palabras para su propia experiencia: los conceptos de injusticia testimonial y hermenéutica, y cómo aparecen en la atención médica y la vida diaria.
+description: "Por qué tan a menudo no se cree a las personas con discapacidad o se las deja sin palabras para su propia experiencia: los conceptos de injusticia testimonial y hermenéutica, y cómo aparecen en la atención médica y la vida diaria."
 published: true
 date: 2026-06-07T00:00:00.000Z
 tags: 
