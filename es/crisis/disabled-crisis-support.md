@@ -1,6 +1,6 @@
 ---
 title: Apoyo en Crisis Liderado por Personas con Discapacidad
-description: Muchas personas con discapacidad y personas "locas" (mad) han tenido experiencias dañinas con los sistemas de crisis convencionales: controles policiales de bienestar, hospitalización forzada o servicios que ignoran la discapacidad.
+description: "Muchas personas con discapacidad y personas \"locas\" (mad) han tenido experiencias dañinas con los sistemas de crisis convencionales: controles policiales de bienestar, hospitalización forzada o servicios que ignoran la discapacidad."
 published: true
 date: 2026-06-05T20:31:41.960Z
 tags: 

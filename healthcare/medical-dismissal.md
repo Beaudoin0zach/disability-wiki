@@ -1,5 +1,5 @@
 ---
-title: When Doctors Don't Believe You: Navigating Medical Dismissal
+title: "When Doctors Don't Believe You: Navigating Medical Dismissal"
 description: Medical dismissal—sometimes called "medical gaslighting"—occurs when healthcare providers discount, minimize, or refuse to investigate a patient's symptoms.
 published: true
 date: 2026-06-05T20:35:57.647Z

@@ -1,6 +1,6 @@
 ---
 title: Declaración de accesibilidad
-description: DisabilityWiki está hecho ante todo para las personas con discapacidad. Eso significa que la accesibilidad no es una función adicional: es lo mínimo.
+description: "DisabilityWiki está hecho ante todo para las personas con discapacidad. Eso significa que la accesibilidad no es una función adicional: es lo mínimo."
 published: true
 date: 2026-06-05T20:19:47.494Z
 tags: 

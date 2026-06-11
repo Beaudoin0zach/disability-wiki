@@ -1,6 +1,6 @@
 ---
 title: Reclamaciones y apelaciones de seguros
-description: Los sistemas de seguros están diseñados para ser complejos: entender cómo navegar las reclamaciones y las apelaciones es una habilidad de supervivencia, no una falla personal.
+description: "Los sistemas de seguros están diseñados para ser complejos: entender cómo navegar las reclamaciones y las apelaciones es una habilidad de supervivencia, no una falla personal."
 published: true
 date: 2026-06-05T20:35:42.868Z
 tags: 

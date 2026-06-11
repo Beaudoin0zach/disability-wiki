@@ -1,6 +1,6 @@
 ---
 title: Foundations
-description: description: Core concepts, language, and frameworks for understanding disability and disability justice. 
+description: "description: Core concepts, language, and frameworks for understanding disability and disability justice."
 published: true
 date: 2026-01-13T14:32:24.460Z
 tags: 

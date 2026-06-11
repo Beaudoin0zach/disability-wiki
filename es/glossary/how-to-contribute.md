@@ -1,6 +1,6 @@
 ---
 title: Guía de contribución técnica
-description: Para quienes editan el wiki directamente con Git: el flujo de fork, rama, edición y pull request. Para contribuir por correo, consulta Cómo Contribuir.
+description: "Para quienes editan el wiki directamente con Git: el flujo de fork, rama, edición y pull request. Para contribuir por correo, consulta Cómo Contribuir."
 published: true
 date: 2026-06-05T20:35:05.786Z
 tags: 

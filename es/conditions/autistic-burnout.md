@@ -1,6 +1,6 @@
 ---
 title: Agotamiento autista (autistic burnout)
-description: El agotamiento autista es real: cansancio crónico, pérdida de habilidades y sobrecarga sensorial tras demasiado tiempo aguantando y enmascarando. No es pereza, y la recuperación es posible.
+description: "El agotamiento autista es real: cansancio crónico, pérdida de habilidades y sobrecarga sensorial tras demasiado tiempo aguantando y enmascarando. No es pereza, y la recuperación es posible."
 published: true
 date: 2026-06-06T00:00:00.000Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Pobreza y clase
-description: La discapacidad y la pobreza se alimentan mutuamente: la pobreza causa discapacidad, la discapacidad causa pobreza, y los sistemas de prestaciones están estructurados de maneras que mantienen pobres a las personas con discapacidad.
+description: "La discapacidad y la pobreza se alimentan mutuamente: la pobreza causa discapacidad, la discapacidad causa pobreza, y los sistemas de prestaciones están estructurados de maneras que mantienen pobres a las personas con discapacidad."
 published: true
 date: 2026-06-05T20:20:07.658Z
 tags: 

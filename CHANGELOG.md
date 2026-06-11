@@ -7,6 +7,15 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Static-site migration Phase 1** (`site/`): Astro Starlight scaffold that builds all wiki content — 539 pages in ~13s — with existing markdown symlinked in place (no content moves), en at root + es under `/es/` (URLs unchanged), sidebar generated from the Wiki.js nav export, Pagefind search (en+es), git-derived last-updated dates, and a generated sitemap (Wiki.js served none). Not yet deployed.
+
+### Fixed
+- **48 pages had YAML-invalid frontmatter** (unquoted colons in title/description) — tolerated by Wiki.js, fatal to strict parsers; values now quoted (rendering unchanged).
+
+### Removed
+- **Legacy duplicate rights stubs deleted** (6 pages, EN + es): `Rights/Overview` and `Rights/North-America/US/{ADA,Fair-Housing}` were 25-line unpublished leftovers shadowing the real `rights/us/*` pages (flagged in the 2026-06-05 page review). DB rows deleted via API first, then repo files.
+
+### Added
 - **Static-site migration Phase 0** (`docs/migration/`): decided Wiki.js → Astro Starlight on Cloudflare Pages; exported the DB-only state (nav tree, site config, logo) and reconciled DB vs repo — two nav-linked pages that existed only in the Wiki.js DB (`foundations/welcome`, `crisis/emergency-disaster-preparedness`) exported into the repo so it is now the complete source of truth; `regions/index` (empty, unlinked) marked drop+redirect. Plan and findings in `docs/migration/MIGRATION_PLAN.md`.
 
 ### Fixed
