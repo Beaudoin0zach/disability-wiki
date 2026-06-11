@@ -94,7 +94,7 @@ In the U.S., substance use disorder in recovery is generally a protected disabil
 - Are participating in supervised treatment, including medication treatment
 - Are regarded (even wrongly) as having an addiction
 
-It does **not** protect current illegal drug use. Alcoholism is treated somewhat differently—people with alcohol use disorder are generally covered, though employers can hold everyone to the same conduct standards. The U.S. Department of Justice has also stated explicitly that the ADA protects people taking prescribed medication for opioid use disorder (methadone, buprenorphine)—and has taken enforcement action against treatment programs, courts, and employers that exclude them. See [Americans with Disabilities Act](/rights/North-America/US/ADA).
+It does **not** protect current illegal drug use. Alcoholism is treated somewhat differently—people with alcohol use disorder are generally covered, though employers can hold everyone to the same conduct standards. The U.S. Department of Justice has also stated explicitly that the ADA protects people taking prescribed medication for opioid use disorder (methadone, buprenorphine)—and has taken enforcement action against treatment programs, courts, and employers that exclude them. See [Americans with Disabilities Act](/rights/us/ada).
 
 ### Recovery Takes Many Forms
 

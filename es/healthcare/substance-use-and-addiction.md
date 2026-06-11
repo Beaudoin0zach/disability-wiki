@@ -94,7 +94,7 @@ En EE. UU., el trastorno por consumo de sustancias en recuperación es, en gener
 - Participan en un tratamiento supervisado, incluido el tratamiento con medicación
 - Son consideradas (incluso erróneamente) como personas con una adicción
 
-**No** protege el consumo ilegal actual de drogas. El alcoholismo se trata de manera algo distinta: las personas con trastorno por consumo de alcohol están en general cubiertas, aunque los empleadores pueden exigir a todo el mundo las mismas normas de conducta. El Departamento de Justicia de EE. UU. (DOJ) también ha declarado explícitamente que la ADA protege a las personas que toman medicación recetada para el trastorno por consumo de opioides (metadona, buprenorfina), y ha tomado medidas de cumplimiento contra programas de tratamiento, tribunales y empleadores que las excluyen. Ver [Ley de Estadounidenses con Discapacidades](/es/rights/North-America/US/ADA).
+**No** protege el consumo ilegal actual de drogas. El alcoholismo se trata de manera algo distinta: las personas con trastorno por consumo de alcohol están en general cubiertas, aunque los empleadores pueden exigir a todo el mundo las mismas normas de conducta. El Departamento de Justicia de EE. UU. (DOJ) también ha declarado explícitamente que la ADA protege a las personas que toman medicación recetada para el trastorno por consumo de opioides (metadona, buprenorfina), y ha tomado medidas de cumplimiento contra programas de tratamiento, tribunales y empleadores que las excluyen. Ver [Ley de Estadounidenses con Discapacidades](/es/rights/us/ada).
 
 ### La recuperación toma muchas formas
 
