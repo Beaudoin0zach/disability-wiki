@@ -6,6 +6,12 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+_(nothing yet)_
+
+---
+
+## [2026-06-11 — 2026-06-12] — Static-site migration & cutover
+
 ### Changed
 - **CUTOVER (2026-06-12): disabilitywiki.org now serves the Astro Starlight static site from Cloudflare Pages.** Custom domains (apex + www) attached to the `disability-wiki` Pages project; verified live: pages 200 (EN + es), `/en/*` 301s, stub/index/case redirects, 404, valid TLS. Publishing is now merge-to-main. The Wiki.js droplet remains as rollback until decommission — **scheduled for 2026-07-10** (Claude scheduled task `droplet-decommission-day`: final archived backup, droplet destroy, DNS cleanup, docs/skill rewrite); CLAUDE.md and the edit skill carry legacy banners.
 
