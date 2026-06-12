@@ -1,6 +1,6 @@
 ---
 title: Mascotas y animales de servicio
-description: Las mascotas y los animales de servicio son fundamentales en la vida de muchas personas con discapacidad: brindan asistencia práctica, apoyo emocional, compañía y propósito.
+description: "Las mascotas y los animales de servicio son fundamentales en la vida de muchas personas con discapacidad: brindan asistencia práctica, apoyo emocional, compañía y propósito."
 published: true
 date: 2026-06-05T20:32:55.030Z
 tags: 
@@ -606,7 +606,7 @@ Damos la bienvenida a contribuciones de:
 - Personas que comparten historias de acceso con perros de servicio (buenas y malas)
 - Perspectivas globales y culturales
 
-[Enlace al formulario de contribución]
+[Sugiere una edición o adición →](/es/start/contribute)
 
 ---
 
@@ -621,4 +621,4 @@ Damos la bienvenida a contribuciones de:
 ---
 
 **Mantenido por:** la comunidad de DisabilityWiki
-**Comparte tus comentarios:** [Enlace de comentarios]
+**Comparte tus comentarios:** [Cómo Contribuir](/es/start/contribute)

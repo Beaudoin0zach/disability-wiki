@@ -1,6 +1,6 @@
 ---
 title: Lenguaje, terminología e identidad
-description: Cómo funciona el lenguaje de la discapacidad: identidad primero frente a persona primero, términos que la comunidad ha reivindicado, palabras que conviene retirar, y por qué cada persona tiene derecho a nombrarse a sí misma.
+description: "Cómo funciona el lenguaje de la discapacidad: identidad primero frente a persona primero, términos que la comunidad ha reivindicado, palabras que conviene retirar, y por qué cada persona tiene derecho a nombrarse a sí misma."
 published: true
 date: 2026-06-07T00:00:00.000Z
 tags: 

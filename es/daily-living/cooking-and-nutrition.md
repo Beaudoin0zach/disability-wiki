@@ -1,6 +1,6 @@
 ---
 title: Cocina y nutrición
-description: Todo el mundo necesita comer. Sin embargo, para las personas con discapacidad, cocinar y nutrirse puede volverse increíblemente difícil: la movilidad…
+description: "Todo el mundo necesita comer. Sin embargo, para las personas con discapacidad, cocinar y nutrirse puede volverse increíblemente difícil: la movilidad…"
 published: true
 date: 2026-06-05T20:32:20.223Z
 tags: 
@@ -466,7 +466,7 @@ Damos la bienvenida a contribuciones de:
 - Perspectivas globales y culturales sobre la alimentación
 - Justicia alimentaria y defensa de la discapacidad
 
-[Enlace al formulario de contribución]
+[Sugiere una edición o adición →](/es/start/contribute)
 
 ---
 
@@ -482,4 +482,4 @@ Damos la bienvenida a contribuciones de:
 ---
 
 **Mantenido por:** la comunidad de DisabilityWiki
-**Comparte tu opinión:** [Enlace de retroalimentación]
+**Comparte tu opinión:** [Cómo Contribuir](/es/start/contribute)

@@ -1,5 +1,5 @@
 ---
-title: Language and Terminology
+title: "Language & Terminology: A Plain-Language Guide"
 description: Language shapes how we think about disability. This page explains key terms and why they matter.
 published: true
 date: 2026-06-05T20:19:27.793Z
@@ -227,8 +227,6 @@ A: Use self-identified language when possible. If unsure, ask. If someone doesn'
 A: Language preferences vary by region and culture. This guide focuses on English-language disability justice terminology. Other languages have their own frameworks.
 
 ---
-
-**Next page to read:** [[/start/what-is-disability|What Is Disability?]] or [[/start/models|Disability Models]]
 
 ---
 

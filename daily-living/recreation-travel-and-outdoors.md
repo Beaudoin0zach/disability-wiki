@@ -561,7 +561,7 @@ We welcome contributions from disabled travelers, athletes, and outdoor enthusia
 - Adaptive equipment innovations
 - Global and cross-cultural perspectives on recreation and travel
 
-[Link to contribution form]
+[Suggest an edit or addition →](/start/contribute)
 
 ---
 
@@ -578,4 +578,4 @@ We welcome contributions from disabled travelers, athletes, and outdoor enthusia
 ---
 
 **Maintained by:** DisabilityWiki community
-**Share feedback:** [Feedback link]
+**Share feedback:** [How to Contribute](/start/contribute)

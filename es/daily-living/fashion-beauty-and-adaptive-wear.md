@@ -526,7 +526,7 @@ Damos la bienvenida a contribuciones de:
 - Consejos de estilo de segunda mano
 - Activismo y representación en la moda
 
-[Enlace al formulario de contribución]
+[Sugiere una edición o adición →](/es/start/contribute)
 
 ---
 
@@ -541,4 +541,4 @@ Damos la bienvenida a contribuciones de:
 ---
 
 **Mantenido por:** la comunidad de DisabilityWiki
-**Comparte tu opinión:** [Enlace de retroalimentación]
+**Comparte tu opinión:** [Cómo Contribuir](/es/start/contribute)

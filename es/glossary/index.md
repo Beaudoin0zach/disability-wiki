@@ -149,7 +149,7 @@ Contribuir al Disability Wiki:
 5. El equipo editorial revisa la exactitud y la accesibilidad.
 6. El contenido se agrega al wiki con el crédito correspondiente.
 
-**Formulario de contribución**: [Enlace al formulario →]
+**Formulario de contribución**: [Cómo Contribuir →](/es/start/contribute)
 
 **Qué estamos buscando**:
 - Experiencia vivida y conocimientos.
@@ -292,7 +292,7 @@ Autor(es) (Fecha) 'Título de la página', *Disability Wiki*. Disponible en: URL
 
 **¿Problemas de accesibilidad?** Repórtalos en la [página de contacto →](/es/start/contact)
 
-**¿Quieres contribuir?** Usa el [formulario de contribución →]
+**¿Quieres contribuir?** Consulta [Cómo Contribuir →](/es/start/contribute)
 
 **¿Retroalimentación?** Damos la bienvenida a toda la retroalimentación en la [página de contacto →](/es/start/contact)
 
@@ -325,7 +325,7 @@ Gracias.
 
 ## Contribuye ahora
 
-[Enlace al formulario de contribución →]
+[Sugiere una edición o adición →](/es/start/contribute)
 
 **¿Tienes conocimientos para compartir?** Queremos saber de ti.
 

@@ -462,7 +462,7 @@ Damos la bienvenida a contribuciones de:
 - Personas jóvenes activistas y líderes con discapacidad
 - Historias sobre encontrar y construir comunidad de discapacidad
 
-[Enlace al formulario de contribución]
+[Sugiere una edición o adición →](/es/start/contribute)
 
 ---
 
@@ -479,4 +479,4 @@ Damos la bienvenida a contribuciones de:
 ---
 
 **Mantenida por:** la comunidad de DisabilityWiki
-**Comparte tus comentarios:** [Enlace de comentarios]
+**Comparte tus comentarios:** [Cómo Contribuir](/es/start/contribute)

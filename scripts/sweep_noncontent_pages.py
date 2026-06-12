@@ -33,7 +33,7 @@ UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/
 APPLY = '--apply' in sys.argv
 
 # Path prefixes that are NEVER public content (dot stripped by Wiki.js on import).
-NONCONTENT_PREFIXES = ('claude/', 'docs/', 'archetypes/', 'content/', 'page-review')
+NONCONTENT_PREFIXES = ('claude/', 'docs/', 'archetypes/', 'content/', 'page-review', 'site/')
 # Exact root-level page paths that are repo meta, not content.
 NONCONTENT_EXACT = {
     'README', 'SECURITY', 'SETUP', 'PROJECT_STATUS', 'BACKUP_AGENT_SETUP',

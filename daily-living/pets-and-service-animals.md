@@ -606,7 +606,7 @@ We welcome contributions from:
 - People sharing service dog access stories (good and bad)
 - Global and cultural perspectives
 
-[Link to contribution form]
+[Suggest an edit or addition →](/start/contribute)
 
 ---
 
@@ -621,4 +621,4 @@ We welcome contributions from:
 ---
 
 **Maintained by:** DisabilityWiki community
-**Share feedback:** [Feedback link]
+**Share feedback:** [How to Contribute](/start/contribute)

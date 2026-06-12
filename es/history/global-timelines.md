@@ -1,6 +1,6 @@
 ---
 title: Cronologías de la historia global de la discapacidad
-description: La historia de la discapacidad es historia global: las personas con discapacidad de todos los continentes se han organizado, han resistido y han moldeado sus sociedades.
+description: "La historia de la discapacidad es historia global: las personas con discapacidad de todos los continentes se han organizado, han resistido y han moldeado sus sociedades."
 published: true
 date: 2026-06-05T20:37:04.998Z
 tags: 

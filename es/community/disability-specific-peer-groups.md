@@ -1,6 +1,6 @@
 ---
 title: Grupos de apoyo entre pares por discapacidad
-description: Un mapa de comunidades de apoyo entre pares dirigidas por y para grupos específicos de discapacidad e identidad: personas autistas y neurodivergentes, sordas y sordociegas, ciegas y con baja visión, con enfermedades crónicas, sobrevivientes de la psiquiatría, autogestoras con discapacidad intelectual y del desarrollo, y usuarias de CAA.
+description: "Un mapa de comunidades de apoyo entre pares dirigidas por y para grupos específicos de discapacidad e identidad: personas autistas y neurodivergentes, sordas y sordociegas, ciegas y con baja visión, con enfermedades crónicas, sobrevivientes de la psiquiatría, autogestoras con discapacidad intelectual y del desarrollo, y usuarias de CAA."
 published: true
 date: 2026-06-07T00:00:00.000Z
 tags: 

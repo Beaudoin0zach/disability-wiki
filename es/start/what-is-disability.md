@@ -2,6 +2,7 @@
 title: Qué es la discapacidad
 description: La discapacidad significa cosas distintas para distintas personas. Esta página explica varias maneras de pensar sobre la discapacidad.
 published: true
+draft: true
 date: 2026-06-05T22:42:29.158Z
 tags: 
 editor: markdown

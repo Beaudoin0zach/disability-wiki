@@ -1,5 +1,5 @@
 ---
-title: Contacto
+title: Contáctanos
 description: DisabilityWiki está hecho por y para personas con discapacidad. Damos la bienvenida a tus preguntas, sugerencias, correcciones y contribuciones.
 published: true
 date: 2026-06-05T20:26:25.627Z
@@ -116,7 +116,7 @@ No somos un servicio de crisis, ni asesores legales, ni proveedores médicos. So
 
 Si encuentras alguna barrera de accesibilidad en este sitio, avísanos de inmediato a support@disabilitywiki.org. Nos comprometemos a hacer que este recurso sea usable para todas las personas.
 
-Consulta nuestra [Declaración de accesibilidad](/es/accessibility-statement) completa para conocer los detalles de nuestros compromisos de accesibilidad y los problemas conocidos.
+Consulta nuestra [Declaración de accesibilidad](/es/start/accessibility-statement) completa para conocer los detalles de nuestros compromisos de accesibilidad y los problemas conocidos.
 
 -----
 

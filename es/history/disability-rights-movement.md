@@ -1,6 +1,6 @@
 ---
 title: El movimiento por los derechos de las personas con discapacidad
-description: El movimiento por los derechos de las personas con discapacidad transformó la manera en que el mundo entiende la discapacidad: de un problema médico…
+description: "El movimiento por los derechos de las personas con discapacidad transformó la manera en que el mundo entiende la discapacidad: de un problema médico…"
 published: true
 date: 2026-06-05T20:36:51.273Z
 tags: 

@@ -1,7 +1,8 @@
 ---
 title: Disability Models
-description: Disability Models: guidance, rights, and resources for the disability community.
+description: "Disability Models: guidance, rights, and resources for the disability community."
 published: true
+draft: true
 date: 2026-06-05T20:17:51.412Z
 tags: 
 editor: markdown

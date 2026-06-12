@@ -1,6 +1,6 @@
 ---
 title: Vida diaria
-description: Orientación práctica y real para la vida cotidiana con una discapacidad: hogar, cuidado personal, medicación, tecnología de apoyo, cocina, viajes, recreación y más.
+description: "Orientación práctica y real para la vida cotidiana con una discapacidad: hogar, cuidado personal, medicación, tecnología de apoyo, cocina, viajes, recreación y más."
 published: true
 tags: 
 editor: markdown

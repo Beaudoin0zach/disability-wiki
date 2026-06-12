@@ -416,7 +416,7 @@ This page is written by and for disabled adults. We welcome contributions from:
 - People with specific disabilities sharing what helps you learn
 - Educators making programs more accessible
 
-[Link to contribution form]
+[Suggest an edit or addition →](/start/contribute)
 
 ---
 
@@ -433,4 +433,4 @@ This page is written by and for disabled adults. We welcome contributions from:
 ---
 
 **Maintained by:** DisabilityWiki community
-**Share feedback:** [Feedback link]
+**Share feedback:** [How to Contribute](/start/contribute)

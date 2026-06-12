@@ -1,6 +1,6 @@
 ---
 title: Relaciones
-description: Conexión, intimidad, familia y cuidado para las personas con discapacidad: citas, comunicación de la discapacidad, crianza, dinámicas de cuidado y cómo reconocer el abuso y el control.
+description: "Conexión, intimidad, familia y cuidado para las personas con discapacidad: citas, comunicación de la discapacidad, crianza, dinámicas de cuidado y cómo reconocer el abuso y el control."
 published: true
 tags: 
 editor: markdown

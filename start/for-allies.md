@@ -1,7 +1,8 @@
 ---
 title: For Allies
-description: For Allies: guidance, rights, and resources for the disability community.
+description: "For Allies: guidance, rights, and resources for the disability community."
 published: true
+draft: true
 date: 2026-06-05T20:17:55.698Z
 tags: 
 editor: markdown

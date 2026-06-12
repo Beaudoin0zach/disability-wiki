@@ -679,7 +679,7 @@ We welcome contributions from:
 - Trauma-informed and anti-diet fitness perspectives
 - Global and cultural perspectives on disabled movement
 
-[Link to contribution form]
+[Suggest an edit or addition →](/start/contribute)
 
 ---
 
@@ -694,4 +694,4 @@ We welcome contributions from:
 ---
 
 **Maintained by:** DisabilityWiki community
-**Share feedback:** [Feedback link]
+**Share feedback:** [How to Contribute](/start/contribute)

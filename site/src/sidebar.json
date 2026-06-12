@@ -1,0 +1,324 @@
+[
+ {
+  "label": "Start",
+  "collapsed": true,
+  "translations": {
+   "es": "Para empezar"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "start"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Foundations",
+  "collapsed": true,
+  "translations": {
+   "es": "Fundamentos"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "foundations"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Crisis & Safety",
+  "collapsed": true,
+  "translations": {
+   "es": "Crisis y seguridad"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "crisis"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Money & Benefits",
+  "collapsed": true,
+  "translations": {
+   "es": "Dinero y prestaciones"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "benefits"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Rights & Laws",
+  "collapsed": true,
+  "translations": {
+   "es": "Derechos y leyes"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "rights"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Healthcare & Access",
+  "collapsed": true,
+  "translations": {
+   "es": "Atención médica y acceso"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "healthcare"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Housing & Living Arrangements",
+  "collapsed": true,
+  "translations": {
+   "es": "Vivienda y arreglos de convivencia"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "housing"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Employment & Work",
+  "collapsed": true,
+  "translations": {
+   "es": "Empleo y trabajo"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "employment"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Education",
+  "collapsed": true,
+  "translations": {
+   "es": "Educación"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "education"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Daily Living",
+  "collapsed": true,
+  "translations": {
+   "es": "Vida diaria"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "daily-living"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Relationships",
+  "collapsed": true,
+  "translations": {
+   "es": "Relaciones"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "relationships"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Community & Connection",
+  "collapsed": true,
+  "translations": {
+   "es": "Comunidad y conexión"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "community"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Conditions",
+  "collapsed": true,
+  "translations": {
+   "es": "Afecciones"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "conditions"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Intersectionality",
+  "collapsed": true,
+  "translations": {
+   "es": "Interseccionalidad"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "intersectionality"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Technology & Digital Access",
+  "collapsed": true,
+  "translations": {
+   "es": "Tecnología y acceso digital"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "tech"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Transportation & Mobility",
+  "collapsed": true,
+  "translations": {
+   "es": "Transporte y movilidad"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "transport"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Sports",
+  "collapsed": true,
+  "translations": {
+   "es": "Deportes"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "sports"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Media, Arts & Culture",
+  "collapsed": true,
+  "translations": {
+   "es": "Medios, artes y cultura"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "media"
+    }
+   }
+  ]
+ },
+ {
+  "label": "History of Disability",
+  "collapsed": true,
+  "translations": {
+   "es": "Historia de la discapacidad"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "history"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Research",
+  "collapsed": true,
+  "translations": {
+   "es": "Investigación"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "research"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Professionals",
+  "collapsed": true,
+  "translations": {
+   "es": "Profesionales"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "professionals"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Glossary & Contribution",
+  "collapsed": true,
+  "translations": {
+   "es": "Glosario y contribución"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "glossary"
+    }
+   }
+  ]
+ },
+ {
+  "label": "Get Involved",
+  "collapsed": true,
+  "translations": {
+   "es": "Participa"
+  },
+  "items": [
+   {
+    "autogenerate": {
+     "directory": "get-involved"
+    }
+   }
+  ]
+ }
+]

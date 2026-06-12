@@ -1,5 +1,5 @@
 ---
-title: Cómo usar este wiki
+title: "Cómo usar este wiki: guía de navegación"
 description: Este wiki tiene mucha información. Esta página te ayuda a encontrar lo que necesitas.
 published: true
 date: 2026-06-05T20:19:42.151Z
@@ -358,7 +358,7 @@ R: Prueba a buscar o navega por la sección correspondiente. Si no la encuentras
 → [Usa el formulario de contribución →](https://forms.gle/YJFxFGrK3cZs1VKi8) para reportarlo
 
 **¿Problema de accesibilidad?**  
-→ Consulta la [Declaración de accesibilidad →](/es/accessibility-statement) o [Contáctanos →](/es/start/contact)
+→ Consulta la [Declaración de accesibilidad →](/es/start/accessibility-statement) o [Contáctanos →](/es/start/contact)
 
 **¿Quieres aportar tus conocimientos?**  
 → [Aprende cómo contribuir →](/es/start/contribute)

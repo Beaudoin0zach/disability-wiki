@@ -1,5 +1,5 @@
 ---
-title: Lenguaje y terminología
+title: "Lenguaje y terminología: una guía en lenguaje sencillo"
 description: El lenguaje moldea cómo pensamos sobre la discapacidad. Esta página explica términos clave y por qué importan.
 published: true
 date: 2026-06-05T20:19:27.793Z
@@ -227,8 +227,6 @@ R: Usa el lenguaje con el que cada persona se autoidentifica cuando sea posible.
 R: Las preferencias de lenguaje varían según la región y la cultura. Esta guía se centra en la terminología de justicia para las personas con discapacidad en lengua inglesa. Otros idiomas tienen sus propios marcos.
 
 ---
-
-**Siguiente página para leer:** [[/es/start/what-is-disability|¿Qué es la discapacidad?]] o [[/es/start/models|Modelos de la discapacidad]]
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Herramientas de investigación accesibles
-description: La accesibilidad importa no solo en los servicios y los espacios: es esencial en la propia investigación.
+description: "La accesibilidad importa no solo en los servicios y los espacios: es esencial en la propia investigación."
 published: true
 date: 2026-06-05T20:22:37.127Z
 tags: 

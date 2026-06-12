@@ -582,7 +582,7 @@ Damos la bienvenida a contribuciones de:
 - Historias de resolución de problemas y de defensa de la accesibilidad
 - Perspectivas globales sobre los viajes accesibles
 
-[Enlace al formulario de contribución]
+[Sugiere una edición o adición →](/es/start/contribute)
 
 ---
 
@@ -597,4 +597,4 @@ Damos la bienvenida a contribuciones de:
 ---
 
 **Mantenida por:** la comunidad de DisabilityWiki
-**Comparte tus comentarios:** [Enlace de comentarios]
+**Comparte tus comentarios:** [Cómo Contribuir](/es/start/contribute)

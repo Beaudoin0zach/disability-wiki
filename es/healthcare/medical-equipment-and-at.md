@@ -1,6 +1,6 @@
 ---
 title: Equipos médicos y tecnología de asistencia
-description: La tecnología de asistencia (AT) y los equipos médicos pueden transformar la vida de las personas con discapacidad: permiten la independencia,…
+description: "La tecnología de asistencia (AT) y los equipos médicos pueden transformar la vida de las personas con discapacidad: permiten la independencia,…"
 published: true
 date: 2026-06-05T20:36:03.181Z
 tags: 

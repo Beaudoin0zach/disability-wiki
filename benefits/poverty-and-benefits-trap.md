@@ -1,5 +1,5 @@
 ---
-title: Disability and Poverty: The Benefits Trap
+title: "Disability and Poverty: The Benefits Trap"
 description: Disabled people are not poor because disability is expensive. Disabled people are poor because systems are designed to keep them poor.
 published: true
 date: 2026-06-05T20:27:27.770Z
