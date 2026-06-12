@@ -70,6 +70,6 @@ retires the droplet (~$150+/yr).
 - Do not restructure content paths: URL preservation is the SEO and
   link-integrity guarantee (`/en/*` 301s + generated alias redirects cover the
   legacy URL space).
-- Open items until Phase 5: delete stale `sitemap-*` DNS-only A record; add
-  DMARC (`_dmarc` TXT, `v=DMARC1; p=quarantine; rua=mailto:<owner>`);
-  PR #23 (substance-use page) awaiting content review.
+- Open items until Phase 5: ~~delete stale `sitemap-*` DNS-only A record~~ (done
+  2026-06-12); add DMARC (`_dmarc` TXT, `v=DMARC1; p=quarantine;
+  rua=mailto:<owner>`); PR #23 (substance-use page) awaiting content review.
