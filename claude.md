@@ -1,3 +1,5 @@
+> **⚠️ PLATFORM CHANGE — 2026-06-12:** disabilitywiki.org now serves the **Astro Starlight static site** from Cloudflare Pages (project `disability-wiki`, auto-deploys on merge to `main`, root dir `site/`). **Publishing = merging to main. The Wiki.js instructions below are LEGACY** — the droplet (167.71.97.167) still runs Wiki.js as a rollback until decommission (planned ~2026-07). Rollback = restore the A records to the droplet IP. See `docs/migration/MIGRATION_PLAN.md`.
+
 ---
 title: claude
 description: 

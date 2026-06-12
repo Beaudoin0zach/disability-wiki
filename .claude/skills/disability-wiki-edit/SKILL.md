@@ -15,6 +15,8 @@ description: >-
 
 # Disability-Wiki Editing (Operations)
 
+> **⚠️ LEGACY (cutover 2026-06-12):** the live site is now the **static Starlight site** on Cloudflare Pages — to publish, edit the markdown, merge to `main`, done (verify at https://disabilitywiki.org after the ~2-min build; preview deploys exist for PR branches). Build locally with `cd site && npm run build`. **Everything below (GraphQL API, force-sync, publish_page.py, SSH recovery) applies only to the legacy Wiki.js droplet**, kept as rollback until decommission.
+
 How to change content on **disabilitywiki.org** (Wiki.js 2.5.x). The repo at
 `~/projects/disability-wiki` mirrors the wiki; markdown files map to page paths
 (`benefits/us/ssi.md` → `/en/benefits/us/ssi`).

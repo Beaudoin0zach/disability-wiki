@@ -6,6 +6,9 @@ All notable changes to the Disability Wiki project are documented in this file.
 
 ## [Unreleased]
 
+### Changed
+- **CUTOVER (2026-06-12): disabilitywiki.org now serves the Astro Starlight static site from Cloudflare Pages.** Custom domains (apex + www) attached to the `disability-wiki` Pages project; verified live: pages 200 (EN + es), `/en/*` 301s, stub/index/case redirects, 404, valid TLS. Publishing is now merge-to-main. The Wiki.js droplet remains as rollback until decommission; CLAUDE.md and the edit skill carry legacy banners.
+
 ### Fixed
 - **Phantom git submodule entry removed** (`disability-wiki` gitlink with no `.gitmodules`): harmless locally for months, but it made Cloudflare's repo clone fail (`fatal: No url found for submodule path`), blocking the first Workers Builds deployment.
 - **17 broken Spanish links fixed (live bugs)** — surfaced by the migration Phase 3 link verification (143,514 rendered hrefs checked, now 0 broken): wrong community/condition/crisis slugs across 14 es/ files, including crisis-hotline paths and one wrong-region link (Indonesia under south-america). The repo link validator misses es-slug mismatches; verification report: `docs/migration/VERIFICATION_2026-06-12.md`.
