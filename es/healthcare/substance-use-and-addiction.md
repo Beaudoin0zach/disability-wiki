@@ -39,7 +39,7 @@ La investigación encuentra de manera consistente que las personas con discapaci
 - **Dolor no tratado o tratado de manera insuficiente.** Cuando la atención del dolor se niega o es inadecuada, algunas personas recurren al alcohol, a drogas de la calle o a medicamentos de otras personas. Es una consecuencia predecible del tratamiento insuficiente, no un fallo personal.
 - **Trauma.** Las personas con discapacidad sufren violencia, abuso e institucionalización a tasas elevadas, y el trauma es uno de los predictores más fuertes del trastorno por consumo de sustancias. Ver [Trauma sistémico](/es/healthcare/systemic-trauma).
 - **Automedicación de la discapacidad psiquiátrica.** El alcohol y otras sustancias suelen ser el "tratamiento" más accesible para la ansiedad, la depresión y el TEPT cuando la atención real de salud mental es inasequible o no está disponible. Ver [Salud mental](/es/healthcare/mental-health).
-- **Aislamiento y pobreza.** Las mismas condiciones estructurales documentadas en todo este wiki —desempleo, pobreza por prestaciones insuficientes, exclusión social— son factores de riesgo para la adicción.
+- **Aislamiento y pobreza.** Las mismas condiciones estructurales documentadas en todo este wiki (desempleo, pobreza por prestaciones insuficientes, exclusión social) son factores de riesgo para la adicción.
 
 Nada de esto significa que la discapacidad cause adicción. Significa que los sistemas que rodean a las personas con discapacidad muchas veces sí.
 
@@ -47,7 +47,7 @@ Nada de esto significa que la discapacidad cause adicción. Significa que los si
 
 ## Los pacientes con dolor crónico no son la crisis de opioides
 
-Esta sección existe porque los pacientes con dolor crónico —un grupo mayoritariamente compuesto por personas con discapacidad— han pasado años siendo tratados como la causa de una crisis de sobredosis que hoy es impulsada principalmente por el fentanilo de fabricación ilícita, no por las recetas.
+Esta sección existe porque los pacientes con dolor crónico, un grupo mayoritariamente compuesto por personas con discapacidad, han pasado años siendo tratados como la causa de una crisis de sobredosis que hoy es impulsada principalmente por el fentanilo de fabricación ilícita, no por las recetas.
 
 ### Qué pasó
 
@@ -76,7 +76,7 @@ Esto es información general, no consejo médico ni legal:
 - **Pide el razonamiento clínico por escrito** y pide que tu desacuerdo quede documentado en tu expediente.
 - **Cita la guía vigente.** La guía de 2022 de los CDC y la advertencia de seguridad de 2019 de la FDA desaconsejan la suspensión abrupta y las metas de dosis rígidas. La orientación profesional probablemente ya superó la política que te están aplicando.
 - **Pide una derivación a manejo del dolor** antes de que cualquier cambio entre en vigor.
-- **Documenta tu funcionamiento** con tu régimen actual —trabajo, cuidados, movilidad, sueño— para que el expediente muestre lo que está en juego.
+- **Documenta tu funcionamiento** con tu régimen actual (trabajo, cuidados, movilidad, sueño) para que el expediente muestre lo que está en juego.
 - **Si te abandonan por completo**, presenta quejas: ante la junta médica estatal y (para sistemas hospitalarios y aseguradoras) ante el departamento de salud de tu estado. También pueden aplicar quejas por discriminación por discapacidad; ver [Presentar una queja por discapacidad](/es/rights/filing-a-disability-complaint).
 - **Si tienes pensamientos suicidas durante una reducción de dosis, eso es una emergencia médica**: díselo a tu equipo de salud con esas palabras y usa los [recursos de crisis](/es/crisis) si los necesitas ahora.
 
@@ -98,7 +98,7 @@ En EE. UU., el trastorno por consumo de sustancias en recuperación es, en gener
 
 ### La recuperación toma muchas formas
 
-- **La medicación para el trastorno por consumo de opioides (MOUD)** —metadona y buprenorfina— es el estándar de atención basado en evidencia, no "reemplazar una adicción por otra". Las personas que toman MOUD están en recuperación, punto. Exigir que las personas dejen estos medicamentos para acceder a vivienda, programas de tratamiento o tribunales de drogas es mala medicina y, en muchos casos, discriminación ilegal.
+- **La medicación para el trastorno por consumo de opioides (MOUD)**, es decir, metadona y buprenorfina, es el estándar de atención basado en evidencia, no "reemplazar una adicción por otra". Las personas que toman MOUD están en recuperación, punto. Exigir que las personas dejen estos medicamentos para acceder a vivienda, programas de tratamiento o tribunales de drogas es mala medicina y, en muchos casos, discriminación ilegal.
 - **Apoyo mutuo**: AA, NA y alternativas seculares como SMART Recovery. Las reuniones en línea y por teléfono, que se expandieron enormemente después de 2020, han hecho el apoyo mutuo radicalmente más accesible para quienes no pueden trasladarse, no pueden permanecer en reuniones presenciales o necesitan subtitulado.
 - **Reducción de daños**: encontrarse con las personas donde están: suministros para un consumo más seguro, naloxona, verificación de sustancias y apoyo sin juicios. La reducción de daños salva vidas, se vuelva o no la abstinencia una meta.
 
