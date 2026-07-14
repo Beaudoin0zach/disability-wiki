@@ -24,6 +24,18 @@ All notable changes to the Disability Wiki project are documented in this file.
 - **Canonical claims ledger** (2026-06-22, `docs/CLAIMS.md`): `public-ledger`-style registry of load-bearing facts (crisis numbers, benefits figures, legal deadlines) → primary source + verify date, seeded from the 2026-06 audits and the fact-check error heatmap. Internal, not published.
 
 ### Fixed
+- **SW: redirect-tainted cache entries break offline navigation in production**
+  (2026-07-14, `site/tools/gen-sw.mjs`): Cloudflare Pages 308s bare-file URLs
+  (`/offline.html` → `/offline`) and no-slash page URLs (`/x` → `/x/`) — behaviors
+  `astro preview` doesn't reproduce, so local offline tests passed while production
+  would fail: browsers reject redirected responses served to navigations. Fixes:
+  offline page moved to `/offline/` (directory-style like every other URL, no
+  redirect), and runtime page-caching now strips the `redirected` flag by rewrapping
+  the response. Found because the first production deploy stalled and live checks
+  ran against the real edge. Known residual: the zone's Browser Cache TTL (4h)
+  overrides the `no-cache` `_headers` rule for `sw.js` on the custom domain —
+  harmless for SW updates (browsers bypass HTTP cache for update checks), but worth
+  flipping to "Respect existing headers" in the dashboard.
 - **Offline-page a11y (design review)** (2026-07-14, `site/public/offline.html`):
   dark-theme "Try again" button was white-on-`#5a9be0` at 2.9:1 contrast (fails
   WCAG 1.4.3) → dark text on the light accent, 5.2:1; button hit area was 38px →

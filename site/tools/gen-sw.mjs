@@ -28,7 +28,8 @@ function pageUrls(dir, url) {
 }
 
 const precache = [
-  '/offline.html',
+  '/offline/', // directory-style like all pages: Pages 308s bare .html URLs, and
+  // a redirect-tainted precache entry can't be served to navigations (Chrome)
   '/manifest.webmanifest',
   '/icon-192.png',
   ...pageUrls(join(DIST, 'crisis'), '/crisis'),
@@ -75,6 +76,19 @@ async function matchPage(cache, request) {
   }
 }
 
+// Cache a copy with the redirected flag stripped: Pages 308s no-slash URLs to
+// trailing-slash, and browsers reject redirected responses served to navigations.
+async function cachePut(cache, request, response) {
+  const copy = response.redirected
+    ? new Response(await response.clone().blob(), {
+        status: response.status,
+        statusText: response.statusText,
+        headers: response.headers,
+      })
+    : response.clone();
+  await cache.put(request, copy);
+}
+
 // Network-first with timeout: fresh content wins; cache is the offline fallback.
 async function pageStrategy(request) {
   const cache = await caches.open(CACHE);
@@ -83,10 +97,10 @@ async function pageStrategy(request) {
     const timer = setTimeout(() => controller.abort(), 5000);
     const response = await fetch(request, { signal: controller.signal });
     clearTimeout(timer);
-    if (response.ok) cache.put(request, response.clone());
+    if (response.ok) await cachePut(cache, request, response);
     return response;
   } catch {
-    return (await matchPage(cache, request)) || cache.match('/offline.html');
+    return (await matchPage(cache, request)) || cache.match('/offline/');
   }
 }
 
