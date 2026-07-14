@@ -37,7 +37,7 @@ build** hosted on **Cloudflare Pages** (project `disability-wiki`).
 cd site
 npm ci
 npm run dev      # local dev server (astro dev)
-npm run build    # production build → site/dist (astro build + index-redirect generation)
+npm run build    # production build → site/dist (astro build + index-redirects + service worker)
 ```
 
 The build compiles all wiki content (~540 pages) in seconds. If `npm run build`
@@ -59,6 +59,11 @@ repo's source of truth — no content is copied or moved.
   start/foundations/crisis first) — do **not** hand-maintain a nav list.
 - **Redirects**: `site/public/_redirects` (Cloudflare `_redirects` format);
   index-page redirects are generated at build by `site/tools/gen-index-redirects.mjs`.
+- **PWA / offline**: the site is installable (`site/public/manifest.webmanifest`)
+  and works offline. `site/tools/gen-sw.mjs` generates the service worker at build:
+  all `crisis/` + `es/crisis/` pages are precached (discovered by walking `dist/`,
+  never hand-listed); HTML is **network-first** so a stale crisis number is never
+  served while online. `site/public/_headers` keeps `sw.js` out of the edge cache.
 - Because the build only includes what's symlinked under `site/src/content/docs/`,
   non-content files (`.claude/`, `docs/`, root `*.md`) are **not** published — unlike
   the Wiki.js era, there is no leak-and-sweep problem.
@@ -77,7 +82,7 @@ disability-wiki/
 │   ├── astro.config.mjs
 │   ├── src/content/docs/     # content symlinked in from repo-root category dirs
 │   ├── public/_redirects     # Cloudflare redirects (e.g. /en/* → /*)
-│   ├── tools/                # build helpers (gen-index-redirects.mjs)
+│   ├── tools/                # build helpers (gen-index-redirects.mjs, gen-sw.mjs)
 │   └── dist/                 # build output (git-ignored)
 ├── benefits/ rights/ crisis/ housing/ …   # English content (source of truth)
 ├── es/                       # Spanish content

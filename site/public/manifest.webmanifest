@@ -1,0 +1,30 @@
+{
+  "name": "Disability Wiki",
+  "short_name": "Disability Wiki",
+  "description": "A public knowledge base on disability, chronic illness, accessibility, and care — centered on lived experience, plain language, and practical resources.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d5ca8",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    {
+      "name": "Crisis hotlines",
+      "short_name": "Crisis",
+      "url": "/crisis/global-crisis-hotlines/",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    },
+    {
+      "name": "Líneas de crisis (español)",
+      "short_name": "Crisis (es)",
+      "url": "/es/crisis/global-crisis-hotlines/",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+    }
+  ]
+}

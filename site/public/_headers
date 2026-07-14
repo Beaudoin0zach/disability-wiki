@@ -1,0 +1,7 @@
+# Cloudflare Pages headers.
+# The service worker must never be served stale from the edge — a cached sw.js
+# would pin users to an old precache after a life-safety content fix.
+/sw.js
+  Cache-Control: no-cache
+/manifest.webmanifest
+  Cache-Control: no-cache
