@@ -28,6 +28,17 @@ export default defineConfig({
       logo: { src: './src/assets/logo.png', alt: '' },
       favicon: '/favicon.png',
       customCss: ['./src/styles/custom.css'],
+      head: [
+        // PWA: installable + offline (crisis pages precached; see tools/gen-sw.mjs)
+        { tag: 'link', attrs: { rel: 'manifest', href: '/manifest.webmanifest' } },
+        { tag: 'link', attrs: { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' } },
+        { tag: 'meta', attrs: { name: 'theme-color', content: '#1d5ca8' } },
+        {
+          tag: 'script',
+          content:
+            "if ('serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js');",
+        },
+      ],
       defaultLocale: 'root',
       locales: {
         root: { label: 'English', lang: 'en' },

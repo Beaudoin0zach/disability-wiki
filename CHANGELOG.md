@@ -7,6 +7,18 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **PWA: installable + offline crisis pages** (2026-07-14): web app manifest with
+  crisis-hotline shortcuts (EN + ES), icons generated from the site logo, and a
+  build-generated service worker (`site/tools/gen-sw.mjs`). All `crisis/` and
+  `es/crisis/` pages (~58) plus the asset bundle are precached at install —
+  discovered by walking `dist/`, never hand-listed. HTML is network-first (a stale
+  crisis number is never served while online; cache is the offline fallback only);
+  cache version is a hash of precached content, so a crisis-page fix re-precaches on
+  the next visit. Bilingual offline fallback page (`offline.html`) deliberately
+  contains **no hotline numbers** — it links to the precached pages instead, so
+  life-safety facts stay single-sourced (CLAIMS discipline). `_headers` keeps
+  `sw.js`/manifest out of the Cloudflare edge cache. First phase of the native-app
+  (Capacitor) plan.
 - **CI merge-gate** (2026-06-22, `.github/workflows/ci.yml`): the cutover made publishing = merge to main with no review gate; every PR now runs the same Astro build Cloudflare runs (blocking) + `validate_wiki_links.py --strict` (blocking; baseline 0 broken links) + `check_accessibility.py` (advisory — current findings are all the emoji-as-info house style). Adds a `--strict` exit flag to the link validator. Ported from sibling projects' CI discipline.
 - **Incident-response runbook** (2026-06-22, `docs/INCIDENT_RESPONSE.md`): severity levels tuned to a life-safety static site (a wrong/dead crisis hotline number is SEV1); documents both rollback paths and that the droplet path (A records → `167.71.97.167`) expires at the 2026-07-10 decommission. Adapted from the `benefits-navigator` runbook.
 - **Canonical claims ledger** (2026-06-22, `docs/CLAIMS.md`): `public-ledger`-style registry of load-bearing facts (crisis numbers, benefits figures, legal deadlines) → primary source + verify date, seeded from the 2026-06 audits and the fact-check error heatmap. Internal, not published.

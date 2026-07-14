@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Offline — Disability Wiki</title>
+<style>
+  /* Self-contained: this page must render with zero network. */
+  :root {
+    --bg: #ffffff; --fg: #17222e; --accent: #1d5ca8; --muted: #5b6b7b;
+    --card: #e8f1f8; --border: #c5d8ea;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14273d; --fg: #e6eef7; --accent: #5a9be0; --muted: #9db2c8;
+      --card: #1b3350; --border: #2c4a6e;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 1.5rem; background: var(--bg); color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.6; display: flex; justify-content: center;
+  }
+  main { max-width: 36rem; width: 100%; }
+  h1 { color: var(--accent); font-size: 1.5rem; margin: 1rem 0 0.5rem; }
+  h2 { font-size: 1.1rem; margin: 1.5rem 0 0.5rem; }
+  p { margin: 0.5rem 0; }
+  .muted { color: var(--muted); font-size: 0.95rem; }
+  ul { padding-left: 0; list-style: none; margin: 0.75rem 0; }
+  li { margin: 0.5rem 0; }
+  a.card {
+    display: block; padding: 0.9rem 1rem; background: var(--card);
+    border: 1px solid var(--border); border-radius: 0.5rem;
+    color: var(--fg); text-decoration: none; font-weight: 600;
+  }
+  a.card:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  a.card span { display: block; font-weight: 400; font-size: 0.9rem; color: var(--muted); }
+  button {
+    margin-top: 1.25rem; padding: 0.6rem 1.2rem; font-size: 1rem;
+    background: var(--accent); color: #fff; border: none; border-radius: 0.5rem; cursor: pointer;
+  }
+  button:focus-visible { outline: 3px solid var(--fg); outline-offset: 2px; }
+  hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
+</style>
+</head>
+<body>
+<main>
+  <h1>You're offline</h1>
+  <p>This page couldn't load without an internet connection. Crisis and emergency
+  pages are saved on your device and still work:</p>
+
+  <ul>
+    <li><a class="card" href="/crisis/global-crisis-hotlines/">Crisis hotlines
+      <span>Saved for offline use</span></a></li>
+    <li><a class="card" href="/crisis/">All crisis &amp; emergency pages
+      <span>Saved for offline use</span></a></li>
+  </ul>
+
+  <p class="muted">Any page you've visited before may also be available offline.</p>
+  <button onclick="location.reload()">Try again</button>
+
+  <hr>
+
+  <h2 lang="es">Sin conexión</h2>
+  <p lang="es">Esta página no se pudo cargar sin conexión a internet. Las páginas de
+  crisis y emergencia están guardadas en tu dispositivo:</p>
+  <ul>
+    <li><a class="card" lang="es" href="/es/crisis/global-crisis-hotlines/">Líneas de crisis
+      <span>Disponible sin conexión</span></a></li>
+    <li><a class="card" lang="es" href="/es/crisis/">Todas las páginas de crisis
+      <span>Disponible sin conexión</span></a></li>
+  </ul>
+</main>
+</body>
+</html>
