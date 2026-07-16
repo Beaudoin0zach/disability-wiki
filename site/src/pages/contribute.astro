@@ -18,9 +18,13 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
     the live site.
   </p>
   <p>
-    Contributing requires a quick sign-in (so submissions can be moderated and, if
-    you ask, removed later). Sign-in is rolling out — until it's live you'll be
-    asked to come back.
+    Contributing requires a quick, pseudonymous sign-in — it's how submissions can
+    be moderated and, if you ask, removed later. You can still browse the whole wiki
+    without an account; sign-in only gates contributing.
+  </p>
+
+  <p class="contribute-signin">
+    <a class="contribute-signin__btn" href="/api/auth/login" rel="nofollow">Sign in to contribute</a>
   </p>
 
   <form method="post" action="/api/contributions" class="contribute-form">
@@ -73,9 +77,62 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
       <button type="submit">Submit proposed page</button>
     </fieldset>
   </form>
+
+  <div class="contribute-signout">
+    <span>Signed in on another visit?</span>
+    <form method="post" action="/api/auth/logout">
+      <button type="submit">Sign out</button>
+    </form>
+  </div>
 </StarlightPage>
 
 <style>
+  .contribute-signin {
+    margin: 1.5rem 0 0;
+  }
+  .contribute-signin__btn {
+    display: inline-block;
+    min-height: 44px;
+    padding: 0.6rem 1.4rem;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.6;
+    text-decoration: none;
+    color: var(--sl-color-black);
+    background: var(--sl-color-accent-high);
+    border-radius: 0.4rem;
+  }
+  .contribute-signin__btn:hover {
+    background: var(--sl-color-accent);
+    color: var(--sl-color-black);
+  }
+  .contribute-signout {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin: 2.5rem 0 0;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--sl-color-gray-5);
+    font-size: 0.9rem;
+    color: var(--sl-color-gray-3);
+  }
+  .contribute-signout form {
+    margin: 0;
+  }
+  .contribute-signout button {
+    min-height: 44px;
+    padding: 0.4rem 1rem;
+    font-size: 0.9rem;
+    color: var(--sl-color-white);
+    background: transparent;
+    border: 1px solid var(--sl-color-gray-5);
+    border-radius: 0.4rem;
+    cursor: pointer;
+  }
+  .contribute-signout button:hover {
+    background: var(--sl-color-gray-6);
+  }
   .contribute-form {
     margin: 2rem 0;
   }

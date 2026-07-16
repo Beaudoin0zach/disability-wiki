@@ -304,6 +304,13 @@
     "autogenerate": {
      "directory": "glossary"
     }
+   },
+   {
+    "label": "Suggest an edit",
+    "link": "/contribute/",
+    "translations": {
+     "es": "Sugerir una edición"
+    }
    }
   ]
  },

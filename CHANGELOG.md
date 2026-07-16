@@ -7,6 +7,19 @@ All notable changes to the Disability Wiki project are documented in this file.
 ## [Unreleased]
 
 ### Added
+- **Contribution go-live UI wiring** (2026-07-16,
+  [`site/src/pages/contribute.astro`](site/src/pages/contribute.astro),
+  [`site/src/sidebar.json`](site/src/sidebar.json)): the last-mile links that turn the
+  now-live auth flow into a usable feature. A **"Sign in to contribute"** link
+  (→ `GET /api/auth/login`) and a subdued **sign-out** form (→ `POST /api/auth/logout`)
+  on the contribute page — zero-JS, server-enforced (a submit with no session 303s to
+  `/contribute/sign-in-required/`); intro copy updated (sign-in is live, browsing stays
+  account-free). And a **"Suggest an edit"** link to `/contribute/` under the
+  "Glossary & Contribution" nav group, so the page is discoverable (it was intentionally
+  unlinked until auth worked). Verified: `npm run build` (535 pages), strict link
+  validator (0 broken), and `wrangler pages dev` — `/api/auth/login` 302s to Keycloak
+  with `code_challenge_method=S256` + httpOnly cookies, callback with no cookie 303s to
+  sign-in-required, `POST /api/contributions` with no session 401s.
 - **Contribution-backend deploy runbook** (2026-07-16,
   [`docs/deploy-contribution-backend.md`](docs/deploy-contribution-backend.md)): the
   copy-paste steps to go live — Supabase project + apply the two migrations, register
