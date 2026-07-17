@@ -24,12 +24,18 @@ export async function onRequestGet(context: { request: Request; env: Env }): Pro
   if (!keycloakConfigured(env)) return new Response('sign-in is not configured', { status: 404 });
 
   const store = selectSessionStore(env);
-  const failed = () => {
-    const headers = new Headers({ location: '/contribute/sign-in-required/', 'cache-control': 'no-store' });
+  // TEMP DIAGNOSTIC: tag the fail-closed redirect with a coarse reason category so a
+  // single real login pinpoints which step rejected (no secrets/token contents). Remove
+  // once the go-live round-trip is green.
+  const failed = (reason: string) => {
+    const headers = new Headers({
+      location: `/contribute/sign-in-required/?e=${reason}`,
+      'cache-control': 'no-store',
+    });
     clearTemp(headers);
     return new Response(null, { status: 303, headers });
   };
-  if (!store) return failed();
+  if (!store) return failed('no_store');
 
   const config = oidcConfig(env);
   const url = new URL(request.url);
@@ -55,7 +61,18 @@ export async function onRequestGet(context: { request: Request; env: Env }): Pro
     clearTemp(headers);
     return new Response(null, { status: 303, headers });
   } catch (err) {
-    console.error('[auth] callback failed:', err instanceof Error ? err.message : err);
-    return failed();
+    const msg = err instanceof Error ? err.message : String(err);
+    console.error('[auth] callback failed:', msg);
+    // TEMP DIAGNOSTIC: map the thrown message to a coarse category.
+    let reason = 'other';
+    if (msg.includes('state mismatch')) reason = 'state';
+    else if (msg.includes('missing authorization code')) reason = 'no_code';
+    else if (msg.includes('PKCE verifier or nonce cookie')) reason = 'pkce_cookie';
+    else if (msg.includes('token exchange failed')) reason = 'exchange';
+    else if (msg.includes('nonce mismatch')) reason = 'nonce';
+    else if (msg.includes('missing id_token')) reason = 'no_id_token';
+    else if (/aud|iss|signature|claim|jwt|jwk|exp|verif/i.test(msg)) reason = 'verify';
+    else if (/supabase|session|contributor|store|insert|http \d/i.test(msg)) reason = 'store';
+    return failed(reason);
   }
 }
