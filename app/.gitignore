@@ -1,0 +1,8 @@
+# ios/ is now committed (real platform, headed for TestFlight) — its own
+# .gitignore excludes Pods, build products, and the synced App/public copy.
+# android/ stays out until it's actually added (needs a JDK).
+/android/
+/node_modules/
+
+# Capacitor copies site/dist here on `cap sync` — it's the build output, not source.
+/www/
