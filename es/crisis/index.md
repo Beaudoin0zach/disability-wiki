@@ -14,6 +14,8 @@ Si tú o alguien que conoces está en peligro inmediato, llama a los servicios d
 
 Esta sección brinda acceso rápido a recursos de crisis, apoyo de emergencia y planificación de seguridad para personas con discapacidad y para quienes las apoyan.
 
+**Estas páginas funcionan sin señal.** Si agregas este wiki a tu pantalla de inicio, todas las páginas de esta sección — incluidos los números de las líneas de ayuda — se pueden leer sin conexión y sin datos. No cuesta nada y no requiere una cuenta. [Cómo instalarlo →](/es/start/app)
+
 ## Acerca de esta sección
 
 El apoyo en crisis es distinto para las personas con discapacidad. Una crisis de salud mental puede ocurrir en silencio. Una emergencia de la persona cuidadora puede agravarse rápidamente. La preparación para desastres debe tener en cuenta los medicamentos, el equipo médico y la accesibilidad. Esta sección está diseñada por y para personas con discapacidad para responder a necesidades reales de crisis.

@@ -19,6 +19,21 @@ const ANNOUNCEMENT_ID = 'app-2026-07';
 const { banner } = Astro.locals.starlightRoute.entry.data;
 const isSpanish = Astro.locals.starlightRoute.locale === 'es';
 
+/*
+ * Never announce on crisis pages. Someone reading these right now is the person least
+ * able to act on "install an app" and least able to spare the attention to parse it —
+ * installing is a preparedness action taken in a calm moment. That reader still meets
+ * the banner on the other ~530 pages, so suppressing here costs almost no reach.
+ *
+ * (Offline access is genuinely most valuable on these pages, since they are the
+ * precached ones — but that belongs in the page content permanently, not in a
+ * dismissible bar competing with hotline numbers. See the crisis index pages.)
+ *
+ * `id` is the content-collection id, e.g. 'crisis/index' or 'es/crisis/index'.
+ */
+const routeId = Astro.locals.starlightRoute.id;
+const isCrisis = /^(es\/)?crisis(\/|$)/.test(routeId);
+
 const t = isSpanish
 	? {
 			text: 'Agrega Disability Wiki a tu pantalla de inicio — funciona sin conexión. Una app nativa está en camino.',
@@ -43,6 +58,7 @@ const href = isSpanish ? '/es/start/app' : '/start/app';
   element is the same no-flash pattern Starlight uses for theme. With JS off nothing
   runs and the banner simply shows, which is the safe direction to fail.
 */}
+{!isCrisis && (
 <script is:inline define:vars={{ ANNOUNCEMENT_ID }}>
 	try {
 		if (localStorage.getItem('dw-announcement-dismissed') === ANNOUNCEMENT_ID) {
@@ -52,7 +68,9 @@ const href = isSpanish ? '/es/start/app' : '/start/app';
 		/* Private mode or blocked storage: show the banner. It stays dismissible. */
 	}
 </script>
+)}
 
+{!isCrisis && (
 <aside class="dw-banner" data-pagefind-ignore aria-label={t.dismiss.replace(/^Dismiss |^Descartar /, '')}>
 	<p class="dw-banner__text">
 		{t.text} <a href={href}>{t.link}</a>
@@ -69,7 +87,9 @@ const href = isSpanish ? '/es/start/app' : '/start/app';
 		</svg>
 	</button>
 </aside>
+)}
 
+{!isCrisis && (
 <script is:inline define:vars={{ ANNOUNCEMENT_ID }}>
 	document.querySelector('.dw-banner__close')?.addEventListener('click', () => {
 		document.documentElement.dataset.dwAnnouncement = 'dismissed';
@@ -80,6 +100,7 @@ const href = isSpanish ? '/es/start/app' : '/start/app';
 		}
 	});
 </script>
+)}
 
 <style>
 	/* Low-contrast accent surface rather than the loud accent fill Starlight uses for

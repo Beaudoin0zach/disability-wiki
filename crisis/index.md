@@ -14,6 +14,8 @@ If you or someone you know is in immediate danger, call emergency services (911 
 
 This section provides fast access to crisis resources, emergency support, and safety planning for disabled people and those supporting them.
 
+**These pages work without a signal.** If you add this wiki to your home screen, every page in this section — including the hotline numbers — stays readable with no connection and no data. It costs nothing and does not require an account. [How to install it →](/start/app)
+
 ## About This Section
 
 Crisis support looks different for disabled people. A mental health crisis might happen silently. A caregiver emergency can escalate quickly. Disaster preparedness needs to account for medication, medical equipment, and accessibility. This section is designed by and for disabled people to meet real crisis needs.
