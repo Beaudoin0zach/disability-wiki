@@ -73,7 +73,10 @@ const href = isSpanish ? '/es/start/app' : '/start/app';
 {!isCrisis && (
 <aside class="dw-banner" data-pagefind-ignore aria-label={t.dismiss.replace(/^Dismiss |^Descartar /, '')}>
 	<p class="dw-banner__text">
-		{t.text} <a href={href}>{t.link}</a>
+		{/* The space before the link must be an explicit expression: Astro drops literal
+		    whitespace between an expression and an adjacent element, which shipped
+		    "on the way.How to install" to production. */}
+		{t.text}{' '}<a href={href}>{t.link}</a>
 	</p>
 	<button class="dw-banner__close" type="button" aria-label={t.dismiss}>
 		<svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16">
