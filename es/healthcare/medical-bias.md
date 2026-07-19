@@ -645,7 +645,7 @@ Los conceptos de esta página provienen de los estudios en epistemología social
 
 - **MEAction** — Defensa de la encefalomielitis miálgica: meaction.net
 - **Dysautonomia International** — Trastornos autonómicos: dysautonomiainternational.org
-- **American Chronic Pain Association** — Apoyo para el dolor crónico: theacpa.org
+- **American Chronic Pain Association** — Apoyo para el dolor crónico: [acpanow.com](https://www.acpanow.com)
 - **Fibromyalgia Action UK** — Apoyo para la fibromialgia en el Reino Unido: fmauk.org
 
 ### Defensa de la atención médica con enfoque interseccional

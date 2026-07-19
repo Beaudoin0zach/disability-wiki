@@ -108,6 +108,7 @@ own confidence labels understated the problem in several places.
 | Paul Alexander | d. **2024-03-11**; Guinness record **71 years** | Guinness; NPR | 2026-07 | ✅ (not 72; COVID *not* established as cause of death) |
 | OCR personal-ventilator protection | Hospitals "should not re-allocate personal ventilators brought by a patient" | HHS OCR resolutions — TN 2020-06-26, UT 2020-08-20 | 2026-07 | ✅ **Scope: negotiated state resolution language, NOT a nationwide rule** |
 | WPV1 endemic countries | **Afghanistan and Pakistan** only | GPEI, as of 2026-07-15 | 2026-07 | ✅ |
+| Violent victimization of disabled people (US) | **46.2 vs 12.3 per 1,000** (nearly 4×), 2009–2019 | BJS, *Crime Against Persons with Disabilities 2009–2019* (Nov 2021) | 2026-07 | ✅ (US violent-crime victimization specifically, not all abuse; replaced an unsourced "2–3× abuse" claim on crisis/abuse/what-is-it) |
 
 ### Machine-readable rejected claims
 

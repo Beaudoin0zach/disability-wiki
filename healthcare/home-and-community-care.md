@@ -420,26 +420,26 @@ Request reassessment. Document your needs carefully. Appeal the decision. Contac
 
 ### United States
 
-- **ADAPT**: adapt.org
-- **National Council on Independent Living**: ncil.org
+- **ADAPT**: [adapt.org](https://adapt.org)
+- **National Council on Independent Living**: [ncil.org](https://ncil.org)
 - **CMS HCBS website**: medicaid.gov/medicaid/hcbs
-- **Find your Center for Independent Living**: ilru.org/projects/cil-net/cil-center-and-association-directory
+- **Find your Center for Independent Living**: [ilru.org/projects/cil-net/cil-center-and-association-directory](https://ilru.org/projects/cil-net/cil-center-and-association-directory)
 
 ### Canada
 
-- **Independent Living Canada**: ilc-vac.ca
+- **Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca)
 - **Provincial disability organizations**
 
 ### United Kingdom
 
-- **Disability Rights UK**: disabilityrightsuk.org
+- **Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 - **Inclusion London**: inclusionlondon.org.uk
 - **Local council adult social care**
 
 ### Australia
 
 - **NDIS**: ndis.gov.au
-- **People with Disability Australia**: pwd.org.au
+- **People with Disability Australia**: [pwd.org.au](https://pwd.org.au)
 
 ---
 

@@ -6,6 +6,7 @@ date: 2026-06-05T20:23:41.911Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:15:22.654Z
+
 ---
 
 # Acceso a la comunicación y AAC
@@ -104,7 +105,13 @@ Las buenas prácticas tecnológicas incluyen:
 - Evitar plataformas que excluyen a las personas usuarias de AAC o de subtítulos  
 - Trabajar con los intérpretes y las personas de apoyo, no en su contra
 
-Esta página debería crecer con las contribuciones de personas usuarias de AAC, intérpretes, personas sordas y con dificultades auditivas, personas no hablantes y otras cuya comunicación suele ser ignorada.
+---
+
+## A dónde ir después
+
+- **Necesitas acceso a la comunicación en una crisis** — [apoyo en crisis para personas con discapacidad](/es/crisis/disabled-crisis-support) cubre las líneas de crisis accesibles con AAC y por texto, y las [tarjetas médicas de emergencia](/es/crisis/emergency/medical-cards) te permiten comunicarte con el personal de emergencias cuando no puedes hablar.
+- **Necesitas adaptaciones en el trabajo o la escuela** — [adaptaciones en el lugar de trabajo](/es/employment/workplace-accommodations) y la [sección de educación](/es/education/index) cubren tu derecho al acceso a la comunicación en reuniones y clases.
+- **Quieres comparar las herramientas** — [lectores de pantalla](/es/tech/screen-reader-comparison) y [navegadores y tecnología de asistencia](/es/tech/browsers-assistive-tech).
 
 ---
 

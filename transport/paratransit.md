@@ -313,7 +313,7 @@ Look into reduced fare programs. Medicaid may cover some trips. Some localities 
 ### Advocacy Organizations
 
 - **ADAPT**: Transit access advocacy
-- **National Council on Independent Living**: ncil.org
+- **National Council on Independent Living**: [ncil.org](https://ncil.org)
 - **Local disability advocacy groups**
 
 ---

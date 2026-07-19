@@ -506,29 +506,29 @@ Know your rights to timely repairs. Document the breakdown and requests for repa
 ### Global
 
 - **WHO Priority Assistive Products List**: who.int/publications/i/item/978924001808
-- **ATscale Global Partnership**: atscalepartnership.org
+- **ATscale Global Partnership**: [atscalepartnership.org](https://atscalepartnership.org)
 
 ### United States
 
-- **State AT Programs**: ataporg.org/state-at-programs
-- **National Assistive Technology Act Technical Assistance and Training Center**: catada.info
-- **RESNA**: resna.org
-- **Medicare DME Information**: medicare.gov/coverage/durable-medical-equipment-dme-coverage
+- **State AT Programs**: [at3center.net/state-at-programs](https://at3center.net/state-at-programs/)
+- **National Assistive Technology Act Technical Assistance and Training Center**: [catada.info](https://catada.info)
+- **RESNA**: [resna.org](https://resna.org)
+- **Medicare DME Information**: [medicare.gov/coverage/durable-medical-equipment-dme-coverage](https://medicare.gov/coverage/durable-medical-equipment-dme-coverage)
 
 ### Canada
 
-- **Neil Squire Society**: neilsquire.ca
+- **Neil Squire Society**: [neilsquire.ca](https://neilsquire.ca)
 - **Provincial assistive devices programs**
 
 ### United Kingdom
 
-- **NHS Wheelchair Services**: nhs.uk
-- **Communication Matters**: communicationmatters.org.uk
-- **Disabled Living Foundation**: dlf.org.uk
+- **NHS Wheelchair Services**: [nhs.uk](https://nhs.uk)
+- **Communication Matters**: [communicationmatters.org.uk](https://communicationmatters.org.uk)
+- **Living Made Easy**: [livingmadeeasy.org.uk](https://livingmadeeasy.org.uk) (formerly the Disabled Living Foundation, now part of Shaw Trust)
 
 ### Australia
 
-- **Independent Living Centres Australia**: ilcaustralia.org.au
+- **NED (National Equipment Database)**: [askned.com.au](https://askned.com.au) (formerly Independent Living Centres Australia; national advice line 1300 885 886)
 - **AT Australia**: assistivetechnologyaustralia.org.au
 - **NDIS**: ndis.gov.au
 

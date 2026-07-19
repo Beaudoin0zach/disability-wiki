@@ -306,26 +306,26 @@ Buscar empleo es difícil para todos, y más difícil para las personas con disc
 
 ### Estados Unidos
 
-- **Job Accommodation Network (JAN)**: askjan.org
-- **CareerOneStop**: careeronestop.org
-- **Ticket to Work**: choosework.ssa.gov
+- **Job Accommodation Network (JAN)**: [askjan.org](https://askjan.org)
+- **CareerOneStop**: [careeronestop.org](https://careeronestop.org)
+- **Ticket to Work**: [choosework.ssa.gov](https://choosework.ssa.gov)
 - **Agencias estatales de rehabilitación vocacional**
-- **EARN (Employer Assistance and Resource Network)**: askearn.org
+- **EARN (Employer Assistance and Resource Network)**: [askearn.org](https://askearn.org)
 
 ### Canadá
 
-- **Canada Job Bank**: jobbank.gc.ca
+- **Canada Job Bank**: [jobbank.gc.ca](https://jobbank.gc.ca)
 - **Servicios de empleo provinciales**
 
 ### Reino Unido
 
 - **Búsqueda de empleo de gov.uk**: servicio Find a Job
-- **Access to Work**: gov.uk/access-to-work
+- **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work)
 - **Búsqueda de personas empleadoras Disability Confident**
 
 ### Australia
 
-- **JobAccess**: jobaccess.gov.au
+- **JobAccess**: [jobaccess.gov.au](https://jobaccess.gov.au)
 - **Disability Employment Services**: contacta a Centrelink
 
 ---

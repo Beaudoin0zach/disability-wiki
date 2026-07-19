@@ -72,7 +72,12 @@ The U.S. has extensive databases and search tools for accessible housing, though
 
 **SocialServe.com and state housing search sites** are the most useful resources. SocialServe operates state-specific housing search platforms in 27+ states covering over one-third of U.S. population. Search filters include specific accessibility features: roll-in showers, walk-in showers, grab bars, accessible parking, elevators, ramps, widened doorways, etc. Free service with bilingual support. Call 1-877-428-8844 for phone-based search.
 
-**National Accessible Apartment Clearinghouse** maintains database of 46,000+ accessible apartments across U.S. with specific features listed. Search by location, accessibility type (mobility, sensory, cognitive), unit size. Access at nationalaccessibleapartmentclearinghouse.org.
+<!-- The National Accessible Apartment Clearinghouse appears to have been
+     discontinued: its domain no longer resolves, the accessibleapartments.org
+     address is parked, and the National Apartment Association's current
+     accessibility pages make no mention of it. Left here, unlinked, in case an
+     editor knows otherwise. Do not restore the URL without checking it. -->
+**National Accessible Apartment Clearinghouse** ran a national database of accessible apartments searchable by location and accessibility type. The service appears to have been discontinued and no replacement has been identified — use SocialServe and your local housing authority instead.
 
 **HUD Fair Housing Search** (hud.gov) helps locate public housing and HUD-assisted properties. Many public housing authorities have online searches for accessible units; call local housing authority for accessible unit lists.
 
@@ -128,15 +133,15 @@ If using Section 8 Housing Choice Voucher, you have additional rights and search
 
 **SocialServe.com**: 1-877-428-8844. Free searchable database by state.
 
-**National Accessible Apartment Clearinghouse**: nationalaccessibleapartmentclearinghouse.org
+**National Accessible Apartment Clearinghouse**: appears discontinued (see above)
 
-**HUD Housing Search**: hud.gov
+**HUD Housing Search**: [hud.gov](https://hud.gov)
 
-**Centers for Independent Living**: ncil.org directory
+**Centers for Independent Living**: [ncil.org](https://ncil.org) directory
 
 **State disability rights organizations**: dol.gov directory
 
-**Fair housing organizations**: nationalfairhousing.org
+**Fair housing organizations**: [nationalfairhousing.org](https://nationalfairhousing.org)
 
 ---
 
@@ -176,9 +181,9 @@ Building codes (National Building Code of Canada) establish accessibility standa
 
 ### Resources (Canada)
 
-**Independent Living Canada**: ilc-vac.ca (equivalent of U.S. CILs)
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca) (equivalent of U.S. CILs)
 
-**CMHC**: cmhc-schl.gc.ca
+**CMHC**: [cmhc-schl.gc.ca](https://cmhc-schl.gc.ca)
 
 **Provincial housing authorities**: Contact through provincial government
 
@@ -224,13 +229,13 @@ EU countries increasingly adopting Universal Design principles (housing designed
 
 ### Resources (EU)
 
-**European Disability Forum**: edf-feph.org
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 
 **National disability organizations**: Search "[country] disability organization"
 
 **Housing ombudspersons**: Some EU countries have housing-specific complaint mechanisms
 
-**UN CRPD country reports**: ohchr.org (documents what housing standards exist in your country)
+**UN CRPD country reports**: [ohchr.org](https://ohchr.org) (documents what housing standards exist in your country)
 
 ---
 
@@ -242,7 +247,7 @@ UK housing search operates through standard property portals with varying access
 
 **Rightmove.co.uk**, **Zoopla.co.uk**, and **SpareRoom.co.uk** are major housing search sites. Accessibility features often not listed; must contact landlords directly or search keywords like "accessible," "wheelchair," "adapted," "mobility."
 
-**Disability Rights UK**: disabilityrightsuk.org maintains information about accessible housing and landlord rights; may provide resources or lists.
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org) maintains information about accessible housing and landlord rights; may provide resources or lists.
 
 **Local councils**: Contact local council housing departments for information about accessible housing, Disabled Facilities Grants (DFG), and local resources.
 
@@ -266,15 +271,15 @@ Request written descriptions or photos before viewing. Document all communicatio
 
 ### Resources (UK)
 
-**Disability Rights UK**: disabilityrightsuk.org
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
-**Housing ombudsman**: housingomobudsman.org.uk
+**Housing ombudsman**: housing-ombudsman.org.uk
 
 **Disabled Facilities Grant**: Contact local council
 
-**Citizens Advice**: citizensadvice.org.uk (housing rights information)
+**Citizens Advice**: [citizensadvice.org.uk](https://citizensadvice.org.uk) (housing rights information)
 
 ---
 
@@ -357,11 +362,11 @@ Housing search strategies vary globally based on local housing markets, accessib
 
 ### Global resources for housing search
 
-**Disabled Peoples' International**: dpi.org (connect with disabled people's organizations in your country)
+**Disabled Peoples' International**: [dpi.org](https://dpi.org) (connect with disabled people's organizations in your country)
 
-**SABE International**: sabeusa.com (self-advocacy network across countries)
+**SABE International**: [sabeusa.com](https://sabeusa.com) (self-advocacy network across countries)
 
-**UN CRPD housing resources**: ohchr.org (research what housing protections exist in your country)
+**UN CRPD housing resources**: [ohchr.org](https://ohchr.org) (research what housing protections exist in your country)
 
 **Regional disability forums**: European Disability Forum (edf-feph.org), others provide country-specific resources
 

@@ -18,7 +18,7 @@ dateCreated: 2026-01-07T20:01:49.523Z
 
 ## Por qué esto importa
 
-Las personas con discapacidad viven abuso a tasas **2 a 3 veces más altas** que las personas sin discapacidad. Esto no se debe a nuestras discapacidades, sino a que la sociedad les dice a quienes abusan que las personas con discapacidad son blancos aceptables. El abuso contra las personas con discapacidad a menudo es invisible, está normalizado o se descarta como "cuidado" o algo "necesario".
+Las personas con discapacidad viven violencia a tasas mucho más altas que las personas sin discapacidad. La Oficina de Estadísticas de Justicia de EE. UU. (BJS) encontró que, entre 2009 y 2019, la tasa de victimización violenta de las personas con discapacidad fue casi cuatro veces la de las personas sin discapacidad ([46.2 frente a 12.3 por cada 1,000](https://bjs.ojp.gov/library/publications/crime-against-persons-disabilities-2009-2019-statistical-tables)). Esto no se debe a nuestras discapacidades, sino a que la sociedad les dice a quienes abusan que las personas con discapacidad son blancos aceptables. El abuso contra las personas con discapacidad a menudo es invisible, está normalizado o se descarta como "cuidado" o algo "necesario".
 
 **Mereces conocer las señales de alerta.** Reconocer el abuso es el primer paso hacia la seguridad, ya sea que eso signifique irse, conseguir apoyo, planificar o construir protección.
 

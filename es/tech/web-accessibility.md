@@ -6,6 +6,7 @@ date: 2026-06-05T20:24:27.684Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:16:29.785Z
+
 ---
 
 # Accesibilidad web
@@ -95,6 +96,15 @@ Si agregas información legal específica de una región, indica claramente:
 - El **país o la región**  
 - La **fecha** o “a fecha de AÑO”  
 - Enlaces a fuentes oficiales
+
+
+---
+
+## A dónde ir después
+
+- **Un sitio web te bloquea y quieres actuar** — un sitio inaccesible puede violar la ley. Consulta [tus derechos](/es/rights/index) y [cómo presentar una queja por discapacidad](/es/rights/filing-a-disability-complaint).
+- **Tú eres quien construye el sitio** — empieza por las secciones "Conceptos básicos prácticos para creadores web" y "Herramientas y pruebas" de arriba.
+- **La barrera está en las redes sociales específicamente** — [accesibilidad en redes sociales](/es/tech/social-media-accessibility).
 
 ---
 

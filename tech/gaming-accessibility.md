@@ -6,6 +6,7 @@ date: 2026-06-05T20:24:00.611Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:15:45.423Z
+
 ---
 
 # Gaming Accessibility
@@ -96,11 +97,13 @@ Some strategies:
 - Share accessibility reviews and community checklists  
 - Push platforms (Steam, console stores, etc.) to include accessibility information and filters
 
-As this page grows, it can host:
+---
 
-- Templates for accessibility feedback  
-- Lists of games known for strong accessibility (with reasons why)  
-- Bug reports and patterns where updates made games less accessible
+## Where to go next
+
+- **You want the hardware side** — accessible controllers and switch access are covered under [mobile and OS accessibility](/tech/mobile-and-os-accessibility) and [browsers and assistive tech](/tech/browsers-assistive-tech).
+- **You want to find other players** — the [community section](/community/index) covers finding disabled peer groups, including gaming communities.
+- **You hit a barrier that isn't just a game** — if a platform or store locks you out, that is a [web accessibility](/tech/web-accessibility) and [digital rights](/tech/digital-disability-justice) issue too.
 
 ---
 

@@ -307,22 +307,22 @@ The laws provide a floor—disabled people continue organizing for fuller implem
 
 ### Filing Complaints
 
-- **EEOC**: eeoc.gov or 1-800-669-4000
+- **EEOC**: [eeoc.gov](https://eeoc.gov) or 1-800-669-4000
 - **Department of Justice ADA Information Line**: 1-800-514-0301
-- **HUD**: hud.gov or 1-800-669-9777
-- **Department of Education OCR**: ed.gov/ocr
+- **HUD**: [hud.gov](https://hud.gov) or 1-800-669-9777
+- **Department of Education OCR**: [ed.gov/ocr](https://ed.gov/ocr)
 
 ### Information and Assistance
 
-- **ADA National Network**: adata.org (regional ADA centers)
-- **Disability Rights organizations by state**: ndrn.org/about/ndrn-member-agencies
-- **Job Accommodation Network**: askjan.org
+- **ADA National Network**: [adata.org](https://adata.org) (regional ADA centers)
+- **Disability Rights organizations by state**: [ndrn.org/about/ndrn-member-agencies](https://ndrn.org/about/ndrn-member-agencies)
+- **Job Accommodation Network**: [askjan.org](https://askjan.org)
 
 ### Legal Assistance
 
-- **Disability Rights Advocates**: dralegal.org
-- **DREDF**: dredf.org
-- **Legal Aid in your area**: www.lawhelp.org
+- **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
+- **DREDF**: [dredf.org](https://dredf.org)
+- **Legal Aid in your area**: [lawhelp.org](https://www.lawhelp.org)
 
 ---
 

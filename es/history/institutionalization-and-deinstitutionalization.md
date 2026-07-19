@@ -106,7 +106,7 @@ A partir de la década de 1940, periodistas comenzaron a documentar las condicio
 
 - **1946**: Los reportajes de Albert Deutsch en el periódico *PM*
 - **1965**: La visita sin previo aviso del senador Robert Kennedy a Willowbrook (Nueva York)
-- **1972**: El reportaje televisivo de Geraldo Rivera sobre Willowbrook, que mostró un abuso y una negligencia impactantes
+- **1972**: El reportaje televisivo de Geraldo Rivera sobre Willowbrook, que documentó hacinamiento, negligencia y abuso
 
 Estos reportajes ayudaron a cambiar la opinión pública en contra de las grandes instituciones.
 

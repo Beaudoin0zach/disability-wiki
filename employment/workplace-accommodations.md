@@ -340,24 +340,24 @@ Research common accommodations for your condition. Consult with Job Accommodatio
 
 ### United States
 
-- **Job Accommodation Network (JAN)**: askjan.org (free consultation on accommodations)
-- **EEOC**: eeoc.gov (file complaints)
-- **ADA National Network**: adata.org
+- **Job Accommodation Network (JAN)**: [askjan.org](https://askjan.org) (free consultation on accommodations)
+- **EEOC**: [eeoc.gov](https://eeoc.gov) (file complaints)
+- **ADA National Network**: [adata.org](https://adata.org)
 - **Disability Rights organizations**: Find yours at ndrn.org
 
 ### United Kingdom
 
-- **Access to Work**: gov.uk/access-to-work (funding for workplace accommodations)
-- **Equality Advisory Support Service**: equalityadvisoryservice.com
+- **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work) (funding for workplace accommodations)
+- **Equality Advisory Support Service**: [equalityadvisoryservice.com](https://www.equalityadvisoryservice.com)
 
 ### Canada
 
-- **Canadian Human Rights Commission**: chrc-ccdp.gc.ca
+- **Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 - **Provincial human rights bodies**
 
 ### Australia
 
-- **JobAccess**: jobaccess.gov.au (including Employment Assistance Fund)
+- **JobAccess**: [jobaccess.gov.au](https://jobaccess.gov.au) (including Employment Assistance Fund)
 - **Australian Human Rights Commission**: humanrights.gov.au
 
 ---

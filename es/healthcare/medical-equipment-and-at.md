@@ -506,29 +506,29 @@ Conoce tus derechos a reparaciones oportunas. Documenta la avería y las solicit
 ### Global
 
 - **WHO Priority Assistive Products List**: who.int/publications/i/item/978924001808
-- **ATscale Global Partnership**: atscalepartnership.org
+- **ATscale Global Partnership**: [atscalepartnership.org](https://atscalepartnership.org)
 
 ### Estados Unidos {#united-states}
 
-- **State AT Programs**: ataporg.org/state-at-programs
-- **National Assistive Technology Act Technical Assistance and Training Center**: catada.info
-- **RESNA**: resna.org
-- **Medicare DME Information**: medicare.gov/coverage/durable-medical-equipment-dme-coverage
+- **State AT Programs**: [at3center.net/state-at-programs](https://at3center.net/state-at-programs/)
+- **National Assistive Technology Act Technical Assistance and Training Center**: [catada.info](https://catada.info)
+- **RESNA**: [resna.org](https://resna.org)
+- **Medicare DME Information**: [medicare.gov/coverage/durable-medical-equipment-dme-coverage](https://medicare.gov/coverage/durable-medical-equipment-dme-coverage)
 
 ### Canadá {#canada}
 
-- **Neil Squire Society**: neilsquire.ca
+- **Neil Squire Society**: [neilsquire.ca](https://neilsquire.ca)
 - **Programas provinciales de dispositivos de asistencia**
 
 ### Reino Unido {#united-kingdom}
 
-- **NHS Wheelchair Services**: nhs.uk
-- **Communication Matters**: communicationmatters.org.uk
-- **Disabled Living Foundation**: dlf.org.uk
+- **NHS Wheelchair Services**: [nhs.uk](https://nhs.uk)
+- **Communication Matters**: [communicationmatters.org.uk](https://communicationmatters.org.uk)
+- **Living Made Easy**: [livingmadeeasy.org.uk](https://livingmadeeasy.org.uk) (antes Disabled Living Foundation, ahora parte de Shaw Trust)
 
 ### Australia {#australia}
 
-- **Independent Living Centres Australia**: ilcaustralia.org.au
+- **NED (National Equipment Database)**: [askned.com.au](https://askned.com.au) (antes Independent Living Centres Australia; línea nacional de asesoría 1300 885 886)
 - **AT Australia**: assistivetechnologyaustralia.org.au
 - **NDIS**: ndis.gov.au
 

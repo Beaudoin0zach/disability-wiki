@@ -123,7 +123,7 @@ The U.S. has multiple funding sources for home modifications, though most reach 
 
 ### Contractor selection and accessibility
 
-**CAPS Contractor Directory** (capsuhd.org) lists accessibility professionals trained and vetted in accessible design and modification. Use this for quality work.
+**Certified Aging-in-Place Specialists (CAPS)** are trained in accessible design and modification. CAPS is a credential of the National Association of Home Builders — see [nahb.org](https://www.nahb.org/education-and-events/credentials/certified-aging-in-place-specialist-caps) for what the certification covers, and ask a contractor directly whether they hold it.
 
 **Universal Design consultants** can assess your home and recommend cost-effective modifications. Some disability organizations provide free assessment services.
 
@@ -133,17 +133,17 @@ The U.S. has multiple funding sources for home modifications, though most reach 
 
 **Medicaid HCBS information**: medicaid.gov or your state Medicaid office
 
-**VA Benefits**: va.gov or Veterans Crisis Line 988 then press 1
+**VA Benefits**: [va.gov](https://va.gov) or Veterans Crisis Line 988 then press 1
 
 **USDA Rural Development**: rd.usda.gov
 
-**HUD Section 504**: hud.gov
+**HUD Section 504**: [hud.gov](https://hud.gov)
 
-**CAPS Directory**: capsuhd.org
+**CAPS credential (Certified Aging-in-Place Specialist)**: [nahb.org](https://www.nahb.org/education-and-events/credentials/certified-aging-in-place-specialist-caps)
 
 **State disability organizations**: dol.gov directory
 
-**Centers for Independent Living**: ncil.org directory
+**Centers for Independent Living**: [ncil.org](https://ncil.org) directory
 
 ---
 
@@ -182,11 +182,11 @@ Canadian building codes increasingly incorporating accessibility features. New c
 
 ### Resources (Canada)
 
-**CMHC**: cmhc-schl.gc.ca
+**CMHC**: [cmhc-schl.gc.ca](https://cmhc-schl.gc.ca)
 
 **Provincial disability organizations**: Search "[province] disability rights"
 
-**Independent Living Canada**: ilc-vac.ca
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca)
 
 **Provincial housing authorities**: Contact through provincial government
 
@@ -224,7 +224,7 @@ Process differs by country. Generally:
 
 ### Resources (EU)
 
-**European Disability Forum**: edf-feph.org
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 
 **National disability organizations**: Search "[country] disability rights"
 
@@ -273,7 +273,7 @@ UK has strong accessibility modification professional community. Get multiple qu
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
-**Disability Rights UK**: disabilityrightsuk.org
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 **Social services**: Contact local council adult services
 
@@ -359,7 +359,7 @@ Home modification funding varies dramatically globally. Access to funding, mater
 
 ### Resources (Other Countries)
 
-**UN CRPD**: ohchr.org (research what housing standards exist in your country)
+**UN CRPD**: [ohchr.org](https://ohchr.org) (research what housing standards exist in your country)
 
 **Your national disability organization**: Most countries have one; these provide modification advocacy
 

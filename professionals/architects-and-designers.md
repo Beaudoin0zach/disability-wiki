@@ -396,24 +396,24 @@ Document accessibility features for:
 
 ### Organizations
 
-- **US Access Board**: access-board.gov
-- **IDEA Center (University at Buffalo)**: idea.ap.buffalo.edu
-- **Institute for Human Centered Design**: humancentereddesign.org
-- **Rick Hansen Foundation**: rickhansen.com
-- **Center for Inclusive Design and Environmental Access**: ap.buffalo.edu/idea
+- **US Access Board**: [access-board.gov](https://www.access-board.gov)
+- **IDEA Center (University at Buffalo)**: [idea.ap.buffalo.edu](https://idea.ap.buffalo.edu)
+- **Institute for Human Centered Design**: [humancentereddesign.org](https://humancentereddesign.org)
+- **Rick Hansen Foundation**: [rickhansen.com](https://rickhansen.com)
+- **Center for Inclusive Design and Environmental Access**: [idea.ap.buffalo.edu](https://idea.ap.buffalo.edu)
 
 ### Standards and Guidance
 
-- **ADA Standards for Accessible Design**: ada.gov
+- **ADA Standards for Accessible Design**: [ada.gov](https://ada.gov)
 - **BSI PAS 6463**: Neurodiversity and the built environment
 - **ISO 21542**: Building construction accessibility
 - **WELL Building Standard**: Includes accessibility features
 
 ### Design Resources
 
-- **ADA National Network Design Guides**: adata.org
-- **Inclusive Design Toolkit (UK)**: inclusivedesigntoolkit.com
-- **CAST Universal Design for Learning**: cast.org
+- **ADA National Network Design Guides**: [adata.org](https://adata.org)
+- **Inclusive Design Toolkit (UK)**: [inclusivedesigntoolkit.com](https://inclusivedesigntoolkit.com)
+- **CAST Universal Design for Learning**: [cast.org](https://cast.org)
 
 ---
 

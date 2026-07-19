@@ -111,7 +111,7 @@ If you experience housing discrimination, file with HUD within **one year of vio
 
 **Call HUD**: 1-800-669-9777. Bilingual staff available. You can file by phone without lawyer or formal complaint.
 
-**File online**: hud.gov, Fair Housing section.
+**File online**: [hud.gov](https://hud.gov), Fair Housing section.
 
 **File by mail**: Your HUD regional office (address at hud.gov).
 
@@ -135,13 +135,13 @@ Some landlords respond to clear documentation. Fair housing organizations offer 
 
 **HUD Fair Housing Hotline**: 1-800-669-9777
 
-**National Fair Housing Alliance**: nationalfairhousing.org (find local organizations)
+**National Fair Housing Alliance**: [nationalfairhousing.org](https://nationalfairhousing.org) (find local organizations)
 
 **Your state disability rights organization**: dol.gov directory
 
-**Centers for Independent Living**: ncil.org directory (free housing advocacy)
+**Centers for Independent Living**: [ncil.org](https://ncil.org) directory (free housing advocacy)
 
-**Legal aid**: www.lawhelp.org, 211.org
+**Legal aid**: [lawhelp.org](https://www.lawhelp.org), 211.org
 
 ---
 
@@ -175,11 +175,11 @@ Document all communications. If landlord refuses, contact your provincial human 
 
 ### Resources (Canada)
 
-**Canadian Human Rights Commission**: chrc-ccdp.gc.ca
+**Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 
 **Your provincial human rights commission**: Contact through provincial government
 
-**Independent Living Canada**: ilc-vac.ca (equivalent of U.S. CILs)
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca) (equivalent of U.S. CILs)
 
 **Provincial disability rights organizations**: Search "[province] disability rights"
 
@@ -225,11 +225,11 @@ Contact your national disability organization or housing authority. Process vari
 
 ### Resources (EU)
 
-**European Disability Forum**: edf-feph.org (coordinates disability organizations across EU)
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org) (coordinates disability organizations across EU)
 
 **Your country's disability organization**: Contact through national government
 
-**UN CRPD monitoring**: ohchr.org (track your country's CRPD implementation progress)
+**UN CRPD monitoring**: [ohchr.org](https://ohchr.org) (track your country's CRPD implementation progress)
 
 ---
 
@@ -269,13 +269,13 @@ Contact your local council's housing department or housing ombudsman. Cases can 
 
 ### Resources (UK)
 
-**Disability Rights UK**: disabilityrightsuk.org (housing information and advocacy)
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org) (housing information and advocacy)
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
-**Housing ombudsman**: Housing housing-ombudsman.org.uk
+**Housing ombudsman**: housing-ombudsman.org.uk
 
-**Citizens Advice**: citizensadvice.org.uk (housing rights information)
+**Citizens Advice**: [citizensadvice.org.uk](https://citizensadvice.org.uk) (housing rights information)
 
 ---
 
@@ -319,7 +319,7 @@ Contact the **Australian Human Rights Commission** (humanrights.gov.au) or your 
 
 **NDIS**: ndis.gov.au
 
-**People with Disability Australia (PWDA)**: pwd.org.au
+**People with Disability Australia (PWDA)**: [pwd.org.au](https://pwd.org.au)
 
 **State disability organizations**: Search "[state] disability rights"
 
@@ -437,13 +437,13 @@ Whether you're in a country that has ratified CRPD, in a country like the U.S. t
 
 **International Housing Rights**: See [International Housing Rights](/housing/international-housing-rights.md) for detailed explanation of CRPD Article 19, global frameworks, and how different legal systems implement housing rights.
 
-**UN Convention on Rights of Persons with Disabilities**: ohchr.org. Full text in multiple languages; General Comment 5 on Article 19 provides in-depth interpretation.
+**UN Convention on Rights of Persons with Disabilities**: [ohchr.org](https://ohchr.org). Full text in multiple languages; General Comment 5 on Article 19 provides in-depth interpretation.
 
-**Disabled Peoples' International**: dpi.org. Global federation of disabled people's organizations in 150+ countries.
+**Disabled Peoples' International**: [dpi.org](https://dpi.org). Global federation of disabled people's organizations in 150+ countries.
 
-**SABE International**: sabeusa.com. International organization of self-advocates with intellectual/developmental disabilities.
+**SABE International**: [sabeusa.com](https://sabeusa.com). International organization of self-advocates with intellectual/developmental disabilities.
 
-**European Disability Forum**: edf-feph.org. Coordinates disability organizations across Europe.
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org). Coordinates disability organizations across Europe.
 
 **Your country's disability rights organization**: Search "[country] disabled people's organization" or contact through national government.
 

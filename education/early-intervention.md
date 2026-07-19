@@ -283,20 +283,20 @@ Transition processes vary. Generally:
 ### United States
 
 - **CDC Early Intervention Information**: cdc.gov/ncbddd/actearly
-- **IDEA Part C Information**: Parentcenterhub.org
+- **IDEA Part C Information**: [Parentcenterhub.org](https://Parentcenterhub.org)
 - **Find your state's EI program**: Contact your state health department
-- **Parent Training and Information Centers**: parentcenterhub.org
+- **Parent Training and Information Centers**: [parentcenterhub.org](https://parentcenterhub.org)
 
 ### Disability Community Resources
 
-- **Autistic Self Advocacy Network (ASAN)**: autisticadvocacy.org (perspectives on autism interventions)
+- **Autistic Self Advocacy Network (ASAN)**: [autisticadvocacy.org](https://autisticadvocacy.org) (perspectives on autism interventions)
 - **National Association of the Deaf**: nad.org (early intervention for deaf children)
 - **Disability community blogs and resources**: Search for disabled adults' perspectives
 
 ### For Families
 
 - **Parent to Parent programs**: Peer support from other parents
-- **Family Voices**: familyvoices.org
+- **Family Voices**: [familyvoices.org](https://familyvoices.org)
 - **Local parent support groups**
 
 ---

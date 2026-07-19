@@ -71,6 +71,16 @@ LOAD_BEARING = [
     re.compile(r"\b(?:1-)?\d{3}[-.\s]\d{3}[-.\s]\d{4}\b"),
 ]
 
+# `**Label**: example.org/path` — the resource-list shape that renders dead.
+# Anchored on the bold-label prefix so ordinary prose mentioning a domain, and
+# config blocks listing hostnames, do not trip it.
+BARE_DOMAIN = re.compile(
+    r"\*\*[^*\n]+\*\*:\s*"
+    r"(?P<dom>(?:www\.)?[a-z0-9][a-z0-9-]*(?:\.[a-z0-9-]+)+"
+    r"(?:/[^\s,)*\]]*)?)",
+    re.I,
+)
+
 ARCHIVE_RE = re.compile(r"https?://(?:web\.archive\.org|archive\.(?:is|today|ph))/\S+")
 EXTERNAL_URL_RE = re.compile(r"\]\((https?://[^)\s]+)\)")
 
@@ -243,14 +253,130 @@ def check_unledgered_figures(files, led: Ledger, limit: int) -> list[Finding]:
     return out[:limit]
 
 
-def check_org_urls(files, timeout: int) -> list[Finding]:
-    """Link rot defense. Off by default; needs network."""
+def check_bare_domains(files) -> list[Finding]:
+    """Advisory: external domains written as plain text instead of links.
+
+    Resource lists get written as `**Label**: example.org`. GFM autolinks only
+    `www.`-prefixed and scheme-prefixed URLs, so a bare domain renders as dead
+    text — the reader, and especially a screen reader user, has to transcribe
+    it by hand. These appear in "where to get help" sections, which is the one
+    place a reference page has a job to do.
+
+    validate_wiki_links.py cannot catch this: it checks internal links only.
+
+    Deliberately not blocking. Some bare domains are correct as prose (a TLS
+    certificate's SAN list, a domain named as an example), and some should stay
+    unlinked until someone confirms the destination is still the organization
+    the label claims. Flagging is the useful part; judgement stays human.
+    """
+    out: list[Finding] = []
+    for path in files:
+        try:
+            lines = path.read_text(encoding="utf-8").splitlines()
+        except (OSError, UnicodeDecodeError):
+            continue
+        for i, line in enumerate(lines, 1):
+            for m in BARE_DOMAIN.finditer(line):
+                dom = m.group("dom").rstrip(".,;:")
+                # already inside a markdown link, or autolinked by GFM
+                if f"]({dom}" in line or "](http" in line or dom.startswith("www."):
+                    continue
+                out.append(
+                    Finding(
+                        severity="advisory",
+                        kind="bare-domain",
+                        detail=f"{dom!r} renders as plain text, not a link",
+                        path=str(path.relative_to(REPO_ROOT)),
+                        line=i,
+                    )
+                )
+    return out
+
+
+def _probe_url(url: str, timeout: int):
+    """Probe one URL. Returns (kind, detail) or None if it is healthy.
+
+    Written the way it is because of a real miss: an earlier version of this
+    check declared a URL dead on a single failed HEAD to the apex host. Two
+    live sites got that verdict — one of them a UK government-backed equality
+    helpline — because their apex domain has no A record and only the `www.`
+    host answers, and because a connection refusal from *our* network reads
+    identically to a site being down. The rules that follow are the fix:
+
+      - A `www.` fallback is tried before giving up (apex-only DNS is common).
+      - HEAD is retried as GET (some servers reject HEAD but serve GET).
+      - "DNS says this host does not exist" (org-url-dead) is kept distinct
+        from "we could not connect" (org-url-unreachable), because only the
+        first is evidence the site is gone. The second may be us.
+
+    Absence of a signal is never reported as a dead site. That is the whole
+    point of the distinction.
+    """
+    import socket
     import urllib.error
     import urllib.request
 
+    ua = "Mozilla/5.0 (compatible; disability-wiki-linkcheck/1.0)"
+
+    def once(u: str, method: str):
+        req = urllib.request.Request(u, headers={"User-Agent": ua}, method=method)
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            return resp.status
+
+    # Try the URL as written, then a www. variant of its host. A host with a
+    # www. answer is alive regardless of what the apex does.
+    from urllib.parse import urlsplit, urlunsplit
+
+    parts = urlsplit(url)
+    candidates = [url]
+    if parts.hostname and not parts.hostname.startswith("www."):
+        candidates.append(urlunsplit(parts._replace(netloc="www." + parts.netloc)))
+
+    last_conn_err = None
+    dns_dead = False
+    for cand in candidates:
+        for method in ("HEAD", "GET"):
+            try:
+                status = once(cand, method)
+                if status < 400:
+                    return None  # healthy
+                if status in (401, 403, 429):
+                    return ("org-url-blocked", f"{url} -> HTTP {status}")
+                if status in (405, 501) and method == "HEAD":
+                    continue  # method not allowed; retry as GET
+                return ("org-url-dead", f"{url} -> HTTP {status}")
+            except urllib.error.HTTPError as exc:
+                if exc.code in (401, 403, 429):
+                    return ("org-url-blocked", f"{url} -> HTTP {exc.code}")
+                if exc.code in (405, 501) and method == "HEAD":
+                    continue
+                return ("org-url-dead", f"{url} -> HTTP {exc.code}")
+            except urllib.error.URLError as exc:
+                reason = exc.reason
+                # DNS resolution failure = the host genuinely does not exist.
+                if isinstance(reason, socket.gaierror):
+                    dns_dead = True
+                else:
+                    last_conn_err = type(reason).__name__ if reason else "URLError"
+                break  # same host, GET won't fix a connection-level failure
+            except Exception as exc:  # noqa: BLE001 - network is varied and noisy
+                last_conn_err = type(exc).__name__
+
+    if dns_dead and last_conn_err is None:
+        return ("org-url-dead", f"{url} -> DNS did not resolve")
+    if last_conn_err is not None:
+        # Could not connect, but the host may exist and simply refused us.
+        # Not evidence the site is gone -- flag it, do not condemn it.
+        return ("org-url-unreachable", f"{url} -> {last_conn_err} (may be transient/blocked)")
+    if dns_dead:
+        return ("org-url-dead", f"{url} -> DNS did not resolve")
+    return None
+
+
+def check_org_urls(files, timeout: int) -> list[Finding]:
+    """Link rot defense. Off by default; needs network."""
     out: list[Finding] = []
     seen: set[str] = set()
-    ua = "Mozilla/5.0 (compatible; disability-wiki-linkcheck/1.0)"
     for path in files:
         try:
             text = path.read_text(encoding="utf-8")
@@ -262,21 +388,11 @@ def check_org_urls(files, timeout: int) -> list[Finding]:
                 continue
             seen.add(url)
             line = text[: m.start()].count("\n") + 1
-            req = urllib.request.Request(url, headers={"User-Agent": ua}, method="HEAD")
-            try:
-                with urllib.request.urlopen(req, timeout=timeout) as resp:
-                    if resp.status >= 400:
-                        raise urllib.error.HTTPError(url, resp.status, "", {}, None)
-            except urllib.error.HTTPError as exc:
-                # 403 is usually bot-blocking, not death. Report it as such.
-                kind = "org-url-blocked" if exc.code in (401, 403, 429) else "org-url-dead"
+            result = _probe_url(url, timeout)
+            if result:
+                kind, detail = result
                 out.append(
-                    Finding("advisory", kind, f"{url} -> HTTP {exc.code}",
-                            str(path.relative_to(REPO_ROOT)), line)
-                )
-            except Exception as exc:  # noqa: BLE001 - network is varied and noisy
-                out.append(
-                    Finding("advisory", "org-url-unreachable", f"{url} -> {type(exc).__name__}",
+                    Finding("advisory", kind, detail,
                             str(path.relative_to(REPO_ROOT)), line)
                 )
     return out
@@ -305,6 +421,8 @@ def main() -> int:
     ap.add_argument("--only", nargs="*", help="limit to these content dirs")
     ap.add_argument("--max-figures", type=int, default=40,
                     help="cap unledgered-figure findings (0 disables the check)")
+    ap.add_argument("--max-bare-domains", type=int, default=25,
+                    help="cap bare-domain findings (0 disables the check)")
     ap.add_argument("--json", dest="json_out", help="write a JSON report here")
     args = ap.parse_args()
 
@@ -316,6 +434,8 @@ def main() -> int:
     findings += check_staleness(led, dt.date.today())
     if args.max_figures:
         findings += check_unledgered_figures(files, led, args.max_figures)
+    if args.max_bare_domains:
+        findings += check_bare_domains(files)[: args.max_bare_domains]
     if args.check_urls:
         findings += check_org_urls(files, args.timeout)
 

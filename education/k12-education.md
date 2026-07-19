@@ -389,7 +389,7 @@ Put requests in writing. Send email confirmations of conversations. Request meet
 
 ### Canada
 
-- **Inclusion Canada**: inclusioncanada.ca
+- **Inclusion Canada**: [inclusioncanada.ca](https://inclusioncanada.ca)
 - **Provincial parent advocacy organizations**
 
 ### United Kingdom
@@ -400,7 +400,7 @@ Put requests in writing. Send email confirmations of conversations. Request meet
 
 ### Australia
 
-- **CYDA (Children and Young People with Disability Australia)**: cyda.org.au
+- **CYDA (Children and Young People with Disability Australia)**: [cyda.org.au](https://cyda.org.au)
 - **State parent organizations**
 
 ---
