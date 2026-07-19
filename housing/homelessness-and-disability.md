@@ -163,11 +163,11 @@ U.S. has approximately 2.5 million people experiencing homelessness annually; 50
 
 **National Homeless Veteran Call Center**: 877-424-3838. 24/7 support for veterans.
 
-**National Alliance to End Homelessness**: endhomelessness.org. Advocacy, resources, state-specific information.
+**National Alliance to End Homelessness**: [endhomelessness.org](https://endhomelessness.org). Advocacy, resources, state-specific information.
 
 **2-1-1**: Dial 211 or visit 211.org for local shelter, services, and housing resources.
 
-**ADAPT**: adapt.org. Disability-led direct action organization focusing on community living and deinstitutionalization.
+**ADAPT**: [adapt.org](https://adapt.org). Disability-led direct action organization focusing on community living and deinstitutionalization.
 
 ### Intersectional services (U.S.)
 
@@ -183,15 +183,15 @@ U.S. has approximately 2.5 million people experiencing homelessness annually; 50
 
 **HUD Homeless Services**: hud.gov/homeless
 
-**SAMHSA**: samhsa.gov
+**SAMHSA**: [samhsa.gov](https://samhsa.gov)
 
-**National Alliance to End Homelessness**: endhomelessness.org
+**National Alliance to End Homelessness**: [endhomelessness.org](https://endhomelessness.org)
 
 **211.org**: Local services locator
 
 **Disability rights organizations**: dol.gov directory
 
-**ADAPT**: adapt.org
+**ADAPT**: [adapt.org](https://adapt.org)
 
 ---
 
@@ -223,7 +223,7 @@ Similar to U.S.: underfunding, institutional inertia, accessibility gaps, servic
 
 ### Services available (Canada)
 
-**CMHC Housing**: cmhc-schl.gc.ca
+**CMHC Housing**: [cmhc-schl.gc.ca](https://cmhc-schl.gc.ca)
 
 **Provincial mental health services**: Contact through provincial government
 
@@ -231,11 +231,14 @@ Similar to U.S.: underfunding, institutional inertia, accessibility gaps, servic
 
 **National Homelessness Initiative**: Contact through federal government
 
-**ADAPT Canada**: adapt-canada.ca (disability-led organizing)
+<!-- adapt-canada.ca no longer resolves. Note for editors: adaptcanada.ca (no
+     hyphen) is a DIFFERENT organisation — an autism/developmental therapy group
+     in Manitoba — not this one. Do not substitute it. -->
+**ADAPT Canada** (disability-led organizing) — current website unknown; the former address no longer resolves
 
 ### Resources (Canada)
 
-**CMHC**: cmhc-schl.gc.ca
+**CMHC**: [cmhc-schl.gc.ca](https://cmhc-schl.gc.ca)
 
 **Provincial disability organizations**: Search "[province] disability rights"
 
@@ -279,13 +282,13 @@ EU member states required to implement CRPD Article 19 (right to live independen
 
 ### Resources (EU)
 
-**ENIL**: enil.eu (Housing First advocacy across EU)
+**ENIL**: [enil.eu](https://enil.eu) (Housing First advocacy across EU)
 
-**European Disability Forum**: edf-feph.org
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 
 **National disability organizations**: Search "[country] disability rights"
 
-**UN CRPD monitoring**: ohchr.org (track country's housing rights implementation)
+**UN CRPD monitoring**: [ohchr.org](https://ohchr.org) (track country's housing rights implementation)
 
 ---
 
@@ -315,9 +318,9 @@ UK has approximately 280,000-300,000 people experiencing homelessness; significa
 
 **National Homeless Services Network**: Comprehensive directory of homeless services.
 
-**Shelter**: shelter.org.uk. Major homeless advocacy and service organization.
+**Shelter**: [shelter.org.uk](https://shelter.org.uk). Major homeless advocacy and service organization.
 
-**Crisis**: crisis.org.uk. Homeless services and advocacy.
+**Crisis**: [crisis.org.uk](https://crisis.org.uk). Homeless services and advocacy.
 
 **SAMHSA equivalent**: NHS mental health services; access varies by locality.
 
@@ -325,13 +328,13 @@ UK has approximately 280,000-300,000 people experiencing homelessness; significa
 
 ### Resources (UK)
 
-**Shelter**: shelter.org.uk
+**Shelter**: [shelter.org.uk](https://shelter.org.uk)
 
-**Crisis**: crisis.org.uk
+**Crisis**: [crisis.org.uk](https://crisis.org.uk)
 
-**Rough Sleeper Initiative**: gov.uk
+**Rough Sleeper Initiative**: [gov.uk](https://gov.uk)
 
-**NHS mental health services**: nhs.uk
+**NHS mental health services**: [nhs.uk](https://nhs.uk)
 
 **Local councils**: Contact for homeless services and social support
 

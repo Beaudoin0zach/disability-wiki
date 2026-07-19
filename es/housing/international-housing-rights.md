@@ -197,17 +197,17 @@ Ya sea que estés en un país que ha ratificado la CDPD, en un país como EE. UU
 
 ## Recursos
 
-**Convención de la ONU sobre los Derechos de las Personas con Discapacidad**: ohchr.org. Texto completo en varios idiomas; la Observación General 5 sobre el artículo 19 ofrece una interpretación a fondo.
+**Convención de la ONU sobre los Derechos de las Personas con Discapacidad**: [ohchr.org](https://ohchr.org). Texto completo en varios idiomas; la Observación General 5 sobre el artículo 19 ofrece una interpretación a fondo.
 
-**Disability Rights International**: driadvocacy.org. Organización de defensa a nivel global que monitorea la implementación de la CDPD y las condiciones institucionales.
+**Disability Rights International**: [driadvocacy.org](https://driadvocacy.org). Organización de defensa a nivel global que monitorea la implementación de la CDPD y las condiciones institucionales.
 
-**European Disability Forum**: edf-feph.org. Coordina organizaciones de discapacidad en toda Europa en torno a la implementación de la CDPD.
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org). Coordina organizaciones de discapacidad en toda Europa en torno a la implementación de la CDPD.
 
-**Disabled Peoples' International**: dpi.org. Federación global de organizaciones de personas con discapacidad en más de 150 países.
+**Disabled Peoples' International**: [dpi.org](https://dpi.org). Federación global de organizaciones de personas con discapacidad en más de 150 países.
 
-**SABE (Self Advocates Becoming Empowered) International**: sabeusa.com. Organización internacional de autogestores con discapacidad intelectual o del desarrollo.
+**SABE (Self Advocates Becoming Empowered) International**: [sabeusa.com](https://sabeusa.com). Organización internacional de autogestores con discapacidad intelectual o del desarrollo.
 
-**ADAPT**: adapt.org. Organización estadounidense, pero involucrada en la defensa internacional en torno a la desinstitucionalización.
+**ADAPT**: [adapt.org](https://adapt.org). Organización estadounidense, pero involucrada en la defensa internacional en torno a la desinstitucionalización.
 
 **Organizaciones regionales de discapacidad**: contacta a las organizaciones de derechos de las personas con discapacidad de tu región; tienen conocimientos sobre la implementación de los derechos de vivienda en tu país.
 

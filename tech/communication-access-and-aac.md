@@ -6,6 +6,7 @@ date: 2026-06-05T20:23:41.911Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:15:22.654Z
+
 ---
 
 # Communication Access & AAC
@@ -104,7 +105,13 @@ Good tech practices include:
 - Avoiding platforms that lock out AAC users or caption users  
 - Working with, not against, interpreters and support people
 
-This page should grow with contributions from AAC users, interpreters, Deaf and hard-of-hearing people, nonspeaking people, and others whose communication is routinely ignored.
+---
+
+## Where to go next
+
+- **You need communication access in a crisis** — [crisis support for disabled people](/crisis/disabled-crisis-support) covers AAC-accessible and text-based crisis lines, and [emergency medical cards](/crisis/emergency/medical-cards) let you communicate with responders when you cannot speak.
+- **You need accommodations at work or school** — [workplace accommodations](/employment/workplace-accommodations) and the [education section](/education/index) cover your right to communication access in meetings and classes.
+- **You want to compare the tools** — [screen readers](/tech/screen-reader-comparison) and [browsers and assistive tech](/tech/browsers-assistive-tech).
 
 ---
 

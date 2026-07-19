@@ -395,22 +395,22 @@ You can't force someone into treatment (except in very limited legal circumstanc
 
 ### Peer Support
 
-- **National Alliance on Mental Illness (NAMI)**: nami.org (support groups, education)
-- **Depression and Bipolar Support Alliance (DBSA)**: dbsalliance.org
+- **National Alliance on Mental Illness (NAMI)**: [nami.org](https://nami.org) (support groups, education)
+- **Depression and Bipolar Support Alliance (DBSA)**: [dbsalliance.org](https://dbsalliance.org)
 - **Hearing Voices Network**: hearingvoicesusa.org
 - **Warm Lines**: Search for peer-run warm lines in your area
 
 ### Advocacy
 
-- **MindFreedom International**: mindfreedom.org (human rights in mental health)
-- **National Coalition for Mental Health Recovery**: ncmhr.org
-- **Bazelon Center for Mental Health Law**: bazelon.org
+- **MindFreedom International**: [mindfreedom.org](https://mindfreedom.org) (human rights in mental health)
+- **National Coalition for Mental Health Recovery**: [ncmhr.org](https://ncmhr.org)
+- **Bazelon Center for Mental Health Law**: [bazelon.org](https://bazelon.org)
 
 ### Finding Providers
 
-- **Psychology Today Therapist Finder**: psychologytoday.com
-- **Open Path Collective**: openpathcollective.org (sliding scale)
-- **SAMHSA Treatment Locator**: findtreatment.gov
+- **Psychology Today Therapist Finder**: [psychologytoday.com](https://psychologytoday.com)
+- **Open Path Collective**: [openpathcollective.org](https://openpathcollective.org) (sliding scale)
+- **SAMHSA Treatment Locator**: [findtreatment.gov](https://findtreatment.gov)
 
 ---
 

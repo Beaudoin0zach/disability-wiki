@@ -645,7 +645,7 @@ The concepts on this page draw from scholarship in social epistemology, philosop
 
 - **MEAction** -- Myalgic encephalomyelitis advocacy: meaction.net
 - **Dysautonomia International** -- Autonomic disorders: dysautonomiainternational.org
-- **American Chronic Pain Association** -- Chronic pain support: theacpa.org
+- **American Chronic Pain Association** -- Chronic pain support: [acpanow.com](https://www.acpanow.com)
 - **Fibromyalgia Action UK** -- UK fibromyalgia support: fmauk.org
 
 ### Intersectional Healthcare Advocacy

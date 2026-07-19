@@ -396,9 +396,9 @@ Consider your skills, interests, and capacity. What do people ask you for help w
 ### United States
 
 - **SCORE**: score.org (free mentoring)
-- **SBA**: sba.gov
-- **Ticket to Work**: choosework.ssa.gov
-- **National Disability Institute**: nationaldisabilityinstitute.org
+- **SBA**: [sba.gov](https://sba.gov)
+- **Ticket to Work**: [choosework.ssa.gov](https://choosework.ssa.gov)
+- **National Disability Institute**: [nationaldisabilityinstitute.org](https://nationaldisabilityinstitute.org)
 - **Benefits counseling**: Find a Community Work Incentives Coordinator (CWIC)
 
 ### Canada
@@ -408,14 +408,14 @@ Consider your skills, interests, and capacity. What do people ask you for help w
 
 ### United Kingdom
 
-- **Access to Work**: gov.uk/access-to-work
+- **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work)
 - **Start Up Loans**: startuploans.co.uk
 - **Business Wales, Business Gateway (Scotland), etc.**: Regional programs
 
 ### Australia
 
-- **Business.gov.au**: business.gov.au
-- **JobAccess**: jobaccess.gov.au
+- **Business.gov.au**: [business.gov.au](https://business.gov.au)
+- **JobAccess**: [jobaccess.gov.au](https://jobaccess.gov.au)
 
 ---
 

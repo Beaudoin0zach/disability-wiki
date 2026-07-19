@@ -6,6 +6,7 @@ date: 2026-06-05T20:24:19.788Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:16:08.439Z
+
 ---
 
 # Accesibilidad en dispositivos móviles y sistemas operativos
@@ -87,7 +88,13 @@ Incluso con las funciones integradas, muchas personas con discapacidad enfrentan
 - Falta de buena documentación en lenguaje claro  
 - Fabricantes que ignoran las discapacidades no visuales o no relacionadas con la movilidad (por ejemplo, sobrecarga cognitiva, desencadenantes de trauma)
 
-Esta página debería reflejar esas realidades, no solo repetir las afirmaciones del marketing.
+---
+
+## A dónde ir después
+
+- **Usas más una computadora que un teléfono** — [navegadores y tecnología de asistencia](/es/tech/browsers-assistive-tech) y la [comparación de lectores de pantalla](/es/tech/screen-reader-comparison) profundizan en las configuraciones de escritorio.
+- **Tus necesidades de comunicación son lo primero** — [acceso a la comunicación y AAC](/es/tech/communication-access-and-aac).
+- **Un dispositivo es esencial y no puedes pagarlo** — la tecnología de asistencia se puede financiar; consulta [equipo médico y TA](/es/healthcare/medical-equipment-and-at) y la [sección de prestaciones](/es/benefits/index).
 
 ---
 

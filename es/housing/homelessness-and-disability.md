@@ -163,11 +163,11 @@ EE. UU. tiene aproximadamente 2.5 millones de personas en situación de calle al
 
 **National Homeless Veteran Call Center**: 877-424-3838. Apoyo las 24 horas para veteranos.
 
-**National Alliance to End Homelessness**: endhomelessness.org. Defensa, recursos e información por estado.
+**National Alliance to End Homelessness**: [endhomelessness.org](https://endhomelessness.org). Defensa, recursos e información por estado.
 
 **2-1-1**: marca 211 o visita 211.org para conocer albergues, servicios y recursos de vivienda locales.
 
-**ADAPT**: adapt.org. Organización de acción directa liderada por personas con discapacidad centrada en la vida comunitaria y la desinstitucionalización.
+**ADAPT**: [adapt.org](https://adapt.org). Organización de acción directa liderada por personas con discapacidad centrada en la vida comunitaria y la desinstitucionalización.
 
 ### Servicios interseccionales (EE. UU.)
 
@@ -183,15 +183,15 @@ EE. UU. tiene aproximadamente 2.5 millones de personas en situación de calle al
 
 **HUD Homeless Services**: hud.gov/homeless
 
-**SAMHSA**: samhsa.gov
+**SAMHSA**: [samhsa.gov](https://samhsa.gov)
 
-**National Alliance to End Homelessness**: endhomelessness.org
+**National Alliance to End Homelessness**: [endhomelessness.org](https://endhomelessness.org)
 
 **211.org**: localizador de servicios locales
 
 **Organizaciones de derechos de las personas con discapacidad**: directorio en dol.gov
 
-**ADAPT**: adapt.org
+**ADAPT**: [adapt.org](https://adapt.org)
 
 ---
 
@@ -223,7 +223,7 @@ Similares a las de EE. UU.: financiamiento insuficiente, inercia institucional, 
 
 ### Servicios disponibles (Canadá)
 
-**CMHC Housing**: cmhc-schl.gc.ca
+**CMHC Housing**: [cmhc-schl.gc.ca](https://cmhc-schl.gc.ca)
 
 **Servicios provinciales de salud mental**: contacto a través del gobierno provincial
 
@@ -231,11 +231,14 @@ Similares a las de EE. UU.: financiamiento insuficiente, inercia institucional, 
 
 **National Homelessness Initiative**: contacto a través del gobierno federal
 
-**ADAPT Canada**: adapt-canada.ca (organización liderada por personas con discapacidad)
+<!-- adapt-canada.ca ya no resuelve. Nota para editores: adaptcanada.ca (sin
+     guion) es otra organización — un grupo de terapia del autismo/desarrollo en
+     Manitoba — no esta. No la sustituyas. -->
+**ADAPT Canada** (organización liderada por personas con discapacidad) — sitio web actual desconocido; la dirección anterior ya no resuelve
 
 ### Recursos (Canadá)
 
-**CMHC**: cmhc-schl.gc.ca
+**CMHC**: [cmhc-schl.gc.ca](https://cmhc-schl.gc.ca)
 
 **Organizaciones provinciales de discapacidad**: busca "[provincia] disability rights"
 
@@ -279,13 +282,13 @@ Los Estados miembros de la UE deben implementar el artículo 19 de la CDPD (dere
 
 ### Recursos (UE)
 
-**ENIL**: enil.eu (defensa de Housing First en toda la UE)
+**ENIL**: [enil.eu](https://enil.eu) (defensa de Housing First en toda la UE)
 
-**European Disability Forum**: edf-feph.org
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 
 **Organizaciones nacionales de discapacidad**: busca "[país] disability rights"
 
-**Monitoreo de la CDPD de la ONU**: ohchr.org (sigue la implementación de los derechos de vivienda de tu país)
+**Monitoreo de la CDPD de la ONU**: [ohchr.org](https://ohchr.org) (sigue la implementación de los derechos de vivienda de tu país)
 
 ---
 
@@ -315,9 +318,9 @@ El Reino Unido tiene aproximadamente entre 280,000 y 300,000 personas en situaci
 
 **National Homeless Services Network**: directorio integral de servicios para personas en situación de calle.
 
-**Shelter**: shelter.org.uk. Importante organización de defensa y servicios para personas en situación de calle.
+**Shelter**: [shelter.org.uk](https://shelter.org.uk). Importante organización de defensa y servicios para personas en situación de calle.
 
-**Crisis**: crisis.org.uk. Servicios y defensa para personas en situación de calle.
+**Crisis**: [crisis.org.uk](https://crisis.org.uk). Servicios y defensa para personas en situación de calle.
 
 **Equivalente a SAMHSA**: servicios de salud mental del NHS; el acceso varía según la localidad.
 
@@ -325,13 +328,13 @@ El Reino Unido tiene aproximadamente entre 280,000 y 300,000 personas en situaci
 
 ### Recursos (Reino Unido)
 
-**Shelter**: shelter.org.uk
+**Shelter**: [shelter.org.uk](https://shelter.org.uk)
 
-**Crisis**: crisis.org.uk
+**Crisis**: [crisis.org.uk](https://crisis.org.uk)
 
-**Rough Sleeper Initiative**: gov.uk
+**Rough Sleeper Initiative**: [gov.uk](https://gov.uk)
 
-**Servicios de salud mental del NHS**: nhs.uk
+**Servicios de salud mental del NHS**: [nhs.uk](https://nhs.uk)
 
 **Autoridades locales**: contacta para servicios para personas en situación de calle y apoyo social
 

@@ -323,19 +323,19 @@ Conéctate con las organizaciones de derechos de las personas con discapacidad d
 
 ### Encontrar los recursos de tu estado
 
-- **Organizaciones de P&A por estado**: ndrn.org/about/ndrn-member-agencies
+- **Organizaciones de P&A por estado**: [ndrn.org/about/ndrn-member-agencies](https://ndrn.org/about/ndrn-member-agencies)
 - **State Human Rights Commissions**: Busca "[tu estado] human rights commission"
-- **State Vocational Rehabilitation**: rsa.ed.gov/about/states
+- **State Vocational Rehabilitation**: [rsa.ed.gov/about/states](https://rsa.ed.gov/about/states)
 
 ### Recursos nacionales
 
-- **National Disability Rights Network**: ndrn.org
-- **Disability Rights Advocates**: dralegal.org
-- **ADA National Network**: adata.org
+- **National Disability Rights Network**: [ndrn.org](https://ndrn.org)
+- **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
+- **ADA National Network**: [adata.org](https://adata.org)
 
 ### Ayuda legal
 
-- **Asistencia legal por ubicación**: www.lawhelp.org
+- **Asistencia legal por ubicación**: [lawhelp.org](https://www.lawhelp.org)
 - **Servicios de derivación de abogados de los colegios estatales**
 - **Bufetes de derechos de las personas con discapacidad** en tu zona
 

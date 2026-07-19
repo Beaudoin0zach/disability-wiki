@@ -313,7 +313,7 @@ Investiga los programas de tarifas reducidas. Medicaid puede cubrir algunos viaj
 ### Organizaciones de defensa
 
 - **ADAPT**: defensa del acceso al transporte
-- **National Council on Independent Living**: ncil.org
+- **National Council on Independent Living**: [ncil.org](https://ncil.org)
 - **Grupos locales de defensa de los derechos de la discapacidad**
 
 ---

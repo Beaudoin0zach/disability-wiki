@@ -168,7 +168,7 @@ Many plans require prior authorization—approval before receiving certain servi
 
 - **SHIP (State Health Insurance Assistance Program)**: Free Medicare counseling
 - **State Medicaid offices**: Help with Medicaid questions
-- **Health Insurance Marketplace**: healthcare.gov or state marketplace
+- **Health Insurance Marketplace**: [healthcare.gov](https://healthcare.gov) or state marketplace
 - **Patient advocates**: Many hospitals have patient advocates
 - **Legal Aid**: Free legal help for low-income individuals
 - **Disability Rights organizations**: Help with insurance denials
@@ -440,23 +440,23 @@ Check for generic options. Look into patient assistance programs from manufactur
 - **Healthcare.gov**: ACA Marketplace
 - **Medicare.gov**: Medicare information and plan finder
 - **Medicaid.gov**: Information about Medicaid
-- **State Health Insurance Assistance Program (SHIP)**: shiphelp.org
-- **Patient Advocate Foundation**: patientadvocate.org
+- **State Health Insurance Assistance Program (SHIP)**: [shiphelp.org](https://shiphelp.org)
+- **Patient Advocate Foundation**: [patientadvocate.org](https://patientadvocate.org)
 
 ### Canada
 
 - **Provincial health ministry websites**
-- **Health Canada**: canada.ca/en/health-canada
+- **Health Canada**: [canada.ca/en/health-canada](https://canada.ca/en/health-canada)
 
 ### United Kingdom
 
-- **NHS Choices**: nhs.uk
-- **Healthwatch**: healthwatch.co.uk (local advocacy)
+- **NHS Choices**: [nhs.uk](https://nhs.uk)
+- **Healthwatch**: [healthwatch.co.uk](https://healthwatch.co.uk) (local advocacy)
 
 ### Australia
 
-- **Medicare**: servicesaustralia.gov.au/medicare
-- **PBS**: pbs.gov.au
+- **Medicare**: [servicesaustralia.gov.au/medicare](https://servicesaustralia.gov.au/medicare)
+- **PBS**: [pbs.gov.au](https://pbs.gov.au)
 
 ---
 

@@ -364,18 +364,18 @@ File a complaint with the hospital's patient advocate. File with OCR (US) or equ
 
 ### United States
 
-- **ADA National Network**: adata.org (information and resources)
+- **ADA National Network**: [adata.org](https://adata.org) (information and resources)
 - **Office for Civil Rights (OCR)**: hhs.gov/ocr (file healthcare complaints)
-- **Disability Rights Legal Center**: thedrlc.org
+- **Disability Rights Legal Center**: [thedrlc.org](https://thedrlc.org)
 
 ### United Kingdom
 
 - **NHS Accessible Information Standard**: Requirements for accessible communication
-- **Disability Rights UK**: disabilityrightsuk.org
+- **Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 ### Australia
 
-- **People with Disability Australia**: pwd.org.au
+- **People with Disability Australia**: [pwd.org.au](https://pwd.org.au)
 - **Australian Human Rights Commission**: humanrights.gov.au
 
 ---

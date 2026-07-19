@@ -151,7 +151,7 @@ File with the relevant human rights commission:
 
 ### Resources
 
-- **Canadian Human Rights Commission**: chrc-ccdp.gc.ca
+- **Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 - **Provincial human rights bodies**
 - **Disability organizations** in your province
 
@@ -291,7 +291,7 @@ Government-funded service providing:
 - Advice for employers and employees
 - Information about workplace accommodations
 
-**Contact**: jobaccess.gov.au or 1800 464 800
+**Contact**: [jobaccess.gov.au](https://jobaccess.gov.au) or 1800 464 800
 
 ### Disability Employment Services (DES)
 
@@ -416,34 +416,34 @@ This may be illegal discrimination. Document the timeline. File complaint with r
 
 ### Global
 
-- **ILO Disability and Work**: ilo.org
-- **International Disability Alliance**: internationaldisabilityalliance.org
+- **ILO Disability and Work**: [ilo.org](https://ilo.org)
+- **International Disability Alliance**: [internationaldisabilityalliance.org](https://internationaldisabilityalliance.org)
 
 ### United States
 
-- **Job Accommodation Network (JAN)**: askjan.org (free accommodation consultation)
-- **EEOC**: eeoc.gov
-- **Disability:IN**: disabilityin.org
+- **Job Accommodation Network (JAN)**: [askjan.org](https://askjan.org) (free accommodation consultation)
+- **EEOC**: [eeoc.gov](https://eeoc.gov)
+- **Disability:IN**: [disabilityin.org](https://disabilityin.org)
 
 ### Canada
 
-- **Canadian Human Rights Commission**: chrc-ccdp.gc.ca
+- **Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 - **Provincial human rights commissions**
 
 ### United Kingdom
 
-- **Access to Work**: gov.uk/access-to-work
-- **Equality Advisory Support Service**: equalityadvisoryservice.com
-- **Disability Rights UK**: disabilityrightsuk.org
+- **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work)
+- **Equality Advisory Support Service**: [equalityadvisoryservice.com](https://www.equalityadvisoryservice.com)
+- **Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 ### European Union
 
-- **European Disability Forum**: edf-feph.org
+- **European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 - **National equality bodies** in each country
 
 ### Australia
 
-- **JobAccess**: jobaccess.gov.au
+- **JobAccess**: [jobaccess.gov.au](https://jobaccess.gov.au)
 - **Australian Human Rights Commission**: humanrights.gov.au
 
 ---

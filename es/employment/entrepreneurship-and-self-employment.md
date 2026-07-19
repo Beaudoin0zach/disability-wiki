@@ -396,9 +396,9 @@ Considera tus habilidades, intereses y capacidad. ¿Para qué te pide ayuda la g
 ### Estados Unidos {#estados-unidos}
 
 - **SCORE**: score.org (tutoría gratuita)
-- **SBA**: sba.gov
-- **Ticket to Work**: choosework.ssa.gov
-- **National Disability Institute**: nationaldisabilityinstitute.org
+- **SBA**: [sba.gov](https://sba.gov)
+- **Ticket to Work**: [choosework.ssa.gov](https://choosework.ssa.gov)
+- **National Disability Institute**: [nationaldisabilityinstitute.org](https://nationaldisabilityinstitute.org)
 - **Asesoría de prestaciones**: encuentra a una persona Coordinadora Comunitaria de Incentivos al Trabajo (CWIC)
 
 ### Canadá {#canada}
@@ -408,14 +408,14 @@ Considera tus habilidades, intereses y capacidad. ¿Para qué te pide ayuda la g
 
 ### Reino Unido {#reino-unido}
 
-- **Access to Work**: gov.uk/access-to-work
+- **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work)
 - **Start Up Loans**: startuploans.co.uk
 - **Business Wales, Business Gateway (Escocia), etc.**: programas regionales
 
 ### Australia {#australia}
 
-- **Business.gov.au**: business.gov.au
-- **JobAccess**: jobaccess.gov.au
+- **Business.gov.au**: [business.gov.au](https://business.gov.au)
+- **JobAccess**: [jobaccess.gov.au](https://jobaccess.gov.au)
 
 ---
 

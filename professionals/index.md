@@ -97,25 +97,25 @@ Ratified by 186 countries, the CRPD establishes disability rights as human right
 
 ### Disability-Led Advocacy
 
-- **Autistic Self Advocacy Network (ASAN)**: autisticadvocacy.org
-- **ADAPT**: adapt.org
-- **National Council on Independent Living (NCIL)**: ncil.org
-- **Self Advocates Becoming Empowered (SABE)**: sabeusa.org
-- **Partnership for Inclusive Disaster Strategies**: disasterstrategies.org
-- **HEARD**: behearddc.org
-- **CommunicationFIRST**: communicationfirst.org
+- **Autistic Self Advocacy Network (ASAN)**: [autisticadvocacy.org](https://autisticadvocacy.org)
+- **ADAPT**: [adapt.org](https://adapt.org)
+- **National Council on Independent Living (NCIL)**: [ncil.org](https://ncil.org)
+- **Self Advocates Becoming Empowered (SABE)**: [sabeusa.com](https://sabeusa.com)
+- **Partnership for Inclusive Disaster Strategies**: [disasterstrategies.org](https://disasterstrategies.org)
+- **HEARD**: [behearddc.org](https://behearddc.org)
+- **CommunicationFIRST**: [communicationfirst.org](https://communicationfirst.org)
 
 ### Professional Resources
 
-- **Job Accommodation Network (JAN)**: askjan.org
-- **EARN**: askearn.org
-- **ADA National Network**: adata.org
-- **US Access Board**: access-board.gov
+- **Job Accommodation Network (JAN)**: [askjan.org](https://askjan.org)
+- **EARN**: [askearn.org](https://askearn.org)
+- **ADA National Network**: [adata.org](https://adata.org)
+- **US Access Board**: [access-board.gov](https://www.access-board.gov)
 
 ### International Frameworks
 
 - **UN Enable**: un.org/development/desa/disabilities
-- **UN CRPD Text**: ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities
+- **UN CRPD Text**: [ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities](https://ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities)
 
 ---
 

@@ -322,23 +322,23 @@ Documenta todo. Repórtalo a los servicios de discapacidad, a los coordinadores 
 ### Estados Unidos {#united-states}
 
 - **Oficina de Derechos Civiles del Departamento de Educación de EE. UU.**: ocr@ed.gov, 1-800-421-3481
-- **National Center for College Students with Disabilities**: nccsd.ici.umn.edu
-- **AHEAD (Association on Higher Education and Disability)**: www.ahead.org
-- **Disability Rights Advocates**: dralegal.org
+- **National Center for College Students with Disabilities**: [nccsd.ici.umn.edu](https://nccsd.ici.umn.edu)
+- **AHEAD (Association on Higher Education and Disability)**: [www.ahead.org](https://www.ahead.org)
+- **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
 
 ### Canadá {#canada}
 
-- **National Educational Association of Disabled Students (NEADS)**: www.neads.ca
+- **National Educational Association of Disabled Students (NEADS)**: [www.neads.ca](https://www.neads.ca)
 
 ### Reino Unido {#united-kingdom}
 
-- **Disabled Students' Allowance**: www.gov.uk/disabled-students-allowance-dsa
-- **Disabled Students UK**: disabledstudents.co.uk
+- **Disabled Students' Allowance**: [www.gov.uk/disabled-students-allowance-dsa](https://www.gov.uk/disabled-students-allowance-dsa)
+- **Disabled Students UK**: [disabledstudents.co.uk](https://disabledstudents.co.uk)
 
 ### Australia {#australia}
 
-- **Disability Standards for Education**: education.gov.au
-- **People with Disability Australia**: pwd.org.au
+- **Disability Standards for Education**: [education.gov.au](https://education.gov.au)
+- **People with Disability Australia**: [pwd.org.au](https://pwd.org.au)
 
 ---
 

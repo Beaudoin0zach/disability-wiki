@@ -361,18 +361,18 @@ Research the specific system online. Contact the transit agency's accessibility 
 ### United States
 
 - **FTA ADA Assistance Line**: 1-888-446-4511
-- **ADA.gov transit information**: ada.gov
+- **ADA.gov transit information**: [ada.gov](https://ada.gov)
 - **Easter Seals Project ACTION**: Accessible transportation resources
 
 ### Canada
 
-- **Canadian Transportation Agency**: otc-cta.gc.ca
+- **Canadian Transportation Agency**: [otc-cta.gc.ca](https://otc-cta.gc.ca)
 - **Provincial transit agencies**
 
 ### United Kingdom
 
 - **Passenger Assist**: Booking assistance for rail travel
-- **Transport for All**: transportforall.org.uk (disability-led transport advocacy)
+- **Transport for All**: [transportforall.org.uk](https://transportforall.org.uk) (disability-led transport advocacy)
 
 ### Australia
 

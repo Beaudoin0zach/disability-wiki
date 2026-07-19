@@ -111,7 +111,7 @@ Si sufres discriminación en la vivienda, presenta la queja ante HUD dentro de *
 
 **Llama a HUD**: 1-800-669-9777. Hay personal bilingüe disponible. Puedes presentar la queja por teléfono sin abogado ni queja formal.
 
-**Presenta en línea**: hud.gov, sección Fair Housing.
+**Presenta en línea**: [hud.gov](https://hud.gov), sección Fair Housing.
 
 **Presenta por correo**: tu oficina regional de HUD (dirección en hud.gov).
 
@@ -135,13 +135,13 @@ Algunos arrendadores responden a una documentación clara. Las organizaciones de
 
 **Línea directa de Fair Housing de HUD**: 1-800-669-9777
 
-**National Fair Housing Alliance**: nationalfairhousing.org (encuentra organizaciones locales)
+**National Fair Housing Alliance**: [nationalfairhousing.org](https://nationalfairhousing.org) (encuentra organizaciones locales)
 
 **Tu organización estatal de derechos de las personas con discapacidad**: directorio en dol.gov
 
 **Centros de vida independiente**: directorio en ncil.org (defensa gratuita en materia de vivienda)
 
-**Asistencia legal**: www.lawhelp.org, 211.org
+**Asistencia legal**: [lawhelp.org](https://www.lawhelp.org), 211.org
 
 ---
 
@@ -175,11 +175,11 @@ Documenta todas las comunicaciones. Si el arrendador se niega, contacta a tu com
 
 ### Recursos (Canadá)
 
-**Canadian Human Rights Commission**: chrc-ccdp.gc.ca
+**Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 
 **Tu comisión provincial de derechos humanos**: contacto a través del gobierno provincial
 
-**Independent Living Canada**: ilc-vac.ca (equivalente de los CIL de EE. UU.)
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca) (equivalente de los CIL de EE. UU.)
 
 **Organizaciones provinciales de derechos de las personas con discapacidad**: busca "[provincia] disability rights"
 
@@ -225,11 +225,11 @@ Contacta a tu organización nacional de derechos de las personas con discapacida
 
 ### Recursos (UE)
 
-**European Disability Forum**: edf-feph.org (coordina organizaciones de derechos de las personas con discapacidad en toda la UE)
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org) (coordina organizaciones de derechos de las personas con discapacidad en toda la UE)
 
 **La organización de derechos de las personas con discapacidad de tu país**: contacto a través del gobierno nacional
 
-**Monitoreo de la CDPD de la ONU**: ohchr.org (sigue el avance de la implementación de la CDPD en tu país)
+**Monitoreo de la CDPD de la ONU**: [ohchr.org](https://ohchr.org) (sigue el avance de la implementación de la CDPD en tu país)
 
 ---
 
@@ -269,13 +269,13 @@ Contacta al departamento de vivienda de tu municipio local o a la defensoría de
 
 ### Recursos (Reino Unido)
 
-**Disability Rights UK**: disabilityrightsuk.org (información y defensa en materia de vivienda)
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org) (información y defensa en materia de vivienda)
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
 **Defensoría de vivienda**: housing-ombudsman.org.uk
 
-**Citizens Advice**: citizensadvice.org.uk (información sobre derechos de vivienda)
+**Citizens Advice**: [citizensadvice.org.uk](https://citizensadvice.org.uk) (información sobre derechos de vivienda)
 
 ---
 
@@ -319,7 +319,7 @@ Contacta a la **Comisión Australiana de Derechos Humanos (Australian Human Righ
 
 **NDIS**: ndis.gov.au
 
-**People with Disability Australia (PWDA)**: pwd.org.au
+**People with Disability Australia (PWDA)**: [pwd.org.au](https://pwd.org.au)
 
 **Organizaciones estatales de discapacidad**: busca "[estado] disability rights"
 
@@ -437,13 +437,13 @@ Ya sea que estés en un país que ha ratificado la CDPD, en un país como EE. UU
 
 **Derechos internacionales de vivienda**: consulta [Derechos internacionales de vivienda](/es/housing/international-housing-rights.md) para una explicación detallada del artículo 19 de la CDPD, los marcos globales y cómo los distintos sistemas legales implementan los derechos de vivienda.
 
-**Convención de la ONU sobre los Derechos de las Personas con Discapacidad**: ohchr.org. Texto completo en varios idiomas; la Observación General 5 sobre el artículo 19 ofrece una interpretación a fondo.
+**Convención de la ONU sobre los Derechos de las Personas con Discapacidad**: [ohchr.org](https://ohchr.org). Texto completo en varios idiomas; la Observación General 5 sobre el artículo 19 ofrece una interpretación a fondo.
 
-**Disabled Peoples' International**: dpi.org. Federación global de organizaciones de personas con discapacidad en más de 150 países.
+**Disabled Peoples' International**: [dpi.org](https://dpi.org). Federación global de organizaciones de personas con discapacidad en más de 150 países.
 
-**SABE International**: sabeusa.com. Organización internacional de autogestores con discapacidad intelectual o del desarrollo.
+**SABE International**: [sabeusa.com](https://sabeusa.com). Organización internacional de autogestores con discapacidad intelectual o del desarrollo.
 
-**European Disability Forum**: edf-feph.org. Coordina organizaciones de discapacidad en toda Europa.
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org). Coordina organizaciones de discapacidad en toda Europa.
 
 **La organización de derechos de las personas con discapacidad de tu país**: busca "[país] disabled people's organization" o contacta a través del gobierno nacional.
 

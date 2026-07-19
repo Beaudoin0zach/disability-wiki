@@ -446,27 +446,27 @@ Busca:
 
 ### Organizaciones lideradas por personas con discapacidad
 
-- **ADAPT**: adapt.org
-- **National Council on Independent Living (NCIL)**: ncil.org
-- **Self Advocates Becoming Empowered (SABE)**: sabeusa.org
-- **Autistic Self Advocacy Network (ASAN)**: autisticadvocacy.org
+- **ADAPT**: [adapt.org](https://adapt.org)
+- **National Council on Independent Living (NCIL)**: [ncil.org](https://ncil.org)
+- **Self Advocates Becoming Empowered (SABE)**: [sabeusa.com](https://sabeusa.com)
+- **Autistic Self Advocacy Network (ASAN)**: [autisticadvocacy.org](https://autisticadvocacy.org)
 
 ### Recursos de SDM
 
-- **National Resource Center for Supported Decision-Making**: supporteddecisions.org
-- **Los recursos de SDM de The Arc**: thearc.org
+- **National Resource Center for Supported Decision-Making**: [supporteddecisions.org](https://supporteddecisions.org)
+- **Los recursos de SDM de The Arc**: [thearc.org](https://thearc.org)
 - **Recursos de SDM de la ACLU**
 
 ### Recursos profesionales
 
-- **NASW**: socialworkers.org
+- **NASW**: [socialworkers.org](https://socialworkers.org)
 - **Información sobre prestaciones**: ssa.gov
-- **Información sobre la ADA**: ada.gov
+- **Información sobre la ADA**: [ada.gov](https://ada.gov)
 
 ### Recursos sobre Olmstead
 
-- **Olmstead Rights**: olmsteadrights.org
-- **Bazelon Center for Mental Health Law**: bazelon.org
+- **Olmstead Rights**: [olmsteadrights.org](https://olmsteadrights.org)
+- **Bazelon Center for Mental Health Law**: [bazelon.org](https://bazelon.org)
 
 ---
 
