@@ -6,6 +6,7 @@ date: 2026-06-05T20:24:19.788Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:16:08.439Z
+
 ---
 
 # Mobile & OS Accessibility
@@ -87,7 +88,13 @@ Even with built-in features, many disabled people face:
 - Lack of good documentation in plain language  
 - Vendors ignoring non-visual or non-mobility disabilities (e.g., cognitive overload, trauma triggers)
 
-This page should reflect those realities, not just repeat marketing claims.
+---
+
+## Where to go next
+
+- **You use a computer more than a phone** — [browsers and assistive tech](/tech/browsers-assistive-tech) and the [screen reader comparison](/tech/screen-reader-comparison) go deeper on desktop setups.
+- **Your communication needs come first** — [communication access and AAC](/tech/communication-access-and-aac).
+- **A device is essential and you cannot afford it** — assistive technology can be funded; see [medical equipment and AT](/healthcare/medical-equipment-and-at) and the [benefits section](/benefits/index).
 
 ---
 

@@ -6,6 +6,7 @@ date: 2026-06-05T20:24:27.684Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:16:29.785Z
+
 ---
 
 # Web Accessibility
@@ -95,6 +96,14 @@ If you add region-specific legal info, please clearly mark:
 - The **country/region**  
 - The **date** or “as of YEAR”  
 - Links to official sources
+
+---
+
+## Where to go next
+
+- **A website is blocking you and you want to act on it** — an inaccessible site can violate the law. See [your rights](/rights/index) and [filing a disability complaint](/rights/filing-a-disability-complaint).
+- **You are the one building the site** — start with the "Practical Basics for Web Creators" and "Tools and Testing" sections above.
+- **The barrier is on social media specifically** — [social media accessibility](/tech/social-media-accessibility).
 
 ---
 

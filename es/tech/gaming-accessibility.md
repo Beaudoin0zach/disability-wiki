@@ -6,6 +6,7 @@ date: 2026-06-05T20:24:00.611Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-20T19:15:45.423Z
+
 ---
 
 # Accesibilidad en los videojuegos
@@ -96,11 +97,13 @@ Algunas estrategias:
 - Compartir reseñas de accesibilidad y listas de verificación comunitarias  
 - Presionar a las plataformas (Steam, tiendas de consolas, etc.) para que incluyan información y filtros de accesibilidad
 
-A medida que esta página crezca, puede alojar:
+---
 
-- Plantillas para enviar retroalimentación sobre accesibilidad  
-- Listas de juegos reconocidos por su buena accesibilidad (con sus razones)  
-- Informes de errores y patrones en los que las actualizaciones hicieron los juegos menos accesibles
+## A dónde ir después
+
+- **Quieres el lado del hardware** — los controles accesibles y el acceso por conmutador se cubren en [accesibilidad móvil y de sistemas operativos](/es/tech/mobile-and-os-accessibility) y [navegadores y tecnología de asistencia](/es/tech/browsers-assistive-tech).
+- **Quieres encontrar a otros jugadores** — la [sección de comunidad](/es/community/index) cubre cómo encontrar grupos de pares con discapacidad, incluidas las comunidades de videojuegos.
+- **Chocaste con una barrera que no es solo del juego** — si una plataforma o tienda te bloquea, eso también es un asunto de [accesibilidad web](/es/tech/web-accessibility) y [derechos digitales](/es/tech/digital-disability-justice).
 
 ---
 
