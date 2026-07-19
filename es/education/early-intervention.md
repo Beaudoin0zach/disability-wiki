@@ -283,20 +283,20 @@ Los procesos de transición varían. En general:
 ### Estados Unidos
 
 - **Información sobre intervención temprana de los CDC**: cdc.gov/ncbddd/actearly
-- **Información sobre la Parte C de IDEA**: Parentcenterhub.org
+- **Información sobre la Parte C de IDEA**: [Parentcenterhub.org](https://Parentcenterhub.org)
 - **Encuentra el programa de intervención temprana de tu estado**: Comunícate con el departamento de salud de tu estado
-- **Parent Training and Information Centers**: parentcenterhub.org
+- **Parent Training and Information Centers**: [parentcenterhub.org](https://parentcenterhub.org)
 
 ### Recursos de la comunidad con discapacidad
 
-- **Autistic Self Advocacy Network (ASAN)**: autisticadvocacy.org (perspectivas sobre las intervenciones para el autismo)
+- **Autistic Self Advocacy Network (ASAN)**: [autisticadvocacy.org](https://autisticadvocacy.org) (perspectivas sobre las intervenciones para el autismo)
 - **National Association of the Deaf**: nad.org (intervención temprana para niños sordos)
 - **Blogs y recursos de la comunidad con discapacidad**: Busca las perspectivas de personas adultas con discapacidad
 
 ### Para las familias
 
 - **Programas Parent to Parent**: Apoyo entre pares de otras madres y padres
-- **Family Voices**: familyvoices.org
+- **Family Voices**: [familyvoices.org](https://familyvoices.org)
 - **Grupos locales de apoyo para familias**
 
 ---

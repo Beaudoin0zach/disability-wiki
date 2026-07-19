@@ -97,25 +97,25 @@ Ratificada por 186 países, la Convención sobre los Derechos de las Personas co
 
 ### Defensa liderada por personas con discapacidad
 
-- **Autistic Self Advocacy Network (ASAN)**: autisticadvocacy.org
-- **ADAPT**: adapt.org
-- **National Council on Independent Living (NCIL)**: ncil.org
+- **Autistic Self Advocacy Network (ASAN)**: [autisticadvocacy.org](https://autisticadvocacy.org)
+- **ADAPT**: [adapt.org](https://adapt.org)
+- **National Council on Independent Living (NCIL)**: [ncil.org](https://ncil.org)
 - **Self Advocates Becoming Empowered (SABE)**: sabeusa.org
-- **Partnership for Inclusive Disaster Strategies**: disasterstrategies.org
-- **HEARD**: behearddc.org
-- **CommunicationFIRST**: communicationfirst.org
+- **Partnership for Inclusive Disaster Strategies**: [disasterstrategies.org](https://disasterstrategies.org)
+- **HEARD**: [behearddc.org](https://behearddc.org)
+- **CommunicationFIRST**: [communicationfirst.org](https://communicationfirst.org)
 
 ### Recursos profesionales
 
-- **Job Accommodation Network (JAN)**: askjan.org
-- **EARN**: askearn.org
-- **ADA National Network**: adata.org
+- **Job Accommodation Network (JAN)**: [askjan.org](https://askjan.org)
+- **EARN**: [askearn.org](https://askearn.org)
+- **ADA National Network**: [adata.org](https://adata.org)
 - **US Access Board**: access-board.gov
 
 ### Marcos internacionales
 
 - **UN Enable**: un.org/development/desa/disabilities
-- **UN CDPD Text**: ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities
+- **UN CDPD Text**: [ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities](https://ohchr.org/en/instruments-mechanisms/instruments/convention-rights-persons-disabilities)
 
 ---
 

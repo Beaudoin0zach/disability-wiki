@@ -113,13 +113,13 @@ La Fair Housing Act prevalece sobre los límites de ocupación y las restriccion
 
 **Línea directa de Fair Housing**: 1-800-669-9777
 
-**Organizaciones de derechos de los inquilinos**: tenantsunion.org, tenantsrights.org
+**Organizaciones de derechos de los inquilinos**: [tenantsunion.org](https://tenantsunion.org), tenantsrights.org
 
 **Asistencia legal**: www.lawhelp.org, 211.org
 
 **Organizaciones de derechos de las personas con discapacidad**: directorio en dol.gov
 
-**Organizaciones de vivienda justa**: nationalfairhousing.org
+**Organizaciones de vivienda justa**: [nationalfairhousing.org](https://nationalfairhousing.org)
 
 **Centros de vida independiente**: directorio en ncil.org
 
@@ -171,13 +171,13 @@ Los arrendadores no pueden tomar represalias contra los inquilinos por hacer val
 
 ### Recursos (Canadá)
 
-**Canadian Human Rights Commission**: chrc-ccdp.gc.ca
+**Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 
 **Comisiones provinciales de derechos humanos**: contacto a través del gobierno provincial
 
 **Organizaciones provinciales de discapacidad**: busca "[provincia] disability rights"
 
-**Independent Living Canada**: ilc-vac.ca
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca)
 
 **Asistencia legal**: busca "[provincia] legal aid"
 
@@ -239,7 +239,7 @@ Los mecanismos varían según el país, pero por lo general incluyen:
 
 ### Recursos (UE)
 
-**European Disability Forum**: edf-feph.org
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 
 **Tu organización nacional de discapacidad**: busca "[país] disability rights"
 
@@ -295,11 +295,11 @@ La **Residential Tenancies Act** y el derecho consuetudinario establecen:
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
-**Disability Rights UK**: disabilityrightsuk.org
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
-**Defensoría de vivienda**: housingombudsman.org.uk
+**Defensoría de vivienda**: housing-ombudsman.org.uk
 
-**Citizens Advice**: citizensadvice.org.uk
+**Citizens Advice**: [citizensadvice.org.uk](https://citizensadvice.org.uk)
 
 ---
 
@@ -405,9 +405,9 @@ Las protecciones de los inquilinos varían a nivel global. Los principios univer
 
 ### Recursos (otros países)
 
-**CDPD de la ONU**: ohchr.org (investiga qué protecciones existen en tu país a través de los informes de país)
+**CDPD de la ONU**: [ohchr.org](https://ohchr.org) (investiga qué protecciones existen en tu país a través de los informes de país)
 
-**Disabled Peoples' International**: dpi.org (conéctate con organizaciones de personas con discapacidad a nivel global)
+**Disabled Peoples' International**: [dpi.org](https://dpi.org) (conéctate con organizaciones de personas con discapacidad a nivel global)
 
 **Tu organización nacional de discapacidad**: la mayoría de los países tiene una; estas brindan defensa de los derechos de vivienda
 

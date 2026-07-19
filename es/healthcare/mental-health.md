@@ -395,22 +395,22 @@ No puedes obligar a alguien a recibir tratamiento (excepto en circunstancias leg
 
 ### Apoyo entre pares (peer)
 
-- **National Alliance on Mental Illness (NAMI)**: nami.org (grupos de apoyo, educación)
-- **Depression and Bipolar Support Alliance (DBSA)**: dbsalliance.org
+- **National Alliance on Mental Illness (NAMI)**: [nami.org](https://nami.org) (grupos de apoyo, educación)
+- **Depression and Bipolar Support Alliance (DBSA)**: [dbsalliance.org](https://dbsalliance.org)
 - **Hearing Voices Network**: hearingvoicesusa.org
 - **Líneas de apoyo (warmlines)**: Busca líneas de apoyo gestionadas por pares en tu zona
 
 ### Defensa
 
-- **MindFreedom International**: mindfreedom.org (derechos humanos en salud mental)
-- **National Coalition for Mental Health Recovery**: ncmhr.org
-- **Bazelon Center for Mental Health Law**: bazelon.org
+- **MindFreedom International**: [mindfreedom.org](https://mindfreedom.org) (derechos humanos en salud mental)
+- **National Coalition for Mental Health Recovery**: [ncmhr.org](https://ncmhr.org)
+- **Bazelon Center for Mental Health Law**: [bazelon.org](https://bazelon.org)
 
 ### Encontrar profesionales
 
-- **Psychology Today Therapist Finder**: psychologytoday.com
-- **Open Path Collective**: openpathcollective.org (escala móvil de tarifas)
-- **SAMHSA Treatment Locator**: findtreatment.gov
+- **Psychology Today Therapist Finder**: [psychologytoday.com](https://psychologytoday.com)
+- **Open Path Collective**: [openpathcollective.org](https://openpathcollective.org) (escala móvil de tarifas)
+- **SAMHSA Treatment Locator**: [findtreatment.gov](https://findtreatment.gov)
 
 ---
 

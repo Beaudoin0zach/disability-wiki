@@ -421,30 +421,30 @@ Infórmate sobre los programas de incentivos al trabajo (Ticket to Work en EE. U
 
 ### Globales
 
-- **OIT Discapacidad**: ilo.org
+- **OIT Discapacidad**: [ilo.org](https://ilo.org)
 - **GLADNET (Global Applied Disability Research and Information Network)**
 
 ### Estados Unidos {#estados-unidos}
 
 - **Agencias estatales de VR de la RSA**: encuentra el programa de VR de tu estado
 - **APSE**: apse.org (Employment First)
-- **Job Accommodation Network**: askjan.org
-- **Ticket to Work**: choosework.ssa.gov
+- **Job Accommodation Network**: [askjan.org](https://askjan.org)
+- **Ticket to Work**: [choosework.ssa.gov](https://choosework.ssa.gov)
 
 ### Canadá {#canada}
 
-- **Canadian Association for Supported Employment (CASE)**: supportedemployment.ca
-- **Ready, Willing, and Able**: readywillingable.ca
+- **Canadian Association for Supported Employment (CASE)**: [supportedemployment.ca](https://supportedemployment.ca)
+- **Ready, Willing, and Able**: [readywillingable.ca](https://readywillingable.ca)
 
 ### Reino Unido {#reino-unido}
 
-- **Access to Work**: gov.uk/access-to-work
-- **BASE**: base-uk.org
+- **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work)
+- **BASE**: [base-uk.org](https://base-uk.org)
 
 ### Australia {#australia}
 
-- **JobAccess**: jobaccess.gov.au
-- **Disability Employment Services**: dss.gov.au
+- **JobAccess**: [jobaccess.gov.au](https://jobaccess.gov.au)
+- **Disability Employment Services**: [dss.gov.au](https://dss.gov.au)
 
 ---
 

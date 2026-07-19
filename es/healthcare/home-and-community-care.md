@@ -420,26 +420,26 @@ Solicita una reevaluación. Documenta cuidadosamente tus necesidades. Apela la d
 
 ### Estados Unidos {#united-states}
 
-- **ADAPT**: adapt.org
-- **National Council on Independent Living**: ncil.org
+- **ADAPT**: [adapt.org](https://adapt.org)
+- **National Council on Independent Living**: [ncil.org](https://ncil.org)
 - **Sitio web de HCBS de los CMS**: medicaid.gov/medicaid/hcbs
-- **Encuentra tu Centro de Vida Independiente**: ilru.org/projects/cil-net/cil-center-and-association-directory
+- **Encuentra tu Centro de Vida Independiente**: [ilru.org/projects/cil-net/cil-center-and-association-directory](https://ilru.org/projects/cil-net/cil-center-and-association-directory)
 
 ### Canadá {#canada}
 
-- **Independent Living Canada**: ilc-vac.ca
+- **Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca)
 - **Organizaciones provinciales de discapacidad**
 
 ### Reino Unido {#united-kingdom}
 
-- **Disability Rights UK**: disabilityrightsuk.org
+- **Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 - **Inclusion London**: inclusionlondon.org.uk
 - **Atención social para adultos del council local**
 
 ### Australia {#australia}
 
 - **NDIS**: ndis.gov.au
-- **People with Disability Australia**: pwd.org.au
+- **People with Disability Australia**: [pwd.org.au](https://pwd.org.au)
 
 ---
 

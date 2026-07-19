@@ -270,7 +270,7 @@ Request written descriptions or photos before viewing. Document all communicatio
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
-**Housing ombudsman**: housingomobudsman.org.uk
+**Housing ombudsman**: housing-ombudsman.org.uk
 
 **Disabled Facilities Grant**: Contact local council
 

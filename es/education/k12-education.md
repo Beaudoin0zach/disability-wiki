@@ -389,7 +389,7 @@ Presenta las solicitudes por escrito. Envía confirmaciones por correo electrón
 
 ### Canadá {#canada}
 
-- **Inclusion Canada**: inclusioncanada.ca
+- **Inclusion Canada**: [inclusioncanada.ca](https://inclusioncanada.ca)
 - **Organizaciones provinciales de defensa de familias**
 
 ### Reino Unido {#united-kingdom}
@@ -400,7 +400,7 @@ Presenta las solicitudes por escrito. Envía confirmaciones por correo electrón
 
 ### Australia {#australia}
 
-- **CYDA (Children and Young People with Disability Australia)**: cyda.org.au
+- **CYDA (Children and Young People with Disability Australia)**: [cyda.org.au](https://cyda.org.au)
 - **Organizaciones de familias de cada estado**
 
 ---

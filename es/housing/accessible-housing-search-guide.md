@@ -130,13 +130,13 @@ Si usas el Vale de Elección de Vivienda (Housing Choice Voucher) de la Sección
 
 **National Accessible Apartment Clearinghouse**: nationalaccessibleapartmentclearinghouse.org
 
-**HUD Housing Search**: hud.gov
+**HUD Housing Search**: [hud.gov](https://hud.gov)
 
 **Centros para la Vida Independiente**: directorio en ncil.org
 
 **Organizaciones estatales de derechos de las personas con discapacidad**: directorio en dol.gov
 
-**Organizaciones de vivienda justa**: nationalfairhousing.org
+**Organizaciones de vivienda justa**: [nationalfairhousing.org](https://nationalfairhousing.org)
 
 ---
 
@@ -176,9 +176,9 @@ Los códigos de construcción (National Building Code of Canada) establecen los 
 
 ### Recursos (Canadá)
 
-**Independent Living Canada**: ilc-vac.ca (equivalente a los CIL de EE. UU.)
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca) (equivalente a los CIL de EE. UU.)
 
-**CMHC**: cmhc-schl.gc.ca
+**CMHC**: [cmhc-schl.gc.ca](https://cmhc-schl.gc.ca)
 
 **Autoridades provinciales de vivienda**: contacta a través del gobierno provincial
 
@@ -224,13 +224,13 @@ Los países de la UE adoptan cada vez más los principios del Diseño Universal 
 
 ### Recursos (UE)
 
-**European Disability Forum**: edf-feph.org
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 
 **Organizaciones nacionales de discapacidad**: busca "[país] disability organization"
 
 **Defensorías de la vivienda (ombudspersons)**: algunos países de la UE tienen mecanismos de queja específicos de vivienda
 
-**Informes país de la CDPD de la ONU**: ohchr.org (documentan qué estándares de vivienda existen en tu país)
+**Informes país de la CDPD de la ONU**: [ohchr.org](https://ohchr.org) (documentan qué estándares de vivienda existen en tu país)
 
 ---
 
@@ -242,7 +242,7 @@ La búsqueda de vivienda en el Reino Unido funciona a través de portales inmobi
 
 **Rightmove.co.uk**, **Zoopla.co.uk** y **SpareRoom.co.uk** son los principales sitios de búsqueda de vivienda. A menudo las características de accesibilidad no se incluyen; hay que contactar directamente a los arrendadores o buscar palabras clave como "accessible", "wheelchair", "adapted", "mobility".
 
-**Disability Rights UK**: disabilityrightsuk.org mantiene información sobre vivienda accesible y los derechos de los arrendadores; puede proporcionar recursos o listas.
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org) mantiene información sobre vivienda accesible y los derechos de los arrendadores; puede proporcionar recursos o listas.
 
 **Concejos locales**: contacta a los departamentos de vivienda de los concejos locales para obtener información sobre vivienda accesible, las Subvenciones para Instalaciones para Personas con Discapacidad (Disabled Facilities Grants, DFG) y los recursos locales.
 
@@ -266,15 +266,15 @@ Solicita descripciones escritas o fotos antes de visitar. Documenta todas las co
 
 ### Recursos (Reino Unido)
 
-**Disability Rights UK**: disabilityrightsuk.org
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
-**Housing ombudsman**: housingomobudsman.org.uk
+**Housing ombudsman**: housing-ombudsman.org.uk
 
 **Disabled Facilities Grant**: contacta al concejo local
 
-**Citizens Advice**: citizensadvice.org.uk (información sobre derechos de vivienda)
+**Citizens Advice**: [citizensadvice.org.uk](https://citizensadvice.org.uk) (información sobre derechos de vivienda)
 
 ---
 
@@ -357,11 +357,11 @@ Las estrategias de búsqueda de vivienda varían a nivel global según los merca
 
 ### Recursos globales para la búsqueda de vivienda
 
-**Disabled Peoples' International**: dpi.org (conéctate con las organizaciones de personas con discapacidad de tu país)
+**Disabled Peoples' International**: [dpi.org](https://dpi.org) (conéctate con las organizaciones de personas con discapacidad de tu país)
 
-**SABE International**: sabeusa.com (red de autodefensa en distintos países)
+**SABE International**: [sabeusa.com](https://sabeusa.com) (red de autodefensa en distintos países)
 
-**Recursos de vivienda de la CDPD de la ONU**: ohchr.org (investiga qué protecciones de vivienda existen en tu país)
+**Recursos de vivienda de la CDPD de la ONU**: [ohchr.org](https://ohchr.org) (investiga qué protecciones de vivienda existen en tu país)
 
 **Foros regionales de discapacidad**: European Disability Forum (edf-feph.org) y otros brindan recursos específicos por país
 

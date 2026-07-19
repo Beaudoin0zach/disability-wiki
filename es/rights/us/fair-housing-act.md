@@ -327,20 +327,20 @@ Ten cuidado. El HUD permite que los propietarios sean escépticos respecto de la
 
 ### Presentar quejas
 
-- **HUD**: hud.gov/program_offices/fair_housing_equal_opp/online-complaint o 1-800-669-9777
-- **Encuentra tu agencia local de vivienda justa**: hud.gov/program_offices/fair_housing_equal_opp/contact_fheo
+- **HUD**: [hud.gov/program_offices/fair_housing_equal_opp/online-complaint](https://hud.gov/program_offices/fair_housing_equal_opp/online-complaint) o 1-800-669-9777
+- **Encuentra tu agencia local de vivienda justa**: [hud.gov/program_offices/fair_housing_equal_opp/contact_fheo](https://hud.gov/program_offices/fair_housing_equal_opp/contact_fheo)
 
 ### Información y asistencia
 
-- **National Fair Housing Alliance**: nationalfairhousing.org
-- **Bazelon Center for Mental Health Law**: bazelon.org (recursos sobre discriminación en la vivienda)
-- **La organización de P&A de tu estado**: ndrn.org/about/ndrn-member-agencies
+- **National Fair Housing Alliance**: [nationalfairhousing.org](https://nationalfairhousing.org)
+- **Bazelon Center for Mental Health Law**: [bazelon.org](https://bazelon.org) (recursos sobre discriminación en la vivienda)
+- **La organización de P&A de tu estado**: [ndrn.org/about/ndrn-member-agencies](https://ndrn.org/about/ndrn-member-agencies)
 
 ### Ayuda legal
 
 - **Abogados de vivienda justa**: Muchos toman casos por honorarios condicionados al resultado (contingency)
 - **Asistencia legal (Legal Aid)**: www.lawhelp.org
-- **Disability Rights Advocates**: dralegal.org
+- **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
 
 ---
 

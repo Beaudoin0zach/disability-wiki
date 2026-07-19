@@ -195,9 +195,9 @@ EE. UU. tiene una gran población institucional (asilos, hospitales psiquiátric
 
 **Centros para la Vida Independiente**: directorio en ncil.org
 
-**ADAPT**: adapt.org
+**ADAPT**: [adapt.org](https://adapt.org)
 
-**ASAN**: autisticadvocacy.org
+**ASAN**: [autisticadvocacy.org](https://autisticadvocacy.org)
 
 **SABE**: sabeusa.org
 
@@ -250,11 +250,11 @@ Similar a EE. UU.: la vida con apoyo, el cuidado autodirigido, los hogares de ac
 
 ### Recursos (Canadá)
 
-**Independent Living Canada**: ilc-vac.ca
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca)
 
 **Organizaciones provinciales de discapacidad**: busca "[provincia] disability rights"
 
-**Canadian Human Rights Commission**: chrc-ccdp.gc.ca
+**Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 
 **ADAPT Canada**: adapt-canada.ca
 
@@ -292,9 +292,9 @@ El traslado de grandes instituciones a pequeños hogares grupales/entornos puede
 
 ### Recursos (UE)
 
-**European Disability Forum**: edf-feph.org
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 
-**ENIL (European Network on Independent Living)**: enil.eu
+**ENIL (European Network on Independent Living)**: [enil.eu](https://enil.eu)
 
 **Organizaciones nacionales de discapacidad**: busca "[país] disability rights"
 
@@ -336,7 +336,7 @@ El Reino Unido tiene una población institucional significativa a pesar de déca
 
 **Derecho a un abogado** y al debido proceso.
 
-**Disability Rights UK**: disabilityrightsuk.org brinda recursos y asistencia legal.
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org) brinda recursos y asistencia legal.
 
 ### Transición (Reino Unido)
 
@@ -347,7 +347,7 @@ El Reino Unido tiene una población institucional significativa a pesar de déca
 
 ### Recursos (Reino Unido)
 
-**Disability Rights UK**: disabilityrightsuk.org
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
@@ -453,11 +453,11 @@ El panorama institucional y el progreso de la desinstitucionalización varían d
 
 ### Recursos (Otros países)
 
-**CDPD de la ONU**: ohchr.org (investiga qué obligaciones de desinstitucionalización existen en tu país)
+**CDPD de la ONU**: [ohchr.org](https://ohchr.org) (investiga qué obligaciones de desinstitucionalización existen en tu país)
 
-**Disabled Peoples' International**: dpi.org (conéctate con los movimientos de discapacidad de tu país)
+**Disabled Peoples' International**: [dpi.org](https://dpi.org) (conéctate con los movimientos de discapacidad de tu país)
 
-**SABE International**: sabeusa.com (redes de autodefensa a nivel global)
+**SABE International**: [sabeusa.com](https://sabeusa.com) (redes de autodefensa a nivel global)
 
 **Foros regionales de discapacidad**: conéctate con las redes regionales
 

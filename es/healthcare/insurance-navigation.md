@@ -168,7 +168,7 @@ Muchos planes exigen autorización previa: la aprobación antes de recibir ciert
 
 - **SHIP (State Health Insurance Assistance Program)**: asesoría gratuita sobre Medicare
 - **Oficinas estatales de Medicaid**: ayuda con preguntas sobre Medicaid
-- **Mercado de Seguros Médicos (Health Insurance Marketplace)**: healthcare.gov o el mercado de tu estado
+- **Mercado de Seguros Médicos (Health Insurance Marketplace)**: [healthcare.gov](https://healthcare.gov) o el mercado de tu estado
 - **Defensores del paciente**: muchos hospitales tienen defensores del paciente
 - **Asistencia legal (Legal Aid)**: ayuda legal gratuita para personas de bajos ingresos
 - **Organizaciones de derechos de las personas con discapacidad**: ayuda con las negaciones de seguros
@@ -440,23 +440,23 @@ Revisa las opciones genéricas. Infórmate sobre los programas de asistencia al 
 - **Healthcare.gov**: Mercado de la ACA
 - **Medicare.gov**: información de Medicare y buscador de planes
 - **Medicaid.gov**: información sobre Medicaid
-- **State Health Insurance Assistance Program (SHIP)**: shiphelp.org
-- **Patient Advocate Foundation**: patientadvocate.org
+- **State Health Insurance Assistance Program (SHIP)**: [shiphelp.org](https://shiphelp.org)
+- **Patient Advocate Foundation**: [patientadvocate.org](https://patientadvocate.org)
 
 ### Canadá {#canada}
 
 - **Sitios web de los ministerios provinciales de salud**
-- **Health Canada**: canada.ca/en/health-canada
+- **Health Canada**: [canada.ca/en/health-canada](https://canada.ca/en/health-canada)
 
 ### Reino Unido {#united-kingdom}
 
-- **NHS Choices**: nhs.uk
-- **Healthwatch**: healthwatch.co.uk (defensa local)
+- **NHS Choices**: [nhs.uk](https://nhs.uk)
+- **Healthwatch**: [healthwatch.co.uk](https://healthwatch.co.uk) (defensa local)
 
 ### Australia {#australia}
 
-- **Medicare**: servicesaustralia.gov.au/medicare
-- **PBS**: pbs.gov.au
+- **Medicare**: [servicesaustralia.gov.au/medicare](https://servicesaustralia.gov.au/medicare)
+- **PBS**: [pbs.gov.au](https://pbs.gov.au)
 
 ---
 

@@ -307,21 +307,21 @@ Las leyes brindan un piso mínimo—las personas con discapacidad continúan org
 
 ### Presentar denuncias
 
-- **EEOC**: eeoc.gov o 1-800-669-4000
+- **EEOC**: [eeoc.gov](https://eeoc.gov) o 1-800-669-4000
 - **Línea de Información sobre la ADA del Departamento de Justicia**: 1-800-514-0301
-- **HUD**: hud.gov o 1-800-669-9777
-- **OCR del Departamento de Educación**: ed.gov/ocr
+- **HUD**: [hud.gov](https://hud.gov) o 1-800-669-9777
+- **OCR del Departamento de Educación**: [ed.gov/ocr](https://ed.gov/ocr)
 
 ### Información y asistencia
 
-- **ADA National Network**: adata.org (centros regionales sobre la ADA)
-- **Organizaciones de derechos de las personas con discapacidad por estado**: ndrn.org/about/ndrn-member-agencies
-- **Job Accommodation Network**: askjan.org
+- **ADA National Network**: [adata.org](https://adata.org) (centros regionales sobre la ADA)
+- **Organizaciones de derechos de las personas con discapacidad por estado**: [ndrn.org/about/ndrn-member-agencies](https://ndrn.org/about/ndrn-member-agencies)
+- **Job Accommodation Network**: [askjan.org](https://askjan.org)
 
 ### Asistencia legal
 
-- **Disability Rights Advocates**: dralegal.org
-- **DREDF**: dredf.org
+- **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
+- **DREDF**: [dredf.org](https://dredf.org)
 - **Legal Aid en tu zona**: www.lawhelp.org
 
 ---

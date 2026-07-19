@@ -151,7 +151,7 @@ Presenta la queja ante la comisión de derechos humanos correspondiente:
 
 ### Recursos
 
-- **Canadian Human Rights Commission**: chrc-ccdp.gc.ca
+- **Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 - **Organismos provinciales de derechos humanos**
 - **Organizaciones de discapacidad** de tu provincia
 
@@ -291,7 +291,7 @@ Servicio financiado por el gobierno que proporciona:
 - Asesoramiento para empleadores y empleados
 - Información sobre adaptaciones en el lugar de trabajo
 
-**Contacto**: jobaccess.gov.au o 1800 464 800
+**Contacto**: [jobaccess.gov.au](https://jobaccess.gov.au) o 1800 464 800
 
 ### Disability Employment Services (DES)
 
@@ -416,34 +416,34 @@ Esto puede ser discriminación ilegal. Documenta la cronología. Presenta una qu
 
 ### Global
 
-- **ILO Disability and Work**: ilo.org
-- **International Disability Alliance**: internationaldisabilityalliance.org
+- **ILO Disability and Work**: [ilo.org](https://ilo.org)
+- **International Disability Alliance**: [internationaldisabilityalliance.org](https://internationaldisabilityalliance.org)
 
 ### Estados Unidos {#united-states}
 
-- **Job Accommodation Network (JAN)**: askjan.org (consulta gratuita sobre adaptaciones)
-- **EEOC**: eeoc.gov
-- **Disability:IN**: disabilityin.org
+- **Job Accommodation Network (JAN)**: [askjan.org](https://askjan.org) (consulta gratuita sobre adaptaciones)
+- **EEOC**: [eeoc.gov](https://eeoc.gov)
+- **Disability:IN**: [disabilityin.org](https://disabilityin.org)
 
 ### Canadá {#canada}
 
-- **Canadian Human Rights Commission**: chrc-ccdp.gc.ca
+- **Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 - **Comisiones provinciales de derechos humanos**
 
 ### Reino Unido {#united-kingdom}
 
-- **Access to Work**: gov.uk/access-to-work
+- **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work)
 - **Equality Advisory Support Service**: equalityadvisoryservice.com
-- **Disability Rights UK**: disabilityrightsuk.org
+- **Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 ### Unión Europea {#european-union}
 
-- **European Disability Forum**: edf-feph.org
+- **European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 - **Organismos nacionales de igualdad** de cada país
 
 ### Australia {#australia}
 
-- **JobAccess**: jobaccess.gov.au
+- **JobAccess**: [jobaccess.gov.au](https://jobaccess.gov.au)
 - **Australian Human Rights Commission**: humanrights.gov.au
 
 ---

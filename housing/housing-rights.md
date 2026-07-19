@@ -273,7 +273,7 @@ Contact your local council's housing department or housing ombudsman. Cases can 
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
-**Housing ombudsman**: Housing housing-ombudsman.org.uk
+**Housing ombudsman**: housing-ombudsman.org.uk
 
 **Citizens Advice**: [citizensadvice.org.uk](https://citizensadvice.org.uk) (housing rights information)
 

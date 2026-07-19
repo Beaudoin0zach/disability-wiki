@@ -340,24 +340,24 @@ Investiga las adaptaciones comunes para tu condición. Consulta con la Job Accom
 
 ### Estados Unidos
 
-- **Job Accommodation Network (JAN)**: askjan.org (consulta gratuita sobre adaptaciones)
-- **EEOC**: eeoc.gov (presentar quejas)
-- **ADA National Network**: adata.org
+- **Job Accommodation Network (JAN)**: [askjan.org](https://askjan.org) (consulta gratuita sobre adaptaciones)
+- **EEOC**: [eeoc.gov](https://eeoc.gov) (presentar quejas)
+- **ADA National Network**: [adata.org](https://adata.org)
 - **Organizaciones de derechos de la discapacidad**: encuentra la tuya en ndrn.org
 
 ### Reino Unido
 
-- **Access to Work**: gov.uk/access-to-work (financiamiento para adaptaciones en el lugar de trabajo)
+- **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work) (financiamiento para adaptaciones en el lugar de trabajo)
 - **Equality Advisory Support Service**: equalityadvisoryservice.com
 
 ### Canadá
 
-- **Canadian Human Rights Commission**: chrc-ccdp.gc.ca
+- **Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 - **Organismos provinciales de derechos humanos**
 
 ### Australia
 
-- **JobAccess**: jobaccess.gov.au (incluido el Employment Assistance Fund)
+- **JobAccess**: [jobaccess.gov.au](https://jobaccess.gov.au) (incluido el Employment Assistance Fund)
 - **Australian Human Rights Commission**: humanrights.gov.au
 
 ---

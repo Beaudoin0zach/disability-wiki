@@ -138,7 +138,7 @@ EE. UU. es la cuna del movimiento de IL. Existe una infraestructura sólida de I
 - **Gestión del cuidado por asistentes**: ayuda para contratar y gestionar asistentes de cuidado personal
 - **Educación comunitaria**: enseñar a las personas con discapacidad y a la comunidad sin discapacidad sobre los derechos de las personas con discapacidad
 
-**Encuentra tu CIL**: ncil.org o ilru.org/projects/cil-net. Llámalos; los servicios son gratuitos.
+**Encuentra tu CIL**: [ncil.org](https://ncil.org) o ilru.org/projects/cil-net. Llámalos; los servicios son gratuitos.
 
 ### Financiamiento y modelos de IL
 
@@ -168,15 +168,15 @@ EE. UU. es la cuna del movimiento de IL. Existe una infraestructura sólida de I
 
 ### Recursos (Estados Unidos)
 
-**NCIL**: ncil.org. Organización nacional, recursos, defensa.
+**NCIL**: [ncil.org](https://ncil.org). Organización nacional, recursos, defensa.
 
-**ILRU**: ilru.org. Investigación, recursos, desarrollo de liderazgo.
+**ILRU**: [ilru.org](https://ilru.org). Investigación, recursos, desarrollo de liderazgo.
 
 **Tu CIL local**: directorio en ncil.org
 
 **Organizaciones de derechos de las personas con discapacidad**: directorio en dol.org (más amplio que la IL, pero complementario)
 
-**ADAPT**: adapt.org (cercano a la IL; se centra en la desinstitucionalización y los derechos de vida comunitaria)
+**ADAPT**: [adapt.org](https://adapt.org) (cercano a la IL; se centra en la desinstitucionalización y los derechos de vida comunitaria)
 
 ---
 
@@ -186,13 +186,13 @@ Canadá tiene una infraestructura de IL similar a la de EE. UU., aunque integrad
 
 ### Independent Living Canada
 
-**Independent Living Canada**: ilc-vac.ca. Coordina el movimiento de IL en todo Canadá; equivalente al NCIL de EE. UU.
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca). Coordina el movimiento de IL en todo Canadá; equivalente al NCIL de EE. UU.
 
 **CIL provinciales o regionales**: modelo similar al de EE. UU.: organizaciones lideradas por pares (peer) que brindan asistencia de vivienda, consejería entre pares, defensa y educación comunitaria. Las organizaciones específicas varían según la provincia.
 
 ### Servicios y acceso
 
-**Encuentra tu CIL u organización de IL local**: ilc-vac.ca ofrece un directorio.
+**Encuentra tu CIL u organización de IL local**: [ilc-vac.ca](https://ilc-vac.ca) ofrece un directorio.
 
 **Servicios fundamentales similares a los de EE. UU.**: consejería entre pares, asistencia de vivienda, defensa y apoyo para la vida comunitaria.
 
@@ -211,7 +211,7 @@ Similares a los de EE. UU.: control de la persona usuaria, apoyo entre pares, tr
 
 ### Recursos (Canadá)
 
-**Independent Living Canada**: ilc-vac.ca
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca)
 
 **Organizaciones provinciales de discapacidad**: complementarias a la IL; brindan una defensa más amplia de los derechos de las personas con discapacidad
 
@@ -237,7 +237,7 @@ El movimiento de IL está menos desarrollado en Europa que en EE. UU. y Canadá,
 
 ### ENIL (European Network on Independent Living)
 
-**ENIL**: enil.eu. Organización a nivel europeo que coordina la defensa de la IL en los Estados miembros de la UE.
+**ENIL**: [enil.eu](https://enil.eu). Organización a nivel europeo que coordina la defensa de la IL en los Estados miembros de la UE.
 
 **Organizaciones regionales de IL**: en países con infraestructura de IL desarrollada, las organizaciones regionales brindan servicios similares a los de los CIL de EE. UU. y Canadá.
 
@@ -247,11 +247,11 @@ El movimiento de IL está menos desarrollado en Europa que en EE. UU. y Canadá,
 
 ### Recursos (UE)
 
-**ENIL**: enil.eu
+**ENIL**: [enil.eu](https://enil.eu)
 
 **Tu organización nacional de discapacidad**: busca "[país] disabled people's organization"
 
-**Informes de país de la CDPD de la ONU**: ohchr.org (documentan la infraestructura de IL de tu país)
+**Informes de país de la CDPD de la ONU**: [ohchr.org](https://ohchr.org) (documentan la infraestructura de IL de tu país)
 
 ---
 
@@ -269,7 +269,7 @@ El Reino Unido tiene historia y organizaciones de IL, aunque con una estructura 
 
 ### Organizaciones que encarnan los principios de la IL
 
-**Disability Rights UK**: disabilityrightsuk.org incorpora los principios de la IL en su defensa y recursos.
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org) incorpora los principios de la IL en su defensa y recursos.
 
 **Organizaciones de discapacidad locales**: muchas brindan apoyo entre pares (peer) y defensa de la vida comunitaria alineados con la IL.
 
@@ -283,7 +283,7 @@ El Reino Unido tiene historia y organizaciones de IL, aunque con una estructura 
 
 ### Recursos (Reino Unido)
 
-**Disability Rights UK**: disabilityrightsuk.org
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 **Autoridades locales**: contacta para conocer servicios sociales y opciones de apoyo
 
@@ -371,9 +371,9 @@ El movimiento de IL está menos desarrollado a nivel global, pero emerge en much
 
 ### Recursos (otros países)
 
-**Disabled Peoples' International**: dpi.org (organización de las personas con discapacidad a nivel global)
+**Disabled Peoples' International**: [dpi.org](https://dpi.org) (organización de las personas con discapacidad a nivel global)
 
-**SABE International**: sabeusa.com (redes de autogestión)
+**SABE International**: [sabeusa.com](https://sabeusa.com) (redes de autogestión)
 
 **Tu organización nacional de discapacidad**: la mayoría de los países tiene una
 

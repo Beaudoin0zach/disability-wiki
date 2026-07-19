@@ -297,7 +297,7 @@ UK uses term "reasonable adjustments" rather than "accommodations." Landlords mu
 
 **Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
-**Housing ombudsman**: housingomobudsman.org.uk
+**Housing ombudsman**: housing-ombudsman.org.uk
 
 **Citizens Advice**: [citizensadvice.org.uk](https://citizensadvice.org.uk)
 

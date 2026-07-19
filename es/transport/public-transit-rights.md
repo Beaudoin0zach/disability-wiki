@@ -361,7 +361,7 @@ Investiga el sistema específico en línea. Contacta a la oficina de accesibilid
 ### Estados Unidos {#united-states}
 
 - **Línea de Asistencia de la ADA de la FTA**: 1-888-446-4511
-- **Información de transporte de ADA.gov**: ada.gov
+- **Información de transporte de ADA.gov**: [ada.gov](https://ada.gov)
 - **Easter Seals Project ACTION**: recursos sobre transporte accesible
 
 ### Canadá {#canada}
@@ -372,7 +372,7 @@ Investiga el sistema específico en línea. Contacta a la oficina de accesibilid
 ### Reino Unido {#united-kingdom}
 
 - **Passenger Assist**: reserva de asistencia para viajes ferroviarios
-- **Transport for All**: transportforall.org.uk (defensa del transporte liderada por personas con discapacidad)
+- **Transport for All**: [transportforall.org.uk](https://transportforall.org.uk) (defensa del transporte liderada por personas con discapacidad)
 
 ### Australia {#australia}
 

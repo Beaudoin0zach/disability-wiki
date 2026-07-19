@@ -454,7 +454,7 @@ Elaborada por organizaciones de discapacidad y actores humanitarios, la Carta se
 
 **ADA Best Practices Tool Kit for State and Local Governments**: incluye un capítulo sobre gestión de emergencias.
 
-**emPOWER**: empowerprogram.hhs.gov - datos de Medicare sobre personas que dependen de la electricidad.
+**emPOWER**: [empowerprogram.hhs.gov](https://empowerprogram.hhs.gov) - datos de Medicare sobre personas que dependen de la electricidad.
 
 ### Internacional
 

@@ -133,11 +133,11 @@ EE. UU. tiene múltiples fuentes de financiación para las modificaciones del ho
 
 **Información de HCBS de Medicaid**: medicaid.gov o la oficina de Medicaid de tu estado
 
-**Prestaciones del VA**: va.gov o la Línea de Crisis para Veteranos al 988 y luego presiona 1
+**Prestaciones del VA**: [va.gov](https://va.gov) o la Línea de Crisis para Veteranos al 988 y luego presiona 1
 
 **USDA Rural Development**: rd.usda.gov
 
-**Sección 504 del HUD**: hud.gov
+**Sección 504 del HUD**: [hud.gov](https://hud.gov)
 
 **Directorio CAPS**: capsuhd.org
 
@@ -182,11 +182,11 @@ Los códigos de construcción canadienses incorporan cada vez más característi
 
 ### Recursos (Canadá)
 
-**CMHC**: cmhc-schl.gc.ca
+**CMHC**: [cmhc-schl.gc.ca](https://cmhc-schl.gc.ca)
 
 **Organizaciones provinciales de discapacidad**: busca "[provincia] disability rights"
 
-**Independent Living Canada**: ilc-vac.ca
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca)
 
 **Autoridades provinciales de vivienda**: contacta a través del gobierno provincial
 
@@ -224,7 +224,7 @@ El proceso difiere según el país. En general:
 
 ### Recursos (UE)
 
-**European Disability Forum**: edf-feph.org
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 
 **Organizaciones nacionales de discapacidad**: busca "[país] disability rights"
 
@@ -273,7 +273,7 @@ El Reino Unido tiene una sólida comunidad profesional de modificaciones de acce
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
-**Disability Rights UK**: disabilityrightsuk.org
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 **Servicios sociales**: contacta a los servicios para adultos del concejo local
 
@@ -359,7 +359,7 @@ La financiación de las modificaciones del hogar varía dramáticamente a nivel 
 
 ### Recursos (Otros países)
 
-**CDPD de la ONU**: ohchr.org (investiga qué estándares de vivienda existen en tu país)
+**CDPD de la ONU**: [ohchr.org](https://ohchr.org) (investiga qué estándares de vivienda existen en tu país)
 
 **Tu organización nacional de discapacidad**: la mayoría de los países tienen una; estas brindan defensa para las modificaciones
 

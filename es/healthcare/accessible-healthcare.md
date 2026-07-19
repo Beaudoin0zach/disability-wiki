@@ -364,18 +364,18 @@ Presenta una queja ante el defensor del paciente del hospital. Preséntala ante 
 
 ### Estados Unidos
 
-- **ADA National Network**: adata.org (información y recursos)
+- **ADA National Network**: [adata.org](https://adata.org) (información y recursos)
 - **Oficina de Derechos Civiles (OCR)**: hhs.gov/ocr (presenta quejas de atención médica)
-- **Disability Rights Legal Center**: thedrlc.org
+- **Disability Rights Legal Center**: [thedrlc.org](https://thedrlc.org)
 
 ### Reino Unido
 
 - **NHS Accessible Information Standard**: Requisitos para la comunicación accesible
-- **Disability Rights UK**: disabilityrightsuk.org
+- **Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 ### Australia
 
-- **People with Disability Australia**: pwd.org.au
+- **People with Disability Australia**: [pwd.org.au](https://pwd.org.au)
 - **Australian Human Rights Commission**: humanrights.gov.au
 
 ---
