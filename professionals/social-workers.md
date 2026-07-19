@@ -448,7 +448,7 @@ Seek out:
 
 - **ADAPT**: [adapt.org](https://adapt.org)
 - **National Council on Independent Living (NCIL)**: [ncil.org](https://ncil.org)
-- **Self Advocates Becoming Empowered (SABE)**: sabeusa.org
+- **Self Advocates Becoming Empowered (SABE)**: [sabeusa.com](https://sabeusa.com)
 - **Autistic Self Advocacy Network (ASAN)**: [autisticadvocacy.org](https://autisticadvocacy.org)
 
 ### SDM Resources

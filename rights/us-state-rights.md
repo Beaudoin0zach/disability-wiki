@@ -335,7 +335,7 @@ Connect with disability rights organizations in your state. Many work on state l
 
 ### Legal Help
 
-- **Legal Aid by location**: www.lawhelp.org
+- **Legal Aid by location**: [lawhelp.org](https://www.lawhelp.org)
 - **State bar lawyer referral services**
 - **Disability rights law firms** in your area
 

@@ -365,14 +365,14 @@ Este duelo es real y válido. Muchas personas con discapacidad viven un duelo co
 ### Información y apoyo
 
 - **ME Association**: [meassociation.org.uk](https://meassociation.org.uk) (EM/SFC)
-- **American Chronic Pain Association**: theacpa.org
+- **American Chronic Pain Association**: [acpanow.com](https://www.acpanow.com)
 - **U.S. Pain Foundation**: [uspainfoundation.org](https://uspainfoundation.org)
 - **Solve ME/CFS Initiative**: [solvecfs.org](https://solvecfs.org)
 
 ### Encontrar profesionales (EE. UU.)
 
 - **American Academy of Pain Medicine**: [painmed.org](https://painmed.org) (encontrar un especialista en dolor)
-- **ME/CFS Clinician Coalition**: mecfsclinicianguide.com
+- **ME/CFS Clinician Coalition**: [mecfscliniciancoalition.org](https://mecfscliniciancoalition.org)
 
 ### Comunidades en línea
 

@@ -391,7 +391,7 @@ Transition success often depends on self-advocacy—speaking up for yourself and
 - **PACER's National Parent Center on Transition and Employment**: [pacer.org/transition](https://pacer.org/transition)
 - **Think College**: Resources on inclusive higher education (thinkcollege.net)
 - **ASAN Navigating College Guide**: [autisticadvocacy.org](https://autisticadvocacy.org)
-- **Self-Advocates Becoming Empowered (SABE)**: sabeusa.org
+- **Self-Advocates Becoming Empowered (SABE)**: [sabeusa.com](https://sabeusa.com)
 - **State Vocational Rehabilitation Agencies**: Find yours through Department of Education
 
 ### Canada
@@ -401,7 +401,7 @@ Transition success often depends on self-advocacy—speaking up for yourself and
 
 ### United Kingdom
 
-- **Preparing for Adulthood**: preparingforadulthood.org.uk
+- **Preparing for Adulthood**: [ndti.org.uk](https://www.ndti.org.uk/resources/preparing-for-adulthood-all-tools-resources/)
 - **Council for Disabled Children**: councilfordisabledchildren.org.uk
 
 ### Australia

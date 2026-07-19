@@ -433,7 +433,7 @@ This may be illegal discrimination. Document the timeline. File complaint with r
 ### United Kingdom
 
 - **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work)
-- **Equality Advisory Support Service**: equalityadvisoryservice.com
+- **Equality Advisory Support Service**: [equalityadvisoryservice.com](https://www.equalityadvisoryservice.com)
 - **Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 ### European Union

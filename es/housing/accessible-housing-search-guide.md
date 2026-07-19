@@ -72,7 +72,11 @@ EE. UU. tiene amplias bases de datos y herramientas de búsqueda de vivienda acc
 
 **SocialServe.com y los sitios estatales de búsqueda de vivienda** son los recursos más útiles. SocialServe opera plataformas estatales de búsqueda de vivienda en más de 27 estados que cubren a más de un tercio de la población de EE. UU. Los filtros de búsqueda incluyen características específicas de accesibilidad: duchas a nivel del piso, duchas sin escalón (walk-in), barras de apoyo, estacionamiento accesible, ascensores, rampas, puertas ensanchadas, etc. Servicio gratuito con apoyo bilingüe. Llama al 1-877-428-8844 para una búsqueda por teléfono.
 
-**National Accessible Apartment Clearinghouse** mantiene una base de datos de más de 46,000 apartamentos accesibles en EE. UU. con las características específicas detalladas. Busca por ubicación, tipo de accesibilidad (movilidad, sensorial, cognitiva) y tamaño de la unidad. Accede en nationalaccessibleapartmentclearinghouse.org.
+<!-- El National Accessible Apartment Clearinghouse parece haber sido
+     descontinuado: su dominio ya no resuelve y accessibleapartments.org está
+     estacionado. Se deja aquí, sin enlace, por si alguien sabe lo contrario.
+     No restaures la URL sin verificarla. -->
+**National Accessible Apartment Clearinghouse** mantenía una base de datos nacional de apartamentos accesibles. El servicio parece haber sido descontinuado y no se ha identificado un reemplazo — usa SocialServe y tu autoridad local de vivienda.
 
 **HUD Fair Housing Search** (hud.gov) ayuda a localizar vivienda pública y propiedades asistidas por el HUD. Muchas autoridades de vivienda pública tienen búsquedas en línea de unidades accesibles; llama a la autoridad de vivienda local para obtener listas de unidades accesibles.
 
@@ -128,7 +132,7 @@ Si usas el Vale de Elección de Vivienda (Housing Choice Voucher) de la Sección
 
 **SocialServe.com**: 1-877-428-8844. Base de datos gratuita con búsqueda por estado.
 
-**National Accessible Apartment Clearinghouse**: nationalaccessibleapartmentclearinghouse.org
+**National Accessible Apartment Clearinghouse**: parece descontinuado (ver arriba)
 
 **HUD Housing Search**: [hud.gov](https://hud.gov)
 

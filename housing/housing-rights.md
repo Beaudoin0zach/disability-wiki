@@ -141,7 +141,7 @@ Some landlords respond to clear documentation. Fair housing organizations offer 
 
 **Centers for Independent Living**: [ncil.org](https://ncil.org) directory (free housing advocacy)
 
-**Legal aid**: www.lawhelp.org, 211.org
+**Legal aid**: [lawhelp.org](https://www.lawhelp.org), 211.org
 
 ---
 

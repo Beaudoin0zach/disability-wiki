@@ -199,9 +199,9 @@ EE. UU. tiene una gran población institucional (asilos, hospitales psiquiátric
 
 **ASAN**: [autisticadvocacy.org](https://autisticadvocacy.org)
 
-**SABE**: sabeusa.org
+**SABE**: [sabeusa.com](https://sabeusa.com)
 
-**Seguimiento del litigio bajo Olmstead**: disabilityrightsus.org
+**Seguimiento del litigio bajo Olmstead**: [olmsteadrights.org](https://www.olmsteadrights.org) — a cargo de Atlanta Legal Aid Society junto con la National Disability Rights Network
 
 ---
 
@@ -256,7 +256,7 @@ Similar a EE. UU.: la vida con apoyo, el cuidado autodirigido, los hogares de ac
 
 **Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 
-**ADAPT Canada**: adapt-canada.ca
+**ADAPT Canada** — sitio web actual desconocido; la dirección anterior ya no resuelve
 
 ---
 

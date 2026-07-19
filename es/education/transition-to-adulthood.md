@@ -391,7 +391,7 @@ El éxito de la transición a menudo depende de la autodefensa: hablar por ti mi
 - **PACER's National Parent Center on Transition and Employment**: [pacer.org/transition](https://pacer.org/transition)
 - **Think College**: Recursos sobre educación superior inclusiva (thinkcollege.net)
 - **ASAN Navigating College Guide**: [autisticadvocacy.org](https://autisticadvocacy.org)
-- **Self-Advocates Becoming Empowered (SABE)**: sabeusa.org
+- **Self-Advocates Becoming Empowered (SABE)**: [sabeusa.com](https://sabeusa.com)
 - **Agencias Estatales de Rehabilitación Vocacional**: Encuentra la tuya a través del Departamento de Educación
 
 ### Canadá {#canada}
@@ -401,7 +401,7 @@ El éxito de la transición a menudo depende de la autodefensa: hablar por ti mi
 
 ### Reino Unido {#united-kingdom}
 
-- **Preparing for Adulthood**: preparingforadulthood.org.uk
+- **Preparing for Adulthood**: [ndti.org.uk](https://www.ndti.org.uk/resources/preparing-for-adulthood-all-tools-resources/)
 - **Council for Disabled Children**: councilfordisabledchildren.org.uk
 
 ### Australia {#australia}

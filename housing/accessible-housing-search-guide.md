@@ -72,7 +72,12 @@ The U.S. has extensive databases and search tools for accessible housing, though
 
 **SocialServe.com and state housing search sites** are the most useful resources. SocialServe operates state-specific housing search platforms in 27+ states covering over one-third of U.S. population. Search filters include specific accessibility features: roll-in showers, walk-in showers, grab bars, accessible parking, elevators, ramps, widened doorways, etc. Free service with bilingual support. Call 1-877-428-8844 for phone-based search.
 
-**National Accessible Apartment Clearinghouse** maintains database of 46,000+ accessible apartments across U.S. with specific features listed. Search by location, accessibility type (mobility, sensory, cognitive), unit size. Access at nationalaccessibleapartmentclearinghouse.org.
+<!-- The National Accessible Apartment Clearinghouse appears to have been
+     discontinued: its domain no longer resolves, the accessibleapartments.org
+     address is parked, and the National Apartment Association's current
+     accessibility pages make no mention of it. Left here, unlinked, in case an
+     editor knows otherwise. Do not restore the URL without checking it. -->
+**National Accessible Apartment Clearinghouse** ran a national database of accessible apartments searchable by location and accessibility type. The service appears to have been discontinued and no replacement has been identified — use SocialServe and your local housing authority instead.
 
 **HUD Fair Housing Search** (hud.gov) helps locate public housing and HUD-assisted properties. Many public housing authorities have online searches for accessible units; call local housing authority for accessible unit lists.
 
@@ -128,7 +133,7 @@ If using Section 8 Housing Choice Voucher, you have additional rights and search
 
 **SocialServe.com**: 1-877-428-8844. Free searchable database by state.
 
-**National Accessible Apartment Clearinghouse**: nationalaccessibleapartmentclearinghouse.org
+**National Accessible Apartment Clearinghouse**: appears discontinued (see above)
 
 **HUD Housing Search**: [hud.gov](https://hud.gov)
 

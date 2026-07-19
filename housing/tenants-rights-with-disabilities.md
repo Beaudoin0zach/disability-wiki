@@ -115,7 +115,7 @@ Fair Housing Act supersedes occupancy limits and guest restrictions for disabili
 
 **Tenant rights organizations**: [tenantsunion.org](https://tenantsunion.org), tenantsrights.org
 
-**Legal aid**: www.lawhelp.org, 211.org
+**Legal aid**: [lawhelp.org](https://www.lawhelp.org), 211.org
 
 **Disability rights organizations**: dol.gov directory
 

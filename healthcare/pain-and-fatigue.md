@@ -365,14 +365,14 @@ This grief is real and valid. Many disabled people experience ongoing grief for 
 ### Information and Support
 
 - **ME Association**: [meassociation.org.uk](https://meassociation.org.uk) (ME/CFS)
-- **American Chronic Pain Association**: theacpa.org
+- **American Chronic Pain Association**: [acpanow.com](https://www.acpanow.com)
 - **U.S. Pain Foundation**: [uspainfoundation.org](https://uspainfoundation.org)
 - **Solve ME/CFS Initiative**: [solvecfs.org](https://solvecfs.org)
 
 ### Finding Providers (US)
 
 - **American Academy of Pain Medicine**: [painmed.org](https://painmed.org) (find a pain specialist)
-- **ME/CFS Clinician Coalition**: mecfsclinicianguide.com
+- **ME/CFS Clinician Coalition**: [mecfscliniciancoalition.org](https://mecfscliniciancoalition.org)
 
 ### Online Communities
 

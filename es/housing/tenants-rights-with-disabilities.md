@@ -115,7 +115,7 @@ La Fair Housing Act prevalece sobre los límites de ocupación y las restriccion
 
 **Organizaciones de derechos de los inquilinos**: [tenantsunion.org](https://tenantsunion.org), tenantsrights.org
 
-**Asistencia legal**: www.lawhelp.org, 211.org
+**Asistencia legal**: [lawhelp.org](https://www.lawhelp.org), 211.org
 
 **Organizaciones de derechos de las personas con discapacidad**: directorio en dol.gov
 

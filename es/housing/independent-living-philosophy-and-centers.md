@@ -174,7 +174,7 @@ EE. UU. es la cuna del movimiento de IL. Existe una infraestructura sólida de I
 
 **Tu CIL local**: directorio en ncil.org
 
-**Organizaciones de derechos de las personas con discapacidad**: directorio en dol.org (más amplio que la IL, pero complementario)
+**Organizaciones de derechos de las personas con discapacidad**: directorio de Protection & Advocacy en [ndrn.org/about/ndrn-member-agencies](https://ndrn.org/about/ndrn-member-agencies) (más amplio que la IL, pero complementario)
 
 **ADAPT**: [adapt.org](https://adapt.org) (cercano a la IL; se centra en la desinstitucionalización y los derechos de vida comunitaria)
 

@@ -348,7 +348,7 @@ Investiga las adaptaciones comunes para tu condición. Consulta con la Job Accom
 ### Reino Unido
 
 - **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work) (financiamiento para adaptaciones en el lugar de trabajo)
-- **Equality Advisory Support Service**: equalityadvisoryservice.com
+- **Equality Advisory Support Service**: [equalityadvisoryservice.com](https://www.equalityadvisoryservice.com)
 
 ### Canadá
 

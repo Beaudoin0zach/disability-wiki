@@ -100,7 +100,7 @@ Ratified by 186 countries, the CRPD establishes disability rights as human right
 - **Autistic Self Advocacy Network (ASAN)**: [autisticadvocacy.org](https://autisticadvocacy.org)
 - **ADAPT**: [adapt.org](https://adapt.org)
 - **National Council on Independent Living (NCIL)**: [ncil.org](https://ncil.org)
-- **Self Advocates Becoming Empowered (SABE)**: sabeusa.org
+- **Self Advocates Becoming Empowered (SABE)**: [sabeusa.com](https://sabeusa.com)
 - **Partnership for Inclusive Disaster Strategies**: [disasterstrategies.org](https://disasterstrategies.org)
 - **HEARD**: [behearddc.org](https://behearddc.org)
 - **CommunicationFIRST**: [communicationfirst.org](https://communicationfirst.org)
@@ -110,7 +110,7 @@ Ratified by 186 countries, the CRPD establishes disability rights as human right
 - **Job Accommodation Network (JAN)**: [askjan.org](https://askjan.org)
 - **EARN**: [askearn.org](https://askearn.org)
 - **ADA National Network**: [adata.org](https://adata.org)
-- **US Access Board**: access-board.gov
+- **US Access Board**: [access-board.gov](https://www.access-board.gov)
 
 ### International Frameworks
 

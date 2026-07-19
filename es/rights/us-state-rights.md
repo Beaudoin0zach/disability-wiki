@@ -335,7 +335,7 @@ Conéctate con las organizaciones de derechos de las personas con discapacidad d
 
 ### Ayuda legal
 
-- **Asistencia legal por ubicación**: www.lawhelp.org
+- **Asistencia legal por ubicación**: [lawhelp.org](https://www.lawhelp.org)
 - **Servicios de derivación de abogados de los colegios estatales**
 - **Bufetes de derechos de las personas con discapacidad** en tu zona
 

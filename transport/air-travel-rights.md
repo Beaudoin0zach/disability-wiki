@@ -388,7 +388,7 @@ Airlines must deliver lost items. You're entitled to reasonable expenses while w
 
 ### Canada
 
-- **Canadian Transportation Agency**: otc-cta.gc.ca
+- **Canadian Transportation Agency**: [otc-cta.gc.ca](https://otc-cta.gc.ca)
 
 ### Europe
 

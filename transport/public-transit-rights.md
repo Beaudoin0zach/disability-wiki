@@ -366,7 +366,7 @@ Research the specific system online. Contact the transit agency's accessibility 
 
 ### Canada
 
-- **Canadian Transportation Agency**: otc-cta.gc.ca
+- **Canadian Transportation Agency**: [otc-cta.gc.ca](https://otc-cta.gc.ca)
 - **Provincial transit agencies**
 
 ### United Kingdom

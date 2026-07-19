@@ -231,7 +231,10 @@ Similar to U.S.: underfunding, institutional inertia, accessibility gaps, servic
 
 **National Homelessness Initiative**: Contact through federal government
 
-**ADAPT Canada**: adapt-canada.ca (disability-led organizing)
+<!-- adapt-canada.ca no longer resolves. Note for editors: adaptcanada.ca (no
+     hyphen) is a DIFFERENT organisation — an autism/developmental therapy group
+     in Manitoba — not this one. Do not substitute it. -->
+**ADAPT Canada** (disability-led organizing) — current website unknown; the former address no longer resolves
 
 ### Resources (Canada)
 

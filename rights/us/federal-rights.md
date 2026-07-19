@@ -322,7 +322,7 @@ The laws provide a floor—disabled people continue organizing for fuller implem
 
 - **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
 - **DREDF**: [dredf.org](https://dredf.org)
-- **Legal Aid in your area**: www.lawhelp.org
+- **Legal Aid in your area**: [lawhelp.org](https://www.lawhelp.org)
 
 ---
 

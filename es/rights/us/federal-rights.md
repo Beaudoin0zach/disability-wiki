@@ -322,7 +322,7 @@ Las leyes brindan un piso mínimo—las personas con discapacidad continúan org
 
 - **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
 - **DREDF**: [dredf.org](https://dredf.org)
-- **Legal Aid en tu zona**: www.lawhelp.org
+- **Legal Aid en tu zona**: [lawhelp.org](https://www.lawhelp.org)
 
 ---
 

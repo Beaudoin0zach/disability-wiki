@@ -339,7 +339,7 @@ Ten cuidado. El HUD permite que los propietarios sean escépticos respecto de la
 ### Ayuda legal
 
 - **Abogados de vivienda justa**: Muchos toman casos por honorarios condicionados al resultado (contingency)
-- **Asistencia legal (Legal Aid)**: www.lawhelp.org
+- **Asistencia legal (Legal Aid)**: [lawhelp.org](https://www.lawhelp.org)
 - **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
 
 ---

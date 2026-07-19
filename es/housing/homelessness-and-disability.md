@@ -231,7 +231,10 @@ Similares a las de EE. UU.: financiamiento insuficiente, inercia institucional, 
 
 **National Homelessness Initiative**: contacto a través del gobierno federal
 
-**ADAPT Canada**: adapt-canada.ca (organización liderada por personas con discapacidad)
+<!-- adapt-canada.ca ya no resuelve. Nota para editores: adaptcanada.ca (sin
+     guion) es otra organización — un grupo de terapia del autismo/desarrollo en
+     Manitoba — no esta. No la sustituyas. -->
+**ADAPT Canada** (organización liderada por personas con discapacidad) — sitio web actual desconocido; la dirección anterior ya no resuelve
 
 ### Recursos (Canadá)
 

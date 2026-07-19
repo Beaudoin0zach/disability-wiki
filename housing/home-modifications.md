@@ -123,7 +123,7 @@ The U.S. has multiple funding sources for home modifications, though most reach 
 
 ### Contractor selection and accessibility
 
-**CAPS Contractor Directory** (capsuhd.org) lists accessibility professionals trained and vetted in accessible design and modification. Use this for quality work.
+**Certified Aging-in-Place Specialists (CAPS)** are trained in accessible design and modification. CAPS is a credential of the National Association of Home Builders — see [nahb.org](https://www.nahb.org/education-and-events/credentials/certified-aging-in-place-specialist-caps) for what the certification covers, and ask a contractor directly whether they hold it.
 
 **Universal Design consultants** can assess your home and recommend cost-effective modifications. Some disability organizations provide free assessment services.
 
@@ -139,7 +139,7 @@ The U.S. has multiple funding sources for home modifications, though most reach 
 
 **HUD Section 504**: [hud.gov](https://hud.gov)
 
-**CAPS Directory**: capsuhd.org
+**CAPS credential (Certified Aging-in-Place Specialist)**: [nahb.org](https://www.nahb.org/education-and-events/credentials/certified-aging-in-place-specialist-caps)
 
 **State disability organizations**: dol.gov directory
 

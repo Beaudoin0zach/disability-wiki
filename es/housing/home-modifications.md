@@ -123,7 +123,7 @@ EE. UU. tiene múltiples fuentes de financiación para las modificaciones del ho
 
 ### Selección de contratista y accesibilidad
 
-**El Directorio de Contratistas CAPS** (capsuhd.org) enumera a profesionales de accesibilidad capacitados y verificados en diseño y modificaciones accesibles. Úsalo para un trabajo de calidad.
+**Los Certified Aging-in-Place Specialists (CAPS)** están capacitados en diseño y modificaciones accesibles. CAPS es una credencial de la National Association of Home Builders — consulta [nahb.org](https://www.nahb.org/education-and-events/credentials/certified-aging-in-place-specialist-caps) para saber qué cubre la certificación y pregúntale directamente al contratista si la tiene.
 
 **Los consultores de Diseño Universal** pueden evaluar tu hogar y recomendar modificaciones rentables. Algunas organizaciones de discapacidad brindan servicios de evaluación gratuitos.
 
@@ -139,7 +139,7 @@ EE. UU. tiene múltiples fuentes de financiación para las modificaciones del ho
 
 **Sección 504 del HUD**: [hud.gov](https://hud.gov)
 
-**Directorio CAPS**: capsuhd.org
+**Credencial CAPS (Certified Aging-in-Place Specialist)**: [nahb.org](https://www.nahb.org/education-and-events/credentials/certified-aging-in-place-specialist-caps)
 
 **Organizaciones estatales de discapacidad**: directorio en dol.gov
 

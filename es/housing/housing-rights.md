@@ -141,7 +141,7 @@ Algunos arrendadores responden a una documentación clara. Las organizaciones de
 
 **Centros de vida independiente**: directorio en ncil.org (defensa gratuita en materia de vivienda)
 
-**Asistencia legal**: www.lawhelp.org, 211.org
+**Asistencia legal**: [lawhelp.org](https://www.lawhelp.org), 211.org
 
 ---
 

@@ -339,7 +339,7 @@ Be cautious. HUD allows landlords to be skeptical of documentation from provider
 ### Legal Help
 
 - **Fair housing attorneys**: Many take cases on contingency
-- **Legal Aid**: www.lawhelp.org
+- **Legal Aid**: [lawhelp.org](https://www.lawhelp.org)
 - **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
 
 ---

@@ -199,9 +199,9 @@ The U.S. has large institutional population (nursing homes, psychiatric hospital
 
 **ASAN**: [autisticadvocacy.org](https://autisticadvocacy.org)
 
-**SABE**: sabeusa.org
+**SABE**: [sabeusa.com](https://sabeusa.com)
 
-**Olmstead litigation tracking**: disabilityrightsus.org
+**Olmstead litigation tracking**: [olmsteadrights.org](https://www.olmsteadrights.org) — run by Atlanta Legal Aid Society with the National Disability Rights Network
 
 ---
 
@@ -256,7 +256,7 @@ Similar to U.S.: supported living, self-directed care, host homes, cooperative h
 
 **Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 
-**ADAPT Canada**: adapt-canada.ca
+**ADAPT Canada** — current website unknown; the former address no longer resolves
 
 ---
 

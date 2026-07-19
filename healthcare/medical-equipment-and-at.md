@@ -510,7 +510,7 @@ Know your rights to timely repairs. Document the breakdown and requests for repa
 
 ### United States
 
-- **State AT Programs**: ataporg.org/state-at-programs
+- **State AT Programs**: [at3center.net/state-at-programs](https://at3center.net/state-at-programs/)
 - **National Assistive Technology Act Technical Assistance and Training Center**: [catada.info](https://catada.info)
 - **RESNA**: [resna.org](https://resna.org)
 - **Medicare DME Information**: [medicare.gov/coverage/durable-medical-equipment-dme-coverage](https://medicare.gov/coverage/durable-medical-equipment-dme-coverage)
@@ -524,11 +524,11 @@ Know your rights to timely repairs. Document the breakdown and requests for repa
 
 - **NHS Wheelchair Services**: [nhs.uk](https://nhs.uk)
 - **Communication Matters**: [communicationmatters.org.uk](https://communicationmatters.org.uk)
-- **Disabled Living Foundation**: dlf.org.uk
+- **Living Made Easy**: [livingmadeeasy.org.uk](https://livingmadeeasy.org.uk) (formerly the Disabled Living Foundation, now part of Shaw Trust)
 
 ### Australia
 
-- **Independent Living Centres Australia**: ilcaustralia.org.au
+- **NED (National Equipment Database)**: [askned.com.au](https://askned.com.au) (formerly Independent Living Centres Australia; national advice line 1300 885 886)
 - **AT Australia**: assistivetechnologyaustralia.org.au
 - **NDIS**: ndis.gov.au
 

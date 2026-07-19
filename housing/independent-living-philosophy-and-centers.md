@@ -174,9 +174,7 @@ The U.S. is birthplace of IL movement. Robust IL infrastructure exists, though f
 
 **Your local CIL**: [ncil.org](https://ncil.org) directory
 
-<!-- FIXME: "dol.org" is unverified — the label says a disability-rights directory
-     but the domain does not obviously match. Left unlinked pending confirmation. -->
-**Disability Rights Organizations**: dol.org directory (broader than IL but complementary)
+**Disability Rights Organizations**: [ndrn.org/about/ndrn-member-agencies](https://ndrn.org/about/ndrn-member-agencies) — the Protection & Advocacy directory (broader than IL but complementary)
 
 **ADAPT**: [adapt.org](https://adapt.org) (IL-adjacent; focuses on deinstitutionalization and community living rights)
 

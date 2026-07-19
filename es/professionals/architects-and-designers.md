@@ -396,11 +396,11 @@ Documenta las funciones de accesibilidad para:
 
 ### Organizaciones
 
-- **US Access Board**: access-board.gov
+- **US Access Board**: [access-board.gov](https://www.access-board.gov)
 - **IDEA Center (University at Buffalo)**: [idea.ap.buffalo.edu](https://idea.ap.buffalo.edu)
 - **Institute for Human Centered Design**: [humancentereddesign.org](https://humancentereddesign.org)
 - **Rick Hansen Foundation**: [rickhansen.com](https://rickhansen.com)
-- **Center for Inclusive Design and Environmental Access**: ap.buffalo.edu/idea
+- **Center for Inclusive Design and Environmental Access**: [idea.ap.buffalo.edu](https://idea.ap.buffalo.edu)
 
 ### Normas y orientación
 

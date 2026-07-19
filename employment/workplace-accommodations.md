@@ -348,7 +348,7 @@ Research common accommodations for your condition. Consult with Job Accommodatio
 ### United Kingdom
 
 - **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work) (funding for workplace accommodations)
-- **Equality Advisory Support Service**: equalityadvisoryservice.com
+- **Equality Advisory Support Service**: [equalityadvisoryservice.com](https://www.equalityadvisoryservice.com)
 
 ### Canada
 
