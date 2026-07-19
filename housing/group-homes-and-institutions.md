@@ -193,11 +193,11 @@ The U.S. has large institutional population (nursing homes, psychiatric hospital
 
 **Your state disability rights organization**: dol.gov directory
 
-**Centers for Independent Living**: ncil.org directory
+**Centers for Independent Living**: [ncil.org](https://ncil.org) directory
 
-**ADAPT**: adapt.org
+**ADAPT**: [adapt.org](https://adapt.org)
 
-**ASAN**: autisticadvocacy.org
+**ASAN**: [autisticadvocacy.org](https://autisticadvocacy.org)
 
 **SABE**: sabeusa.org
 
@@ -250,11 +250,11 @@ Similar to U.S.: supported living, self-directed care, host homes, cooperative h
 
 ### Resources (Canada)
 
-**Independent Living Canada**: ilc-vac.ca
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca)
 
 **Provincial disability organizations**: Search "[province] disability rights"
 
-**Canadian Human Rights Commission**: chrc-ccdp.gc.ca
+**Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 
 **ADAPT Canada**: adapt-canada.ca
 
@@ -292,9 +292,9 @@ Movement from large institutions to small group homes/settings can maintain segr
 
 ### Resources (EU)
 
-**European Disability Forum**: edf-feph.org
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 
-**ENIL (European Network on Independent Living)**: enil.eu
+**ENIL (European Network on Independent Living)**: [enil.eu](https://enil.eu)
 
 **National disability organizations**: Search "[country] disability rights"
 
@@ -336,7 +336,7 @@ UK has significant institutional population despite decades of deinstitutionaliz
 
 **Right to legal counsel** and due process.
 
-**Disability Rights UK**: disabilityrightsuk.org provides resources and legal assistance.
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org) provides resources and legal assistance.
 
 ### Transitioning (UK)
 
@@ -347,7 +347,7 @@ UK has significant institutional population despite decades of deinstitutionaliz
 
 ### Resources (UK)
 
-**Disability Rights UK**: disabilityrightsuk.org
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
@@ -453,11 +453,11 @@ Institutional landscape and deinstitutionalization progress vary dramatically gl
 
 ### Resources (Other Countries)
 
-**UN CRPD**: ohchr.org (research what deinstitutionalization obligations exist in your country)
+**UN CRPD**: [ohchr.org](https://ohchr.org) (research what deinstitutionalization obligations exist in your country)
 
-**Disabled Peoples' International**: dpi.org (connect with disability movements in your country)
+**Disabled Peoples' International**: [dpi.org](https://dpi.org) (connect with disability movements in your country)
 
-**SABE International**: sabeusa.com (self-advocacy networks globally)
+**SABE International**: [sabeusa.com](https://sabeusa.com) (self-advocacy networks globally)
 
 **Regional disability forums**: Connect with regional networks
 

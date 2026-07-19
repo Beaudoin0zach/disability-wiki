@@ -506,24 +506,24 @@ Know your rights to timely repairs. Document the breakdown and requests for repa
 ### Global
 
 - **WHO Priority Assistive Products List**: who.int/publications/i/item/978924001808
-- **ATscale Global Partnership**: atscalepartnership.org
+- **ATscale Global Partnership**: [atscalepartnership.org](https://atscalepartnership.org)
 
 ### United States
 
 - **State AT Programs**: ataporg.org/state-at-programs
-- **National Assistive Technology Act Technical Assistance and Training Center**: catada.info
-- **RESNA**: resna.org
-- **Medicare DME Information**: medicare.gov/coverage/durable-medical-equipment-dme-coverage
+- **National Assistive Technology Act Technical Assistance and Training Center**: [catada.info](https://catada.info)
+- **RESNA**: [resna.org](https://resna.org)
+- **Medicare DME Information**: [medicare.gov/coverage/durable-medical-equipment-dme-coverage](https://medicare.gov/coverage/durable-medical-equipment-dme-coverage)
 
 ### Canada
 
-- **Neil Squire Society**: neilsquire.ca
+- **Neil Squire Society**: [neilsquire.ca](https://neilsquire.ca)
 - **Provincial assistive devices programs**
 
 ### United Kingdom
 
-- **NHS Wheelchair Services**: nhs.uk
-- **Communication Matters**: communicationmatters.org.uk
+- **NHS Wheelchair Services**: [nhs.uk](https://nhs.uk)
+- **Communication Matters**: [communicationmatters.org.uk](https://communicationmatters.org.uk)
 - **Disabled Living Foundation**: dlf.org.uk
 
 ### Australia

@@ -113,15 +113,15 @@ Fair Housing Act supersedes occupancy limits and guest restrictions for disabili
 
 **Fair Housing Hotline**: 1-800-669-9777
 
-**Tenant rights organizations**: tenantsunion.org, tenantsrights.org
+**Tenant rights organizations**: [tenantsunion.org](https://tenantsunion.org), tenantsrights.org
 
 **Legal aid**: www.lawhelp.org, 211.org
 
 **Disability rights organizations**: dol.gov directory
 
-**Fair housing organizations**: nationalfairhousing.org
+**Fair housing organizations**: [nationalfairhousing.org](https://nationalfairhousing.org)
 
-**Centers for Independent Living**: ncil.org directory
+**Centers for Independent Living**: [ncil.org](https://ncil.org) directory
 
 ---
 
@@ -171,13 +171,13 @@ Landlords cannot retaliate against tenants for asserting rights. Most provinces 
 
 ### Resources (Canada)
 
-**Canadian Human Rights Commission**: chrc-ccdp.gc.ca
+**Canadian Human Rights Commission**: [chrc-ccdp.gc.ca](https://chrc-ccdp.gc.ca)
 
 **Provincial human rights commissions**: Contact through provincial government
 
 **Provincial disability organizations**: Search "[province] disability rights"
 
-**Independent Living Canada**: ilc-vac.ca
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca)
 
 **Legal aid**: Search "[province] legal aid"
 
@@ -239,7 +239,7 @@ Mechanisms vary by country but typically include:
 
 ### Resources (EU)
 
-**European Disability Forum**: edf-feph.org
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org)
 
 **Your national disability organization**: Search "[country] disability rights"
 
@@ -295,11 +295,11 @@ UK uses term "reasonable adjustments" rather than "accommodations." Landlords mu
 
 **Equality and Human Rights Commission**: equalityhumanrights.com
 
-**Disability Rights UK**: disabilityrightsuk.org
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 **Housing ombudsman**: housingomobudsman.org.uk
 
-**Citizens Advice**: citizensadvice.org.uk
+**Citizens Advice**: [citizensadvice.org.uk](https://citizensadvice.org.uk)
 
 ---
 
@@ -405,9 +405,9 @@ Tenant protections vary globally. Universal principles apply; specific mechanism
 
 ### Resources (Other Countries)
 
-**UN CRPD**: ohchr.org (research what protections exist in your country through country reports)
+**UN CRPD**: [ohchr.org](https://ohchr.org) (research what protections exist in your country through country reports)
 
-**Disabled Peoples' International**: dpi.org (connect with disabled people's organizations globally)
+**Disabled Peoples' International**: [dpi.org](https://dpi.org) (connect with disabled people's organizations globally)
 
 **Your national disability organization**: Most countries have one; these provide housing rights advocacy
 

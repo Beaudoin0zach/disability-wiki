@@ -197,17 +197,17 @@ Whether you're in a country that has ratified CRPD, in a country like the U.S. t
 
 ## Resources
 
-**UN Convention on Rights of Persons with Disabilities**: ohchr.org. Full text in multiple languages; General Comment 5 on Article 19 provides in-depth interpretation.
+**UN Convention on Rights of Persons with Disabilities**: [ohchr.org](https://ohchr.org). Full text in multiple languages; General Comment 5 on Article 19 provides in-depth interpretation.
 
-**Disability Rights International**: driadvocacy.org. Global advocacy organization monitoring CRPD implementation and institutional conditions.
+**Disability Rights International**: [driadvocacy.org](https://driadvocacy.org). Global advocacy organization monitoring CRPD implementation and institutional conditions.
 
-**European Disability Forum**: edf-feph.org. Coordinates disability organizations across Europe around CRPD implementation.
+**European Disability Forum**: [edf-feph.org](https://edf-feph.org). Coordinates disability organizations across Europe around CRPD implementation.
 
-**Disabled Peoples' International**: dpi.org. Global federation of disabled people's organizations in 150+ countries.
+**Disabled Peoples' International**: [dpi.org](https://dpi.org). Global federation of disabled people's organizations in 150+ countries.
 
-**SABE (Self Advocates Becoming Empowered) International**: sabeusa.com. International organization of self-advocates with intellectual/developmental disabilities.
+**SABE (Self Advocates Becoming Empowered) International**: [sabeusa.com](https://sabeusa.com). International organization of self-advocates with intellectual/developmental disabilities.
 
-**ADAPT**: adapt.org. U.S. organization but involved in international advocacy around deinstitutionalization.
+**ADAPT**: [adapt.org](https://adapt.org). U.S. organization but involved in international advocacy around deinstitutionalization.
 
 **Regional disability organizations**: Contact disability rights organizations in your region—they have expertise in your country's implementation of housing rights.
 

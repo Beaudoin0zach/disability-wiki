@@ -384,7 +384,7 @@ Airlines must deliver lost items. You're entitled to reasonable expenses while w
 
 - **DOT Aviation Consumer Protection**: transportation.gov/airconsumer
 - **DOT Disability Hotline**: 1-800-778-4838
-- **File a complaint**: airconsumer.dot.gov
+- **File a complaint**: [airconsumer.dot.gov](https://airconsumer.dot.gov)
 
 ### Canada
 
@@ -396,7 +396,7 @@ Airlines must deliver lost items. You're entitled to reasonable expenses while w
 
 ### United Kingdom
 
-- **Civil Aviation Authority**: caa.co.uk
+- **Civil Aviation Authority**: [caa.co.uk](https://caa.co.uk)
 
 ### Australia
 

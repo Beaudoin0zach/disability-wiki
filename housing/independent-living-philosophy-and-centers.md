@@ -138,7 +138,7 @@ The U.S. is birthplace of IL movement. Robust IL infrastructure exists, though f
 - **Attendant care management**: Help hiring and managing personal care attendants
 - **Community education**: Teaching disabled people and non-disabled community about disability rights
 
-**Find your CIL**: ncil.org or ilru.org/projects/cil-net. Call them—services are free.
+**Find your CIL**: [ncil.org](https://ncil.org) or ilru.org/projects/cil-net. Call them—services are free.
 
 ### IL funding and models
 
@@ -168,15 +168,17 @@ The U.S. is birthplace of IL movement. Robust IL infrastructure exists, though f
 
 ### Resources (United States)
 
-**NCIL**: ncil.org. National organization, resources, advocacy.
+**NCIL**: [ncil.org](https://ncil.org). National organization, resources, advocacy.
 
-**ILRU**: ilru.org. Research, resources, leadership development.
+**ILRU**: [ilru.org](https://ilru.org). Research, resources, leadership development.
 
-**Your local CIL**: ncil.org directory
+**Your local CIL**: [ncil.org](https://ncil.org) directory
 
+<!-- FIXME: "dol.org" is unverified — the label says a disability-rights directory
+     but the domain does not obviously match. Left unlinked pending confirmation. -->
 **Disability Rights Organizations**: dol.org directory (broader than IL but complementary)
 
-**ADAPT**: adapt.org (IL-adjacent; focuses on deinstitutionalization and community living rights)
+**ADAPT**: [adapt.org](https://adapt.org) (IL-adjacent; focuses on deinstitutionalization and community living rights)
 
 ---
 
@@ -186,13 +188,13 @@ Canada has IL infrastructure similar to U.S., though integrated somewhat differe
 
 ### Independent Living Canada
 
-**Independent Living Canada**: ilc-vac.ca. Coordinates IL movement across Canada; equivalent to U.S. NCIL.
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca). Coordinates IL movement across Canada; equivalent to U.S. NCIL.
 
 **Provincial/regional CILs**: Similar model to U.S.—peer-led organizations providing housing assistance, peer counseling, advocacy, community education. Specific organizations vary by province.
 
 ### Services and access
 
-**Find your local CIL/IL organization**: ilc-vac.ca provides directory.
+**Find your local CIL/IL organization**: [ilc-vac.ca](https://ilc-vac.ca) provides directory.
 
 **Core services similar to U.S.**: peer counseling, housing assistance, advocacy, community living support.
 
@@ -211,7 +213,7 @@ Similar to U.S.: consumer control, peer support, cross-disability, community liv
 
 ### Resources (Canada)
 
-**Independent Living Canada**: ilc-vac.ca
+**Independent Living Canada**: [ilc-vac.ca](https://ilc-vac.ca)
 
 **Provincial disability organizations**: Complementary to IL; provide broader disability rights advocacy
 
@@ -237,7 +239,7 @@ IL movement less developed in Europe than U.S./Canada, but growing. National var
 
 ### ENIL (European Network on Independent Living)
 
-**ENIL**: enil.eu. European-level organization coordinating IL advocacy across EU member states.
+**ENIL**: [enil.eu](https://enil.eu). European-level organization coordinating IL advocacy across EU member states.
 
 **Regional IL organizations**: In countries with developed IL infrastructure, regional organizations provide services similar to U.S./Canadian CILs.
 
@@ -247,11 +249,11 @@ IL movement less developed in Europe than U.S./Canada, but growing. National var
 
 ### Resources (EU)
 
-**ENIL**: enil.eu
+**ENIL**: [enil.eu](https://enil.eu)
 
 **Your national disability organization**: Search "[country] disabled people's organization"
 
-**UN CRPD country reports**: ohchr.org (documents IL infrastructure in your country)
+**UN CRPD country reports**: [ohchr.org](https://ohchr.org) (documents IL infrastructure in your country)
 
 ---
 
@@ -269,7 +271,7 @@ UK has IL history and organizations, though less formal CIL structure than U.S./
 
 ### Organizations embodying IL principles
 
-**Disability Rights UK**: disabilityrightsuk.org incorporates IL principles in advocacy and resources.
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org) incorporates IL principles in advocacy and resources.
 
 **Local disability organizations**: Many provide peer support and community living advocacy aligned with IL.
 
@@ -283,7 +285,7 @@ UK has IL history and organizations, though less formal CIL structure than U.S./
 
 ### Resources (UK)
 
-**Disability Rights UK**: disabilityrightsuk.org
+**Disability Rights UK**: [disabilityrightsuk.org](https://disabilityrightsuk.org)
 
 **Local councils**: Contact for social services and support options
 
@@ -371,9 +373,9 @@ IL movement less developed globally, but emerging in many countries. Universal p
 
 ### Resources (Other Countries)
 
-**Disabled Peoples' International**: dpi.org (global disability organizing)
+**Disabled Peoples' International**: [dpi.org](https://dpi.org) (global disability organizing)
 
-**SABE International**: sabeusa.com (self-advocacy networks)
+**SABE International**: [sabeusa.com](https://sabeusa.com) (self-advocacy networks)
 
 **Your national disability organization**: Most countries have one
 

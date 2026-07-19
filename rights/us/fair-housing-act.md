@@ -327,20 +327,20 @@ Be cautious. HUD allows landlords to be skeptical of documentation from provider
 
 ### Filing Complaints
 
-- **HUD**: hud.gov/program_offices/fair_housing_equal_opp/online-complaint or 1-800-669-9777
-- **Find your local fair housing agency**: hud.gov/program_offices/fair_housing_equal_opp/contact_fheo
+- **HUD**: [hud.gov/program_offices/fair_housing_equal_opp/online-complaint](https://hud.gov/program_offices/fair_housing_equal_opp/online-complaint) or 1-800-669-9777
+- **Find your local fair housing agency**: [hud.gov/program_offices/fair_housing_equal_opp/contact_fheo](https://hud.gov/program_offices/fair_housing_equal_opp/contact_fheo)
 
 ### Information and Assistance
 
-- **National Fair Housing Alliance**: nationalfairhousing.org
-- **Bazelon Center for Mental Health Law**: bazelon.org (resources on housing discrimination)
-- **Your state's P&A organization**: ndrn.org/about/ndrn-member-agencies
+- **National Fair Housing Alliance**: [nationalfairhousing.org](https://nationalfairhousing.org)
+- **Bazelon Center for Mental Health Law**: [bazelon.org](https://bazelon.org) (resources on housing discrimination)
+- **Your state's P&A organization**: [ndrn.org/about/ndrn-member-agencies](https://ndrn.org/about/ndrn-member-agencies)
 
 ### Legal Help
 
 - **Fair housing attorneys**: Many take cases on contingency
 - **Legal Aid**: www.lawhelp.org
-- **Disability Rights Advocates**: dralegal.org
+- **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
 
 ---
 

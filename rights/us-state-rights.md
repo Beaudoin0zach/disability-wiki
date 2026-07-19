@@ -323,15 +323,15 @@ Connect with disability rights organizations in your state. Many work on state l
 
 ### Finding Your State Resources
 
-- **P&A organizations by state**: ndrn.org/about/ndrn-member-agencies
+- **P&A organizations by state**: [ndrn.org/about/ndrn-member-agencies](https://ndrn.org/about/ndrn-member-agencies)
 - **State Human Rights Commissions**: Search "[your state] human rights commission"
-- **State Vocational Rehabilitation**: rsa.ed.gov/about/states
+- **State Vocational Rehabilitation**: [rsa.ed.gov/about/states](https://rsa.ed.gov/about/states)
 
 ### National Resources
 
-- **National Disability Rights Network**: ndrn.org
-- **Disability Rights Advocates**: dralegal.org
-- **ADA National Network**: adata.org
+- **National Disability Rights Network**: [ndrn.org](https://ndrn.org)
+- **Disability Rights Advocates**: [dralegal.org](https://dralegal.org)
+- **ADA National Network**: [adata.org](https://adata.org)
 
 ### Legal Help
 

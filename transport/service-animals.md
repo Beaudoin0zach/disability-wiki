@@ -373,9 +373,9 @@ For housing, ESA documentation should be:
 
 ### United States
 
-- **ADA National Network**: adata.org
+- **ADA National Network**: [adata.org](https://adata.org)
 - **U.S. Access Board**: access-board.gov
-- **Assistance Dogs International**: assistancedogsinternational.org
+- **Assistance Dogs International**: [assistancedogsinternational.org](https://assistancedogsinternational.org)
 
 ### Training Organizations
 

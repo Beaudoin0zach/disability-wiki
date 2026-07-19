@@ -454,7 +454,7 @@ Developed by disability organizations and humanitarian actors, the Charter commi
 
 **ADA Best Practices Tool Kit for State and Local Governments**: Includes emergency management chapter.
 
-**emPOWER**: empowerprogram.hhs.gov - Medicare data on electricity-dependent individuals.
+**emPOWER**: [empowerprogram.hhs.gov](https://empowerprogram.hhs.gov) - Medicare data on electricity-dependent individuals.
 
 ### International
 

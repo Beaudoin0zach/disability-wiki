@@ -421,30 +421,30 @@ Look into work incentive programs (Ticket to Work in US, equivalents elsewhere).
 
 ### Global
 
-- **ILO Disability**: ilo.org
+- **ILO Disability**: [ilo.org](https://ilo.org)
 - **GLADNET (Global Applied Disability Research and Information Network)**
 
 ### United States
 
 - **RSA State VR Agencies**: Find your state's VR program
 - **APSE**: apse.org (Employment First)
-- **Job Accommodation Network**: askjan.org
-- **Ticket to Work**: choosework.ssa.gov
+- **Job Accommodation Network**: [askjan.org](https://askjan.org)
+- **Ticket to Work**: [choosework.ssa.gov](https://choosework.ssa.gov)
 
 ### Canada
 
-- **Canadian Association for Supported Employment (CASE)**: supportedemployment.ca
-- **Ready, Willing, and Able**: readywillingable.ca
+- **Canadian Association for Supported Employment (CASE)**: [supportedemployment.ca](https://supportedemployment.ca)
+- **Ready, Willing, and Able**: [readywillingable.ca](https://readywillingable.ca)
 
 ### United Kingdom
 
-- **Access to Work**: gov.uk/access-to-work
-- **BASE**: base-uk.org
+- **Access to Work**: [gov.uk/access-to-work](https://gov.uk/access-to-work)
+- **BASE**: [base-uk.org](https://base-uk.org)
 
 ### Australia
 
-- **JobAccess**: jobaccess.gov.au
-- **Disability Employment Services**: dss.gov.au
+- **JobAccess**: [jobaccess.gov.au](https://jobaccess.gov.au)
+- **Disability Employment Services**: [dss.gov.au](https://dss.gov.au)
 
 ---
 
