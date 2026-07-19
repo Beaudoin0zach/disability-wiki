@@ -106,7 +106,7 @@ Starting in the 1940s, journalists began documenting institutional conditions:
 
 - **1946**: Albert Deutsch's exposés in *PM* newspaper
 - **1965**: Senator Robert Kennedy's unannounced visit to Willowbrook (New York)
-- **1972**: Geraldo Rivera's television exposé of Willowbrook, showing shocking abuse and neglect
+- **1972**: Geraldo Rivera's television exposé of Willowbrook, documenting overcrowding, neglect, and abuse
 
 These reports helped shift public opinion against large institutions.
 

@@ -18,7 +18,7 @@ dateCreated: 2026-01-07T20:01:49.523Z
 
 ## Why This Matters
 
-Disabled people experience abuse at rates **2-3 times higher** than non-disabled people. This is not because of our disabilities—it is because society tells abusers that disabled people are acceptable targets. Abuse against disabled people is often invisible, normalized, or dismissed as "care" or "necessary."
+Disabled people experience violence at far higher rates than non-disabled people. The U.S. Bureau of Justice Statistics found that over 2009–2019, the rate of violent victimization for disabled people was nearly four times that for non-disabled people ([46.2 versus 12.3 per 1,000](https://bjs.ojp.gov/library/publications/crime-against-persons-disabilities-2009-2019-statistical-tables)). This is not because of our disabilities—it is because society tells abusers that disabled people are acceptable targets. Abuse against disabled people is often invisible, normalized, or dismissed as "care" or "necessary."
 
 **You deserve to know the warning signs.** Recognizing abuse is the first step toward safety, whether that means leaving, getting support, planning, or building protection.
 
