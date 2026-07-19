@@ -18,6 +18,24 @@ All notable changes to the Disability Wiki project are documented in this file.
   both themes (accent tracks the theme; 5.19:1 against the banner surface in dark).
 
 ### Fixed
+- **Restored two pieces the abuse-page merge dropped** (2026-07-18,
+  [`crisis/abuse-neglect-exploitation.md`](crisis/abuse-neglect-exploitation.md),
+  [`es/crisis/abuse-neglect-exploitation.md`](es/crisis/abuse-neglect-exploitation.md)):
+  the merge below condensed ~750 lines to ~270; most was genuine de-duplication, but two
+  things went with it that were not duplicates, and the merge commit disclosed neither.
+  (1) **"Why abuse happens"** is a section again, placed between the warning signs and the
+  response options — after someone recognises what is happening, before deciding what to
+  do. The merged page had kept only a single inline "it is not your fault" line; on a page
+  for people frequently told the abuse is the price of being cared for, that framing earns
+  its own section, and it now names the disability-specific form of the self-blame ("no one
+  else would put up with you"). (2) **Reporting to police is an explicit option again** —
+  the merged page had narrowed it to "Reporting to police is your choice," losing that
+  someone can file a report, press charges, go to court, and ask for a protection order.
+  The page's stance is preserved rather than reversed: it still says plainly that involving
+  police or state agencies increases danger for some people, and the restored text adds
+  that declining to report is equally legitimate and that no hotline or service on the page
+  requires a report. Both directions are named so neither reads as the expected choice. ES
+  mirrors EN section for section. Verified under `wrangler pages dev` in both locales.
 - **Sweden's sterilization figure understated by an order of magnitude** (2026-07-18,
   [`history/eugenics.md`](history/eugenics.md), [`es/history/eugenics.md`](es/history/eugenics.md),
   [`docs/CLAIMS.md`](docs/CLAIMS.md)): the page said "Sweden sterilized thousands into the
