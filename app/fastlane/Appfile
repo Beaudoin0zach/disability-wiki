@@ -1,0 +1,6 @@
+app_identifier("org.disabilitywiki.app")
+team_id("ZWM2A2SCUQ")
+
+# No apple_id here on purpose: the upload runs through `xcodebuild
+# -exportArchive` with destination=upload (see Fastfile), which uses Xcode's own
+# App Store Connect session. Nothing in this repo needs your Apple credentials.

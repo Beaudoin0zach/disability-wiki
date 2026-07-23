@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+# Release automation for the iOS app (see fastlane/Fastfile).
+# Bundler-managed so the version is pinned and `bundle exec fastlane` is
+# reproducible — never rely on a globally-installed fastlane.
+gem "fastlane"
