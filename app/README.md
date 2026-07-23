@@ -22,7 +22,42 @@ so the wiki, its search, nav, i18n, and the PWA offline layer all come along.
   published to the web exactly as today (`merge → Cloudflare Pages`). The app just
   re-bundles the same `dist`.
 
-## Building a release — use `tools/build-release.sh`
+## Shipping a build — `bundle exec fastlane beta`
+
+One command replaces the whole manual archive/export/upload dance:
+
+```bash
+cd app
+bundle install                    # one-time
+bundle exec fastlane beta         # bump → build → verify → archive → upload
+bundle exec fastlane verify       # dry run: pipeline + archive, no bump, no upload
+```
+
+`beta` requires a clean tree on `main`. It bumps `CURRENT_PROJECT_VERSION`,
+**commits and pushes that bump** (the bundle is stamped with git HEAD and
+`verify-bundle` asserts stamp == HEAD, so an uncommitted bump would ship an
+archive whose build number exists nowhere in git), runs the content pipeline
+below, archives, asserts the archive's stamp still matches HEAD, exports with
+cloud-managed distribution signing, uploads, and then **re-reads the archive to
+confirm App Store Connect actually accepted it** — `xcodebuild` can exit 0 having
+recorded a failed delivery.
+
+Two things the lane encodes that are easy to get wrong (details in
+[`fastlane/Fastfile`](fastlane/Fastfile)):
+
+- The archive is built **unsigned** (`CODE_SIGNING_ALLOWED=NO`). This machine has
+  only an Apple *Development* certificate; forcing `Apple Distribution` breaks
+  every CocoaPods target with "conflicting provisioning settings", and plain
+  automatic signing tries to mint a *development* profile and dies on "your team
+  has no devices". Distribution signing happens at **export**, cloud-managed.
+- `DEVELOPER_DIR` is pointed at the full Xcode when present, because
+  `xcode-select` may point at the bare Command Line Tools, which cannot archive.
+
+`fastlane` warns about a non-UTF-8 locale at startup; it's cosmetic (the lane
+sets `LANG` for the child processes that actually care, i.e. CocoaPods). To
+silence it, `export LANG=en_US.UTF-8` in your shell profile.
+
+## The content pipeline — `tools/build-release.sh`
 
 **Never hand-sync a release.** The bundle (`ios/App/App/public`) is a git-ignored
 copy of `site/dist`; syncing it by hand, whenever, is how it went stale and shipped

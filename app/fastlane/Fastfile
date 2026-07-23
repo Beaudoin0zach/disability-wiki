@@ -1,0 +1,137 @@
+# Release automation for the Disability Wiki iOS app.
+#
+#   cd app && bundle exec fastlane beta      # bump → build → verify → archive → upload
+#   cd app && bundle exec fastlane verify    # same, minus bump and upload (dry run)
+#
+# This replaces a manual archive/export dance. It encodes three things that are
+# NOT obvious and each cost real time to discover:
+#
+# 1. The archive is built UNSIGNED (CODE_SIGNING_ALLOWED=NO). This machine's
+#    keychain holds only an Apple *Development* certificate. Forcing
+#    CODE_SIGN_IDENTITY="Apple Distribution" makes every CocoaPods target fail
+#    with "conflicting provisioning settings", and plain automatic signing tries
+#    to mint a *development* profile and dies on "your team has no devices from
+#    which to generate a provisioning profile". Distribution signing happens at
+#    EXPORT instead — cloud-managed, via ExportOptions.plist
+#    (app-store-connect / upload / automatic) plus -allowProvisioningUpdates.
+#
+# 2. The build-number bump is COMMITTED before the content pipeline runs.
+#    build-release.sh stamps the bundle with git HEAD and verify-bundle asserts
+#    stamp == HEAD, so bumping without committing would ship an archive whose
+#    build number exists nowhere in git.
+#
+# 3. The content pipeline is the gate, not a formality. build-release.sh runs
+#    verify-bundle, which refuses to proceed if the bundled crisis pages don't
+#    byte-match the current build — the stale-hotline P0 this all started with.
+
+require "fileutils"
+require "shellwords"
+require "json"
+
+# No analytics. This project ships an app that collects nothing about its users;
+# its release tooling shouldn't phone home either.
+opt_out_usage
+
+# CocoaPods fails outright under a non-UTF-8 locale on this machine, so set it
+# for the child processes this lane spawns. (fastlane's own startup warning is
+# emitted before this file is read — to silence that one, export LANG in your
+# shell profile. It's cosmetic; the lanes work either way.)
+ENV["LANG"] ||= "en_US.UTF-8"
+ENV["LC_ALL"] ||= "en_US.UTF-8"
+
+default_platform(:ios)
+
+REPO    = File.expand_path("../..", __dir__)
+PROJ    = File.join(REPO, "app/ios/App/App.xcodeproj/project.pbxproj")
+WS      = File.join(REPO, "app/ios/App/App.xcworkspace")
+ARCHIVE = File.join(REPO, "app/ios/App/output/App.xcarchive")
+EXPORT  = File.join(REPO, "app/ExportOptions.plist")
+PIPELINE = File.join(REPO, "app/tools/build-release.sh")
+
+# xcode-select can point at the bare Command Line Tools, which cannot archive.
+# Prefer the full Xcode when it's installed.
+def developer_dir_prefix
+  xcode = "/Applications/Xcode.app/Contents/Developer"
+  File.directory?(xcode) ? "DEVELOPER_DIR=#{xcode.shellescape} " : ""
+end
+
+def current_build_number
+  File.read(PROJ)[/CURRENT_PROJECT_VERSION = (\d+)/, 1]&.to_i
+end
+
+def bump_build_number!
+  current = current_build_number
+  UI.user_error!("CURRENT_PROJECT_VERSION not found in project.pbxproj") if current.nil?
+  nextv = current + 1
+  contents = File.read(PROJ).gsub(/CURRENT_PROJECT_VERSION = \d+/, "CURRENT_PROJECT_VERSION = #{nextv}")
+  File.write(PROJ, contents)
+  nextv
+end
+
+def run_content_pipeline!
+  UI.message("Building site → syncing bundle → stamping → verify-bundle (hard gate)…")
+  sh(PIPELINE.shellescape)
+end
+
+def archive!
+  UI.message("Archiving (unsigned — distribution signing happens at export)…")
+  FileUtils.rm_rf(ARCHIVE)
+  sh("#{developer_dir_prefix}xcodebuild -workspace #{WS.shellescape} -scheme App " \
+     "-configuration Release -archivePath #{ARCHIVE.shellescape} " \
+     "-destination 'generic/platform=iOS' CODE_SIGNING_ALLOWED=NO archive")
+end
+
+def export_and_upload!
+  UI.message("Exporting with cloud-managed distribution signing and uploading…")
+  sh("#{developer_dir_prefix}xcodebuild -exportArchive -archivePath #{ARCHIVE.shellescape} " \
+     "-exportOptionsPlist #{EXPORT.shellescape} -allowProvisioningUpdates")
+end
+
+# Trust, then verify: xcodebuild can exit 0 having recorded a failed delivery.
+def confirm_upload!
+  out = `/usr/bin/plutil -p #{File.join(ARCHIVE, "Info.plist").shellescape}`
+  UI.user_error!("No upload record in the archive — the export did not upload.") unless out.include?("uploadedBuildNumber")
+  unless out =~ /"uploadEvent" =>.*?"state" => "success"/m
+    UI.user_error!("Upload did not report success — read the xcdistributionlogs bundle named in the xcodebuild output.")
+  end
+  UI.success("App Store Connect accepted build #{out[/"uploadedBuildNumber" => "(\d+)"/, 1]}.")
+end
+
+# Guard the thing that makes the bundle trustworthy.
+def confirm_archive_integrity!
+  stamp = File.join(ARCHIVE, "Products/Applications/App.app/public/app-build.json")
+  UI.user_error!("Archive has no build stamp — build-release.sh did not run.") unless File.exist?(stamp)
+  sha = JSON.parse(File.read(stamp))["gitSha"].to_s[0, 8]
+  head = `git -C #{REPO.shellescape} rev-parse --short=8 HEAD`.strip
+  UI.user_error!("Archive stamp #{sha} != HEAD #{head} — the bundle is not this commit.") unless sha == head
+  UI.success("Archive stamped #{sha} (== HEAD), crisis bundle verified.")
+end
+
+platform :ios do
+  desc "Bump build, verify content, archive, and upload to TestFlight"
+  lane :beta do
+    ensure_git_status_clean
+    ensure_git_branch(branch: "main")
+
+    build = bump_build_number!
+    UI.success("Build number → #{build}")
+    git_commit(path: [PROJ], message: "app: bump build number to #{build}")
+    push_to_git_remote
+
+    run_content_pipeline!
+    archive!
+    confirm_archive_integrity!
+    export_and_upload!
+    confirm_upload!
+
+    UI.success("Build #{build} is on its way to TestFlight.")
+  end
+
+  desc "Dry run: content pipeline + archive only (no bump, no upload)"
+  lane :verify do
+    run_content_pipeline!
+    archive!
+    confirm_archive_integrity!
+    UI.success("Archive ready at #{ARCHIVE} — not uploaded.")
+  end
+end

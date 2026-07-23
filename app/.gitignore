@@ -6,3 +6,11 @@
 
 # Capacitor copies site/dist here on `cap sync` — it's the build output, not source.
 /www/
+
+# fastlane (release automation). Gemfile + Gemfile.lock + fastlane/ ARE committed
+# so `bundle exec fastlane` is reproducible; these are per-machine or generated.
+/.bundle/
+/vendor/bundle/
+/fastlane/report.xml
+/fastlane/README.md
+/fastlane/test_output/

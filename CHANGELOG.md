@@ -24,6 +24,22 @@ All notable changes to the Disability Wiki project are documented in this file.
   the incident response doc.
 
 ### Added
+- **One-command TestFlight releases via fastlane** (2026-07-23,
+  [`app/fastlane/Fastfile`](app/fastlane/Fastfile), [`app/Gemfile`](app/Gemfile)):
+  `cd app && bundle exec fastlane beta` now does bump → build → verify → archive →
+  upload, replacing a manual `xcodebuild archive` / `-exportArchive` sequence that had
+  several non-obvious requirements. The lane encodes them so they can't be forgotten:
+  the archive must be built **unsigned** (this machine has only a Development
+  certificate; forcing `Apple Distribution` breaks every CocoaPods target, and
+  automatic signing dies on "your team has no devices") with distribution signing
+  happening cloud-managed at export; the build-number bump must be **committed** before
+  the content pipeline runs, since the bundle is stamped with git HEAD and
+  `verify-bundle` asserts stamp == HEAD; and `DEVELOPER_DIR` must point at full Xcode,
+  not the Command Line Tools. It also asserts the archive's stamp still matches HEAD,
+  and **re-reads the archive after upload to confirm App Store Connect accepted it** —
+  `xcodebuild` can exit 0 having recorded a failed delivery. A `verify` lane runs the
+  same pipeline and archive without bumping or uploading. Analytics opted out.
+  Bundler-managed so the fastlane version is pinned.
 - **Dynamic Type in the app — web text now follows the system text size** (2026-07-23,
   [`app/ios/App/App/WikiRouter.swift`](app/ios/App/App/WikiRouter.swift),
   [`app/ios/App/App/NativeAffordances.swift`](app/ios/App/App/NativeAffordances.swift)):
