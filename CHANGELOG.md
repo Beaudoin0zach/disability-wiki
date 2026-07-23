@@ -24,6 +24,24 @@ All notable changes to the Disability Wiki project are documented in this file.
   the incident response doc.
 
 ### Added
+- **Medication-and-swallowing note on the cooking page** (2026-07-23,
+  [`daily-living/cooking-and-nutrition.md`](daily-living/cooking-and-nutrition.md),
+  [`es/daily-living/cooking-and-nutrition.md`](es/daily-living/cooking-and-nutrition.md)):
+  the accessibility audit flagged this page for giving medication-timing and dysphagia
+  guidance (safe textures, thickened liquids, choking risk, feeding tubes) with no
+  "conditions vary" note — the two places on the page where "what works for most
+  people" can be actively wrong for an individual. Adds a note in house voice that
+  respects the reader's expertise and names the *reachable* professionals: a pharmacist
+  answers medication-and-food questions without an appointment or referral, and a
+  speech-language pathologist is who assesses swallowing safety. EN + ES.
+  **Scoped deliberately to this one page.** A survey of the other 74 health pages found
+  the wiki already handles this better than a generic disclaimer would:
+  `conditions/chronic-illness.md` carries a specific PEM warning ("Exercise programs can
+  harm ME/CFS patients if they ignore PEM"), `daily-living/adhd-medication-access.md`
+  states that any medication switch "is entirely your prescriber's call", and the MCAS,
+  POTS, EDS, and rare-diseases pages all weave clinician-referral language in context.
+  Blanket boilerplate would have duplicated those, added noise readers scroll past, and
+  talked down to an audience that gets talked down to enough.
 - **Saved pages, system share, and Spotlight search in the app** (2026-07-23,
   [`app/ios/App/App/PageActions.swift`](app/ios/App/App/PageActions.swift),
   [`app/ios/App/App/SpotlightIndexer.swift`](app/ios/App/App/SpotlightIndexer.swift)):
